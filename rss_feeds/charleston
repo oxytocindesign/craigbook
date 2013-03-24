@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://charleston.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in charleston, SC</title>
+<link>http://charleston.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://charleston.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in charleston, SC</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3679941686.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3690985738.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3673654477.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3663160966.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3638420540.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3626677659.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3595195701.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3621071675.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3614687254.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/cpg/3604038188.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://charleston.craigslist.org/cpg/3679941686.html">
+<title><![CDATA[my sons toshiba laptop screen is cracked  (goose creek)]]></title>
+<link>http://charleston.craigslist.org/cpg/3679941686.html</link>
+<description><![CDATA[my sons toshiba laptop screen is cracked and isnt working i need someone to replace it im a single parent with tight funds so if you can help for a reasonable price please call me 843-303-8049 im donna must be able to pick up or do job onsite i pay c [...]]]></description>
+<dc:date>2013-03-23T13:24:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3679941686.html</dc:source>
+<dc:title><![CDATA[my sons toshiba laptop screen is cracked  (goose creek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:24:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3690985738.html">
+<title><![CDATA[Need Ecommerce Web Support (Charleston, SC)]]></title>
+<link>http://charleston.craigslist.org/cpg/3690985738.html</link>
+<description><![CDATA[I need someone with experience in the Bigcommerce ecom framework to do some customization etc. as a subcontractor 
+This is a job that would turn into other opportunities as a sub with a growing design business. 
+Please reply with credentials. Thanks]]></description>
+<dc:date>2013-03-19T12:30:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3690985738.html</dc:source>
+<dc:title><![CDATA[Need Ecommerce Web Support (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:30:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3673654477.html">
+<title><![CDATA[Microsoft Office/Puplisher (Johns Island)]]></title>
+<link>http://charleston.craigslist.org/cpg/3673654477.html</link>
+<description><![CDATA[I want to learn how to navigate and produce results on Publisher -- help please]]></description>
+<dc:date>2013-03-11T10:55:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3673654477.html</dc:source>
+<dc:title><![CDATA[Microsoft Office/Puplisher (Johns Island)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:55:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3663160966.html">
+<title><![CDATA[Man of WAR (freeville)]]></title>
+<link>http://charleston.craigslist.org/cpg/3663160966.html</link>
+<description><![CDATA[Get a budget! You sell tickets. you sell advertising. you make money. PAY for Professional SERVICES!!! nonprofit doesn't mean you don't make money. ]]></description>
+<dc:date>2013-03-06T13:59:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3663160966.html</dc:source>
+<dc:title><![CDATA[Man of WAR (freeville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T13:59:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3638420540.html">
+<title><![CDATA[Independent Sales Contractor (Charleston)]]></title>
+<link>http://charleston.craigslist.org/cpg/3638420540.html</link>
+<description><![CDATA[Looking for independent sales contractor to market a fully automated online backup solution to commercial and residential clients.]]></description>
+<dc:date>2013-03-03T00:04:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3638420540.html</dc:source>
+<dc:title><![CDATA[Independent Sales Contractor (Charleston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T00:04:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3626677659.html">
+<title><![CDATA[Ebay Top Rated Sellers (Anywhere)]]></title>
+<link>http://charleston.craigslist.org/cpg/3626677659.html</link>
+<description><![CDATA[If you have experince with selling on ebay send your feedback amount and contact number with the best time to reach you.Great opportunity to make $500 / week from home ,no investmet required 
+Thanks ]]></description>
+<dc:date>2013-02-18T16:19:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3626677659.html</dc:source>
+<dc:title><![CDATA[Ebay Top Rated Sellers (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T16:19:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3595195701.html">
+<title><![CDATA[Web Design Needed (Charleston)]]></title>
+<link>http://charleston.craigslist.org/cpg/3595195701.html</link>
+<description><![CDATA[I am needing a web designed for a new business. To start the site will be maybe 3-5 pages, and later will include the ability for online ordering of products. 
+For the business is simply service oriented. 
+Looking for someone new in the business, or  [...]]]></description>
+<dc:date>2013-02-18T10:11:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3595195701.html</dc:source>
+<dc:title><![CDATA[Web Design Needed (Charleston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T10:11:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3621071675.html">
+<title><![CDATA[Generalist for small business (Summerville)]]></title>
+<link>http://charleston.craigslist.org/cpg/3621071675.html</link>
+<description><![CDATA[Small business needs occasional assistance with computer problems, set up, data mining, web updates, social media, small network problems. Will pay cash at an agreed upon hourly rate.]]></description>
+<dc:date>2013-02-16T08:34:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3621071675.html</dc:source>
+<dc:title><![CDATA[Generalist for small business (Summerville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T08:34:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3614687254.html">
+<title><![CDATA[Small Business Hiring Computer Support (Summerville, SC)]]></title>
+<link>http://charleston.craigslist.org/cpg/3614687254.html</link>
+<description><![CDATA[Small in-home business hiring for computer support and general office help. Part-time/ 20 hrs per week. ]]></description>
+<dc:date>2013-02-13T12:28:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3614687254.html</dc:source>
+<dc:title><![CDATA[Small Business Hiring Computer Support (Summerville, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T12:28:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/cpg/3604038188.html">
+<title><![CDATA[Small Business w/ large potential in App industry (Anywhere)]]></title>
+<link>http://charleston.craigslist.org/cpg/3604038188.html</link>
+<description><![CDATA[Brand new opportunity to work with a new app on the market. Commissions paid for sharing the app with others. Email link above for app and commission details.]]></description>
+<dc:date>2013-02-08T19:39:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charleston.craigslist.org/cpg/3604038188.html</dc:source>
+<dc:title><![CDATA[Small Business w/ large potential in App industry (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T19:39:00-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

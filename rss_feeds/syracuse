@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://syracuse.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in syracuse</title>
+<link>http://syracuse.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://syracuse.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in syracuse</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:01-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3694104832.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3678179699.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3678160576.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3629721761.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3609324244.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3577687541.html" />
+  <rdf:li rdf:resource="http://syracuse.craigslist.org/cpg/3605580004.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3694104832.html">
+<title><![CDATA[Designer needed to set up Word Press site (Syracuse)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3694104832.html</link>
+<description><![CDATA[I am looking for a designer to setup a WordPress site for a client. The client will update/maintain the website once established. 
+The client teaches adults about GLBTQ topics, human sexuality, BDSM, and sexual health. 
+The designer should be open mi [...]]]></description>
+<dc:date>2013-03-20T20:18:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3694104832.html</dc:source>
+<dc:title><![CDATA[Designer needed to set up Word Press site (Syracuse)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:18:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3678179699.html">
+<title><![CDATA[Telemarketer (Syracuse)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3678179699.html</link>
+<description><![CDATA[Would like experienced telemarketer to make calls. Pay for the day plus rewards. Flexible dates and times. ]]></description>
+<dc:date>2013-03-13T09:02:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3678179699.html</dc:source>
+<dc:title><![CDATA[Telemarketer (Syracuse)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:02:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3678160576.html">
+<title><![CDATA[Web Designer (Syracuse)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3678160576.html</link>
+<description><![CDATA[I'm looking for someone who knows how to make a web page. Could have other design projects for brochure, post card, and social media marketing. Send quotes and previous designs. ]]></description>
+<dc:date>2013-03-13T08:49:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3678160576.html</dc:source>
+<dc:title><![CDATA[Web Designer (Syracuse)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T08:49:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3629721761.html">
+<title><![CDATA[Web designer  (Syracuse )]]></title>
+<link>http://syracuse.craigslist.org/cpg/3629721761.html</link>
+<description><![CDATA[I am looking for someone to create 2 websites ... One is a Store and One is a Business entity but does not sell anything on it .. 
+I am looking for someone who can work with " go daddy "... both websites are hosted there and they have a lot of help b [...]]]></description>
+<dc:date>2013-02-19T19:49:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3629721761.html</dc:source>
+<dc:title><![CDATA[Web designer  (Syracuse )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T19:49:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3609324244.html">
+<title><![CDATA[in need of software install set up (cny)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3609324244.html</link>
+<description><![CDATA[I need to get a tracing /tracking program for my computer and have installed / also phone tracking installed as im desperate i think my daughter is involved with bad people who may be bad for her would like to see whats going on and don't want to do  [...]]]></description>
+<dc:date>2013-02-11T10:03:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3609324244.html</dc:source>
+<dc:title><![CDATA[in need of software install set up (cny)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T10:03:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3577687541.html">
+<title><![CDATA[Microsoft Dynamics CRM Set up & Training (Port Byron)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3577687541.html</link>
+<description><![CDATA[We have chosen Microsoft Dynamics CRM as our software provider for our business & we are looking for someone to help us do the set-up, training & best practices during our implementation. 
+This can be done during normal business hours or on nights &  [...]]]></description>
+<dc:date>2013-02-10T12:07:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3577687541.html</dc:source>
+<dc:title><![CDATA[Microsoft Dynamics CRM Set up & Training (Port Byron)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T12:07:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://syracuse.craigslist.org/cpg/3605580004.html">
+<title><![CDATA[Looking for CreativeWeb Designers (Syracuse,NY)]]></title>
+<link>http://syracuse.craigslist.org/cpg/3605580004.html</link>
+<description><![CDATA[Honor Society is a growing online clothing boutique selling young urban and vintage clothing. I am currently looking for a professional creative web designer to create roughly about 15-20 page website. 
+the website has already been published www.hono [...]]]></description>
+<dc:date>2013-02-09T14:22:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://syracuse.craigslist.org/cpg/3605580004.html</dc:source>
+<dc:title><![CDATA[Looking for CreativeWeb Designers (Syracuse,NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T14:22:10-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

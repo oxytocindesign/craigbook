@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://louisville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in louisville</title>
+<link>http://louisville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://louisville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in louisville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:32:48-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3692418997.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3699113541.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3693474101.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3692596079.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3683479486.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3681970305.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3678969130.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3676630958.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3676378350.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3665584669.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3651493036.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3645757159.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3645438864.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3628882712.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3621517796.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3619530821.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3616998102.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3609847491.html" />
+  <rdf:li rdf:resource="http://louisville.craigslist.org/cpg/3607232403.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://louisville.craigslist.org/cpg/3692418997.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://louisville.craigslist.org/cpg/3692418997.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:58:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3692418997.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:58:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3699113541.html">
+<title><![CDATA[Let's Raise $200-$300K! (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3699113541.html</link>
+<description><![CDATA[Hi. 
+We have a project that has promise. As part of the moving forward process, funding has to occur. To seek out the funding, the project needs to have some mockups created. The mockups aren't intended to be feature complet, but the prototype/mockup [...]]]></description>
+<dc:date>2013-03-23T12:45:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3699113541.html</dc:source>
+<dc:title><![CDATA[Let's Raise $200-$300K! (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:45:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3693474101.html">
+<title><![CDATA[Earn Money Using Your Computer Skills (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3693474101.html</link>
+<description><![CDATA[Do you hate your job or your boss? Are you in a career transition? Our company is looking for professionals or recent college graduates with an entrepreneur mindset to work in a comfortable, relaxed environment. Complete training provided and no sell [...]]]></description>
+<dc:date>2013-03-20T15:04:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3693474101.html</dc:source>
+<dc:title><![CDATA[Earn Money Using Your Computer Skills (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:04:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3692596079.html">
+<title><![CDATA[Restore Retired PC's (New Albany)]]></title>
+<link>http://louisville.craigslist.org/cpg/3692596079.html</link>
+<description><![CDATA[Location is in New Albany, IN must have own transportation. Truck, work vans, or SUV's would have extra opportunities. Basic position requires ability to refurbish PC's througha production process. Pay is $20 per refurbished PC. Also looking for driv [...]]]></description>
+<dc:date>2013-03-20T07:22:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3692596079.html</dc:source>
+<dc:title><![CDATA[Restore Retired PC's (New Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T07:22:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3683479486.html">
+<title><![CDATA[Web Design Internship (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3683479486.html</link>
+<description><![CDATA[UNPAID INTERNSHIP OFFERED: 
+Looking for a self-motivated creative person to intern of a religious oriented design department. Will be working in Wordpress, photoshop, illustrator, indesign, dreamweaver (Adobe software). 
+No experience necessary, woul [...]]]></description>
+<dc:date>2013-03-15T16:45:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3683479486.html</dc:source>
+<dc:title><![CDATA[Web Design Internship (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T16:45:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3681970305.html">
+<title><![CDATA[Password help]]></title>
+<link>http://louisville.craigslist.org/cpg/3681970305.html</link>
+<description><![CDATA[I'm looking for someone who can help access a Facebook/and or gmail account. ]]></description>
+<dc:date>2013-03-14T22:17:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3681970305.html</dc:source>
+<dc:title><![CDATA[Password help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T22:17:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3678969130.html">
+<title><![CDATA[Software Engineer  (Louisville, KY)]]></title>
+<link>http://louisville.craigslist.org/cpg/3678969130.html</link>
+<description><![CDATA[Looking for Jr level developper or recent college grad for contract on-site position. 
+Project Description: Code and test features and functions 
+Necessary Skills: 
+Experience with multi-comms frameworks. 
+C#/WPF experience. 
+C/C++ experience. 
+Under [...]]]></description>
+<dc:date>2013-03-13T14:51:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3678969130.html</dc:source>
+<dc:title><![CDATA[Software Engineer  (Louisville, KY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T14:51:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3676630958.html">
+<title><![CDATA[Quick - Html/Css Mods (Louisville/Anywhere)]]></title>
+<link>http://louisville.craigslist.org/cpg/3676630958.html</link>
+<description><![CDATA[Hi. 
+Got an HTML page that I want to modify. Basically, I want to add a couple of banner ads along the top, and the right side/col. I have the associated html/css files. I'm looking to be able to insert a couple of different images for the row/col ba [...]]]></description>
+<dc:date>2013-03-12T14:35:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3676630958.html</dc:source>
+<dc:title><![CDATA[Quick - Html/Css Mods (Louisville/Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T14:35:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3676378350.html">
+<title><![CDATA[need drupal contractor (anywhere)]]></title>
+<link>http://louisville.craigslist.org/cpg/3676378350.html</link>
+<description><![CDATA[I am a software contractor doing mostly php/mysql work, and I need help with a drupal site I inherited. It's really messed up, and I just don't know enough about drupal to fix it quickly. 
+If there is anyone out there who could help, please message m [...]]]></description>
+<dc:date>2013-03-12T13:00:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3676378350.html</dc:source>
+<dc:title><![CDATA[need drupal contractor (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T13:00:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3665584669.html">
+<title><![CDATA[Instant Returns on Your Marketing Investment (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3665584669.html</link>
+<description><![CDATA[Text Engagement is Your Best Loyalty Marketing Choice 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-09T18:42:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3665584669.html</dc:source>
+<dc:title><![CDATA[Instant Returns on Your Marketing Investment (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T18:42:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3651493036.html">
+<title><![CDATA[desktop technician (Louisville, KY)]]></title>
+<link>http://louisville.craigslist.org/cpg/3651493036.html</link>
+<description><![CDATA[Our client has requested we source technicians for ongoing projects in the Louisville area. 
+Job Description: WinXP OS upgrade to Win7 
+Monday 3/4/13 at 1-m 
+When replying to this ad please include your latest resume]]></description>
+<dc:date>2013-03-01T10:25:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3651493036.html</dc:source>
+<dc:title><![CDATA[desktop technician (Louisville, KY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T10:25:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3645757159.html">
+<title><![CDATA[I need someone to organize and file (Indiana)]]></title>
+<link>http://louisville.craigslist.org/cpg/3645757159.html</link>
+<description><![CDATA[I'm looking for someone that has computer experience and can help me with my new business. I need someone organized that can file too. Part time job.]]></description>
+<dc:date>2013-02-26T18:14:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3645757159.html</dc:source>
+<dc:title><![CDATA[I need someone to organize and file (Indiana)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T18:14:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3645438864.html">
+<title><![CDATA[Need Freelancer that can do Flash (UofL Area)]]></title>
+<link>http://louisville.craigslist.org/cpg/3645438864.html</link>
+<description><![CDATA[My compnay has a need to build a high impact presentation that is set to music in flash. One time gig will probably lead to other assignments.]]></description>
+<dc:date>2013-02-26T16:03:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3645438864.html</dc:source>
+<dc:title><![CDATA[Need Freelancer that can do Flash (UofL Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T16:03:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3628882712.html">
+<title><![CDATA[Data Entry & Clerical (louisville, KY)]]></title>
+<link>http://louisville.craigslist.org/cpg/3628882712.html</link>
+<description><![CDATA[Data Entry And Clerical Personnel Needed (Louisville) 
+Seasonal Part- Time Openings 
+AEROTEK 
+5101 Interchange Way 
+Louisville, Ky 40229 
+Positions Availability 
+-Currently Seeking Qualified Candidates For Seasonal Part-Time Positions With Aerotek. 
+ [...]]]></description>
+<dc:date>2013-02-19T14:17:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3628882712.html</dc:source>
+<dc:title><![CDATA[Data Entry & Clerical (louisville, KY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T14:17:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3621517796.html">
+<title><![CDATA[Help wanted- sign shop (Shepherdsville ky)]]></title>
+<link>http://louisville.craigslist.org/cpg/3621517796.html</link>
+<description><![CDATA[Looking for part time helper, experienced only, person working in sign shop with large Roland vp540i versa camm print and cut machine. 
+E-mail if interested. ]]></description>
+<dc:date>2013-02-16T12:06:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3621517796.html</dc:source>
+<dc:title><![CDATA[Help wanted- sign shop (Shepherdsville ky)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T12:06:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3619530821.html">
+<title><![CDATA[I need an Objective-C tutor]]></title>
+<link>http://louisville.craigslist.org/cpg/3619530821.html</link>
+<description><![CDATA[I'm looking for someone to help my sons (13 & 15 years old) and I get started with the basics of Objective-C. We want to learn how to write our own apps for Apple (iphone, tablet, etc). it's sort of a "father/son project". We live in the louisville a [...]]]></description>
+<dc:date>2013-02-15T14:18:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3619530821.html</dc:source>
+<dc:title><![CDATA[I need an Objective-C tutor]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T14:18:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3616998102.html">
+<title><![CDATA[Contract computer tech (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3616998102.html</link>
+<description><![CDATA[Contract work available for a computer tech. Current work is for weekdays during the day. There may be other work on nights or weekends. 
+Work will include computer installations, data transfers, troubleshooting. Must be able to pass a criminal backg [...]]]></description>
+<dc:date>2013-02-14T12:17:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3616998102.html</dc:source>
+<dc:title><![CDATA[Contract computer tech (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T12:17:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3609847491.html">
+<title><![CDATA[Sales Reps (Louisville)]]></title>
+<link>http://louisville.craigslist.org/cpg/3609847491.html</link>
+<description><![CDATA[I am looking for people that can work from home posting ads, responding to emails, and able to navigate the internet. If this sounds like something you can do, join my awesome team! You have to be at least 18 years old, and live in the U.S. or Canada [...]]]></description>
+<dc:date>2013-02-11T13:16:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3609847491.html</dc:source>
+<dc:title><![CDATA[Sales Reps (Louisville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:16:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://louisville.craigslist.org/cpg/3607232403.html">
+<title><![CDATA[Develop singles website]]></title>
+<link>http://louisville.craigslist.org/cpg/3607232403.html</link>
+<description><![CDATA[I have the domain Singlemomlove.com. I need someone in the Louisville area who is an experienced website designer to help me develop and monetize the site. I will split all profits evenly. Email me back if you know how to do this, you are in Louisvil [...]]]></description>
+<dc:date>2013-02-10T11:02:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://louisville.craigslist.org/cpg/3607232403.html</dc:source>
+<dc:title><![CDATA[Develop singles website]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T11:02:36-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

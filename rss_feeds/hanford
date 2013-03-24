@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://hanford.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in hanford-corcoran</title>
+<link>http://hanford.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://hanford.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in hanford-corcoran</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://hanford.craigslist.org/cpg/3681057764.html" />
+  <rdf:li rdf:resource="http://hanford.craigslist.org/cpg/3694544198.html" />
+  <rdf:li rdf:resource="http://hanford.craigslist.org/cpg/3616307912.html" />
+  <rdf:li rdf:resource="http://hanford.craigslist.org/cpg/3599584525.html" />
+  <rdf:li rdf:resource="http://hanford.craigslist.org/cpg/3615684715.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://hanford.craigslist.org/cpg/3681057764.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://hanford.craigslist.org/cpg/3681057764.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:58:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hanford.craigslist.org/cpg/3681057764.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:58:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://hanford.craigslist.org/cpg/3694544198.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://hanford.craigslist.org/cpg/3694544198.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:56:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hanford.craigslist.org/cpg/3694544198.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:56:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://hanford.craigslist.org/cpg/3616307912.html">
+<title><![CDATA[Side income /$20 Starting]]></title>
+<link>http://hanford.craigslist.org/cpg/3616307912.html</link>
+<description><![CDATA[Side income 
+/$20 Starting 
+We are looking for someone who is creative and can complete 
+simple computer tasks. 
+No computer experience required. 
+1-4hours a day 
+$20/hour starting 
+Email when you can start along with your name 
+for more information ]]></description>
+<dc:date>2013-03-12T21:39:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hanford.craigslist.org/cpg/3616307912.html</dc:source>
+<dc:title><![CDATA[Side income /$20 Starting]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:39:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://hanford.craigslist.org/cpg/3599584525.html">
+<title><![CDATA[Looking for people to Test FREE Site (California)]]></title>
+<link>http://hanford.craigslist.org/cpg/3599584525.html</link>
+<description><![CDATA[We are a web startup focused on helping people Search, Manage, and Share trusted service providers. If you are interested in helping us test our product by signing up for a private group please visit us at http://www.frendorsed.com . Thanks ]]></description>
+<dc:date>2013-02-26T09:36:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hanford.craigslist.org/cpg/3599584525.html</dc:source>
+<dc:title><![CDATA[Looking for people to Test FREE Site (California)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:36:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://hanford.craigslist.org/cpg/3615684715.html">
+<title><![CDATA[PC TECHNICIAN (HANFORD)]]></title>
+<link>http://hanford.craigslist.org/cpg/3615684715.html</link>
+<description><![CDATA[We're looking for a computer/laptop technician for our small team . Our company sells refurbished computers and laptops online. The job will include receiving orders daily and getting them out in time to a strict deadline. The work place requires som [...]]]></description>
+<dc:date>2013-02-13T16:08:57-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hanford.craigslist.org/cpg/3615684715.html</dc:source>
+<dc:title><![CDATA[PC TECHNICIAN (HANFORD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T16:08:57-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

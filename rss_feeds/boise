@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://boise.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in boise</title>
+<link>http://boise.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://boise.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in boise</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:33:45-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3696341785.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3698139242.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3694348386.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3694294614.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3677577857.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3675994133.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3678162791.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3677705818.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3666531334.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3661934533.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3661227276.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3661154749.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3650951889.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3649774973.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3641391727.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3634948927.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3617812208.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3605193870.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3604766179.html" />
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3582286526.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://boise.craigslist.org/cpg/3696341785.html">
+<title><![CDATA[Work From Home Selling on eBay (Boise/Nampa/Caldwell)]]></title>
+<link>http://boise.craigslist.org/cpg/3696341785.html</link>
+<description><![CDATA[Hi, 
+Ever wanted to do some part time work without having to leave your house? I have the perfect job for you, do you have; 
+*A computer with internet access 
+*Digital camera 
+*Quality writing skills 
+*Space to store items (must be clean and odor fre [...]]]></description>
+<dc:date>2013-03-24T22:22:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3696341785.html</dc:source>
+<dc:title><![CDATA[Work From Home Selling on eBay (Boise/Nampa/Caldwell)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:22:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3698139242.html">
+<title><![CDATA[Ongoing freelance developement help needed - some Drupal skills (Remote)]]></title>
+<link>http://boise.craigslist.org/cpg/3698139242.html</link>
+<description><![CDATA[You: 
+US based 
+Can offer a dependable 10 hours per week 
+Must offer competitive hourly rate 
+Reliable 
+Have quality work to show 
+General XHTML/CSS skills 
+Some PHP 
+Some Drupal Skills 
+jQuery very helpful 
+Me: 
+Legitimate and reliable 
+Real, regula [...]]]></description>
+<dc:date>2013-03-22T18:39:57-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3698139242.html</dc:source>
+<dc:title><![CDATA[Ongoing freelance developement help needed - some Drupal skills (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T18:39:57-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3694348386.html">
+<title><![CDATA[WANTED: Someone that can recover data off of an old hard drive (Vista and Overland)]]></title>
+<link>http://boise.craigslist.org/cpg/3694348386.html</link>
+<description><![CDATA[I have an old hard drive that stopped working for whatever reason. 
+I had a ton of pictures and other files I would like to recover. 
+If you can recover these files from this old hard drive, please email me. Give some info about yourself, your backgr [...]]]></description>
+<dc:date>2013-03-20T20:56:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3694348386.html</dc:source>
+<dc:title><![CDATA[WANTED: Someone that can recover data off of an old hard drive (Vista and Overland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:56:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3694294614.html">
+<title><![CDATA[Need somebody to downgrade PS3 (Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3694294614.html</link>
+<description><![CDATA[I'm looking for some person to downgrade my PS3 to OFW 3.55 or lower. The model number for my version is a fat CECHL01, with probably OFW 4.11 or 4.20. Shoot me an email and I'll talk about prices with you.]]></description>
+<dc:date>2013-03-20T20:18:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3694294614.html</dc:source>
+<dc:title><![CDATA[Need somebody to downgrade PS3 (Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:18:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3677577857.html">
+<title><![CDATA[SharePoint - Infopath 100+ hours consulting (Boise, Idaho)]]></title>
+<link>http://boise.craigslist.org/cpg/3677577857.html</link>
+<description><![CDATA[Idaho Government Agency needs consulting assistance with SharePoint and Infopath configuration. 
+Could turn in to long-term support project. 
+$80/hr. c2c 
+CLOSES FRIDAY 
+Idaho Agency implemented SharePoint 2010, and part of the implementation include [...]]]></description>
+<dc:date>2013-03-18T12:21:45-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3677577857.html</dc:source>
+<dc:title><![CDATA[SharePoint - Infopath 100+ hours consulting (Boise, Idaho)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:21:45-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3675994133.html">
+<title><![CDATA[Access Database Work - Senior Level (Boise, ID)]]></title>
+<link>http://boise.craigslist.org/cpg/3675994133.html</link>
+<description><![CDATA[125 hour project for the Idaho Department of Corrections 
+$70/hr corp to corp $55/hr W-2 
+Must know Access Databases Inside and Out and have a very solid understanding of Access Queries. 
+Send Resume and Availability! They want someone Now!]]></description>
+<dc:date>2013-03-18T12:21:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3675994133.html</dc:source>
+<dc:title><![CDATA[Access Database Work - Senior Level (Boise, ID)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:21:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3678162791.html">
+<title><![CDATA[Someone with older Windows OS to sync files to mp3 player (Eagle/Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3678162791.html</link>
+<description><![CDATA[I have a panasonic mp3 player(sv-mp020), 2gb, that I can only get to sync 185 songs. And yes I convert at 128 kbps. I have 280 songs on a flash drive and my laptops, which has w.m.p. version 12 and 11(windows 7 and xp respectively). 
+The problem is,  [...]]]></description>
+<dc:date>2013-03-13T06:50:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3678162791.html</dc:source>
+<dc:title><![CDATA[Someone with older Windows OS to sync files to mp3 player (Eagle/Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T06:50:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3677705818.html">
+<title><![CDATA[Looking for computer guru  (Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3677705818.html</link>
+<description><![CDATA[Looking for someone to help me transfer data from one computer to new computer and a little lesson on windows 8 Need some body that is very good don't waste my time . Email if you are a computer geek haha ]]></description>
+<dc:date>2013-03-12T21:01:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3677705818.html</dc:source>
+<dc:title><![CDATA[Looking for computer guru  (Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:01:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3666531334.html">
+<title><![CDATA[**Someone needed to type Pages associated with web site** (Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3666531334.html</link>
+<description><![CDATA[Need someone to type some pages that go along with a web site that I am setting up. 
+If interested call 323-1445.]]></description>
+<dc:date>2013-03-07T20:31:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3666531334.html</dc:source>
+<dc:title><![CDATA[**Someone needed to type Pages associated with web site** (Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T20:31:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3661934533.html">
+<title><![CDATA[Wordpress design help/Partner? (Meridian)]]></title>
+<link>http://boise.craigslist.org/cpg/3661934533.html</link>
+<description><![CDATA[Local Meridian guy with an Idea, and 32.com domain names. I see an opportunity and need someone to show me how to create and maintain a Wordpress site, train me, and or become a partner in this endeavor. 
+I thought of something before others had a ch [...]]]></description>
+<dc:date>2013-03-05T20:30:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3661934533.html</dc:source>
+<dc:title><![CDATA[Wordpress design help/Partner? (Meridian)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T20:30:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3661227276.html">
+<title><![CDATA[Clerical/Administrative Position (boise )]]></title>
+<link>http://boise.craigslist.org/cpg/3661227276.html</link>
+<description><![CDATA[Summary of Position -- Performs varied clerical and related data entry tasks (but not restricted to): 
+1) Data entry 
+a. Creating and/or updating through keyboard entry existing records in the 
+database 
+2) Word processing and/or data entry into spre [...]]]></description>
+<dc:date>2013-03-05T14:37:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3661227276.html</dc:source>
+<dc:title><![CDATA[Clerical/Administrative Position (boise )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:37:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3661154749.html">
+<title><![CDATA[Clerical/Administrative Position (boise )]]></title>
+<link>http://boise.craigslist.org/cpg/3661154749.html</link>
+<description><![CDATA[Summary of Position -- Performs varied clerical and related data entry tasks (but not restricted to): 
+1) Data entry 
+a. Creating and/or updating through keyboard entry existing records in the 
+database 
+2) Word processing and/or data entry into spre [...]]]></description>
+<dc:date>2013-03-05T14:08:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3661154749.html</dc:source>
+<dc:title><![CDATA[Clerical/Administrative Position (boise )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:08:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3650951889.html">
+<title><![CDATA[Need help w/ cell phone]]></title>
+<link>http://boise.craigslist.org/cpg/3650951889.html</link>
+<description><![CDATA[I am in need of an individual to help me root an android phone. May only need a quick lesson but am having trouble getting it to work. If any of you exist please contact me at aplayersson@gmail.com. Thank you ]]></description>
+<dc:date>2013-02-28T22:20:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3650951889.html</dc:source>
+<dc:title><![CDATA[Need help w/ cell phone]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T22:20:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3649774973.html">
+<title><![CDATA[Recent Grad seeking Information Interviews. (North End)]]></title>
+<link>http://boise.craigslist.org/cpg/3649774973.html</link>
+<description><![CDATA[I am a recent graduate with an AS in Information Technology, and I would like fifteen minutes of your time just to learn more about your job and the IT industry. If you are an IT professional and would like to talk to me, please contact me. 
+Thank yo [...]]]></description>
+<dc:date>2013-02-28T12:05:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3649774973.html</dc:source>
+<dc:title><![CDATA[Recent Grad seeking Information Interviews. (North End)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:05:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3641391727.html">
+<title><![CDATA[Killer Web Project - organic long tail value (Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3641391727.html</link>
+<description><![CDATA[I own two suites of strong organic long tail search domains in a proven industry category. You have the technical chops to turn it into a traffic juggernaut. Profit sharing aggreement will be arranged through attorney. If you are interested, have the [...]]]></description>
+<dc:date>2013-02-24T19:47:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3641391727.html</dc:source>
+<dc:title><![CDATA[Killer Web Project - organic long tail value (Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T19:47:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3634948927.html">
+<title><![CDATA[Printing equipment help!]]></title>
+<link>http://boise.craigslist.org/cpg/3634948927.html</link>
+<description><![CDATA[Looking for someone with knowledge in design software, HP 5500 design jet printer. Basically to give us direction in printing vinyl to apply to company vehicles. We have all the equipment and now just need the right person to train us! Email if inter [...]]]></description>
+<dc:date>2013-02-21T21:22:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3634948927.html</dc:source>
+<dc:title><![CDATA[Printing equipment help!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T21:22:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3617812208.html">
+<title><![CDATA[Barcode/Inventory Control (Boise)]]></title>
+<link>http://boise.craigslist.org/cpg/3617812208.html</link>
+<description><![CDATA[Looking for someone to help us set a barcode system. We are a large electrical contractor and want to have all of our parts inventory controlled by a barcode system. Please respond with a detailed description of experience on similar projects.]]></description>
+<dc:date>2013-02-14T15:52:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3617812208.html</dc:source>
+<dc:title><![CDATA[Barcode/Inventory Control (Boise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T15:52:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3605193870.html">
+<title><![CDATA[Data Entry and Scanning Documents to PDF (Kuna)]]></title>
+<link>http://boise.craigslist.org/cpg/3605193870.html</link>
+<description><![CDATA[This is an evenings and weekends job. I need someone who knows their way around computers and Adobe Acrobat to do data entry and scan documents to PDF files at my house using my computer and scanner equipment. Easy work, but I need it done a particul [...]]]></description>
+<dc:date>2013-02-09T09:51:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3605193870.html</dc:source>
+<dc:title><![CDATA[Data Entry and Scanning Documents to PDF (Kuna)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T09:51:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3604766179.html">
+<title><![CDATA[Dating Online Chatters Needed]]></title>
+<link>http://boise.craigslist.org/cpg/3604766179.html</link>
+<description><![CDATA[We are looking for people between the ages of 18 and 45 both male and female to promote our brand new dating website. We have launched our new dating web-site a couple months ago and are currently running a promotion paying $100 for 15 hours of onlin [...]]]></description>
+<dc:date>2013-02-09T05:49:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3604766179.html</dc:source>
+<dc:title><![CDATA[Dating Online Chatters Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T05:49:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boise.craigslist.org/cpg/3582286526.html">
+<title><![CDATA[YouTube expert (Garden City)]]></title>
+<link>http://boise.craigslist.org/cpg/3582286526.html</link>
+<description><![CDATA[You Tube expert to guide me thru launch of new video project. Must know what makes things viral, key words that work, make me 
+knowledgable so I can post on YouTube, Facebook, and distribute to several other outlets.]]></description>
+<dc:date>2013-02-08T14:55:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3582286526.html</dc:source>
+<dc:title><![CDATA[YouTube expert (Garden City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T14:55:47-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

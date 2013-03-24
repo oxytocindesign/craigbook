@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://salem.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in salem, OR</title>
+<link>http://salem.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://salem.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in salem, OR</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:35:08-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3691558629.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3698996847.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3697097139.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3674893949.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3605969337.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3643181443.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3639046430.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://salem.craigslist.org/cpg/3691558629.html">
+<title><![CDATA[Looking for Local Entrepreneur to run Salem Business Directory (Salem)]]></title>
+<link>http://salem.craigslist.org/cpg/3691558629.html</link>
+<description><![CDATA[Looking for someone to run local online Business Directory in Salem. 
+You will be selling local advertising on a city directory that lists many categories... 
+Plumbers, Electricians, Dentists, Attorneys, Contractors, etc. 
+NO computer experience nece [...]]]></description>
+<dc:date>2013-03-23T15:12:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3691558629.html</dc:source>
+<dc:title><![CDATA[Looking for Local Entrepreneur to run Salem Business Directory (Salem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:12:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3698996847.html">
+<title><![CDATA[Want To Be Making $50-300/Day? ( salem )]]></title>
+<link>http://salem.craigslist.org/cpg/3698996847.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-23T08:50:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3698996847.html</dc:source>
+<dc:title><![CDATA[Want To Be Making $50-300/Day? ( salem )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:50:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3697097139.html">
+<title><![CDATA[Make $200 TODAY! ( salem )]]></title>
+<link>http://salem.craigslist.org/cpg/3697097139.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-22T09:03:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3697097139.html</dc:source>
+<dc:title><![CDATA[Make $200 TODAY! ( salem )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:03:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3674893949.html">
+<title><![CDATA[P.C. Tech Needed ASAP (Salem, OR)]]></title>
+<link>http://salem.craigslist.org/cpg/3674893949.html</link>
+<description><![CDATA[The duties of this position are as follows: 
+-disassemble hardware/unplug the machines and take them to the home facility 
+-sort hardware, cables, etc and label them 
+-deploy new machines/ plug in the new systems and make sure they are in good workin [...]]]></description>
+<dc:date>2013-03-11T15:53:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3674893949.html</dc:source>
+<dc:title><![CDATA[P.C. Tech Needed ASAP (Salem, OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T15:53:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3605969337.html">
+<title><![CDATA[Linux expert (South Salem)]]></title>
+<link>http://salem.craigslist.org/cpg/3605969337.html</link>
+<description><![CDATA[I am looking for someone who know how Linux PC's files to videophone device, FTP, backup, restore, etc. 
+Call at 971-239-5713 ask for Daniel]]></description>
+<dc:date>2013-03-07T18:43:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3605969337.html</dc:source>
+<dc:title><![CDATA[Linux expert (South Salem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T18:43:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3643181443.html">
+<title><![CDATA[VM Ware/Network Expert Needed (Salem Oregon)]]></title>
+<link>http://salem.craigslist.org/cpg/3643181443.html</link>
+<description><![CDATA[I need someone who is familiar with VM Ware, Remote Desktop Client, and the ability to network systems in a WAN. If you know how to trace remote connections is a definite plus. 
+As this job would be a short-term job, payment would be provided based o [...]]]></description>
+<dc:date>2013-02-25T14:01:33-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3643181443.html</dc:source>
+<dc:title><![CDATA[VM Ware/Network Expert Needed (Salem Oregon)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T14:01:33-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3639046430.html">
+<title><![CDATA[Mobile App Sales (Anywhere)]]></title>
+<link>http://salem.craigslist.org/cpg/3639046430.html</link>
+<description><![CDATA[I am looking for motivated people to join me in a quest to build wealth through mobile application sales. There is no ceiling on your profits and there is virtually no investment. The product itself is legit and I cant wait to see the potential of th [...]]]></description>
+<dc:date>2013-02-23T15:23:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3639046430.html</dc:source>
+<dc:title><![CDATA[Mobile App Sales (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T15:23:51-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://peoria.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in peoria</title>
+<link>http://peoria.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://peoria.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in peoria</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:57-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3694957855.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3694902178.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3693526448.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3684335103.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3680468241.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3675230446.html" />
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3616010606.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://peoria.craigslist.org/cpg/3694957855.html">
+<title><![CDATA[Setup Surveillance Camera. (Peoria)]]></title>
+<link>http://peoria.craigslist.org/cpg/3694957855.html</link>
+<description><![CDATA[Need someone to program my security camera. Call 309-682-0423.]]></description>
+<dc:date>2013-03-21T09:42:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3694957855.html</dc:source>
+<dc:title><![CDATA[Setup Surveillance Camera. (Peoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:42:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3694902178.html">
+<title><![CDATA[Need A Job? ]]></title>
+<link>http://peoria.craigslist.org/cpg/3694902178.html</link>
+<description><![CDATA[This job is very simple I do and get paid great to do so if you're the skeptical type don't bother stay broke and unemployed but if you would like to get paid daily text me 347-975-2185 
+Bridget]]></description>
+<dc:date>2013-03-21T09:13:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3694902178.html</dc:source>
+<dc:title><![CDATA[Need A Job? ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:13:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3693526448.html">
+<title><![CDATA[Script formatting (Peoria)]]></title>
+<link>http://peoria.craigslist.org/cpg/3693526448.html</link>
+<description><![CDATA[Hi, I have an 86page feature film script that I need copied and formatted to industry standards. 
+I do not have time to do this myself - or the software. 
+It's already in script form but not to exact specifics. 
+If you've never done this type of work [...]]]></description>
+<dc:date>2013-03-20T14:28:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3693526448.html</dc:source>
+<dc:title><![CDATA[Script formatting (Peoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:28:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3684335103.html">
+<title><![CDATA[Online Reviews Wanted - Easy Cash  (All Over)]]></title>
+<link>http://peoria.craigslist.org/cpg/3684335103.html</link>
+<description><![CDATA[We are looking for a few online posters. Our requirements are as follows: 
+1.) Must have online access from a home computer 
+2.) Must have a valid credit card in your own name. (If needed it will not be more that $5 and you will be reumbursed prior t [...]]]></description>
+<dc:date>2013-03-16T01:46:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3684335103.html</dc:source>
+<dc:title><![CDATA[Online Reviews Wanted - Easy Cash  (All Over)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T01:46:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3680468241.html">
+<title><![CDATA[Computer Software Proven to Work-Super Easy (Peoria)]]></title>
+<link>http://peoria.craigslist.org/cpg/3680468241.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-14T09:12:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3680468241.html</dc:source>
+<dc:title><![CDATA[Computer Software Proven to Work-Super Easy (Peoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T09:12:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3675230446.html">
+<title><![CDATA[convert media files from Mac to PC (Peoria)]]></title>
+<link>http://peoria.craigslist.org/cpg/3675230446.html</link>
+<description><![CDATA[Hi, I have 158G of film footage that was sent to me on a hard drive but off of a Mac and I'm running Windows - won't work - can't even look at contents 
+I just need it transferred to a FAT32 OR OTHER WINDOWS COMPT. FORM. 
+Thanks 
+you can email or tex [...]]]></description>
+<dc:date>2013-03-11T20:37:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3675230446.html</dc:source>
+<dc:title><![CDATA[convert media files from Mac to PC (Peoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:37:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://peoria.craigslist.org/cpg/3616010606.html">
+<title><![CDATA[Admin Support Specialist (Oak Brook, IL)]]></title>
+<link>http://peoria.craigslist.org/cpg/3616010606.html</link>
+<description><![CDATA[Title: Admin Support Specialist 
+Location: Oak Brook, IL 
+18 Months Contract 
+Seeking an Admin Support Specialist to provide general and administrative support. 
+Required 
+· 7+ years in IT industry 
+· 5+ years exposure to website technologies 
+· 4+ y [...]]]></description>
+<dc:date>2013-02-13T21:04:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3616010606.html</dc:source>
+<dc:title><![CDATA[Admin Support Specialist (Oak Brook, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T21:04:58-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

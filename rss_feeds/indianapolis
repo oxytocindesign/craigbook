@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://indianapolis.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in indianapolis</title>
+<link>http://indianapolis.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://indianapolis.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in indianapolis</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:57-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3700550095.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3698174113.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3695462245.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3690817350.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3687474356.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3682305225.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3680486473.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3676733397.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3669459348.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3667042611.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3663541836.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3661403288.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3659059599.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3656089837.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3653579286.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3647746013.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3646655257.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3646627733.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3643613200.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3634155843.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3622082110.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3621204934.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3619121295.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3616519358.html" />
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3581649705.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3700550095.html">
+<title><![CDATA[Intern for new Social Website Testing Internship (United States)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3700550095.html</link>
+<description><![CDATA[We are looking for a maximum of 20 Intern/Beta testers from around the United States to participate with testing the functionality and design of our website. 
+Our company is a Social Networking website that allows people to Safely and Easily connect  [...]]]></description>
+<dc:date>2013-03-24T09:22:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3700550095.html</dc:source>
+<dc:title><![CDATA[Intern for new Social Website Testing Internship (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:22:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3698174113.html">
+<title><![CDATA[Quickbook - bookkeeper]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3698174113.html</link>
+<description><![CDATA[Need QB expert aka bookkeeper ASAP. Someone who can show me the quick overview and help reconcile some entries and possibly do this for my business on a monthly basis. 
+Reply with you number and I will contact you. 
+Serious knowledgeable replies only [...]]]></description>
+<dc:date>2013-03-22T21:03:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3698174113.html</dc:source>
+<dc:title><![CDATA[Quickbook - bookkeeper]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:03:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3695462245.html">
+<title><![CDATA[Total Derivative Web launch (Broadripple)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3695462245.html</link>
+<description><![CDATA[Web Design Needed for Small Business and possible future work (Broadripple) 
+Needs: 
+QUICK TURN AROUND TIME 
+Someone who will go back and forth to iron out the kinks and perfect the site 
+Prefer someone who can invoice or provide a receipt, but not a [...]]]></description>
+<dc:date>2013-03-21T14:25:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3695462245.html</dc:source>
+<dc:title><![CDATA[Total Derivative Web launch (Broadripple)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:25:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3690817350.html">
+<title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3690817350.html</link>
+<description><![CDATA[Incentive advertising/marketing company seeking internet savvy ad posters/marketers. 
+This is a simple copy/paste opp. 
+We will provide complete training. 
+Create your own schedule. 
+$100+ daily is very realistic in your spare-time. 
+If you are profi [...]]]></description>
+<dc:date>2013-03-19T11:19:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3690817350.html</dc:source>
+<dc:title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:19:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3687474356.html">
+<title><![CDATA[Python programmer (Indianapolis)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3687474356.html</link>
+<description><![CDATA[Looking for a programmer to work on a freelance, short term project to help write an integration. Must know python and BMC products. Qualified candidates should email resume in response to this ad.]]></description>
+<dc:date>2013-03-17T18:02:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3687474356.html</dc:source>
+<dc:title><![CDATA[Python programmer (Indianapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T18:02:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3682305225.html">
+<title><![CDATA[ebay help needed asap (indy)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3682305225.html</link>
+<description><![CDATA[Looking for someone that is already established on ebay to help me sell items. Must have your own account. Great pay]]></description>
+<dc:date>2013-03-15T04:34:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3682305225.html</dc:source>
+<dc:title><![CDATA[ebay help needed asap (indy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T04:34:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3680486473.html">
+<title><![CDATA[ASP.NET CSS Help (Near Geist)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3680486473.html</link>
+<description><![CDATA[I have developed a small web app using ASP.NET. It uses a MASTER PAGE, and CSS. I need help refining the look and feel of the site, and organizing the CSS page so it makes more sense. The site is proprietary, confidential, and not particularly portab [...]]]></description>
+<dc:date>2013-03-14T10:22:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3680486473.html</dc:source>
+<dc:title><![CDATA[ASP.NET CSS Help (Near Geist)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:22:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3676733397.html">
+<title><![CDATA[Install Server and Client MAchines (Columbus)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3676733397.html</link>
+<description><![CDATA[Need help in installing/configuring a Server with Windows Server 2008 and configure 8-10 clients. Building prewired. Any assistance with purchasing the equipment would also be helpful. Depending on quality of work and ongoing service contract might b [...]]]></description>
+<dc:date>2013-03-12T15:14:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3676733397.html</dc:source>
+<dc:title><![CDATA[Install Server and Client MAchines (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T15:14:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3669459348.html">
+<title><![CDATA[need Traxis RC Repair (Fishers)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3669459348.html</link>
+<description><![CDATA[I have a remote control car I need repaired. It is a Traxis Summit. I never has worked quite right. ]]></description>
+<dc:date>2013-03-09T10:20:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3669459348.html</dc:source>
+<dc:title><![CDATA[need Traxis RC Repair (Fishers)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T10:20:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3667042611.html">
+<title><![CDATA[Wordpress Help (Indianapolis)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3667042611.html</link>
+<description><![CDATA[I am looking for an expert in wordpress to give me support as needed. It could be one on one or phone support. I'm not looking for someone to do all the work but to teach me. I know my way around wp now, just get stupmed on things from time to time. ]]></description>
+<dc:date>2013-03-08T08:59:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3667042611.html</dc:source>
+<dc:title><![CDATA[Wordpress Help (Indianapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T08:59:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3663541836.html">
+<title><![CDATA[Web Design (Indy)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3663541836.html</link>
+<description><![CDATA[We are a new automotive shop and need a website built for us. Something simple to help drive traffic to our shop. Please respond with your phone number or email address as we would like to speak with te designer directly. 
+Thanks]]></description>
+<dc:date>2013-03-06T16:27:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3663541836.html</dc:source>
+<dc:title><![CDATA[Web Design (Indy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T16:27:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3661403288.html">
+<title><![CDATA[Email Newsletters]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3661403288.html</link>
+<description><![CDATA[I'm looking to create a series of email templates for my businesses. Currently, I'm interested in having 6 completed. The HTML email templates should be custom, sleek, professional and easily editable via html or a text editor. 
+Contact me for detail [...]]]></description>
+<dc:date>2013-03-05T17:51:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3661403288.html</dc:source>
+<dc:title><![CDATA[Email Newsletters]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T17:51:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3659059599.html">
+<title><![CDATA[Clerical/Administrative Position]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3659059599.html</link>
+<description><![CDATA[Summary of Position -- Performs varied clerical and related data entry tasks (but not restricted to): 
+1) Data entry 
+a. Creating and/or updating through keyboard entry existing records in the 
+database 
+2) Word processing and/or data entry into spre [...]]]></description>
+<dc:date>2013-03-04T17:52:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3659059599.html</dc:source>
+<dc:title><![CDATA[Clerical/Administrative Position]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T17:52:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3656089837.html">
+<title><![CDATA[Xbox 360 repair (noblesville)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3656089837.html</link>
+<description><![CDATA[needs memory card and over heats]]></description>
+<dc:date>2013-03-03T12:49:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3656089837.html</dc:source>
+<dc:title><![CDATA[Xbox 360 repair (noblesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T12:49:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3653579286.html">
+<title><![CDATA[Recovery deleted photos from cell phone (Indianapolis Northside)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3653579286.html</link>
+<description><![CDATA[We have a Galaxy phone on ATT. The photos were deleted by accident. I know there is a way to recover it, I do not have a linux box or a pc I could load the software on to perform the data recovery. It should be simple, although trying different compa [...]]]></description>
+<dc:date>2013-03-02T09:01:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3653579286.html</dc:source>
+<dc:title><![CDATA[Recovery deleted photos from cell phone (Indianapolis Northside)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T09:01:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3647746013.html">
+<title><![CDATA[SQL help needed ASAP (Fishers)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3647746013.html</link>
+<description><![CDATA[I am working on a website that I am wanting to pull InfusionSoft product data into a Wordpress website using the iMember360 plugin. I am looking for help writing the proper SQL statements to get the information feeds within the site. I have the data  [...]]]></description>
+<dc:date>2013-02-27T15:46:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3647746013.html</dc:source>
+<dc:title><![CDATA[SQL help needed ASAP (Fishers)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T15:46:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3646655257.html">
+<title><![CDATA[looking for an adult web site designer (fort wayne)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3646655257.html</link>
+<description><![CDATA[Looking for someone to design and deveilop an adult website that features cam to cam features. Please message me back and tell me what experience you have and list any sites you have developed. Please also list how much compensation you require. ]]></description>
+<dc:date>2013-02-27T07:41:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3646655257.html</dc:source>
+<dc:title><![CDATA[looking for an adult web site designer (fort wayne)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T07:41:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3646627733.html">
+<title><![CDATA[Help Local Businesses Engage With Their Clients (INDIANAPOLIS)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3646627733.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-27T07:10:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3646627733.html</dc:source>
+<dc:title><![CDATA[Help Local Businesses Engage With Their Clients (INDIANAPOLIS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T07:10:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3643613200.html">
+<title><![CDATA[Architectural Drafting (Indianapolis)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3643613200.html</link>
+<description><![CDATA[Looking for someone with experience in COMMERCIAL architectural CAD drafting. Contract or Part time to full time. Can work from home. 
+respond if experienced & interested. ]]></description>
+<dc:date>2013-02-25T20:16:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3643613200.html</dc:source>
+<dc:title><![CDATA[Architectural Drafting (Indianapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T20:16:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3634155843.html">
+<title><![CDATA[NEED PROGRAMER!!! (Indianpolis)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3634155843.html</link>
+<description><![CDATA[I have a pretty HUGE idea to change a pretty major industy I have the idea just need the Help call 574-904-3786 
+or email brocbramlett@gmail.com Thanks looking forward to speaking with you!! Lets make some $CASH$!!!!]]></description>
+<dc:date>2013-02-21T16:30:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3634155843.html</dc:source>
+<dc:title><![CDATA[NEED PROGRAMER!!! (Indianpolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:30:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3622082110.html">
+<title><![CDATA[Computer Marketing]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3622082110.html</link>
+<description><![CDATA[Looking for people who want to change their life and be the best in 2013. 
+If you are employed or unemployed I can help you achieve your financial goal. 
+Mamie Burks 
+Team Lead 
+We are a marketing company looking for experience in sales ]]></description>
+<dc:date>2013-02-16T15:42:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3622082110.html</dc:source>
+<dc:title><![CDATA[Computer Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T15:42:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3621204934.html">
+<title><![CDATA[web code/design (brownsburg)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3621204934.html</link>
+<description><![CDATA[Looking for a freelance web developer to help me with a project. This is not a web page design, but a more complicated app to be put on my web site. The site is hosted through squarespace.com so please be familiar with it. My business is www.paceperf [...]]]></description>
+<dc:date>2013-02-16T09:56:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3621204934.html</dc:source>
+<dc:title><![CDATA[web code/design (brownsburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T09:56:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3619121295.html">
+<title><![CDATA[Seeking 2 maybe 3 eBay Copy & Pasters (www)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3619121295.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-15T11:43:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3619121295.html</dc:source>
+<dc:title><![CDATA[Seeking 2 maybe 3 eBay Copy & Pasters (www)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T11:43:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3616519358.html">
+<title><![CDATA[***$100 REWARD*** (Indianapolis)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3616519358.html</link>
+<description><![CDATA[$100 reward for return of missing phone - 
+Went missing on Tuesday night at the Living Room Lounge. 
+Really need this phone back :( I'm from out of town and it's the only way I can communicate w/ my family! Other than going to the library to use the  [...]]]></description>
+<dc:date>2013-02-14T08:13:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3616519358.html</dc:source>
+<dc:title><![CDATA[***$100 REWARD*** (Indianapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T08:13:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3581649705.html">
+<title><![CDATA[Need Local PHP and MySQL Designer (Westfield, Carmel, Fishers)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3581649705.html</link>
+<description><![CDATA[I have multiple clients that I need PHP and MYSQL work. 
+Please only local programmers. Need to get started immediately. 
+Please email your rates (interested in by hour and project). 
+Already have the budgets approved. Lets get started. 
+Thank You 
+P [...]]]></description>
+<dc:date>2013-02-10T12:48:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3581649705.html</dc:source>
+<dc:title><![CDATA[Need Local PHP and MySQL Designer (Westfield, Carmel, Fishers)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T12:48:04-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

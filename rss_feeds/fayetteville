@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://fayetteville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in fayetteville</title>
+<link>http://fayetteville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://fayetteville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in fayetteville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:01-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3701884152.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3658459479.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3650350227.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3643488549.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3639355790.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3635360539.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3632858741.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3621538489.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3603619056.html" />
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3601968345.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3701884152.html">
+<title><![CDATA[password hacker  (fayetteville)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3701884152.html</link>
+<description><![CDATA[I am looking for someone that knows how to find the password on a email account. If you can help let me know]]></description>
+<dc:date>2013-03-24T22:25:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3701884152.html</dc:source>
+<dc:title><![CDATA[password hacker  (fayetteville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:25:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3658459479.html">
+<title><![CDATA[Contract field technician needed (Aberdeen, NC)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3658459479.html</link>
+<description><![CDATA[We are a 3rd party IT service provider seeking highly skilled and experienced Printer and PC Repair technicians. We are an industry leading IT Service provider looking to expand our network of technicians and have recently had unfulfilled work in you [...]]]></description>
+<dc:date>2013-03-04T13:56:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3658459479.html</dc:source>
+<dc:title><![CDATA[Contract field technician needed (Aberdeen, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T13:56:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3650350227.html">
+<title><![CDATA[retail display installer needed  (Fayetteville )]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3650350227.html</link>
+<description><![CDATA[We are seeking a tech installer to set up a display in a retail store in Fayetteville. Offering $60 per site. Installation will not take over an hour. 
+Interested installers please reply with your name, phone, and email 
+Thanks]]></description>
+<dc:date>2013-02-28T18:10:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3650350227.html</dc:source>
+<dc:title><![CDATA[retail display installer needed  (Fayetteville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T18:10:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3643488549.html">
+<title><![CDATA[Looking for crazy computer geek. (Fayetteville )]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3643488549.html</link>
+<description><![CDATA[Looking for someone who really knows his way around a computer, and programming. I'll fill you in on the details. There will be a good payment. I meant no offense, when I said geek. Hope to hear from someone soon.]]></description>
+<dc:date>2013-02-25T19:15:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3643488549.html</dc:source>
+<dc:title><![CDATA[Looking for crazy computer geek. (Fayetteville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T19:15:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3639355790.html">
+<title><![CDATA[I need someone to fix my Hitathi projecter (Fayetteville)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3639355790.html</link>
+<description><![CDATA[I need someone to fix my Hitathi projecter. If this is your strength, please respond. Thank you. Also let me know your price.]]></description>
+<dc:date>2013-02-23T21:21:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3639355790.html</dc:source>
+<dc:title><![CDATA[I need someone to fix my Hitathi projecter (Fayetteville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T21:21:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3635360539.html">
+<title><![CDATA[Really Need Help (Spring Lake)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3635360539.html</link>
+<description><![CDATA[I have a lap top that is not working properly. Something about the drivers having problems in sleep mode and waking. I didnt want to mess witht them without some professional help. I also like to play games, mainly on FB and they will not load or run [...]]]></description>
+<dc:date>2013-02-22T08:37:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3635360539.html</dc:source>
+<dc:title><![CDATA[Really Need Help (Spring Lake)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T08:37:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3632858741.html">
+<title><![CDATA[Web-Site Updating/Word Press (Fayetteville)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3632858741.html</link>
+<description><![CDATA[We need someone experienced in WordPress to update our website. If you are not ready to begin and complete this SMALL project, PLEASE DO NOT REPLY. 
+If you are ready to get started, please reply to this email with your full name and contact informati [...]]]></description>
+<dc:date>2013-02-21T05:48:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3632858741.html</dc:source>
+<dc:title><![CDATA[Web-Site Updating/Word Press (Fayetteville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T05:48:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3621538489.html">
+<title><![CDATA[Start Tomorrow! FV]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3621538489.html</link>
+<description><![CDATA[Have an amazing opportunity for someone computer efficient! 
+Don't have to be a tech genius, just need to know how to work a computer! 
+Start Soon! 
+Minimal training provided! 
+Pay is dependent on how much work you can get done! ]]></description>
+<dc:date>2013-02-16T12:13:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3621538489.html</dc:source>
+<dc:title><![CDATA[Start Tomorrow! FV]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T12:13:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3603619056.html">
+<title><![CDATA[Website Developers and SEO specialists]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3603619056.html</link>
+<description><![CDATA[Hello fellow web workers. 
+I am in the process of restructuring my company and rebuilding my website. I wanted to share an opportunity with a few select people. I am looking for a few freelancers to network with. You will do your own jobs, for your o [...]]]></description>
+<dc:date>2013-02-08T16:30:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3603619056.html</dc:source>
+<dc:title><![CDATA[Website Developers and SEO specialists]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T16:30:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3601968345.html">
+<title><![CDATA[IT/Computer Sales]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3601968345.html</link>
+<description><![CDATA[IT/Computer Business Sales Professional Needed 
+- At least 1 year sales experience. Computer knowledge required. 
+- Ability to close 
+- Self starter 
+- Reliable transportation 
+- Highest commissions paid in the area 
+This position will be filled by M [...]]]></description>
+<dc:date>2013-02-07T22:46:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3601968345.html</dc:source>
+<dc:title><![CDATA[IT/Computer Sales]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T22:46:37-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

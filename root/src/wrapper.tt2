@@ -1,0 +1,23 @@
+<html>
+<head>
+<link rel="stylesheet" href="[% c.uri_for('/static/css/main.css') %]" />
+</head>
+<body>
+
+<div id="searchContainer">
+  	<form action="/ads/list" method="get">
+        <input id="field" name="field"/>
+        <div id="delete"><span id="x"></span></div>
+        <input id="submit" type="submit" name="submit"/>
+    </form>
+
+[% content %]
+</div>
+
+
+
+
+</body>
+</html>
+
+

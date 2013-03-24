@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://rochester.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in rochester, NY</title>
+<link>http://rochester.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://rochester.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in rochester, NY</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:01-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3682473980.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3699140466.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3698336542.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3696021647.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3694953201.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3692597261.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3691800175.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3690837308.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3687460080.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3671815028.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3669643388.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3660034821.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3638285850.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3635699734.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3628124829.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3617238408.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3617075379.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3602586085.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3577696164.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3607240896.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3607148166.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://rochester.craigslist.org/cpg/3682473980.html">
+<title><![CDATA[Making tutorial video / writing tutorial article / posting on the web (Henrietta)]]></title>
+<link>http://rochester.craigslist.org/cpg/3682473980.html</link>
+<description><![CDATA[I'm looking for someone to make a quality tutorial video with voice over as well as write a tutorial article on making photo mosaics on http://mosaically.com 
+It would also be good if this person can post the videos and article on web 2.0 properties  [...]]]></description>
+<dc:date>2013-03-24T23:19:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3682473980.html</dc:source>
+<dc:title><![CDATA[Making tutorial video / writing tutorial article / posting on the web (Henrietta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:19:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3699140466.html">
+<title><![CDATA[Teach me to flash phones (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3699140466.html</link>
+<description><![CDATA[I want to learn how to fully flash any cdma phone to any carrier. If you know how to unlock phones without calling the carrier that's a plus. Willing to purchase whatever software is needed. 
+I'm willing to pay to learn. ]]></description>
+<dc:date>2013-03-23T12:57:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3699140466.html</dc:source>
+<dc:title><![CDATA[Teach me to flash phones (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:57:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3698336542.html">
+<title><![CDATA[Spider to calibrate 2 monitors (Rochester New York 14622)]]></title>
+<link>http://rochester.craigslist.org/cpg/3698336542.html</link>
+<description><![CDATA[I have a duel monitors that need a person with a spider to calibrate them. I can trade my photography skills as a trade? Or you can let me know what you will charge for this service. I have 2 monitors that are the same make and model.]]></description>
+<dc:date>2013-03-22T23:10:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3698336542.html</dc:source>
+<dc:title><![CDATA[Spider to calibrate 2 monitors (Rochester New York 14622)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T23:10:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3696021647.html">
+<title><![CDATA[Amazon S3/Cloudfront/Video Player/WP Help Needed (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3696021647.html</link>
+<description><![CDATA[I am using S3 for video storage. Recently learned I cannot stream from it without cloudfront. 
+I need assistance setting it up, along with a good video player for wordpress. 
+Apparently it also will not stream WMV? If not, any suggestions on conversi [...]]]></description>
+<dc:date>2013-03-21T19:02:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3696021647.html</dc:source>
+<dc:title><![CDATA[Amazon S3/Cloudfront/Video Player/WP Help Needed (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T19:02:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3694953201.html">
+<title><![CDATA[Blog & Webstore]]></title>
+<link>http://rochester.craigslist.org/cpg/3694953201.html</link>
+<description><![CDATA[Looking for someone to help revamp current Wordpress blog and add a homepage and Webstore. Will also need twitter and pay pal attached as well. Would like to meet in person to go over some examples & details that I'd like included. If work and prices [...]]]></description>
+<dc:date>2013-03-21T10:40:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3694953201.html</dc:source>
+<dc:title><![CDATA[Blog & Webstore]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:40:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3692597261.html">
+<title><![CDATA[Computer (Marketing/Graphics) Intern (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3692597261.html</link>
+<description><![CDATA[Looking for knowledgable student intern who has the ability to research then set up framework for a teaching webinar with power point on-line presentation. Need assistance with social media set up to advertise and market webinar with understanding of [...]]]></description>
+<dc:date>2013-03-20T07:24:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3692597261.html</dc:source>
+<dc:title><![CDATA[Computer (Marketing/Graphics) Intern (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T07:24:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3691800175.html">
+<title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></title>
+<link>http://rochester.craigslist.org/cpg/3691800175.html</link>
+<description><![CDATA[YEA JUST WANT 2 ERASE ALL DATA NOW THANX!!!! 585 236-0406]]></description>
+<dc:date>2013-03-19T18:27:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3691800175.html</dc:source>
+<dc:title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T18:27:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3690837308.html">
+<title><![CDATA[Photographer will trade services for Website design (Macedon/Fairport )]]></title>
+<link>http://rochester.craigslist.org/cpg/3690837308.html</link>
+<description><![CDATA[I am a photographer (portrait, sports and weddings) 
+willing to trade my services ( portraits, individual or family) 
+in exchange to put together my website. 
+Please send contact info .]]></description>
+<dc:date>2013-03-19T11:27:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3690837308.html</dc:source>
+<dc:title><![CDATA[Photographer will trade services for Website design (Macedon/Fairport )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:27:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3687460080.html">
+<title><![CDATA[Growing IT Firm Looking For Technicians]]></title>
+<link>http://rochester.craigslist.org/cpg/3687460080.html</link>
+<description><![CDATA[I am looking for techs who can do the following types of jobs: 
+- Network installation and troubleshooting 
+- Cabling (cat 5, cat 6, fiber optic) 
+- Printer troubleshooting / repair 
+- Computer repair 
+- POS troubleshooting 
+- T1 and T3 lines 
+- Swit [...]]]></description>
+<dc:date>2013-03-17T17:54:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3687460080.html</dc:source>
+<dc:title><![CDATA[Growing IT Firm Looking For Technicians]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:54:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3671815028.html">
+<title><![CDATA[Audio/Video Guru! Where are you? (Webster)]]></title>
+<link>http://rochester.craigslist.org/cpg/3671815028.html</link>
+<description><![CDATA[This is a call to arms for the technically savvy! Independent metal band has early video recordings requiring some major clean-up. The sound quality is good, not great. The video quality suffers from the same, perhaps a little worse. The original vid [...]]]></description>
+<dc:date>2013-03-10T13:12:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3671815028.html</dc:source>
+<dc:title><![CDATA[Audio/Video Guru! Where are you? (Webster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T13:12:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3669643388.html">
+<title><![CDATA[Softwere?? (roch)]]></title>
+<link>http://rochester.craigslist.org/cpg/3669643388.html</link>
+<description><![CDATA[Are you a computer software expert 
+I have a task for you. You can take your time do this at home. ]]></description>
+<dc:date>2013-03-09T11:41:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3669643388.html</dc:source>
+<dc:title><![CDATA[Softwere?? (roch)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T11:41:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3660034821.html">
+<title><![CDATA[Low Voltage Tech (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3660034821.html</link>
+<description><![CDATA[In need of a tech who has union credentials to assist in a 20 week project here in Rochester. The job is from 9pm to 7am Sunday to Thursday. If interested please reply back with pay request and union information. Thank you.]]></description>
+<dc:date>2013-03-05T08:12:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3660034821.html</dc:source>
+<dc:title><![CDATA[Low Voltage Tech (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T08:12:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3638285850.html">
+<title><![CDATA[Graphic Design Internship (NYC based)]]></title>
+<link>http://rochester.craigslist.org/cpg/3638285850.html</link>
+<description><![CDATA[The Collecte is seeking a graphic design intern specifically for html coding with minor website maintenance/development/design. We are seeking someone who has the ability to use Adobe Creative Suite; Photoshop, Dreamweaver, Illustrator etc. Start dat [...]]]></description>
+<dc:date>2013-02-23T13:04:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3638285850.html</dc:source>
+<dc:title><![CDATA[Graphic Design Internship (NYC based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T13:04:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3635699734.html">
+<title><![CDATA[Excel Guru (Fairport, NY)]]></title>
+<link>http://rochester.craigslist.org/cpg/3635699734.html</link>
+<description><![CDATA[We are looking for someone who is an expert with Excel. The project is to enhance our existing billing and commission spreadsheets so it's much more automated and updates multiple spreadsheets. Please reply with examples of similar projects and how y [...]]]></description>
+<dc:date>2013-02-22T11:25:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3635699734.html</dc:source>
+<dc:title><![CDATA[Excel Guru (Fairport, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T11:25:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3628124829.html">
+<title><![CDATA[Looking for crew to make a Raspberry Pi arcade cabinet (The Rochester Area)]]></title>
+<link>http://rochester.craigslist.org/cpg/3628124829.html</link>
+<description><![CDATA[I'm looking for a bunch of people who are interested in building, programming, and selling-for-proft a Raspberri Pi arcade cabinet. Think of this as an Oceans 11 type of cast... 
+I need a few people: first and most importantly, I need someone who kno [...]]]></description>
+<dc:date>2013-02-19T09:31:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3628124829.html</dc:source>
+<dc:title><![CDATA[Looking for crew to make a Raspberry Pi arcade cabinet (The Rochester Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T09:31:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3617238408.html">
+<title><![CDATA[Calling all bloggers, journalism majors, and internet connoisseurs]]></title>
+<link>http://rochester.craigslist.org/cpg/3617238408.html</link>
+<description><![CDATA[thebestshitontheinternet.com is looking for contributors! Do you not have enough time to run your own blog, love blogging, or just want to be apart of an internet family? We are looking for you. Just sign up on our WordPress website, and start postin [...]]]></description>
+<dc:date>2013-02-14T13:50:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3617238408.html</dc:source>
+<dc:title><![CDATA[Calling all bloggers, journalism majors, and internet connoisseurs]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T13:50:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3617075379.html">
+<title><![CDATA[Wed Design--Student or professional (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3617075379.html</link>
+<description><![CDATA[I'm looking for a web designer. Either professional or student (RIT, UofR, etc) 
+I need a site built for ECommerce. 
+I need it to look clean, professional, simple. 
+I have an idea for how I want it laid out, several example webpages I'd like it to be [...]]]></description>
+<dc:date>2013-02-14T12:47:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3617075379.html</dc:source>
+<dc:title><![CDATA[Wed Design--Student or professional (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T12:47:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3602586085.html">
+<title><![CDATA[Netapps FAS2050 expert (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3602586085.html</link>
+<description><![CDATA[Purchased a 6TB netapps FAS2050 SAN and trying to load Windows server 2008 on it. 
+This damn thing doesnt have a cd/dvd drive or a flash slot so not sure how to go about it. 
+I want to migrate from a Server 2003 storage server to this SAN 
+thanks,]]></description>
+<dc:date>2013-02-12T11:09:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3602586085.html</dc:source>
+<dc:title><![CDATA[Netapps FAS2050 expert (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T11:09:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3577696164.html">
+<title><![CDATA[Training & Set up Support for Microsoft Dynamics CRM (Savannah)]]></title>
+<link>http://rochester.craigslist.org/cpg/3577696164.html</link>
+<description><![CDATA[We have chosen Microsoft Dynamics CRM as our software provider for our business & we are looking for someone to help us do the set-up, training & best practices during our implementation. 
+This can be done during normal business hours or on nights &  [...]]]></description>
+<dc:date>2013-02-10T12:07:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3577696164.html</dc:source>
+<dc:title><![CDATA[Training & Set up Support for Microsoft Dynamics CRM (Savannah)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T12:07:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3607240896.html">
+<title><![CDATA[Instagram Poster  EZINE ARTICLE WRITER NEEDED (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3607240896.html</link>
+<description><![CDATA[We need someone who is extremely familiar with on line social media Please inquire. LONG term for the right person ! thanks ]]></description>
+<dc:date>2013-02-10T11:07:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3607240896.html</dc:source>
+<dc:title><![CDATA[Instagram Poster  EZINE ARTICLE WRITER NEEDED (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T11:07:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3607148166.html">
+<title><![CDATA[** FACEBOOK SPECIALIST FACEBOOK ** (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3607148166.html</link>
+<description><![CDATA[Hello and thanks for reading. We need a BUSINESS PAGE FACEBOOK Specialists. MUST HAVE: 
+- leave a phone #in email or NO REPLY 
+- Be willing to work side by side with owners 
+- Know how to market to "same segment" markets in order to increase traffic  [...]]]></description>
+<dc:date>2013-02-10T10:14:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3607148166.html</dc:source>
+<dc:title><![CDATA[** FACEBOOK SPECIALIST FACEBOOK ** (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T10:14:55-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

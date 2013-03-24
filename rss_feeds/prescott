@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://prescott.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in prescott</title>
+<link>http://prescott.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://prescott.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in prescott</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:24:55-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://prescott.craigslist.org/cpg/3694604559.html" />
+  <rdf:li rdf:resource="http://prescott.craigslist.org/cpg/3666147119.html" />
+  <rdf:li rdf:resource="http://prescott.craigslist.org/cpg/3649860341.html" />
+  <rdf:li rdf:resource="http://prescott.craigslist.org/cpg/3624983701.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://prescott.craigslist.org/cpg/3694604559.html">
+<title><![CDATA[Immediate hire]]></title>
+<link>http://prescott.craigslist.org/cpg/3694604559.html</link>
+<description><![CDATA[Promote the company 
+Build your team 
+Get paid weekly 
+Full time or part time]]></description>
+<dc:date>2013-03-21T02:03:24-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://prescott.craigslist.org/cpg/3694604559.html</dc:source>
+<dc:title><![CDATA[Immediate hire]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T02:03:24-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://prescott.craigslist.org/cpg/3666147119.html">
+<title><![CDATA[Part time admin position (Cottonwood)]]></title>
+<link>http://prescott.craigslist.org/cpg/3666147119.html</link>
+<description><![CDATA[School is currently looking for a for a candidate to be part of their team. 
+Position will start as part time, 20-30 hours a week, from 8 am to 12 pm. Can become full time for the right person. 
+Must have clean background 
+Must be able to pass drug s [...]]]></description>
+<dc:date>2013-03-07T16:54:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://prescott.craigslist.org/cpg/3666147119.html</dc:source>
+<dc:title><![CDATA[Part time admin position (Cottonwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:54:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://prescott.craigslist.org/cpg/3649860341.html">
+<title><![CDATA[Author Programming & Web Dev Tutorials/Virtual]]></title>
+<link>http://prescott.craigslist.org/cpg/3649860341.html</link>
+<description><![CDATA[We're a Connecticut based technical publishing company looking to expand our team of content development experts. We're looking for programmers who can write clear step-by-step tutorials that our learners will both benefit from and enjoy. If you can  [...]]]></description>
+<dc:date>2013-02-28T12:39:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://prescott.craigslist.org/cpg/3649860341.html</dc:source>
+<dc:title><![CDATA[Author Programming & Web Dev Tutorials/Virtual]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:39:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://prescott.craigslist.org/cpg/3624983701.html">
+<title><![CDATA[Cold Fusion Programer]]></title>
+<link>http://prescott.craigslist.org/cpg/3624983701.html</link>
+<description><![CDATA[Have on line Auction for construction equipment. Have software and need modifications to fit this perticular puopose. Will offer a percentage ownership in company and then when we have income a salary. Must have good references. Auction site is www.h [...]]]></description>
+<dc:date>2013-02-17T20:34:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://prescott.craigslist.org/cpg/3624983701.html</dc:source>
+<dc:title><![CDATA[Cold Fusion Programer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T20:34:57-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

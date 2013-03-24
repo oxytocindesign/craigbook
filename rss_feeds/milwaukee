@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://milwaukee.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in milwaukee</title>
+<link>http://milwaukee.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://milwaukee.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in milwaukee</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:39:48-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3701273506.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3698290331.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3697418390.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3694607212.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3693925430.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3693739012.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3693320786.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3692181050.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3691505699.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3679952207.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3687642079.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3665571603.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3681288757.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3672457198.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3670390960.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3670183375.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3668533987.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3664026901.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3647839124.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3631988370.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3646387115.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3645792092.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3643430770.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3642895095.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3634830706.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3632793067.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3632436155.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3631736937.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3630994850.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3627368281.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3616019735.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3615858398.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3611913353.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3606230000.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3605038426.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3603012967.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3602673563.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3701273506.html">
+<title><![CDATA[Need a coder (web site)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3701273506.html</link>
+<description><![CDATA[I need a person to create a 2-D chat site that features avatars and other poses as well as rooms to chat in. The site will be online only work, no software downloads for the chatters. A database and financial statements are a must for the site. I als [...]]]></description>
+<dc:date>2013-03-24T15:14:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3701273506.html</dc:source>
+<dc:title><![CDATA[Need a coder (web site)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:14:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3698290331.html">
+<title><![CDATA[Get Paid To Blog (SE Wisconsin)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3698290331.html</link>
+<description><![CDATA[I have the opportunity to bring THREE more people onto my viral blogging team. We offer training!! Even if you have never blogged before, we will teach you!! 
+Lets chat!! Shoot me an email!!]]></description>
+<dc:date>2013-03-22T21:31:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3698290331.html</dc:source>
+<dc:title><![CDATA[Get Paid To Blog (SE Wisconsin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:31:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3697418390.html">
+<title><![CDATA[Unix Administrator (Wauwatosa, WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3697418390.html</link>
+<description><![CDATA[Title: Unix Administrator 
+Type: Contract-Perm 
+Location: Wauwatosa, WI 
+Duration: 3-6 months 
+Rate: $26.35hr. 
+The Unix Administrator role provides ongoing administration and support of large enterprise systems at a client site. This includes planni [...]]]></description>
+<dc:date>2013-03-22T13:21:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3697418390.html</dc:source>
+<dc:title><![CDATA[Unix Administrator (Wauwatosa, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:21:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3694607212.html">
+<title><![CDATA[Advanced Internet Tutor Wanted (Tosa)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3694607212.html</link>
+<description><![CDATA[I would like to schooled 
+by somebody who is a wizz kid on bit torrents and downloading..... 
+please shoot me a message and a phone number.....and i will pay 
+thks]]></description>
+<dc:date>2013-03-21T03:09:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3694607212.html</dc:source>
+<dc:title><![CDATA[Advanced Internet Tutor Wanted (Tosa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T03:09:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3693925430.html">
+<title><![CDATA[Web/Mobile Developer (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3693925430.html</link>
+<description><![CDATA[I am looking for a great developer that can help with our overflow of work. I am looking for more than just a software monkey that can take direction and then build. I want someone who can add value to the project as well as build what is needed. 
+He [...]]]></description>
+<dc:date>2013-03-20T17:37:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3693925430.html</dc:source>
+<dc:title><![CDATA[Web/Mobile Developer (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:37:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3693739012.html">
+<title><![CDATA[Password recovery]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3693739012.html</link>
+<description><![CDATA[I have an old account that I stop using a while ago and I want to get back into that account but I forgot all the info I need in order to retrieve my lost password so I was wondering if there was anyone who could help me get into my account. I'm will [...]]]></description>
+<dc:date>2013-03-20T16:04:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3693739012.html</dc:source>
+<dc:title><![CDATA[Password recovery]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:04:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3693320786.html">
+<title><![CDATA[I want to learn web databases (West Allis WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3693320786.html</link>
+<description><![CDATA[I would love to have someone teach me how to make an interactive website using a database back-end such as MySQL. I'm extremely proficient in VBA and how to organize data using Excel, but I haven't made the leap to web-based databases yet. I could pa [...]]]></description>
+<dc:date>2013-03-20T12:58:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3693320786.html</dc:source>
+<dc:title><![CDATA[I want to learn web databases (West Allis WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:58:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3692181050.html">
+<title><![CDATA[TV Repair (West Allis)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3692181050.html</link>
+<description><![CDATA[I have a 2004 Mitsubishi TV Model # 52750. The TV stopped turning on and is blinking a green light. Does anyone know how/want to fix? 
+I will pay a reasonable price but obviously if it is going to cost a ton of money, I'll just get a new TV. 
+Thanks! [...]]]></description>
+<dc:date>2013-03-19T21:05:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3692181050.html</dc:source>
+<dc:title><![CDATA[TV Repair (West Allis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:05:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3691505699.html">
+<title><![CDATA[INVESTIGATION NEEDED (MILWAUKEE)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3691505699.html</link>
+<description><![CDATA[This is a technical position. I am willing to compensate, but I am a senior on a fixed income. 
+The problem is I am being over charged by Milwaukee Water Works for water I did not use. 
+I realize I am fighting city hall, but that is why I need help,  [...]]]></description>
+<dc:date>2013-03-19T15:08:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3691505699.html</dc:source>
+<dc:title><![CDATA[INVESTIGATION NEEDED (MILWAUKEE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:08:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3679952207.html">
+<title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3679952207.html</link>
+<description><![CDATA[Why Aren't You Mobile Texting Your Customers Yet? 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-18T23:16:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3679952207.html</dc:source>
+<dc:title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T23:16:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3687642079.html">
+<title><![CDATA[Joomla Developer Needed (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3687642079.html</link>
+<description><![CDATA[Looking for a Joomla developer to help complete Joomla Web Design Template currently in process for our company. Majority of the work left is clean up, refinements, and implementation of an Ecommerce integration to site. Looking for someone that is w [...]]]></description>
+<dc:date>2013-03-17T18:43:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3687642079.html</dc:source>
+<dc:title><![CDATA[Joomla Developer Needed (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T18:43:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3665571603.html">
+<title><![CDATA[Increase Sales Dramatically Via Text-Offers Direct to Your Customers (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3665571603.html</link>
+<description><![CDATA[Reach Your Fast-Paced Customers with Fast-Paced Mobile Marketing 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-15T14:15:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3665571603.html</dc:source>
+<dc:title><![CDATA[Increase Sales Dramatically Via Text-Offers Direct to Your Customers (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T14:15:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3681288757.html">
+<title><![CDATA[Need to borrow Premiere, Encore, and Fast Computer for ~5 Hours (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3681288757.html</link>
+<description><![CDATA[Need to render and master roughly 6 hours of video to DVD discs AS SOON AS POSSIBLE. 
+Would like to get at this tomorrow (Friday) or Saturday at the latest. Really need this done fast. 
+Will gladly pay a very reasonable price for this. 
+I am working  [...]]]></description>
+<dc:date>2013-03-14T15:10:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3681288757.html</dc:source>
+<dc:title><![CDATA[Need to borrow Premiere, Encore, and Fast Computer for ~5 Hours (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T15:10:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3672457198.html">
+<title><![CDATA[eBay seller needed (BayView)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3672457198.html</link>
+<description><![CDATA[I have A LOT of stuff that I need sold and do not have the time to do it. This stuff includes leather bags, higher-end vintage clothing, stereo equipment, etc. 
+Please let me know when you can start and what your rates are (I'd prefer that you handle [...]]]></description>
+<dc:date>2013-03-10T17:09:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3672457198.html</dc:source>
+<dc:title><![CDATA[eBay seller needed (BayView)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T17:09:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3670390960.html">
+<title><![CDATA[Seeking 1 Martketing & 1 Computer Science Undergrad (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3670390960.html</link>
+<description><![CDATA[LOCALS: 
+Looking for 1 Marketing Undergrad & 1 Computer Science Undergrad!! 
+Think UWM,UWW,UWMad. Message for info, drinks on me.]]></description>
+<dc:date>2013-03-09T15:50:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3670390960.html</dc:source>
+<dc:title><![CDATA[Seeking 1 Martketing & 1 Computer Science Undergrad (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T15:50:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3670183375.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3670183375.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-09T14:19:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3670183375.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T14:19:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3668533987.html">
+<title><![CDATA[Seeking Independent IT & Marketing Pros (Milwaukee, WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3668533987.html</link>
+<description><![CDATA[Looking for independent IT and Marketing professionals in the local areas for various opportunities that will be coming available the next few months. ]]></description>
+<dc:date>2013-03-08T18:31:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3668533987.html</dc:source>
+<dc:title><![CDATA[Seeking Independent IT & Marketing Pros (Milwaukee, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T18:31:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3664026901.html">
+<title><![CDATA[Need a computer wiz. A serious wiz. (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3664026901.html</link>
+<description><![CDATA[Looking for someone who can gain acess to websites remotely. Serious replies only please.]]></description>
+<dc:date>2013-03-06T19:12:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3664026901.html</dc:source>
+<dc:title><![CDATA[Need a computer wiz. A serious wiz. (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T19:12:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3647839124.html">
+<title><![CDATA[AdobeCS5ExpertforCoffeeTableBook (Lake Country/Waukesha)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3647839124.html</link>
+<description><![CDATA[I am looking for a Graphic Design Expert on Adobe CS5 
+to help me with a coffee table book project.]]></description>
+<dc:date>2013-02-27T15:23:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3647839124.html</dc:source>
+<dc:title><![CDATA[AdobeCS5ExpertforCoffeeTableBook (Lake Country/Waukesha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T15:23:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3631988370.html">
+<title><![CDATA[Wanted: 3D Printing Service (Illinois)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3631988370.html</link>
+<description><![CDATA[Looking for an affordable 3D printing service for a flexible rubber/silicone item. Must sign Non-Disclosure Form. Thanks for reading. ]]></description>
+<dc:date>2013-02-27T02:43:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3631988370.html</dc:source>
+<dc:title><![CDATA[Wanted: 3D Printing Service (Illinois)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T02:43:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3646387115.html">
+<title><![CDATA[Provide Text Message Loyalty Marketing To Businesses In Your Area (MILWAUKEE)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3646387115.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-26T23:28:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3646387115.html</dc:source>
+<dc:title><![CDATA[Provide Text Message Loyalty Marketing To Businesses In Your Area (MILWAUKEE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T23:28:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3645792092.html">
+<title><![CDATA[Application Integration Specialist  (Milwaukee, WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3645792092.html</link>
+<description><![CDATA[Our client, a large, reputable organization is looking for an Application Integration Specialist to join their team in Milwaukee, WI on a contract basis. The contract is scheduled to run 3-6 months, and there is a possibility of extension. As an Appl [...]]]></description>
+<dc:date>2013-02-26T17:29:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3645792092.html</dc:source>
+<dc:title><![CDATA[Application Integration Specialist  (Milwaukee, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T17:29:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3643430770.html">
+<title><![CDATA[Adobe Premiere CS6 DVD Help (Milwaukee )]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3643430770.html</link>
+<description><![CDATA[If there is someone that knows what they're doing with Adobe Premiere CS6 and could spare a few minutes to call me I would so appreciate it!!!! 
+My name's Luke and I'm currently working on a DVD and I need help with rendering settings and some proble [...]]]></description>
+<dc:date>2013-02-25T17:48:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3643430770.html</dc:source>
+<dc:title><![CDATA[Adobe Premiere CS6 DVD Help (Milwaukee )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:48:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3642895095.html">
+<title><![CDATA[Part Time Desktop Support * IMW022313 (Milwaukee, WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3642895095.html</link>
+<description><![CDATA[Part Time Desktop Support * IMW022313 
+Milwaukee, WI 
+Desktop Support 
+Strong Customer Service 
+16 - 20 Hours per Week 
+A+ is a PLUS 
+Windows XP and 7 ]]></description>
+<dc:date>2013-02-25T14:11:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3642895095.html</dc:source>
+<dc:title><![CDATA[Part Time Desktop Support * IMW022313 (Milwaukee, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T14:11:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3634830706.html">
+<title><![CDATA[Macbook Pro Keyboard Doesn't Work (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3634830706.html</link>
+<description><![CDATA[I have a 2 year old macbook pro and the keyboard doesn't work. I took it to the genius bar and they diagnosed moisture and wanted too much money to fix it. 
+Anyone out with experience with these keyboard issues? 
+I'll want an estimate first. 
+Thank y [...]]]></description>
+<dc:date>2013-02-21T20:59:06-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3634830706.html</dc:source>
+<dc:title><![CDATA[Macbook Pro Keyboard Doesn't Work (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T20:59:06-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3632793067.html">
+<title><![CDATA[Filemaker Programming]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3632793067.html</link>
+<description><![CDATA[Filemaker Programming, I have a database that needs some work. It is a job that will be needed now and in the future also. Please contact me for more information.]]></description>
+<dc:date>2013-02-21T02:25:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3632793067.html</dc:source>
+<dc:title><![CDATA[Filemaker Programming]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T02:25:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3632436155.html">
+<title><![CDATA[Looking for Work? (milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3632436155.html</link>
+<description><![CDATA[We have immediate openings for simple assignments that don´t require much time to be completed online.. We´ll train you on exactly how to complete the assingments and expect you to complete in a timely manner as well.. You don´t need certification or [...]]]></description>
+<dc:date>2013-02-20T20:46:14-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3632436155.html</dc:source>
+<dc:title><![CDATA[Looking for Work? (milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T20:46:14-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3631736937.html">
+<title><![CDATA[Python Architect (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3631736937.html</link>
+<description><![CDATA[XcelPros is a premier consulting and technology solutions company based out of Greater Chicago. Our direct client, a leading provider of information technology services in both onshore and offshore models to Fortune 1000 companies, is looking for a P [...]]]></description>
+<dc:date>2013-02-20T15:20:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3631736937.html</dc:source>
+<dc:title><![CDATA[Python Architect (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T15:20:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3630994850.html">
+<title><![CDATA[Rhapsody Developer (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3630994850.html</link>
+<description><![CDATA[XcelPros is a premier consulting and technology solutions company based out of Greater Chicago. Our direct client, a leading provider of information technology services in both onshore and offshore models to Fortune 1000 companies, is looking for a R [...]]]></description>
+<dc:date>2013-02-20T10:52:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3630994850.html</dc:source>
+<dc:title><![CDATA[Rhapsody Developer (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T10:52:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3627368281.html">
+<title><![CDATA[Get a P/T Job Right Now (milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3627368281.html</link>
+<description><![CDATA[Easy computer work that doesn´t take much time to complete.. Will need to be responsible and accessible, we´ll show step by step how to complete the work.. The work isn´t difficullt, however paying close attention to detail is important so you´re sta [...]]]></description>
+<dc:date>2013-02-18T20:16:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3627368281.html</dc:source>
+<dc:title><![CDATA[Get a P/T Job Right Now (milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T20:16:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3616019735.html">
+<title><![CDATA[HARD DRIVE RECOVERY/Programmer (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3616019735.html</link>
+<description><![CDATA[Hi, 
+I am sure this is a long shot, but it can't hurt. I have a hard drive that has files that were deleted. The files I need are CCTV files relating to something I need, and this hard drive came out of my 32CH DVR System. Somehow, a virus changed th [...]]]></description>
+<dc:date>2013-02-13T21:10:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3616019735.html</dc:source>
+<dc:title><![CDATA[HARD DRIVE RECOVERY/Programmer (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T21:10:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3615858398.html">
+<title><![CDATA[computer programming (mequon)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3615858398.html</link>
+<description><![CDATA[I am looking for someone proficient in Filemaker programming. We have a database that needs some adjustments. 
+Please contact me for more information.]]></description>
+<dc:date>2013-02-13T19:36:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3615858398.html</dc:source>
+<dc:title><![CDATA[computer programming (mequon)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T19:36:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3611913353.html">
+<title><![CDATA[**//INTERNET MARKETING PRO NEEDED**/// (Milwaukee &amp; surrounding )]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3611913353.html</link>
+<description><![CDATA[My site is suffering. $1,000+ per week possibility with proper marketing. I am a writer and what I have written businesses I've done before. I eventually want to do informercials for more profits. I have some social networking but need that upgraded  [...]]]></description>
+<dc:date>2013-02-12T09:26:20-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3611913353.html</dc:source>
+<dc:title><![CDATA[**//INTERNET MARKETING PRO NEEDED**/// (Milwaukee &amp; surrounding )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T09:26:20-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3606230000.html">
+<title><![CDATA[internet expert needed great pay (anywhere)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3606230000.html</link>
+<description><![CDATA[Its a long compliicated story but I'll explain more in private emails. Basically someone is doing something very wrong and lying to the person he is about to marry about it. He got caught on the internet doing some really weird stuff and Im wondering [...]]]></description>
+<dc:date>2013-02-09T18:14:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3606230000.html</dc:source>
+<dc:title><![CDATA[internet expert needed great pay (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T18:14:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3605038426.html">
+<title><![CDATA[MODEM   HELP (SE   MILWAUKEE)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3605038426.html</link>
+<description><![CDATA[I need help finding a new modem. TWC has decided to charge $4. per month for the lease of their modem. 
+I am a senior citizen on a limited income and am physically unable to get out. 
+I need someone to purchase a modem compatible with TWC equipment ( [...]]]></description>
+<dc:date>2013-02-09T09:44:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3605038426.html</dc:source>
+<dc:title><![CDATA[MODEM   HELP (SE   MILWAUKEE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T09:44:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3603012967.html">
+<title><![CDATA[Manage intenet sales site (Milwaukee, WI)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3603012967.html</link>
+<description><![CDATA[I need someone to work with me to manage an internet sales site. It is a technology site and I don't have time to keep it up. Let me know if you are interested. ]]></description>
+<dc:date>2013-02-08T11:42:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3603012967.html</dc:source>
+<dc:title><![CDATA[Manage intenet sales site (Milwaukee, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T11:42:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3602673563.html">
+<title><![CDATA[Smartphone savy ?? (Muskego)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3602673563.html</link>
+<description><![CDATA[Recently decided to upgrade to a smartphone and am having issues with use of it. Since I am a mature person, I'm finding that it may be an advantage for me to get somebody's help. Tried reading the "instruction book" but from past experiences find th [...]]]></description>
+<dc:date>2013-02-08T09:35:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3602673563.html</dc:source>
+<dc:title><![CDATA[Smartphone savy ?? (Muskego)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T09:35:18-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

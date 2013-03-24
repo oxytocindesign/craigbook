@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://gulfport.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in gulfport / biloxi</title>
+<link>http://gulfport.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://gulfport.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in gulfport / biloxi</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:59-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3663469304.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3695202200.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3699282709.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3647398178.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3650321572.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3644972302.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3617112798.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3607958745.html" />
+  <rdf:li rdf:resource="http://gulfport.craigslist.org/cpg/3602789831.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3663469304.html">
+<title><![CDATA[Looking for experienced PHP delveloper to modify existing script (Ocean Springs)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3663469304.html</link>
+<description><![CDATA[I am looking for an EXPERIENCED developer, specifically with PHP. 
+I own a script, and I need to A. Modify it and/or B. convert it to a CMS format 
+Prefer someone local. Must have verifiable references. 
+228.383.2 eight zero 8]]></description>
+<dc:date>2013-03-24T22:59:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3663469304.html</dc:source>
+<dc:title><![CDATA[Looking for experienced PHP delveloper to modify existing script (Ocean Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:59:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3695202200.html">
+<title><![CDATA[craigslist poster (gulfport)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3695202200.html</link>
+<description><![CDATA[need someone to post in craiglist daily from now till 4/8. 
+we will provide headers and body of material along with which sections they need to go in. 
+We are based in tampa and simply cannot get ads to stick 
+the job pays $50 cash which we would put [...]]]></description>
+<dc:date>2013-03-23T18:19:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3695202200.html</dc:source>
+<dc:title><![CDATA[craigslist poster (gulfport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:19:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3699282709.html">
+<title><![CDATA[Online Store (Long Beach)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3699282709.html</link>
+<description><![CDATA[Help needed with development of an online store for an existing php website and SQL database. 
+I'm looking for someone who will be willing to sit down with me for several hours to finish a project that has already been started and explain the process [...]]]></description>
+<dc:date>2013-03-23T13:02:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3699282709.html</dc:source>
+<dc:title><![CDATA[Online Store (Long Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:02:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3647398178.html">
+<title><![CDATA[Karaoke Apprentice Needed (Coast &amp; Southern Mississippi)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3647398178.html</link>
+<description><![CDATA[I'm looking for a person to help me operate Karaoke in clubs & partys 
+My home base is Bay St Louis, Mississippi . 
+228-243-3639 William Austin 
+Terry Kane 228-243-3639, University Grad , Afternoons and Evenings. 
+Professional Experience, Operator an [...]]]></description>
+<dc:date>2013-03-09T13:33:24-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3647398178.html</dc:source>
+<dc:title><![CDATA[Karaoke Apprentice Needed (Coast &amp; Southern Mississippi)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T13:33:24-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3650321572.html">
+<title><![CDATA[Make money today as a Affiliate (Gulfport)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3650321572.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-28T16:56:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3650321572.html</dc:source>
+<dc:title><![CDATA[Make money today as a Affiliate (Gulfport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:56:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3644972302.html">
+<title><![CDATA[Flood Writers Needed (Mobile, AL)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3644972302.html</link>
+<description><![CDATA[Flood Writers needed immediately. 
+Writers must have at least three years flood and SIMSOL experience. 
+Will be able to write reports from home. 
+Looking for field adjusters and writers. 
+Please forward resume with response. ]]></description>
+<dc:date>2013-02-26T12:10:03-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3644972302.html</dc:source>
+<dc:title><![CDATA[Flood Writers Needed (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:10:03-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3617112798.html">
+<title><![CDATA[Needed Someone to help build basic retail site (Gulfport)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3617112798.html</link>
+<description><![CDATA[I ran a vintage lingerie site for fifteen years, and am starting another. I need someone to help me build the basic boxes and site pages and attach my shopping cart. Wanting it to look similar to my old site vintageslips dot com to give you an idea o [...]]]></description>
+<dc:date>2013-02-14T12:01:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3617112798.html</dc:source>
+<dc:title><![CDATA[Needed Someone to help build basic retail site (Gulfport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T12:01:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3607958745.html">
+<title><![CDATA[Make signs with US Cutter (Yune!)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3607958745.html</link>
+<description><![CDATA[Signmakung op picayune]]></description>
+<dc:date>2013-02-10T15:27:17-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3607958745.html</dc:source>
+<dc:title><![CDATA[Make signs with US Cutter (Yune!)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T15:27:17-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://gulfport.craigslist.org/cpg/3602789831.html">
+<title><![CDATA[Helper for florist (Picayune)]]></title>
+<link>http://gulfport.craigslist.org/cpg/3602789831.html</link>
+<description><![CDATA[Answer phones, enter computer orders assist florists, Signmakung op picayune]]></description>
+<dc:date>2013-02-08T10:22:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gulfport.craigslist.org/cpg/3602789831.html</dc:source>
+<dc:title><![CDATA[Helper for florist (Picayune)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T10:22:10-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

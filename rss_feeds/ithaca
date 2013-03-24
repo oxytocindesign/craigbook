@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://ithaca.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in ithaca</title>
+<link>http://ithaca.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://ithaca.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in ithaca</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3694467919.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3693426159.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3692976913.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3640438779.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3672951726.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3660525950.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3656539180.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3638282153.html" />
+  <rdf:li rdf:resource="http://ithaca.craigslist.org/cpg/3617236885.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3694467919.html">
+<title><![CDATA[Seeking CakePHP expert (Ithaca College)]]></title>
+<link>http://ithaca.craigslist.org/cpg/3694467919.html</link>
+<description><![CDATA[I am seeking assistance in completing an already started CakePHP site. I need brief consultation on a few things that I can't figure out myself. Compensation will be based on an hourly rate.]]></description>
+<dc:date>2013-03-21T00:39:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3694467919.html</dc:source>
+<dc:title><![CDATA[Seeking CakePHP expert (Ithaca College)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T00:39:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3693426159.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://ithaca.craigslist.org/cpg/3693426159.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-20T14:43:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3693426159.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:43:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3692976913.html">
+<title><![CDATA[Research study for Facebook users]]></title>
+<link>http://ithaca.craigslist.org/cpg/3692976913.html</link>
+<description><![CDATA[A research group at Northwestern University is currently recruiting Facebook users for a research study exploring the way that people handle awkward situations on Facebook. 
+To participate, you must be 18 years old or older and a Facebook user. Parti [...]]]></description>
+<dc:date>2013-03-20T11:35:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3692976913.html</dc:source>
+<dc:title><![CDATA[Research study for Facebook users]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:35:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3640438779.html">
+<title><![CDATA[Hiring- Sales and Marketing Position Available ]]></title>
+<link>http://ithaca.craigslist.org/cpg/3640438779.html</link>
+<description><![CDATA[Our company is currently looking to fill 5 positions for our sales and marketing departments. What we do is we sell memberships to people who drive or own a vehicle, in addition, our memberships also come with health and legal benefits. 
+You will be  [...]]]></description>
+<dc:date>2013-03-17T17:33:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3640438779.html</dc:source>
+<dc:title><![CDATA[Hiring- Sales and Marketing Position Available ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:33:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3672951726.html">
+<title><![CDATA[Web Page Designer Needed]]></title>
+<link>http://ithaca.craigslist.org/cpg/3672951726.html</link>
+<description><![CDATA[Looking for artistic and technical assistance in getting a website up and running. This is a shorterm gig for someone who has a vision of how the page should look and work; but, needs technical help in putting the ideas to the keyboard and up up on t [...]]]></description>
+<dc:date>2013-03-10T22:44:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3672951726.html</dc:source>
+<dc:title><![CDATA[Web Page Designer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T22:44:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3660525950.html">
+<title><![CDATA[Workers Needed- $100 cash]]></title>
+<link>http://ithaca.craigslist.org/cpg/3660525950.html</link>
+<description><![CDATA[Currently looking for 8 people who can work on sites. Willing to pay $100 plus GUARANTEED BONUS. 
+-Simple Work 
+-Can be done in as little as 3 hours 
+If anyone wants to make $100 plus GUARANTEED BONUS today, please call me @ 917-808-3118 
+Thanks and  [...]]]></description>
+<dc:date>2013-03-08T15:20:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3660525950.html</dc:source>
+<dc:title><![CDATA[Workers Needed- $100 cash]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T15:20:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3656539180.html">
+<title><![CDATA[Wordpress web design help (ithaca/cortland)]]></title>
+<link>http://ithaca.craigslist.org/cpg/3656539180.html</link>
+<description><![CDATA[Looking for someone knowledgeable in setting up websites using wordpress to help me learn how to manage/edit/improve my websites. 
+Probably 1-3 hours per week for 8-10 weeks, maybe longer. 
+thanks, 
+mike]]></description>
+<dc:date>2013-03-03T16:16:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3656539180.html</dc:source>
+<dc:title><![CDATA[Wordpress web design help (ithaca/cortland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T16:16:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3638282153.html">
+<title><![CDATA[Graphic Design Internship (NYC based)]]></title>
+<link>http://ithaca.craigslist.org/cpg/3638282153.html</link>
+<description><![CDATA[The Collecte is seeking a graphic design intern specifically for html coding with minor website maintenance/development/design. We are seeking someone who has the ability to use Adobe Creative Suite; Photoshop, Dreamweaver, Illustrator etc. Start dat [...]]]></description>
+<dc:date>2013-02-23T13:03:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3638282153.html</dc:source>
+<dc:title><![CDATA[Graphic Design Internship (NYC based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T13:03:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ithaca.craigslist.org/cpg/3617236885.html">
+<title><![CDATA[Calling all bloggers, journalism majors, and internet connoisseurs]]></title>
+<link>http://ithaca.craigslist.org/cpg/3617236885.html</link>
+<description><![CDATA[thebestshitontheinternet.com is looking for contributors! Do you not have enough time to run your own blog, love blogging, or just want to be apart of an internet family? We are looking for you. Just sign up on our WordPress website, and start postin [...]]]></description>
+<dc:date>2013-02-14T13:49:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ithaca.craigslist.org/cpg/3617236885.html</dc:source>
+<dc:title><![CDATA[Calling all bloggers, journalism majors, and internet connoisseurs]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T13:49:55-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

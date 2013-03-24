@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://charlotte.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in charlotte</title>
+<link>http://charlotte.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://charlotte.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in charlotte</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:01-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3700913439.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3699480475.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3699006715.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3698309665.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3649729050.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3697207272.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3697164240.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3680444182.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3694888574.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3694880901.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3692865507.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3692780515.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3691859418.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3690825004.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3680126957.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3689214184.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3677713826.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3687679115.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3635685491.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3682451375.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3681778924.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3657161948.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3679502642.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3679485039.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3679404323.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3678594081.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3678415041.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3677420021.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3677323692.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3677212504.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3675946457.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3675852063.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3675807029.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3675420744.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3674723698.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3672134220.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3660219042.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3665067932.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3665035389.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3664379923.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3663676514.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3663665044.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3663309987.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3654860505.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3654137537.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3652426863.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3649456079.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3649162580.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3648557625.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3643177723.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3643143878.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3634378057.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3610225902.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3631840198.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3631677256.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3630177723.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3628346231.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3626643648.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3625488622.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3622872548.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3607599389.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3619593205.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3619112425.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3614312679.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3614154123.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3609894403.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3609146007.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3608418402.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3608332343.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3606639516.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3603889115.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3602876599.html" />
+  <rdf:li rdf:resource="http://charlotte.craigslist.org/cpg/3600429553.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3700913439.html">
+<title><![CDATA[I Need a Website Built Can you Help (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3700913439.html</link>
+<description><![CDATA[Musician needing a Music website built and looking for someone that can do the job.. Please contact if this is you.. 
+Thanks]]></description>
+<dc:date>2013-03-24T13:09:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3700913439.html</dc:source>
+<dc:title><![CDATA[I Need a Website Built Can you Help (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:09:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3699480475.html">
+<title><![CDATA[Need a Social Media and SEO Guru (NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3699480475.html</link>
+<description><![CDATA[Looking to partner with someone who has skills in social media. I have a great product that sells well, but need a partner to help promote it on things like Twitter, FB, and all the other things out there that I am not even familiar with. I am a visi [...]]]></description>
+<dc:date>2013-03-23T15:36:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3699480475.html</dc:source>
+<dc:title><![CDATA[Need a Social Media and SEO Guru (NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:36:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3699006715.html">
+<title><![CDATA[Web Developer  (Charlotte NC )]]></title>
+<link>http://charlotte.craigslist.org/cpg/3699006715.html</link>
+<description><![CDATA[Looking for a talented and ambitious web developer to join us in a new internet start-up venture. If you are a good fit and capable of building out our platform (which is conceptual at this point), you will be the companies Chief Technology Officer a [...]]]></description>
+<dc:date>2013-03-23T11:55:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3699006715.html</dc:source>
+<dc:title><![CDATA[Web Developer  (Charlotte NC )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:55:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3698309665.html">
+<title><![CDATA[AFFILIATE (CHARLOTTE)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3698309665.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-22T22:47:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3698309665.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (CHARLOTTE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:47:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3649729050.html">
+<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
+<link>http://charlotte.craigslist.org/cpg/3649729050.html</link>
+<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
+-Data Network Cabling Installation 
+-Telephone Wiring & Cabling Installation 
+-Cabling Design & Implemen [...]]]></description>
+<dc:date>2013-03-22T15:09:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3649729050.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:09:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3697207272.html">
+<title><![CDATA[Social Media and ecommerce help (Winston Salem)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3697207272.html</link>
+<description><![CDATA[Individual looking to grow my new network marketing company by gaining leads generated through social media outlets like Facebook and Linkedin - I already have a presence on both, but am a beginner so I need someone to help me develop my Facebook and [...]]]></description>
+<dc:date>2013-03-22T12:50:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3697207272.html</dc:source>
+<dc:title><![CDATA[Social Media and ecommerce help (Winston Salem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:50:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3697164240.html">
+<title><![CDATA[Need Help With Joomla Site  (charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3697164240.html</link>
+<description><![CDATA[I need Help with installing a Joomla Website. Joomla is installed and the template I want is installed just need a couple hours of help setting menu and pages. Call James at 980-298-2383. ]]></description>
+<dc:date>2013-03-22T12:32:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3697164240.html</dc:source>
+<dc:title><![CDATA[Need Help With Joomla Site  (charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:32:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3680444182.html">
+<title><![CDATA[Need Car Alarm and Radio Installed (Harrisburg)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3680444182.html</link>
+<description><![CDATA[Looking to trade services or items to have a alarm and radio removed from one honda civic and reinstalled into another honda civic. 
+Pls have references..... 
+Thank you!]]></description>
+<dc:date>2013-03-22T08:00:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3680444182.html</dc:source>
+<dc:title><![CDATA[Need Car Alarm and Radio Installed (Harrisburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:00:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3694888574.html">
+<title><![CDATA[IT Security Analyst  (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3694888574.html</link>
+<description><![CDATA[Looking for someone with experience participating in IT audits. Specifically, someone familiar with the SSAE-16 (or SAS-70) process. Medium sized software development firm, who participates in 4-6 yearly audits from various parties. Position is part- [...]]]></description>
+<dc:date>2013-03-21T10:05:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3694888574.html</dc:source>
+<dc:title><![CDATA[IT Security Analyst  (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:05:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3694880901.html">
+<title><![CDATA[IT Manager and Lead Security Analyst (30+ hours/week, $30-$40/hr) (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3694880901.html</link>
+<description><![CDATA[IT Manager and Lead Security Analyst 
+We are a local small-to-medium sized IT shop in search of a part-time IT Manager and Lead Security Analyst. This is a part-time contract position for at least the first 6 months. Ideally, it would result in a ful [...]]]></description>
+<dc:date>2013-03-21T10:01:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3694880901.html</dc:source>
+<dc:title><![CDATA[IT Manager and Lead Security Analyst (30+ hours/week, $30-$40/hr) (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:01:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3692865507.html">
+<title><![CDATA[Java Developer Needed]]></title>
+<link>http://charlotte.craigslist.org/cpg/3692865507.html</link>
+<description><![CDATA[Our software development company currently has more Java development projects then we can handle. We are looking to find a talented Java developer in (or at least near) North Carolina that can assist us in development. Some of the specific skills we  [...]]]></description>
+<dc:date>2013-03-20T10:43:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3692865507.html</dc:source>
+<dc:title><![CDATA[Java Developer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:43:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3692780515.html">
+<title><![CDATA[eEMPACT Software Admin Support (Charlotte NC 28205)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3692780515.html</link>
+<description><![CDATA[Flexible hours to provide our growing company with Administrative and set-up support for eEmpact Software. 
+Email or text (704)629-8069.]]></description>
+<dc:date>2013-03-20T09:59:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3692780515.html</dc:source>
+<dc:title><![CDATA[eEMPACT Software Admin Support (Charlotte NC 28205)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:59:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3691859418.html">
+<title><![CDATA[Personal Assistant (United States)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3691859418.html</link>
+<description><![CDATA[Hello! 
+I am a TV personality in the Charlotte NC area. I am seeking someone who can help with email distributions, follow up calls and other minor duties. 
+Knowledge of the following helpful: 
+Goggle Mail Goggle Calendar 
+PowerPoint Publisher 
+Photo [...]]]></description>
+<dc:date>2013-03-19T18:57:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3691859418.html</dc:source>
+<dc:title><![CDATA[Personal Assistant (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T18:57:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3690825004.html">
+<title><![CDATA[AFFILIATE (CHARLOTTE)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3690825004.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-19T11:22:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3690825004.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (CHARLOTTE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:22:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3680126957.html">
+<title><![CDATA[Web/APP Developer needed (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3680126957.html</link>
+<description><![CDATA[Good day. I am looking for a local developer to partner with on a pending project I've had in the works. Looking for a website and corresponding application. With focus on the app end. Working via either HTML5 ( to allow for cross platform accessibil [...]]]></description>
+<dc:date>2013-03-19T02:58:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3680126957.html</dc:source>
+<dc:title><![CDATA[Web/APP Developer needed (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T02:58:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3689214184.html">
+<title><![CDATA[8mm Video Transferred to DVD (Northlake Mall Area)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3689214184.html</link>
+<description><![CDATA[I am looking for an affordable, experienced professional to transfer my 8mm videos to a DVD. Please let me know your pricing as well as the time frame it would take for this job. I have several DVD's to be done, but need it done for a reasonable pric [...]]]></description>
+<dc:date>2013-03-18T15:03:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3689214184.html</dc:source>
+<dc:title><![CDATA[8mm Video Transferred to DVD (Northlake Mall Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:03:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3677713826.html">
+<title><![CDATA[Engagement Marketing Means Far More Return Business (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3677713826.html</link>
+<description><![CDATA[Broadcast Text Your Customers with Today's Deal 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-17T20:53:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3677713826.html</dc:source>
+<dc:title><![CDATA[Engagement Marketing Means Far More Return Business (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T20:53:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3687679115.html">
+<title><![CDATA[RF Dash7 Opentag Project (US)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3687679115.html</link>
+<description><![CDATA[Open Tag RF "WHERE AM I" Project - Asset location and tracking 
+The project is to develop a proof of concept testing unit for real time asset location using the Dash7 TI chip/transceiver in a defined outdoor space. The example shown in the attachment [...]]]></description>
+<dc:date>2013-03-17T20:06:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3687679115.html</dc:source>
+<dc:title><![CDATA[RF Dash7 Opentag Project (US)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T20:06:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3635685491.html">
+<title><![CDATA[iOS/Android Developer Needed (Greater Charlotte Area)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3635685491.html</link>
+<description><![CDATA[Our software development company currently has more mobile development projects then we can handle. We are looking to find a talented mobile app developer in (or at least near) North Carolina that can assist us in development these apps. 
+We are look [...]]]></description>
+<dc:date>2013-03-15T11:06:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3635685491.html</dc:source>
+<dc:title><![CDATA[iOS/Android Developer Needed (Greater Charlotte Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T11:06:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3682451375.html">
+<title><![CDATA[AFFILIATE (CHARLOTTE)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3682451375.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-15T08:42:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3682451375.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (CHARLOTTE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T08:42:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3681778924.html">
+<title><![CDATA[Software developer wanted now (NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3681778924.html</link>
+<description><![CDATA[I'm looking for the right software developer to work with. 
+If you would like to discuss the details 
+Get back to me right away ]]></description>
+<dc:date>2013-03-14T20:15:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3681778924.html</dc:source>
+<dc:title><![CDATA[Software developer wanted now (NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T20:15:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3657161948.html">
+<title><![CDATA[Start Mobile Marketing for Easy Sale Increases (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3657161948.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-14T14:05:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3657161948.html</dc:source>
+<dc:title><![CDATA[Start Mobile Marketing for Easy Sale Increases (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:05:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3679502642.html">
+<title><![CDATA[Help Setup my Directv HD receiver & dish (Harrisburg, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3679502642.html</link>
+<description><![CDATA[I got the following: 
+Direct TV HD TRIPLE LNB Satellite Dish DirecTV FTA 
+& 
+DirecTV HD Receiver (DirecTV sent it to me, it's legit) 
+I replaced my standard def dish and standard def receiver. But it doesn't seem I'm getting HD channels. Looking for  [...]]]></description>
+<dc:date>2013-03-13T18:54:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3679502642.html</dc:source>
+<dc:title><![CDATA[Help Setup my Directv HD receiver & dish (Harrisburg, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T18:54:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3679485039.html">
+<title><![CDATA[Design an interactive website. (Charlotte NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3679485039.html</link>
+<description><![CDATA[I have been commissioned to provide a service that also requires the use of an interactive website which provides training and captures information into databases while generating reports and results pages for users. A great example would be www.lumo [...]]]></description>
+<dc:date>2013-03-13T18:45:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3679485039.html</dc:source>
+<dc:title><![CDATA[Design an interactive website. (Charlotte NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T18:45:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3679404323.html">
+<title><![CDATA[Part Time Administrative Assistant Wanted (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3679404323.html</link>
+<description><![CDATA[Looking for part time administrative assistant accustomed to a fast pace work environment, and a knowledge of Microsoft products and computer data basing. A background in real estate or real estate appraisal is a plus. No set hours. You can work when [...]]]></description>
+<dc:date>2013-03-13T18:04:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3679404323.html</dc:source>
+<dc:title><![CDATA[Part Time Administrative Assistant Wanted (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T18:04:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3678594081.html">
+<title><![CDATA[AFFILIATE (CHARLOTTE)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3678594081.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-13T12:23:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3678594081.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (CHARLOTTE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T12:23:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3678415041.html">
+<title><![CDATA[Technical Sales - Immediate Opening (Charlotte +)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3678415041.html</link>
+<description><![CDATA[Established IT Provider based in Concord, NC seeks to rapidly expand our presence and client base. 
+We have an immediate opening for (1) Sales Position. Details below: 
+- This position is COMMISSION ONLY to start with. We have been burned in the past [...]]]></description>
+<dc:date>2013-03-13T11:09:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3678415041.html</dc:source>
+<dc:title><![CDATA[Technical Sales - Immediate Opening (Charlotte +)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:09:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3677420021.html">
+<title><![CDATA[GI Intern Wanted to Change The World (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3677420021.html</link>
+<description><![CDATA[The Growth Investigator Intern will be like a scavenger hunter for fresh material that will take the movement up a level! Otherwise known as the Research and Development expert, this person will search for interesting facts, statistics, and other app [...]]]></description>
+<dc:date>2013-03-12T20:12:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3677420021.html</dc:source>
+<dc:title><![CDATA[GI Intern Wanted to Change The World (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:12:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3677323692.html">
+<title><![CDATA[Adelo Software pro (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3677323692.html</link>
+<description><![CDATA[I am in need of someone who knows this software. I have never used this system before, and I am trying to set up the liquor inventory sheets. I will pay for someone to come show me the right way to set it up. ]]></description>
+<dc:date>2013-03-12T19:25:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3677323692.html</dc:source>
+<dc:title><![CDATA[Adelo Software pro (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T19:25:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3677212504.html">
+<title><![CDATA[AFFILIATE (CHARLOTTE)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3677212504.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-12T18:33:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3677212504.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (CHARLOTTE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T18:33:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3675946457.html">
+<title><![CDATA[Small Web Design Project(Volunteer) (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3675946457.html</link>
+<description><![CDATA[Well, from the title, you can tell that I am looking for some help with designing some HTML for a website/business I am creating. I am using a very popular Shopping Cart/Turnkey website, although I would like to spruce it up by creating a more custom [...]]]></description>
+<dc:date>2013-03-12T09:59:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3675946457.html</dc:source>
+<dc:title><![CDATA[Small Web Design Project(Volunteer) (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T09:59:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3675852063.html">
+<title><![CDATA[Cisco/UNIX Engineer (Anywhere)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3675852063.html</link>
+<description><![CDATA[No agencies. Individuals only who are immediately available! 
+Immediate need for a UNIX Engineer with Strong Cisco Experience. See below for the expected UNIX skill set and link to apply: 
+http://www.25by7.com/job2106.html . 
+Current Cisco Certificat [...]]]></description>
+<dc:date>2013-03-12T09:00:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3675852063.html</dc:source>
+<dc:title><![CDATA[Cisco/UNIX Engineer (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T09:00:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3675807029.html">
+<title><![CDATA[Powerpoint Graphic Designer Needed]]></title>
+<link>http://charlotte.craigslist.org/cpg/3675807029.html</link>
+<description><![CDATA[This is a pretty simple project. Looking for someone with a great design aesthetic to create a custom powerpoint template for me. Just need 3-4 simple but effective layouts that are professional, match the company theme, and stand out. 
+If you're rea [...]]]></description>
+<dc:date>2013-03-12T08:22:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3675807029.html</dc:source>
+<dc:title><![CDATA[Powerpoint Graphic Designer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T08:22:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3675420744.html">
+<title><![CDATA[Text Customers with Your Message and Promotions (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3675420744.html</link>
+<description><![CDATA[A Personal Message You Text to Your Best Customers 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-11T23:34:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3675420744.html</dc:source>
+<dc:title><![CDATA[Text Customers with Your Message and Promotions (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:34:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3674723698.html">
+<title><![CDATA[IT Security Engineer Needed (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3674723698.html</link>
+<description><![CDATA[The following is the job description for this specific role. It is a time sensitive opportunity so do respond as soon as possible! 
+The successful Senior Network Security Engineer applicant will possess the following requirements (required unless not [...]]]></description>
+<dc:date>2013-03-11T17:37:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3674723698.html</dc:source>
+<dc:title><![CDATA[IT Security Engineer Needed (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T17:37:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3672134220.html">
+<title><![CDATA[Website Manager (Matthews and surrounding areas)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3672134220.html</link>
+<description><![CDATA[I am looking for someone to manage my website for me. I have no experience with website crap hense the reason I'm looking for someone to manage it for me. This is strictly a freelance thing. I would like to find someone that I can make a contract wit [...]]]></description>
+<dc:date>2013-03-10T15:36:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3672134220.html</dc:source>
+<dc:title><![CDATA[Website Manager (Matthews and surrounding areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T15:36:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3660219042.html">
+<title><![CDATA[Graphic Designer wanted  (Charlotte )]]></title>
+<link>http://charlotte.craigslist.org/cpg/3660219042.html</link>
+<description><![CDATA[Professional IT Company is looking to partner up with a professional Graphic Designer 
+This is a lucrative opportunity for the right Graphic Designer. 
+If your interested in discussing this more contact us. 
+Thank you]]></description>
+<dc:date>2013-03-08T09:08:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3660219042.html</dc:source>
+<dc:title><![CDATA[Graphic Designer wanted  (Charlotte )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T09:08:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3665067932.html">
+<title><![CDATA[CCTV and PC Technician (NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3665067932.html</link>
+<description><![CDATA[On-Site Technologies is currently looking for a part time/on call PC repair technician. 
+The ideal candidate must have the following skills: 
+1. A+ Certification (or obtain one with in 90 days). 
+2. Understand networking. 
+3. Good oral and written co [...]]]></description>
+<dc:date>2013-03-07T11:31:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3665067932.html</dc:source>
+<dc:title><![CDATA[CCTV and PC Technician (NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T11:31:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3665035389.html">
+<title><![CDATA[Internet Marketing sales associates needed]]></title>
+<link>http://charlotte.craigslist.org/cpg/3665035389.html</link>
+<description><![CDATA[Internet Marketing sales and techniques taught....... 
+you will be given a blogging platform in order to promote our Business.... 
+you will work 1-3 hours a day sending out a blog post and taught the Marketing/Advertising concepts that will help expa [...]]]></description>
+<dc:date>2013-03-07T11:18:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3665035389.html</dc:source>
+<dc:title><![CDATA[Internet Marketing sales associates needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T11:18:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3664379923.html">
+<title><![CDATA[need my website setup]]></title>
+<link>http://charlotte.craigslist.org/cpg/3664379923.html</link>
+<description><![CDATA[I am starting a small Custom hat Business.i need my website setup and design.please be resonable with your price.thanks]]></description>
+<dc:date>2013-03-07T00:08:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3664379923.html</dc:source>
+<dc:title><![CDATA[need my website setup]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T00:08:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3663676514.html">
+<title><![CDATA[Internet Sales Lister/Data Entry  (charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3663676514.html</link>
+<description><![CDATA[We are looking to purchase eBay accounts I offer $225 a month, per account. 
+I am also looking to hire new people to work for our online business. Pleas send an email to discuss.]]></description>
+<dc:date>2013-03-06T17:23:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3663676514.html</dc:source>
+<dc:title><![CDATA[Internet Sales Lister/Data Entry  (charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T17:23:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3663665044.html">
+<title><![CDATA[Internet Sales Lister poster Ebay Amazon (charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3663665044.html</link>
+<description><![CDATA[Internet sales company looking for a experienced lister poster on ebay and Amazon. 
+This job requires full knowledge of ebay and or amazon rules and regulations. 
+Ideal candidate would have the following 
+- Experience on Ebay and Amazon rules, listin [...]]]></description>
+<dc:date>2013-03-06T17:18:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3663665044.html</dc:source>
+<dc:title><![CDATA[Internet Sales Lister poster Ebay Amazon (charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T17:18:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3663309987.html">
+<title><![CDATA[Website work]]></title>
+<link>http://charlotte.craigslist.org/cpg/3663309987.html</link>
+<description><![CDATA[Looking for someone with experience in website design layout and CMS. I need to build a custom adult paysite with a very professional look. Please Msg me for more info. I'm not looking for anything for free. I already have around 5k tied up in a cms  [...]]]></description>
+<dc:date>2013-03-06T14:55:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3663309987.html</dc:source>
+<dc:title><![CDATA[Website work]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:55:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3654860505.html">
+<title><![CDATA[Need a PC diagnosis (Rock Hill/Edgemoor)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3654860505.html</link>
+<description><![CDATA[Need someone in the Rock Hill area, specifically Edgemoor, who can take a look at my PC and check for any viruses, etc at a reasonable price. Thanks. ]]></description>
+<dc:date>2013-03-02T18:39:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3654860505.html</dc:source>
+<dc:title><![CDATA[Need a PC diagnosis (Rock Hill/Edgemoor)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T18:39:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3654137537.html">
+<title><![CDATA[Latin 2 (online)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3654137537.html</link>
+<description><![CDATA[I need someone to work on my online latin class. there are multiple sections and I will offer $20 per section. 
+only reply to add if you are experinced with Latin. thanks.]]></description>
+<dc:date>2013-03-02T13:16:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3654137537.html</dc:source>
+<dc:title><![CDATA[Latin 2 (online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T13:16:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3652426863.html">
+<title><![CDATA[UI/UX Developer and Lead/Architect (2 positions)  (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3652426863.html</link>
+<description><![CDATA[These are (2) long-term (12+ months) full time, on-site, contract (hourly paid) UI/UX Developer and UI/UX Lead/Architect positions located in Charlotte, NC paying to $70.00 per hour for the Developer role and to $110.00 per hour for the Architect rol [...]]]></description>
+<dc:date>2013-03-01T16:35:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3652426863.html</dc:source>
+<dc:title><![CDATA[UI/UX Developer and Lead/Architect (2 positions)  (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T16:35:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3649456079.html">
+<title><![CDATA[Web Graphic Designer Needed (North Carolina )]]></title>
+<link>http://charlotte.craigslist.org/cpg/3649456079.html</link>
+<description><![CDATA[We are searching for an upcoming graphic designer to join our growing Digital marketing Agency. Applicant must be creative and can think out of the box. 
+Our company specializes in Web Design, Apps development for mobile & executing marketing campaig [...]]]></description>
+<dc:date>2013-02-28T12:00:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3649456079.html</dc:source>
+<dc:title><![CDATA[Web Graphic Designer Needed (North Carolina )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:00:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3649162580.html">
+<title><![CDATA[Social Media Manager (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3649162580.html</link>
+<description><![CDATA[We are a website that is focused on highlighting political and social issues that is seeking an intern for our Social Media Manger position. The position will be responsible for increasing traffic and visibility through the utilization of major socia [...]]]></description>
+<dc:date>2013-02-28T09:49:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3649162580.html</dc:source>
+<dc:title><![CDATA[Social Media Manager (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T09:49:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3648557625.html">
+<title><![CDATA[Graphic Designer, Need Professional Business Advertisement (United States)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3648557625.html</link>
+<description><![CDATA[Looking for an experienced graphic designer that can create a very professional business advertisement with design for our product. Compensation $50.00 . Please send samples of your advertisement/literature work to gavin402@aol.com. Thank you ]]></description>
+<dc:date>2013-02-27T22:20:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3648557625.html</dc:source>
+<dc:title><![CDATA[Graphic Designer, Need Professional Business Advertisement (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T22:20:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3643177723.html">
+<title><![CDATA[.NET Developers Needed! (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3643177723.html</link>
+<description><![CDATA[Seasoned .NET developers needed in the Charlotte, NC area. Job description below. Role is time sensitive so contact as soon as possible! 
+• Strong C#, .NET Framework 3.5, 4.0 .NET Winforms and WPF 
+• Strong SQL skills (SQL 2005) and database modeling [...]]]></description>
+<dc:date>2013-02-25T17:00:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3643177723.html</dc:source>
+<dc:title><![CDATA[.NET Developers Needed! (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:00:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3643143878.html">
+<title><![CDATA[Project Manager]]></title>
+<link>http://charlotte.craigslist.org/cpg/3643143878.html</link>
+<description><![CDATA[Job Description: 
+Role/Skills: 
+• Requires excellent communications skills coordinating multiple technical and data center teams/organizations simultaneously. 
+• Additionally, prior success working through simultaneous technology server maintenance l [...]]]></description>
+<dc:date>2013-02-25T16:46:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3643143878.html</dc:source>
+<dc:title><![CDATA[Project Manager]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:46:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3634378057.html">
+<title><![CDATA[Project Managers Needed! (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3634378057.html</link>
+<description><![CDATA[Application and data migration experience: 
+1. Experience project managing application migration moves from one data center to another. 
+2. Experience migrating all system layers/tiers. . . i.e. web, app and data 
+3. Experience working with firewalls [...]]]></description>
+<dc:date>2013-02-21T18:04:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3634378057.html</dc:source>
+<dc:title><![CDATA[Project Managers Needed! (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T18:04:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3610225902.html">
+<title><![CDATA[Website (South Charlotte area)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3610225902.html</link>
+<description><![CDATA[I am looking to have a website built. One of the main features will be a VIN Decoder for automobiles, like the one seen here http://www.vindecoder.net/ will have to be intergrated into the website. I am not looking to work with someone strictly by ph [...]]]></description>
+<dc:date>2013-02-20T18:55:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3610225902.html</dc:source>
+<dc:title><![CDATA[Website (South Charlotte area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T18:55:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3631840198.html">
+<title><![CDATA[Website Designers wanted (N.C. - Nationwide)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3631840198.html</link>
+<description><![CDATA[Seeking professional-quality website designers . 
+Quality, Effeciency and Appropriate Customer Service are a HUGE PLUS! 
+For Consideration, please send an estimate of completion time, estimated price ranges, any previous work experience. 
+Replies tha [...]]]></description>
+<dc:date>2013-02-20T17:00:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3631840198.html</dc:source>
+<dc:title><![CDATA[Website Designers wanted (N.C. - Nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T17:00:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3631677256.html">
+<title><![CDATA[Ebay Top Rated Seller (Anywhere)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3631677256.html</link>
+<description><![CDATA[If you have experince with selling on ebay send your feedback amount and contact number with the best time to reach you.Great opportunity to make $500 / week from home ,no investmet required 
+Thanks ]]></description>
+<dc:date>2013-02-20T15:57:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3631677256.html</dc:source>
+<dc:title><![CDATA[Ebay Top Rated Seller (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T15:57:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3630177723.html">
+<title><![CDATA[Quicken Essentials Training (Mooresville)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3630177723.html</link>
+<description><![CDATA[I have set up Quicken Essentials on my Mac and would like someone familiar with Quicken Essentials and a Mac to help show me the ins and outs of the program and get me set up and operating properly. Please email me or call Tom 980-722-7454]]></description>
+<dc:date>2013-02-20T00:17:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3630177723.html</dc:source>
+<dc:title><![CDATA[Quicken Essentials Training (Mooresville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T00:17:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3628346231.html">
+<title><![CDATA[Business Analyst (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3628346231.html</link>
+<description><![CDATA[• BS/BA degree in Information Systems, Records Management, Business Management or related discipline desired. 
+• Progressively increasing responsibility in Risk Management functions in a complex multi-discipline environment. 
+• Must have an in-depth  [...]]]></description>
+<dc:date>2013-02-19T11:08:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3628346231.html</dc:source>
+<dc:title><![CDATA[Business Analyst (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:08:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3626643648.html">
+<title><![CDATA[Website  (charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3626643648.html</link>
+<description><![CDATA[Looking for someone to build a membership website/affiliate program. 
+Please respond with your skillset as well as your portfolio. Also a ball park of what you would charge. I know there will be some questions before you can accurately estimate such  [...]]]></description>
+<dc:date>2013-02-18T16:07:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3626643648.html</dc:source>
+<dc:title><![CDATA[Website  (charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T16:07:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3625488622.html">
+<title><![CDATA[Need help with Panasonic GH2 hack]]></title>
+<link>http://charlotte.craigslist.org/cpg/3625488622.html</link>
+<description><![CDATA[I'm hoping to find someone to help walk me through the process of hacking a Panasonic GH2 HDSLR camera for higher bit-rate shooting. I work on a Macbook Pro and haven't been able to find a full, dumb-downed walkthrough to help me do this. I can pay $ [...]]]></description>
+<dc:date>2013-02-18T08:50:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3625488622.html</dc:source>
+<dc:title><![CDATA[Need help with Panasonic GH2 hack]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T08:50:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3622872548.html">
+<title><![CDATA[need ip camera installed in my house (gadtonia)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3622872548.html</link>
+<description><![CDATA[I need a ip surveillance system need 4/5 cameras with Android access 
+And mabey one camera that can rotate 
+704_two14_ten, eighteen]]></description>
+<dc:date>2013-02-16T22:35:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3622872548.html</dc:source>
+<dc:title><![CDATA[need ip camera installed in my house (gadtonia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T22:35:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3607599389.html">
+<title><![CDATA[MCA Seeking Sales Positions ! $160+ Weekly !]]></title>
+<link>http://charlotte.craigslist.org/cpg/3607599389.html</link>
+<description><![CDATA[Are you a very social person? Are you good with networking on social networking sites? MCA is hiring associates for customer service positions. Reply with your name to receive more information. ]]></description>
+<dc:date>2013-02-15T16:49:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3607599389.html</dc:source>
+<dc:title><![CDATA[MCA Seeking Sales Positions ! $160+ Weekly !]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T16:49:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3619593205.html">
+<title><![CDATA[Small Web Design (Gastonia )]]></title>
+<link>http://charlotte.craigslist.org/cpg/3619593205.html</link>
+<description><![CDATA[I need someone to post banner ads that I have on a website. Should not take more than an hour and its a cash gig.]]></description>
+<dc:date>2013-02-15T14:42:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3619593205.html</dc:source>
+<dc:title><![CDATA[Small Web Design (Gastonia )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T14:42:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3619112425.html">
+<title><![CDATA[inFlow Inventory software program (Fort Mill)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3619112425.html</link>
+<description><![CDATA[We're looking for someone in the local Charlotte/surrounding areas that can offer in-house training on the inFlow inventory software program. ]]></description>
+<dc:date>2013-02-15T11:40:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3619112425.html</dc:source>
+<dc:title><![CDATA[inFlow Inventory software program (Fort Mill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T11:40:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3614312679.html">
+<title><![CDATA[need residential drafting (monroe)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3614312679.html</link>
+<description><![CDATA[Need a set of blueprints to secure a permit in Union County NC]]></description>
+<dc:date>2013-02-13T09:56:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3614312679.html</dc:source>
+<dc:title><![CDATA[need residential drafting (monroe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T09:56:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3614154123.html">
+<title><![CDATA[Need Java programming help (mt holly / charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3614154123.html</link>
+<description><![CDATA[Need tutoring in Java programming! I have a assignment due this Sunday and I need to meet with someone this week. 
+Please let me know the hourly rate expected as well as your credentials ]]></description>
+<dc:date>2013-02-13T08:18:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3614154123.html</dc:source>
+<dc:title><![CDATA[Need Java programming help (mt holly / charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T08:18:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3609894403.html">
+<title><![CDATA[Computer Science Programmer/Coder (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3609894403.html</link>
+<description><![CDATA[Computer Science/Programmer needed to develop... 
+Mobile CMS (Content Management System) It's an in depth project 
+with the right Science Programmer I'm confident we can take a complex 
+subject and deliver simplicity- Genius. 
+The program will be set [...]]]></description>
+<dc:date>2013-02-11T13:32:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3609894403.html</dc:source>
+<dc:title><![CDATA[Computer Science Programmer/Coder (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:32:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3609146007.html">
+<title><![CDATA[NETAPP NAS Storage Engineer]]></title>
+<link>http://charlotte.craigslist.org/cpg/3609146007.html</link>
+<description><![CDATA[Genesis10 is currently seeking an Engineer-Storage for a contract position with a Fortune 500 retail firm in their north Charlotte, NC location. This is a 5 month + contract position. 
+Job Description: Support Store ISP Refresh project Trouble NAS Pe [...]]]></description>
+<dc:date>2013-02-11T08:20:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3609146007.html</dc:source>
+<dc:title><![CDATA[NETAPP NAS Storage Engineer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T08:20:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3608418402.html">
+<title><![CDATA[Need a website built (Charlotte NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3608418402.html</link>
+<description><![CDATA[I need a website built that is a storefront. I would like a FB and an Android app if it is within your capability but it isnt required. I basically need to sale products and services as convey that in a quick easy to use fashion. I have a graphic des [...]]]></description>
+<dc:date>2013-02-10T20:16:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3608418402.html</dc:source>
+<dc:title><![CDATA[Need a website built (Charlotte NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T20:16:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3608332343.html">
+<title><![CDATA[Excel work (Charlotte, NC)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3608332343.html</link>
+<description><![CDATA[I'm looking someone (preferably students )who can do some excel work for me. 
+I have an excel sheet with 2000 items and want some one to look those into a website provided by me and update the excel sheet accordingly. 
+Locals only please. I will meet [...]]]></description>
+<dc:date>2013-02-10T19:29:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3608332343.html</dc:source>
+<dc:title><![CDATA[Excel work (Charlotte, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T19:29:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3606639516.html">
+<title><![CDATA[Fantasy Sports Assistant (Charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3606639516.html</link>
+<description><![CDATA[New fantasy sports site is looking for skilled veterans at drafting fantasy sports team. Our site offers draft assistance for owners who can not be at their drafts and we will help them draft their teams. We are looking for people interested in worki [...]]]></description>
+<dc:date>2013-02-09T23:45:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3606639516.html</dc:source>
+<dc:title><![CDATA[Fantasy Sports Assistant (Charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T23:45:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3603889115.html">
+<title><![CDATA[PHP Web Developers (anywhere)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3603889115.html</link>
+<description><![CDATA[Looking for PHP developers to help on an overload of projects. All of our projects are in LAMP and can be done remotely. Please send your resume and any relevant examples you can provide. ]]></description>
+<dc:date>2013-02-08T18:26:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3603889115.html</dc:source>
+<dc:title><![CDATA[PHP Web Developers (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T18:26:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3602876599.html">
+<title><![CDATA[looking for sumone to do my taxes (gastonia or charlotte)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3602876599.html</link>
+<description><![CDATA[im looking for sumone to do my taxes. i havnt worked this year just tryin to get a couple 1000 bck if possible. i know this risk im takin but the more money the better. hmu with a email send ya name and number and how much u charge. thanks and hope t [...]]]></description>
+<dc:date>2013-02-08T11:54:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3602876599.html</dc:source>
+<dc:title><![CDATA[looking for sumone to do my taxes (gastonia or charlotte)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T11:54:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://charlotte.craigslist.org/cpg/3600429553.html">
+<title><![CDATA[Cable Techs Needed (University)]]></title>
+<link>http://charlotte.craigslist.org/cpg/3600429553.html</link>
+<description><![CDATA[We are looking for 2 Helper Technicians with the following skillsets: 
+o Cable pulling (Cat-5/Cat-6) 
+o Terminations (Jacks & RJ45s) 
+o Camera installation (Basic mounting of arms & cameras) 
+o Any specific camera experience is a bonus but not mandat [...]]]></description>
+<dc:date>2013-02-07T11:36:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://charlotte.craigslist.org/cpg/3600429553.html</dc:source>
+<dc:title><![CDATA[Cable Techs Needed (University)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T11:36:06-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

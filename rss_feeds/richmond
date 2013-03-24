@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://richmond.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in richmond</title>
+<link>http://richmond.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://richmond.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in richmond</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:25-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3700482801.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3700106882.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3691748169.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3684865609.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3697625985.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3688654089.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3696244873.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3695186967.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3692714396.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3690578233.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3689185557.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3686974639.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3686112834.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3683709042.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3681539838.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3681366814.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3658938802.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3680118652.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3675003787.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3671445763.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3667552409.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3667025328.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3610344707.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3665984002.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3650154009.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3646856020.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3642673920.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3635605621.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3630675374.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3623422939.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3597744213.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3609398937.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3607731676.html" />
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3548703472.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://richmond.craigslist.org/cpg/3700482801.html">
+<title><![CDATA[Web Sales (Richmond area)]]></title>
+<link>http://richmond.craigslist.org/cpg/3700482801.html</link>
+<description><![CDATA[We run a reputable web shop in and know Wordpress,. Joomla and HTML like the back of our hand. 
+If you can get on the phone and sell these kind of sites designs, we will pay you 25% of any contract you originate. We require a 25% deposit so YOU would [...]]]></description>
+<dc:date>2013-03-24T08:04:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3700482801.html</dc:source>
+<dc:title><![CDATA[Web Sales (Richmond area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T08:04:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3700106882.html">
+<title><![CDATA[Joomla (Richmond/VCU)]]></title>
+<link>http://richmond.craigslist.org/cpg/3700106882.html</link>
+<description><![CDATA[I am looking for someone who has experience with Joomla. I have some things I am trying to do with my website that are outside of my ability. I think that a few of the things I am trying to accomplish are css related so ideally, you will have experie [...]]]></description>
+<dc:date>2013-03-23T22:05:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3700106882.html</dc:source>
+<dc:title><![CDATA[Joomla (Richmond/VCU)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T22:05:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3691748169.html">
+<title><![CDATA[Need Experienced Sales Experts...]]></title>
+<link>http://richmond.craigslist.org/cpg/3691748169.html</link>
+<description><![CDATA[We're looking for highly-qualified Sales Experts that can really make a difference. Candidates should be well spoken, Energetic, and a people person. 
+It would be a PLUS if: 
+- you have experience with selling technology 
+- If you have experience in  [...]]]></description>
+<dc:date>2013-03-23T10:56:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3691748169.html</dc:source>
+<dc:title><![CDATA[Need Experienced Sales Experts...]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:56:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3684865609.html">
+<title><![CDATA[Can you fix my Treadmill?? (Ridgefield, Henrico.)]]></title>
+<link>http://richmond.craigslist.org/cpg/3684865609.html</link>
+<description><![CDATA[Looking for Certified Technician for FIX my TREADMILL 
+* Model: Nordic Track A2350. 
+* Purchased from Sears. 
+* On & Off working condition after Childrens Hanging and Shaking Bad at 
+Treadmill Handle Bar. 
+* I will pay technician after FIXED UP. If y [...]]]></description>
+<dc:date>2013-03-22T20:35:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3684865609.html</dc:source>
+<dc:title><![CDATA[Can you fix my Treadmill?? (Ridgefield, Henrico.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T20:35:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3697625985.html">
+<title><![CDATA[WANTED: Advertising /marketing (Virginia)]]></title>
+<link>http://richmond.craigslist.org/cpg/3697625985.html</link>
+<description><![CDATA[Custom builder specialising in custom buildings, storage garages, decks, sheds, barns etc. 
+willing to trade/ barter services/ labor in exchange for: 
+* Web Design 
+* advertising/printing/etc. 
+* marketing 
+* computer services 
+-If interested flexibl [...]]]></description>
+<dc:date>2013-03-22T15:57:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3697625985.html</dc:source>
+<dc:title><![CDATA[WANTED: Advertising /marketing (Virginia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:57:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3688654089.html">
+<title><![CDATA[*^^* TREADMILL TECHNICIAN *^^*  (Ridgefield PKWY. Henrico.)]]></title>
+<link>http://richmond.craigslist.org/cpg/3688654089.html</link>
+<description><![CDATA[Looking for Certified Technician for FIX my TREADMILL 
+* Model: Nordic Track A2350. 
+* Purchased from Sears. 
+* On & Off working condition after Childrens Hanging and Shaking Bad at 
+Treadmill Handle Bar. 
+* I will pay technician after FIXED UP. If y [...]]]></description>
+<dc:date>2013-03-22T11:16:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3688654089.html</dc:source>
+<dc:title><![CDATA[*^^* TREADMILL TECHNICIAN *^^*  (Ridgefield PKWY. Henrico.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:16:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3696244873.html">
+<title><![CDATA[Creating a game that will cost $1 (Carytown Bistro )]]></title>
+<link>http://richmond.craigslist.org/cpg/3696244873.html</link>
+<description><![CDATA[Hi to all! Everyone who is interested in making a video game for IOS, Android, and/or Xbox Live Arcade, is invited to join us as we set out to build a game that will cost $1.00. I have a start date of this saturday at 340pm at Carytown Bistro, but to [...]]]></description>
+<dc:date>2013-03-21T21:22:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3696244873.html</dc:source>
+<dc:title><![CDATA[Creating a game that will cost $1 (Carytown Bistro )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T21:22:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3695186967.html">
+<title><![CDATA[NEED SOMEONE TO FIX MY TV (Henrico)]]></title>
+<link>http://richmond.craigslist.org/cpg/3695186967.html</link>
+<description><![CDATA[Hello i have a 47 inch vizio flatscreen that ive had for a while. The screen went out bit everything else works fine. I am wondering if this is repairable?]]></description>
+<dc:date>2013-03-21T12:25:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3695186967.html</dc:source>
+<dc:title><![CDATA[NEED SOMEONE TO FIX MY TV (Henrico)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:25:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3692714396.html">
+<title><![CDATA[Iphone Game developer (Objective-C and Cocos 2d) (Richmond)]]></title>
+<link>http://richmond.craigslist.org/cpg/3692714396.html</link>
+<description><![CDATA[We are looking for an individual who knows Objective-C and Cocos 2d. 
+Must be local. Must have something to show. Email me something you have worked on and a bit about yourself. Payment is negotiable. NOT looking for a company, only an individual who [...]]]></description>
+<dc:date>2013-03-20T09:18:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3692714396.html</dc:source>
+<dc:title><![CDATA[Iphone Game developer (Objective-C and Cocos 2d) (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:18:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3690578233.html">
+<title><![CDATA[Web & Graphics Design! (Johnston Wills &amp; Midlothian Trnpk.)]]></title>
+<link>http://richmond.craigslist.org/cpg/3690578233.html</link>
+<description><![CDATA[Languages: C#, PHP, JavaScript, HTML, CSS, Action Script. Databases: MySQL, SQL Server. Software: Adobe Creative Suite, MS Office Suite, Flash, Visual Studio or Similar. Strengths: Creativity & Design (i.e. Themes.) 
+Currently, we have a Customer Loy [...]]]></description>
+<dc:date>2013-03-19T09:09:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3690578233.html</dc:source>
+<dc:title><![CDATA[Web & Graphics Design! (Johnston Wills &amp; Midlothian Trnpk.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:09:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3689185557.html">
+<title><![CDATA[Desktop technician (Richmond, VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3689185557.html</link>
+<description><![CDATA[Our client has requested we source a PC desktop technician for Richmond, VA 
+Job Description: Re-image (OneDesk: NWVCHA707V ADONLY) (Released) an HP EliteBook 6930p sn 2CE0210987; 
+Date/Time: Tuesday 3/19 at 11am]]></description>
+<dc:date>2013-03-18T14:52:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3689185557.html</dc:source>
+<dc:title><![CDATA[Desktop technician (Richmond, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:52:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3686974639.html">
+<title><![CDATA[Calculus TUDOR NEEDED!!! (Richmond, VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3686974639.html</link>
+<description><![CDATA[I am looking for someone who can PHYSICALLY GO TO CLASS FOR ME!!! must be a FEMALE!!! 
+I will be willing to pay REALLY GOOD MONEY, if you can attend class for me once a week (either during the summer or not, at whatever time fits your schedule) and g [...]]]></description>
+<dc:date>2013-03-17T13:54:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3686974639.html</dc:source>
+<dc:title><![CDATA[Calculus TUDOR NEEDED!!! (Richmond, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:54:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3686112834.html">
+<title><![CDATA[Create Me A Website (Midlothian)]]></title>
+<link>http://richmond.craigslist.org/cpg/3686112834.html</link>
+<description><![CDATA[Ive just started a landscaping company in which I need a website created NLT April 1st. If sooner then that will def catch my attention. Here is what I'm looking for. 
+1. Website professionally designed with my input and your creative ideas. Starting [...]]]></description>
+<dc:date>2013-03-16T23:18:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3686112834.html</dc:source>
+<dc:title><![CDATA[Create Me A Website (Midlothian)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T23:18:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3683709042.html">
+<title><![CDATA[reverse search on clients  (henrico )]]></title>
+<link>http://richmond.craigslist.org/cpg/3683709042.html</link>
+<description><![CDATA[i need someone with a laptop who has experience doing reverse search . i need about 25 past clients located current address and job if employed . i will pay you 10% of everything collected . must sign agreement to work in confidence . thank you call  [...]]]></description>
+<dc:date>2013-03-15T18:37:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3683709042.html</dc:source>
+<dc:title><![CDATA[reverse search on clients  (henrico )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T18:37:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3681539838.html">
+<title><![CDATA[Web Design (Richmond VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3681539838.html</link>
+<description><![CDATA[Hello 
+I need to create a website for my small business I am just starting ..... if you are interested in the job, please send me an email with your prices, what is included in the package and website of reference ... Thanks ..]]></description>
+<dc:date>2013-03-14T18:09:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3681539838.html</dc:source>
+<dc:title><![CDATA[Web Design (Richmond VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:09:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3681366814.html">
+<title><![CDATA[PR/Special Event Intern (Richmond)]]></title>
+<link>http://richmond.craigslist.org/cpg/3681366814.html</link>
+<description><![CDATA[ProWorthy Global, a PR and Special Event Planning Agency, is currently looking for an Executive Assistant intern to provide administrative support to the CFO and our team. This position will require you to assist with our NFL/NBA project(s) and non-p [...]]]></description>
+<dc:date>2013-03-14T16:45:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3681366814.html</dc:source>
+<dc:title><![CDATA[PR/Special Event Intern (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:45:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3658938802.html">
+<title><![CDATA[VoIP Technician (Richmond)]]></title>
+<link>http://richmond.craigslist.org/cpg/3658938802.html</link>
+<description><![CDATA[VoIP Field Technician 
+2-4 Weeks/40hrs a week 
+Description 
+VoIP Technician needed for project consisting of 2 phases: Site Surveys and Network Cabling Installation. Monday-Thursday, 8-12/hr days. Some travel to N. Va to cover sites, all travel expen [...]]]></description>
+<dc:date>2013-03-14T11:52:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3658938802.html</dc:source>
+<dc:title><![CDATA[VoIP Technician (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T11:52:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3680118652.html">
+<title><![CDATA[Training for System Administrator (Northern Virginia)]]></title>
+<link>http://richmond.craigslist.org/cpg/3680118652.html</link>
+<description><![CDATA[Hello, I am looking for training as a System Administrator. Someone who could teach me about creating a server from the ground up, handle an exchange server, active directory, printer creation, who knows group policy, better understandings of the net [...]]]></description>
+<dc:date>2013-03-14T02:03:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3680118652.html</dc:source>
+<dc:title><![CDATA[Training for System Administrator (Northern Virginia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T02:03:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3675003787.html">
+<title><![CDATA[Free Lance IT Work (Richmond Area)]]></title>
+<link>http://richmond.craigslist.org/cpg/3675003787.html</link>
+<description><![CDATA[Needed: someone who has Linux familiarity, Oracle server familiarity (ability to formulate & debug querys), and general web development ]]></description>
+<dc:date>2013-03-11T19:43:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3675003787.html</dc:source>
+<dc:title><![CDATA[Free Lance IT Work (Richmond Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T19:43:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3671445763.html">
+<title><![CDATA[InDesign project/temporary (E. Main Street)]]></title>
+<link>http://richmond.craigslist.org/cpg/3671445763.html</link>
+<description><![CDATA[Have a project involving InDesign for typesetting covers.... Approximately 12 covers need to 
+be constructed. Could be a home project for the right person.... Rate is negotiable... Should 
+take 3+ hours to complete.... Send resume with your previous  [...]]]></description>
+<dc:date>2013-03-10T09:48:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3671445763.html</dc:source>
+<dc:title><![CDATA[InDesign project/temporary (E. Main Street)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T09:48:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3667552409.html">
+<title><![CDATA[Find My Horse Job Hiring (Virtual)]]></title>
+<link>http://richmond.craigslist.org/cpg/3667552409.html</link>
+<description><![CDATA[I am the owner of Findmyhorsejob.com and I am looking for a intern to fill a Marketing/Advertising/Business Consultant position on the website. The position is unpaid, but advertising commissions would be paid for filled ad spaces. I am working on ad [...]]]></description>
+<dc:date>2013-03-08T12:40:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3667552409.html</dc:source>
+<dc:title><![CDATA[Find My Horse Job Hiring (Virtual)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T12:40:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3667025328.html">
+<title><![CDATA[dreamweaver instruction (midlothian)]]></title>
+<link>http://richmond.craigslist.org/cpg/3667025328.html</link>
+<description><![CDATA[Looking for someone to teach me to basics of dreamweaver. I have done other websites on wordpress and yahoo site builder but want to expand my knowledge to something better. For the most part I will need to learn how to import and edit finished templ [...]]]></description>
+<dc:date>2013-03-08T08:47:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3667025328.html</dc:source>
+<dc:title><![CDATA[dreamweaver instruction (midlothian)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T08:47:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3610344707.html">
+<title><![CDATA[Soundboard Engineer (Downtown Richmond)]]></title>
+<link>http://richmond.craigslist.org/cpg/3610344707.html</link>
+<description><![CDATA[Looking for a college student, soundboard engineer to help run a Radio Station 101.1 The Fam]]></description>
+<dc:date>2013-03-08T00:45:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3610344707.html</dc:source>
+<dc:title><![CDATA[Soundboard Engineer (Downtown Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T00:45:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3665984002.html">
+<title><![CDATA[satelite tv installer]]></title>
+<link>http://richmond.craigslist.org/cpg/3665984002.html</link>
+<description><![CDATA[Have direct tv mobile/temporary setup. Only in Hanover Virginia short term. I have all the hardware including satellite finder what I need is dish installed tripod mount and properly aimed. You tell me what it will cost for your expertise. ]]></description>
+<dc:date>2013-03-07T17:38:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3665984002.html</dc:source>
+<dc:title><![CDATA[satelite tv installer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T17:38:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3650154009.html">
+<title><![CDATA[Sharepoint Sr. Analyst Developer (Richmond, VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3650154009.html</link>
+<description><![CDATA[Perform the analysis, design, development, implementation and delivery of Sharepoint 2010 system and software solutions. Design, prototype, develop and implement Sharepoint applications and components to achieve business results for the client. Perfo [...]]]></description>
+<dc:date>2013-02-28T16:41:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3650154009.html</dc:source>
+<dc:title><![CDATA[Sharepoint Sr. Analyst Developer (Richmond, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:41:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3646856020.html">
+<title><![CDATA[Java Architech (RVA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3646856020.html</link>
+<description><![CDATA[Need a seasoned Java Architect for a 2-3 month gig. Some integration, assessment and a little development. Could be long term but no promises. Resume must be included for consideration. ]]></description>
+<dc:date>2013-02-27T09:58:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3646856020.html</dc:source>
+<dc:title><![CDATA[Java Architech (RVA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T09:58:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3642673920.html">
+<title><![CDATA[SEO/Marketing Needed (RVA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3642673920.html</link>
+<description><![CDATA[I have a website and a blog that sell adult-oriented products. I'm in need of a SEO expert that can increase qualified traffic and get my company on page 1 of the major search engines as well as create legitimate backlinks and strategies to increase  [...]]]></description>
+<dc:date>2013-02-25T13:51:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3642673920.html</dc:source>
+<dc:title><![CDATA[SEO/Marketing Needed (RVA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T13:51:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3635605621.html">
+<title><![CDATA[Fillable Forms (Midlothian (Hull St. &amp; Winterpock))]]></title>
+<link>http://richmond.craigslist.org/cpg/3635605621.html</link>
+<description><![CDATA[We need someone who is proficient in MS Word Fillable Forms to edit/create many of our forms for Office365. Could work into a full-time position. Please email your credentials. We are a professional, friendly office. ]]></description>
+<dc:date>2013-02-22T10:47:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3635605621.html</dc:source>
+<dc:title><![CDATA[Fillable Forms (Midlothian (Hull St. &amp; Winterpock))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T10:47:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3630675374.html">
+<title><![CDATA[HTML/CSS, JavaScript Developer Needed  (Richmond, VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3630675374.html</link>
+<description><![CDATA[Local web design company looking to expand. Currently we need developers with 3-5 years of professional experience using HTML/CSS and JavaScript. Experience with other languages is great and will help to keep you busy around the office. Please send y [...]]]></description>
+<dc:date>2013-02-20T09:42:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3630675374.html</dc:source>
+<dc:title><![CDATA[HTML/CSS, JavaScript Developer Needed  (Richmond, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T09:42:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3623422939.html">
+<title><![CDATA[Need Logo Design for Consulting Company (Richmond)]]></title>
+<link>http://richmond.craigslist.org/cpg/3623422939.html</link>
+<description><![CDATA[Need a logo design for a consulting company in Richmond. Will be used on website and business cards. Please send samples of previous work and price estimate for design. ]]></description>
+<dc:date>2013-02-17T09:50:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3623422939.html</dc:source>
+<dc:title><![CDATA[Need Logo Design for Consulting Company (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T09:50:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3597744213.html">
+<title><![CDATA[We Will train you on Sql Server DBA free & place you-DBAZONE Inc (Any)]]></title>
+<link>http://richmond.craigslist.org/cpg/3597744213.html</link>
+<description><![CDATA[We will train you on highly sought after career line of SQL SERVER Database Administration FREE and we will help get placed and start working as an SQL SERVER DBA. Please reply with the following details: 
+1) Your current education qualification 
+2)  [...]]]></description>
+<dc:date>2013-02-13T15:27:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3597744213.html</dc:source>
+<dc:title><![CDATA[We Will train you on Sql Server DBA free & place you-DBAZONE Inc (Any)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T15:27:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3609398937.html">
+<title><![CDATA[SEO help needed (Midlothian)]]></title>
+<link>http://richmond.craigslist.org/cpg/3609398937.html</link>
+<description><![CDATA[Need help with SEO for a small business website. Use GoDaddy to build and host and have a SEO tool through them but still need help.]]></description>
+<dc:date>2013-02-11T10:34:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3609398937.html</dc:source>
+<dc:title><![CDATA[SEO help needed (Midlothian)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T10:34:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3607731676.html">
+<title><![CDATA[Web Designer (US)]]></title>
+<link>http://richmond.craigslist.org/cpg/3607731676.html</link>
+<description><![CDATA[Photographer looking for someone to design a webpage which will be a portfolio of the photographer's work. Background in photography and/or art a plus. ]]></description>
+<dc:date>2013-02-10T14:48:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3607731676.html</dc:source>
+<dc:title><![CDATA[Web Designer (US)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T14:48:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://richmond.craigslist.org/cpg/3548703472.html">
+<title><![CDATA[Coding Teacher Wanted (VCU / coffee shop)]]></title>
+<link>http://richmond.craigslist.org/cpg/3548703472.html</link>
+<description><![CDATA[Hey there, 
+I'm a graduate student at VCU working on some side projects. I am conversational in HTML and Adobe Edge (javascript, have done one web animation) - www.thechristmasvolcano.com (haha) (it was a christmas card) 
+I could spend 1000 hours try [...]]]></description>
+<dc:date>2013-02-10T12:38:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3548703472.html</dc:source>
+<dc:title><![CDATA[Coding Teacher Wanted (VCU / coffee shop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T12:38:59-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

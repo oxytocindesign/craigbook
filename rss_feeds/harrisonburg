@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://harrisonburg.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in harrisonburg</title>
+<link>http://harrisonburg.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://harrisonburg.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in harrisonburg</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:10-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3693983030.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3688093606.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3644362205.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3577288947.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3613522215.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3610421813.html" />
+  <rdf:li rdf:resource="http://harrisonburg.craigslist.org/cpg/3604442792.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3693983030.html">
+<title><![CDATA[Tech Needed to Perform Network Setup and Connect Ipods (Staunton, VA)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3693983030.html</link>
+<description><![CDATA[Kforce Professional Services is in need of an IT tech to service one of our clients on 3/22/13 at 10:00AM in Staunton, VA. The project involves hooking up a Mac Mini to a network along with Ipod touches. Once that is completed you will be performing  [...]]]></description>
+<dc:date>2013-03-20T19:09:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3693983030.html</dc:source>
+<dc:title><![CDATA[Tech Needed to Perform Network Setup and Connect Ipods (Staunton, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T19:09:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3688093606.html">
+<title><![CDATA[Talented Salesman Wanted (Virginia)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3688093606.html</link>
+<description><![CDATA[I'm a web designer and web developer looking to partner with someone gifted in sales. 50% commission on all projects. I also own different projects that have paid sales opportunities that can be done in conjunction with working on web design / web de [...]]]></description>
+<dc:date>2013-03-18T01:24:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3688093606.html</dc:source>
+<dc:title><![CDATA[Talented Salesman Wanted (Virginia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T01:24:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3644362205.html">
+<title><![CDATA[Electrical Engineering and Patent Law Student - Design Project (JMU)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3644362205.html</link>
+<description><![CDATA[I am an experienced construction manager and well aware of the challenges faced in my industry. I would like some assistance designing a tool that I believe would significantly save time in many different industries, including construction. 
+I am loo [...]]]></description>
+<dc:date>2013-02-26T08:51:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3644362205.html</dc:source>
+<dc:title><![CDATA[Electrical Engineering and Patent Law Student - Design Project (JMU)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T08:51:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3577288947.html">
+<title><![CDATA[Computer Technician (Harrisonburg)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3577288947.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Harrisonburg. We are a 24 hour computer repair service the Harrisonburg area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments aroun [...]]]></description>
+<dc:date>2013-02-19T17:02:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3577288947.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Harrisonburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T17:02:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3613522215.html">
+<title><![CDATA[Dj to edit music (Harrisonburg,)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3613522215.html</link>
+<description><![CDATA[Wanted Dj who is familiar with adobe editions ]]></description>
+<dc:date>2013-02-12T21:10:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3613522215.html</dc:source>
+<dc:title><![CDATA[Dj to edit music (Harrisonburg,)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T21:10:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3610421813.html">
+<title><![CDATA[Entrepreneurial Opportunity for IT folk (Harrisonburg, VA)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3610421813.html</link>
+<description><![CDATA[I am currently trying to set up a small team of IT people to create software for Matchbox Real Estate Management. 
+Please read below and, if interested, send an email to me with your skills, age, etc. 
+WHO: 
+1) Matchbox Real Estate Management, this c [...]]]></description>
+<dc:date>2013-02-11T16:42:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3610421813.html</dc:source>
+<dc:title><![CDATA[Entrepreneurial Opportunity for IT folk (Harrisonburg, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T16:42:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisonburg.craigslist.org/cpg/3604442792.html">
+<title><![CDATA[Want a 3D printer? Im looking for someone to go in on a 3D printer.... (Luray)]]></title>
+<link>http://harrisonburg.craigslist.org/cpg/3604442792.html</link>
+<description><![CDATA[I have just started my own LLC and I am currently looking for someone who is interested in getting a 3d printer and/or partener up on this venture. I assure you I am very real and my # will be listed below. I must ask that if you want to know more ab [...]]]></description>
+<dc:date>2013-02-09T00:03:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisonburg.craigslist.org/cpg/3604442792.html</dc:source>
+<dc:title><![CDATA[Want a 3D printer? Im looking for someone to go in on a 3D printer.... (Luray)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T00:03:00-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

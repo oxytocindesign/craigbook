@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://ogden.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in ogden-clearfield</title>
+<link>http://ogden.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://ogden.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in ogden-clearfield</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:40:09-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ogden.craigslist.org/cpg/3696502802.html" />
+  <rdf:li rdf:resource="http://ogden.craigslist.org/cpg/3669001581.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://ogden.craigslist.org/cpg/3696502802.html">
+<title><![CDATA[Need a sales guy]]></title>
+<link>http://ogden.craigslist.org/cpg/3696502802.html</link>
+<description><![CDATA[I'm looking for someone that can sell opportunities. 
+If you can sale a product that costs $25 and willing to make 100% commissions. 
+Email me! I have a business opportunity for you! ]]></description>
+<dc:date>2013-03-21T23:14:00-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ogden.craigslist.org/cpg/3696502802.html</dc:source>
+<dc:title><![CDATA[Need a sales guy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T23:14:00-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://ogden.craigslist.org/cpg/3669001581.html">
+<title><![CDATA[great fun (anywhere)]]></title>
+<link>http://ogden.craigslist.org/cpg/3669001581.html</link>
+<description><![CDATA[Marketing via Social Media (United States) 
+IF YOU'VE EVER WANTED TO BE IN THE RIGHT PLACE AT THE RIGHT TIME, 
+THE MOMENT HAS ARRIVED IF YOU'RE UP FOR THE CHALLENGE 
+Entrepreneurial-minded company is now looking for Professional Reps! 
+Our Educationa [...]]]></description>
+<dc:date>2013-03-08T23:08:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ogden.craigslist.org/cpg/3669001581.html</dc:source>
+<dc:title><![CDATA[great fun (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T23:08:12-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

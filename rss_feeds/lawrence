@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lawrence.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lawrence</title>
+<link>http://lawrence.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lawrence.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lawrence</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:39:27-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3698826041.html" />
+  <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3679358789.html" />
+  <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3604745727.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lawrence.craigslist.org/cpg/3698826041.html">
+<title><![CDATA[program electronic LED moving sign]]></title>
+<link>http://lawrence.craigslist.org/cpg/3698826041.html</link>
+<description><![CDATA[I need someone to program an electronic LED moving sign. This is going to be an ongoing project. You will take the sign home program it and I'll pay you for your work, I will bring it back to you to program. We will do this until my project is done.  [...]]]></description>
+<dc:date>2013-03-23T09:21:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lawrence.craigslist.org/cpg/3698826041.html</dc:source>
+<dc:title><![CDATA[program electronic LED moving sign]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:21:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lawrence.craigslist.org/cpg/3679358789.html">
+<title><![CDATA[Developer Needed (Lawrence KS)]]></title>
+<link>http://lawrence.craigslist.org/cpg/3679358789.html</link>
+<description><![CDATA[We currently have many open positions in our bidding pool for web designers specializing in PHP, DRUPAL, and Front End Development. Respond to this add to start the qualifying process. We are rewarding multiple web projects weekly to qualified member [...]]]></description>
+<dc:date>2013-03-13T16:41:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lawrence.craigslist.org/cpg/3679358789.html</dc:source>
+<dc:title><![CDATA[Developer Needed (Lawrence KS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T16:41:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lawrence.craigslist.org/cpg/3604745727.html">
+<title><![CDATA[Need tutor C#, WPF, MVVM (Lawrence)]]></title>
+<link>http://lawrence.craigslist.org/cpg/3604745727.html</link>
+<description><![CDATA[The Title says it all.]]></description>
+<dc:date>2013-02-09T06:25:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lawrence.craigslist.org/cpg/3604745727.html</dc:source>
+<dc:title><![CDATA[Need tutor C#, WPF, MVVM (Lawrence)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T06:25:30-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

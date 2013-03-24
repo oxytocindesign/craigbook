@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lancaster.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lancaster, PA</title>
+<link>http://lancaster.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lancaster.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lancaster, PA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3680570148.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3697884730.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3690810581.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3686164508.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3675816487.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3668211597.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3662526961.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3659246498.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3656382175.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3649268684.html" />
+  <rdf:li rdf:resource="http://lancaster.craigslist.org/cpg/3640771607.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3680570148.html">
+<title><![CDATA[(Legacy - Modern) Parts Trading / Restoration (Lancaster City)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3680570148.html</link>
+<description><![CDATA[Hello. Do you want to avoid the hassle of going through retail chains 
+just to pick up that one cable or hard drive you need to get your system running? 
+Have retro parts and don't know what to do with them? 
+Contact me to trade computer and electron [...]]]></description>
+<dc:date>2013-03-24T09:49:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3680570148.html</dc:source>
+<dc:title><![CDATA[(Legacy - Modern) Parts Trading / Restoration (Lancaster City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:49:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3697884730.html">
+<title><![CDATA[Part time and Full Time Agents (Lancaster and Surrounding Areas)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3697884730.html</link>
+<description><![CDATA[Seeking dedicated representatives to work part time or full time. Customer service experience preferred, but not required. 
+If you are interested in the position, contact Ben at 717.271.8195 or via e-mail.]]></description>
+<dc:date>2013-03-22T18:08:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3697884730.html</dc:source>
+<dc:title><![CDATA[Part time and Full Time Agents (Lancaster and Surrounding Areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T18:08:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3690810581.html">
+<title><![CDATA[Looking for IOS developer (Mount Joy, PA)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3690810581.html</link>
+<description><![CDATA[I am looking for an IOS developer, someone looking for an oppurtunity....I don't have any money, this is the downfall, however working out a deal wouldn't be a problem. The app that needs to be developed is already on the Android Market doing ok, it  [...]]]></description>
+<dc:date>2013-03-19T11:16:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3690810581.html</dc:source>
+<dc:title><![CDATA[Looking for IOS developer (Mount Joy, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:16:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3686164508.html">
+<title><![CDATA[Looking for an experienced telemarketer (Lancaster county)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3686164508.html</link>
+<description><![CDATA[We are looking for an experienced telemarketer with a professional-sounding voice, someone who is detail oriented. This gig is only for a few hours per week for a couple of weeks. We need someone who is good with follow up, & able to close a sale. Ho [...]]]></description>
+<dc:date>2013-03-17T00:10:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3686164508.html</dc:source>
+<dc:title><![CDATA[Looking for an experienced telemarketer (Lancaster county)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T00:10:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3675816487.html">
+<title><![CDATA[online agent (lancaster)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3675816487.html</link>
+<description><![CDATA[We are looking for self motivated individuals to join our rapidly growing team. 
+Work remotely online, Part time or Full time 
+Must have a strong work ethic and be able to work without supervision 
+Free training is provided 
+Must have computer and in [...]]]></description>
+<dc:date>2013-03-12T08:31:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3675816487.html</dc:source>
+<dc:title><![CDATA[online agent (lancaster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T08:31:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3668211597.html">
+<title><![CDATA[CAT5 / CAT6 Cabling Installers (Lancaster / Reading)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3668211597.html</link>
+<description><![CDATA[Nationwide cabling company seeking cabling technicians for work in the Lancaster / Reading Area 
+• Data Network Cabling Installation 
+• Telephone Wiring & Cabling Installation 
+• Cabling Design & Implementation 
+• WiFi / Wireless Network Installation [...]]]></description>
+<dc:date>2013-03-08T17:00:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3668211597.html</dc:source>
+<dc:title><![CDATA[CAT5 / CAT6 Cabling Installers (Lancaster / Reading)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:00:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3662526961.html">
+<title><![CDATA[Mobile App Developer Needed for Independent Project (Lancaster, PA)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3662526961.html</link>
+<description><![CDATA[I am a local freelance web and print designer looking for another freelance developer to team up with for a mobile app project for one of my larger clients. I would work on the design end (UI Design, Graphics, etc) - looking for a developer that can  [...]]]></description>
+<dc:date>2013-03-06T09:47:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3662526961.html</dc:source>
+<dc:title><![CDATA[Mobile App Developer Needed for Independent Project (Lancaster, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T09:47:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3659246498.html">
+<title><![CDATA[Need Windows software reformatted on a PC (Lancaster PA)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3659246498.html</link>
+<description><![CDATA[I have a laptop that has a (probably pirated) version of Windows. The software was acquired in West Africa so it is in Portuguese. It has a virus (or something) that restricts you from logging on to Windows so you can't do ANYTHING on this computer.  [...]]]></description>
+<dc:date>2013-03-04T19:23:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3659246498.html</dc:source>
+<dc:title><![CDATA[Need Windows software reformatted on a PC (Lancaster PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T19:23:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3656382175.html">
+<title><![CDATA[VHS to DVD Conversion request (Lancaster)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3656382175.html</link>
+<description><![CDATA[I have a VHS tape that I would like converted to a DVD. The VHS tape is somewhere between 60 and 90 minutes in length. 
+Ideally, you would insert chapters every 5 minutes so that I could skip ahead easily. I don't need anything fancy...no menus, etc. [...]]]></description>
+<dc:date>2013-03-03T15:03:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3656382175.html</dc:source>
+<dc:title><![CDATA[VHS to DVD Conversion request (Lancaster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T15:03:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3649268684.html">
+<title><![CDATA[I need a display checker (Lancaster)]]></title>
+<link>http://lancaster.craigslist.org/cpg/3649268684.html</link>
+<description><![CDATA[We are in need of a retail display surveyor in Lancaster. You would enter a store, find the display, and take pictures of it and send them to us. Eventually, we will need someone to assemble the displays if they are not there. Tell us your pay rate.  [...]]]></description>
+<dc:date>2013-02-28T10:41:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3649268684.html</dc:source>
+<dc:title><![CDATA[I need a display checker (Lancaster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T10:41:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lancaster.craigslist.org/cpg/3640771607.html">
+<title><![CDATA[I need my iPhone repaired (Lanacaster )]]></title>
+<link>http://lancaster.craigslist.org/cpg/3640771607.html</link>
+<description><![CDATA[Anyone fix iPhones? I have a cracked screen. 
+Please respond with how much to fix. 
+White iPhone 4]]></description>
+<dc:date>2013-02-24T16:16:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lancaster.craigslist.org/cpg/3640771607.html</dc:source>
+<dc:title><![CDATA[I need my iPhone repaired (Lanacaster )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T16:16:49-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

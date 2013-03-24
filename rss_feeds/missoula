@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://missoula.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in missoula</title>
+<link>http://missoula.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://missoula.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in missoula</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:24:59-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3695616908.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3687714468.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3661779700.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3649746445.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3639426570.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3636766014.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3609743762.html" />
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3603321092.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://missoula.craigslist.org/cpg/3695616908.html">
+<title><![CDATA[Need simple app built for small biz (Missoula (anywhere))]]></title>
+<link>http://missoula.craigslist.org/cpg/3695616908.html</link>
+<description><![CDATA[I have a small business that I want an app built for. It would be for customers to place orders, pay for order, and see what other customers are doing. Call or text me at 406 three seven oh five ate for five]]></description>
+<dc:date>2013-03-21T13:34:59-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3695616908.html</dc:source>
+<dc:title><![CDATA[Need simple app built for small biz (Missoula (anywhere))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T13:34:59-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3687714468.html">
+<title><![CDATA[Computer Tutor Wanted A.S.A.P. (Missoula, MT)]]></title>
+<link>http://missoula.craigslist.org/cpg/3687714468.html</link>
+<description><![CDATA[Computer Tutor needed. Must be fluent in word, power point and excel. Pay per hour depending on experience. Must be responsible and show up at meeting times. I am trying to get through an intro class and need extra help. Please leave your phone # and [...]]]></description>
+<dc:date>2013-03-17T18:27:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3687714468.html</dc:source>
+<dc:title><![CDATA[Computer Tutor Wanted A.S.A.P. (Missoula, MT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T18:27:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3661779700.html">
+<title><![CDATA[Need web page designed (Missoula)]]></title>
+<link>http://missoula.craigslist.org/cpg/3661779700.html</link>
+<description><![CDATA[I am thinking of starting a business to be self employed. I don't really have a ton of start up capital to spare, so I would want to brainstorm some ideas with you and settle on a price. This is just a way to make some side $. Please email me with so [...]]]></description>
+<dc:date>2013-03-05T18:57:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3661779700.html</dc:source>
+<dc:title><![CDATA[Need web page designed (Missoula)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T18:57:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3649746445.html">
+<title><![CDATA[Want to know how to get more traffic naturally to a website? (Local (Missoula) or Virtual)]]></title>
+<link>http://missoula.craigslist.org/cpg/3649746445.html</link>
+<description><![CDATA[Internship Title: SEO Specialist Intern Position 
+Company Information: Multi-faceted business (including real estate, travel, information, recreation, automotive, business coach/consultant, author, marathon runner and speaker) headquartered in wester [...]]]></description>
+<dc:date>2013-02-28T11:54:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3649746445.html</dc:source>
+<dc:title><![CDATA[Want to know how to get more traffic naturally to a website? (Local (Missoula) or Virtual)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:54:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3639426570.html">
+<title><![CDATA[Web design/Build]]></title>
+<link>http://missoula.craigslist.org/cpg/3639426570.html</link>
+<description><![CDATA[I have a couple of new businesses and I need a web presence. 
+Pretty simple online type of business card with some photos and descriptions. 
+Thanks. 
+Please send resume or example of past work.]]></description>
+<dc:date>2013-02-23T20:12:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3639426570.html</dc:source>
+<dc:title><![CDATA[Web design/Build]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T20:12:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3636766014.html">
+<title><![CDATA[needing computer expert (Missoula)]]></title>
+<link>http://missoula.craigslist.org/cpg/3636766014.html</link>
+<description><![CDATA[I need someone with great computer skills to look @ my computer and see what happened to it. I think it was hacked but there is no one in this valley that can do the work. I need someone to check my settings and look for anything that should not be s [...]]]></description>
+<dc:date>2013-02-22T16:18:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3636766014.html</dc:source>
+<dc:title><![CDATA[needing computer expert (Missoula)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T16:18:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3609743762.html">
+<title><![CDATA[Can't get a job without experience, can't get experience without a job (Local (Missoula))]]></title>
+<link>http://missoula.craigslist.org/cpg/3609743762.html</link>
+<description><![CDATA[Internship Title: Info Systems & Computer Technology Specialist (CTS) 
+Company Information: Multi-faceted business (including real estate, travel, information, recreation, automotive, business coach/consultant, author, marathon runner and speaker) he [...]]]></description>
+<dc:date>2013-02-11T10:40:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3609743762.html</dc:source>
+<dc:title><![CDATA[Can't get a job without experience, can't get experience without a job (Local (Missoula))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T10:40:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://missoula.craigslist.org/cpg/3603321092.html">
+<title><![CDATA[CAD Assistance (Missoula)]]></title>
+<link>http://missoula.craigslist.org/cpg/3603321092.html</link>
+<description><![CDATA[I need help illustrating a mechanical idea for possible patent application. I've searched the yellow pages for local help to no avail. If you can help or suggest some other avenue please contact me at (4O6) 53I-248I, or at my yahoo email address: mts [...]]]></description>
+<dc:date>2013-02-08T12:34:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3603321092.html</dc:source>
+<dc:title><![CDATA[CAD Assistance (Missoula)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T12:34:41-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

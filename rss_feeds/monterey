@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://monterey.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in monterey bay</title>
+<link>http://monterey.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://monterey.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in monterey bay</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:39:00-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3694545471.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3680417742.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3692817544.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3691650926.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3616311043.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3676513149.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3669120897.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3667796198.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3666532923.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3663459502.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3663083145.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3658889789.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3651442575.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3640414721.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3634762592.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3632193851.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3615726389.html" />
+  <rdf:li rdf:resource="http://monterey.craigslist.org/cpg/3551554740.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://monterey.craigslist.org/cpg/3694545471.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://monterey.craigslist.org/cpg/3694545471.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:52:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3694545471.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:52:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3680417742.html">
+<title><![CDATA[Seeking Computer Tech to assist with PC Hardware Issue (Salinas)]]></title>
+<link>http://monterey.craigslist.org/cpg/3680417742.html</link>
+<description><![CDATA[Seeking Computer Tech to assist with PC Hardware Issue]]></description>
+<dc:date>2013-03-24T10:43:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3680417742.html</dc:source>
+<dc:title><![CDATA[Seeking Computer Tech to assist with PC Hardware Issue (Salinas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:43:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3692817544.html">
+<title><![CDATA[Install Technicians (Salinas area, CA)]]></title>
+<link>http://monterey.craigslist.org/cpg/3692817544.html</link>
+<description><![CDATA[Techs needed in the Salinas area for Bank conversion project to install peripherals and switch the hdd's in the bios to a hard drive. Techs will also handle printer installs and IP configurations. Work to begin on Friday 4/19 at 4pm through midnight, [...]]]></description>
+<dc:date>2013-03-20T07:19:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3692817544.html</dc:source>
+<dc:title><![CDATA[Install Technicians (Salinas area, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T07:19:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3691650926.html">
+<title><![CDATA[Research/Admin work (monterey)]]></title>
+<link>http://monterey.craigslist.org/cpg/3691650926.html</link>
+<description><![CDATA[WANTED: Online researcher with technology background/education to do factchecking and datasearching in support of business development project. The company specifies in military benefits, so it would be a strong plus to be a veteran of the armed forc [...]]]></description>
+<dc:date>2013-03-19T14:14:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3691650926.html</dc:source>
+<dc:title><![CDATA[Research/Admin work (monterey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:14:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3616311043.html">
+<title><![CDATA[Side income /$20 Starting]]></title>
+<link>http://monterey.craigslist.org/cpg/3616311043.html</link>
+<description><![CDATA[Side income 
+/$20 Starting 
+We are looking for someone who is creative and can complete 
+simple computer tasks. 
+No computer experience required. 
+1-4hours a day 
+$20/hour starting 
+Email when you can start along with your name 
+for more information  [...]]]></description>
+<dc:date>2013-03-12T21:39:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3616311043.html</dc:source>
+<dc:title><![CDATA[Side income /$20 Starting]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:39:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3676513149.html">
+<title><![CDATA[auto cd player repair]]></title>
+<link>http://monterey.craigslist.org/cpg/3676513149.html</link>
+<description><![CDATA[1996 lincoln towncar "IN THE TRUNK" cd player to be repaired to "like new" condition has 10 cds and works through the radio..]]></description>
+<dc:date>2013-03-12T10:51:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3676513149.html</dc:source>
+<dc:title><![CDATA[auto cd player repair]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:51:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3669120897.html">
+<title><![CDATA[Nerds Wanted. (Online)]]></title>
+<link>http://monterey.craigslist.org/cpg/3669120897.html</link>
+<description><![CDATA[We are looking for focused people we can teach the art of blogging, marketing and profiting online. 
+Leading edge. 
+Learn more here.]]></description>
+<dc:date>2013-03-09T01:17:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3669120897.html</dc:source>
+<dc:title><![CDATA[Nerds Wanted. (Online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T01:17:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3667796198.html">
+<title><![CDATA[Web Programmer  (Salinas/Monterey)]]></title>
+<link>http://monterey.craigslist.org/cpg/3667796198.html</link>
+<description><![CDATA[Seeking experienced web developer/programmer for ongoing, frequent freelance assignments including: 
+- websites (including mobile, ecommerce, intranet, blogs) 
+- social media sites (facebook, twitter, etc.) 
+- email (primarily Constant Contact and iC [...]]]></description>
+<dc:date>2013-03-08T11:11:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3667796198.html</dc:source>
+<dc:title><![CDATA[Web Programmer  (Salinas/Monterey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T11:11:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3666532923.html">
+<title><![CDATA[photography website (monterey)]]></title>
+<link>http://monterey.craigslist.org/cpg/3666532923.html</link>
+<description><![CDATA[I am a photographer looking for someone to build my personal website. I am also looking to network with other photographers who would be interested in starting an internet based photography business. I come from a large format photography background  [...]]]></description>
+<dc:date>2013-03-07T19:32:15-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3666532923.html</dc:source>
+<dc:title><![CDATA[photography website (monterey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T19:32:15-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3663459502.html">
+<title><![CDATA[Graphic Designer for Photography Website Design (Monterey)]]></title>
+<link>http://monterey.craigslist.org/cpg/3663459502.html</link>
+<description><![CDATA[I am looking for a graphic designer to build a custom website for my photography business. I have already purchased a website template through BluDomain and will continue to use this. I already have a specific style and ideas in mind...if you are int [...]]]></description>
+<dc:date>2013-03-06T12:54:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3663459502.html</dc:source>
+<dc:title><![CDATA[Graphic Designer for Photography Website Design (Monterey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T12:54:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3663083145.html">
+<title><![CDATA[IT support (Monterey / Salinas area)]]></title>
+<link>http://monterey.craigslist.org/cpg/3663083145.html</link>
+<description><![CDATA[IT support Level 1-2 (Monterey / Salinas area) 
+SRS Networks is hiring 2 technical support agents in the coming weeks, who will work from one of our clients offices in the Monterey / Salinas Area to help customers with technical support . SRS Network [...]]]></description>
+<dc:date>2013-03-06T10:30:47-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3663083145.html</dc:source>
+<dc:title><![CDATA[IT support (Monterey / Salinas area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T10:30:47-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3658889789.html">
+<title><![CDATA[After School Media Instructor (Monterey)]]></title>
+<link>http://monterey.craigslist.org/cpg/3658889789.html</link>
+<description><![CDATA[Freshi Media is an education company that introduces young people to different aspects of Media Literacy. We offer short after school programs and summer camps that teach classes in Film Making, Stop Motion Animation and Video Game Design. We need te [...]]]></description>
+<dc:date>2013-03-04T13:40:34-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3658889789.html</dc:source>
+<dc:title><![CDATA[After School Media Instructor (Monterey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T13:40:34-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3651442575.html">
+<title><![CDATA[Looking for C# Moonlighter (Monterey Peninsula and Beyond)]]></title>
+<link>http://monterey.craigslist.org/cpg/3651442575.html</link>
+<description><![CDATA[We have more work than we can handle. Need someone who is willing and able to help us out. This isn't a "work for free and we'll give you stock in our 'world altering' idea", this is paying work for established business clients. 
+-C# familiarity a re [...]]]></description>
+<dc:date>2013-03-01T07:01:08-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3651442575.html</dc:source>
+<dc:title><![CDATA[Looking for C# Moonlighter (Monterey Peninsula and Beyond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T07:01:08-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3640414721.html">
+<title><![CDATA[i need dc laptop jack repair]]></title>
+<link>http://monterey.craigslist.org/cpg/3640414721.html</link>
+<description><![CDATA[I need a computer dc jack repair for a lenovo ideapad y450 laptop.. doesn't charge dc jack is loose 
+I need a professional that actually works on these type of repairs 
+No scammers 
+Contact me via email with a QUOTE thank you 
+Preferably Salinas but  [...]]]></description>
+<dc:date>2013-02-24T10:35:22-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3640414721.html</dc:source>
+<dc:title><![CDATA[i need dc laptop jack repair]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T10:35:22-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3634762592.html">
+<title><![CDATA[Work At Home MOMS]]></title>
+<link>http://monterey.craigslist.org/cpg/3634762592.html</link>
+<description><![CDATA[Work online with others at home. Approved BBB. Weekly Pay! (888) 669-6638]]></description>
+<dc:date>2013-02-21T18:17:46-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3634762592.html</dc:source>
+<dc:title><![CDATA[Work At Home MOMS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T18:17:46-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3632193851.html">
+<title><![CDATA[Need Help with Cold Calling (Salinas, CA)]]></title>
+<link>http://monterey.craigslist.org/cpg/3632193851.html</link>
+<description><![CDATA[Working 3 jobs now so I'm spread pretty thin. 
+Looking for someone with great customer service skills on the phone. 
+The job consist of cold calling but I will provide the phone numbers and script. 
+The job will take no longer than 3 months and a bon [...]]]></description>
+<dc:date>2013-02-20T16:36:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3632193851.html</dc:source>
+<dc:title><![CDATA[Need Help with Cold Calling (Salinas, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T16:36:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3615726389.html">
+<title><![CDATA[PC TECHNICIAN (MONTEREY)]]></title>
+<link>http://monterey.craigslist.org/cpg/3615726389.html</link>
+<description><![CDATA[We're looking for a computer/laptop technician for our small team . Our company sells refurbished computers and laptops online. The job will include receiving orders daily and getting them out in time to a strict deadline. The work place requires som [...]]]></description>
+<dc:date>2013-02-13T16:28:43-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3615726389.html</dc:source>
+<dc:title><![CDATA[PC TECHNICIAN (MONTEREY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T16:28:43-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://monterey.craigslist.org/cpg/3551554740.html">
+<title><![CDATA[QUALIFIED BOOKKEEPER (SEASIDE-  93955)]]></title>
+<link>http://monterey.craigslist.org/cpg/3551554740.html</link>
+<description><![CDATA[Qualified bookkeeper needed. Set U R Own schedule and do my books. Knowledge of Quick Books a plus. 
+Simple Job. Just crunch the numbers. I am a Single Senor individual seeking your bookkeeping expertise. Self 
+employed or back yard bookkeeper is fin [...]]]></description>
+<dc:date>2013-02-08T16:21:06-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monterey.craigslist.org/cpg/3551554740.html</dc:source>
+<dc:title><![CDATA[QUALIFIED BOOKKEEPER (SEASIDE-  93955)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T16:21:06-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

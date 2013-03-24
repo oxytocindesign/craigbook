@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://chicago.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in chicago</title>
+<link>http://chicago.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://chicago.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in chicago</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:33:02-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3702027214.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3702002958.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3682139507.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3701911993.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3693913745.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3698008815.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3695271400.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3701467041.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3701246392.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3680623783.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3701084694.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3700703855.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3700306832.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3700249877.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3700042521.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699984413.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699875606.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3686935623.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699706223.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwi/cpg/3699438247.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699370812.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3699125342.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699103638.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3699048687.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3698994008.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3698440412.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3698403814.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3682062105.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3698190776.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3697895956.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3697874329.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3697810218.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3696989092.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3696935989.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3641232078.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3696791814.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3696781868.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3696613355.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3696365549.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3696259032.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3659439077.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3696019935.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3695986200.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3695589920.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3695449338.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3695399285.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3695385304.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3695350694.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3694925419.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3684332532.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3694391545.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3694038118.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3694012956.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3693930843.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3693867020.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693826817.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/sox/cpg/3693791031.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693652573.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3693611522.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693472582.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693451358.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693330528.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693243248.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3693240840.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3692819579.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3692736967.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3692661493.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3692319137.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3692287458.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3692215385.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3692198669.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/sox/cpg/3692109388.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691859173.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3691813059.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3691596998.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691562495.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691514188.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3691509970.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691444493.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691297909.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691251428.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691066257.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691062987.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3662804055.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3691001219.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690910533.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690882574.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690863814.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nch/cpg/3690821502.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690789206.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690551495.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3690506192.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3690148808.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3690116533.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/wcl/cpg/3690040658.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3689872537.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3689773008.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3689593294.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/chc/cpg/3689490509.html" />
+  <rdf:li rdf:resource="http://chicago.craigslist.org/nwc/cpg/3671984950.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3702027214.html">
+<title><![CDATA[&gt;&gt;&gt;Ad Post/Marketing Gig - Paid Daily&lt;&lt;&lt;]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3702027214.html</link>
+<description><![CDATA[Incentive advertising/marketing company seeking internet savvy ad posters/marketers. 
+This is a basic copy/paste gig. 
+We will provide necessary training. 
+Make your own schedule. 
+$100+ daily is very realistic in your spare-time. 
+If you are profici [...]]]></description>
+<dc:date>2013-03-24T23:35:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3702027214.html</dc:source>
+<dc:title><![CDATA[&gt;&gt;&gt;Ad Post/Marketing Gig - Paid Daily&lt;&lt;&lt;]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:35:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3702002958.html">
+<title><![CDATA[Download music (Orland park)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3702002958.html</link>
+<description><![CDATA[Need someone to download music for me to an mp3 .......leave a phone no . If interested ....thanks ]]></description>
+<dc:date>2013-03-24T23:10:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3702002958.html</dc:source>
+<dc:title><![CDATA[Download music (Orland park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:10:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3682139507.html">
+<title><![CDATA[Try Something New With Your Own Loyalty Marketing Business (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3682139507.html</link>
+<description><![CDATA[Sell mobile marketing to SMB's in your area 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-24T22:33:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3682139507.html</dc:source>
+<dc:title><![CDATA[Try Something New With Your Own Loyalty Marketing Business (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:33:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3701911993.html">
+<title><![CDATA[App Builder (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3701911993.html</link>
+<description><![CDATA[I am looking for someone to build a reasonably simple App for my business. Commission based pay. ]]></description>
+<dc:date>2013-03-24T21:47:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3701911993.html</dc:source>
+<dc:title><![CDATA[App Builder (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:47:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3693913745.html">
+<title><![CDATA[Seeking Resourceful, Research-Oriented Person For New Online Project ! (North, Northwest Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3693913745.html</link>
+<description><![CDATA[We will need a considerable amount of content for our dynamic new website, and are seeking someone to do the research; this will require patience and resourcefulness. 
+Could be parttime to begin - fulltime later, but not yet sure. 
+Should live within [...]]]></description>
+<dc:date>2013-03-24T19:14:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3693913745.html</dc:source>
+<dc:title><![CDATA[Seeking Resourceful, Research-Oriented Person For New Online Project ! (North, Northwest Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:14:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3698008815.html">
+<title><![CDATA[Looking For Someone Who Knows The Research Tools !! (North, Northwest Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3698008815.html</link>
+<description><![CDATA[For a terrific, new online project, we need someone who knows their way around Wordpress tools, etc, to do the required research. 
+Parttime to begin with -- maybe full after that; (not yet sure). 
+Needs to live within reasonable driving distance to N [...]]]></description>
+<dc:date>2013-03-24T19:14:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3698008815.html</dc:source>
+<dc:title><![CDATA[Looking For Someone Who Knows The Research Tools !! (North, Northwest Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:14:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3695271400.html">
+<title><![CDATA[Sr. Lead Engineer (ASR router) (Chicago, IL)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3695271400.html</link>
+<description><![CDATA[PE-router Project 
+Implementing ASR900/XR 
+Large long-term project for Sr. Lead Engineer. Strong skills; available immediately. 
+Approximate 9 month contract with a chance to extend out another year. 
+ReQuired knowledge and experience: 
+MPLS 
+Service [...]]]></description>
+<dc:date>2013-03-24T17:34:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3695271400.html</dc:source>
+<dc:title><![CDATA[Sr. Lead Engineer (ASR router) (Chicago, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:34:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3701467041.html">
+<title><![CDATA[My iMac has a problem. (Spinning ball) (Lincoln Park Chicago)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3701467041.html</link>
+<description><![CDATA[My iMac is slow- computer freezes often- (spinning ball) 
+Maybe I need an upgrade? Or maybe a repair? Or what? 
+Phone/text (312) 375 7285]]></description>
+<dc:date>2013-03-24T17:00:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3701467041.html</dc:source>
+<dc:title><![CDATA[My iMac has a problem. (Spinning ball) (Lincoln Park Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:00:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3701246392.html">
+<title><![CDATA[Great Chance To Get In On The Groundfloor Of This Dynamite New Concept (North, Northwest Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3701246392.html</link>
+<description><![CDATA[We are looking for a very savvy IT someone to build the front-end of our innovative site. 
+This person could also do the data entry, or not; in addition -- we will bring on board a researcher, and a marketing individual. 
+My partner and I forsee this [...]]]></description>
+<dc:date>2013-03-24T14:59:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3701246392.html</dc:source>
+<dc:title><![CDATA[Great Chance To Get In On The Groundfloor Of This Dynamite New Concept (North, Northwest Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:59:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3680623783.html">
+<title><![CDATA[Seeking Programmer/Data Entry Person For New Online Project (North, Northwest Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3680623783.html</link>
+<description><![CDATA[My partner and I are in the early stages of developing what will be a dynamic, "never-done-before", online project. 
+Neither of us are computer savvy enough, and are looking for an IT person to manage the venture. 
+We feel you would work for us on a  [...]]]></description>
+<dc:date>2013-03-24T14:20:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3680623783.html</dc:source>
+<dc:title><![CDATA[Seeking Programmer/Data Entry Person For New Online Project (North, Northwest Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:20:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3701084694.html">
+<title><![CDATA[Need help with website and linking to marketing (Oak Park)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3701084694.html</link>
+<description><![CDATA[I'm getting ready to open my business and I need a talented person at reasonable rates to help me finish a website and link it to marketing software. This is my first crack at this kind of thing so I've decided it's more time efficient to hire someon [...]]]></description>
+<dc:date>2013-03-24T13:36:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3701084694.html</dc:source>
+<dc:title><![CDATA[Need help with website and linking to marketing (Oak Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:36:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3700703855.html">
+<title><![CDATA[Wordpress / Ancient Banner Program Integration (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3700703855.html</link>
+<description><![CDATA[Greetings! 
+I run a sci-fi website and I'm using Wordpress as a backend for posting articles, episode guides, etc. I just noticed that my banners are not aligning properly - they are shifting either to the right or down, depending where you look. Als [...]]]></description>
+<dc:date>2013-03-24T10:15:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3700703855.html</dc:source>
+<dc:title><![CDATA[Wordpress / Ancient Banner Program Integration (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:15:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3700306832.html">
+<title><![CDATA[Need Custom Web Portal]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3700306832.html</link>
+<description><![CDATA[I am looking for someone to create an online sales commission reporting system. 
+I have 8 sales reps and they each have territory. I need to enter their sales numbers and commission % rate so they can see their sales numbers and commissions monthly.  [...]]]></description>
+<dc:date>2013-03-24T00:33:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3700306832.html</dc:source>
+<dc:title><![CDATA[Need Custom Web Portal]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T00:33:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3700249877.html">
+<title><![CDATA[WEB DEVELOPER (E-Commerce) (Greek Town)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3700249877.html</link>
+<description><![CDATA[Website developer / Magento specialist wanted (Chicago / West Loop / Greek Town). 
+***NO COMPANIES / NO OUT-OF-STATE*** 
+An innovative, socially conscious, e-commerce start-up offering highly coveted products and experiences at insider prices is sear [...]]]></description>
+<dc:date>2013-03-23T23:22:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3700249877.html</dc:source>
+<dc:title><![CDATA[WEB DEVELOPER (E-Commerce) (Greek Town)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T23:22:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3700042521.html">
+<title><![CDATA[Graphic Designer- ASAP]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3700042521.html</link>
+<description><![CDATA[Need a new header for my website! I would like the same colors and I have more photos to add 
+http://www.mystillwaterchiropractic.com 
+Need pricing and turn around time]]></description>
+<dc:date>2013-03-23T20:13:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3700042521.html</dc:source>
+<dc:title><![CDATA[Graphic Designer- ASAP]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:13:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699984413.html">
+<title><![CDATA[Ebay Selling (Chicago )]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699984413.html</link>
+<description><![CDATA[I am an internet entrepreneur that is looking to use Ebay as a resource to sell my items. I dont have the time to wait 90 days until Ebay removes the selling limits on my accounts. I will give pay someone if I can purchase accounts that have no selli [...]]]></description>
+<dc:date>2013-03-23T19:30:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699984413.html</dc:source>
+<dc:title><![CDATA[Ebay Selling (Chicago )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:30:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699875606.html">
+<title><![CDATA[NEED HELP FOR WEB DESIGN. STUDENTS, PROFESSIONALS]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699875606.html</link>
+<description><![CDATA[NEED HELP FOR A WEBSITE THAT IS ALREADY SET. IT NEEDS SOME MORE WORK TO MAKE IT MORE EFFICIENT. IF YOU ARE ANCOMPUTER SCIENCE / IT STUDENT OR A PROFESSIONAL WHO CAN HELP, PLEASE RESPOND TO THE ADD BY INTRODUCING YOURSELF AND HOW YOU CAN HELP. PLEASE  [...]]]></description>
+<dc:date>2013-03-23T18:16:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699875606.html</dc:source>
+<dc:title><![CDATA[NEED HELP FOR WEB DESIGN. STUDENTS, PROFESSIONALS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:16:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3686935623.html">
+<title><![CDATA[Need IT To Oversee Dynamic, New Online Project !! (North, Northwest Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3686935623.html</link>
+<description><![CDATA[My partner and I are in the very early stages of identifying a talented IT person, to program and do the data entry, for this exciting, new project. 
+Probably parttime to begin -- not yet sure about later. 
+Should live within reasonable driving dista [...]]]></description>
+<dc:date>2013-03-23T18:00:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3686935623.html</dc:source>
+<dc:title><![CDATA[Need IT To Oversee Dynamic, New Online Project !! (North, Northwest Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:00:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699706223.html">
+<title><![CDATA[App Designer Wanted (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699706223.html</link>
+<description><![CDATA[Looking for someone who can design a app for the iPhone that is more game based. Would love to talk to anyone capable of doing some highend design.]]></description>
+<dc:date>2013-03-23T16:34:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699706223.html</dc:source>
+<dc:title><![CDATA[App Designer Wanted (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:34:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwi/cpg/3699438247.html">
+<title><![CDATA[Teach me photoshop/illustator (crown point)]]></title>
+<link>http://chicago.craigslist.org/nwi/cpg/3699438247.html</link>
+<description><![CDATA[Hi, 
+I work for a print shop and I am pretty good at Corel Draw but I need to learn photo/illustrator. I draw cartoons also, and I need to computerize them in these programs. 
+Thanks Zuke two one 9, six14 fourfive9 five]]></description>
+<dc:date>2013-03-23T14:15:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwi/cpg/3699438247.html</dc:source>
+<dc:title><![CDATA[Teach me photoshop/illustator (crown point)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:15:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699370812.html">
+<title><![CDATA[Mobile site designer]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699370812.html</link>
+<description><![CDATA[I have CMS platform that allows me to design and develop premium mobile sites, mobile coupons, SMS and OR Codes for local business. I can hire and train sales people and allow major companies to build and maintain their own through my CMS platform. I [...]]]></description>
+<dc:date>2013-03-23T13:43:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699370812.html</dc:source>
+<dc:title><![CDATA[Mobile site designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:43:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3699125342.html">
+<title><![CDATA[IOS App Developer (Chicago, IL)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3699125342.html</link>
+<description><![CDATA[IOS APP Developer 
+2+Years 
+Cocoa Touch Frame Work 
+Data mapping / messaging 
+Native IOS 
+Google API's 2.x 
+GPS Mapping 
+Audio and Video Controls 
+Object C 
+Have built and deployed apps through App store 
+Integrated APP with social media (Twitter, Fo [...]]]></description>
+<dc:date>2013-03-23T11:50:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3699125342.html</dc:source>
+<dc:title><![CDATA[IOS App Developer (Chicago, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:50:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699103638.html">
+<title><![CDATA[Need Help with Internet Marketing (seo) (chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699103638.html</link>
+<description><![CDATA[I am looking for a internet marketing assistant. 
+you job will require you to work from my location . 
+you will need to work from 1-6pm. 3 Days a week. 
+for about 2 months. 
+You Need to have experience in The following 
+Html web design. 
+Seo 
+Social  [...]]]></description>
+<dc:date>2013-03-23T11:40:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699103638.html</dc:source>
+<dc:title><![CDATA[Need Help with Internet Marketing (seo) (chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:40:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3699048687.html">
+<title><![CDATA[Request for Proposal- Nail Salon Website (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3699048687.html</link>
+<description><![CDATA[We are looking to build a clean and simple nails salon website, with the capability of online appointment booking (for the online booking we may only need to integrate it with our Existing POS system) . The website must be SEO friendly, has a clean a [...]]]></description>
+<dc:date>2013-03-23T11:15:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3699048687.html</dc:source>
+<dc:title><![CDATA[Request for Proposal- Nail Salon Website (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:15:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3698994008.html">
+<title><![CDATA[App Developer (Downtown Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3698994008.html</link>
+<description><![CDATA[I am looking to hire a reliable and entrepreneurial app developer with at least 2 years of experience building apps for iphone and android devices. Must have experience with client/server applications and payment systems. If you are interested please [...]]]></description>
+<dc:date>2013-03-23T10:49:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3698994008.html</dc:source>
+<dc:title><![CDATA[App Developer (Downtown Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:49:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3698440412.html">
+<title><![CDATA[HTML and CSS project, Ruby, Shopify  (Morton Grove)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3698440412.html</link>
+<description><![CDATA[Looking to hire a front end developer for a Shopify project. Looking to re-skin a theme. I am a designer and have all the designs and direction needed. Please email me to setup a phone call to dig into the details. Have a great day.]]></description>
+<dc:date>2013-03-22T23:58:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3698440412.html</dc:source>
+<dc:title><![CDATA[HTML and CSS project, Ruby, Shopify  (Morton Grove)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T23:58:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3698403814.html">
+<title><![CDATA[In-house network set-up (Mundelein)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3698403814.html</link>
+<description><![CDATA[We have a cloud network in our house that we run through Roku's. We are having trouble playing the videos (sometimes they work, sometimes not) and we need some professional advice on how to get it working properly. Please email us with your experienc [...]]]></description>
+<dc:date>2013-03-22T23:16:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3698403814.html</dc:source>
+<dc:title><![CDATA[In-house network set-up (Mundelein)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T23:16:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3682062105.html">
+<title><![CDATA[SalesForce Administrator (Bolingbrook/Arlington Heights)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3682062105.html</link>
+<description><![CDATA[As a SalesForce Administrator, you will have the opportunity to lead the operational development and enhancement of OUR SalesForce solution. You will gain a deep understanding of business operations including Sales Force Automation, Case Management,  [...]]]></description>
+<dc:date>2013-03-22T21:42:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3682062105.html</dc:source>
+<dc:title><![CDATA[SalesForce Administrator (Bolingbrook/Arlington Heights)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:42:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3698190776.html">
+<title><![CDATA[Need website content done on a website.  (All over )]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3698190776.html</link>
+<description><![CDATA[I have a website that was put together and has taken to long. Looking for someone experienced in writing content to finish site. Also if you have Any ideas in design. Please let me know your experience or any sites that you have done. I will email al [...]]]></description>
+<dc:date>2013-03-22T20:15:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3698190776.html</dc:source>
+<dc:title><![CDATA[Need website content done on a website.  (All over )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T20:15:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3697895956.html">
+<title><![CDATA[Database Administrator (Chicago, IL)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3697895956.html</link>
+<description><![CDATA[Excellent contract opportunity for a DB2 z/OS Database Administrator with one of our top clients. This is a contract scheduled to run through the end of the year, and can be based in Chicago, IL or Keller, TX. As a DBA you will be heavily involved in [...]]]></description>
+<dc:date>2013-03-22T17:14:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3697895956.html</dc:source>
+<dc:title><![CDATA[Database Administrator (Chicago, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:14:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3697874329.html">
+<title><![CDATA[Visual C programmer needed (NW Suburbs)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3697874329.html</link>
+<description><![CDATA[I am looking for a programmer to design the following program. 
+It's solely purpose is to create CSV files for multiple users in order to upload to various websites in order to create accounts. 
+Here's my idea: 
+The home screen will have multiple row [...]]]></description>
+<dc:date>2013-03-22T17:02:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3697874329.html</dc:source>
+<dc:title><![CDATA[Visual C programmer needed (NW Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:02:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3697810218.html">
+<title><![CDATA[Office assistant (Burr Ridge)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3697810218.html</link>
+<description><![CDATA[Full time office assistant needed in Burr Ridge to answer the phone, provide customer service, filing, copying, typing, and other basic office tasks. 
+Requirements: computer experience for basic emailing and typing letters in Word, must be proficient [...]]]></description>
+<dc:date>2013-03-22T16:28:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3697810218.html</dc:source>
+<dc:title><![CDATA[Office assistant (Burr Ridge)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T16:28:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3696989092.html">
+<title><![CDATA[Graphic Designer Needed (Streamwood)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3696989092.html</link>
+<description><![CDATA[We are looking for a Graphic Designer to join our team on a part time to possible full time basis. We are an Online custom print to order Funny T-Shirt business looking for a graphic designer to help create new T-Shirt designs as well as create Marke [...]]]></description>
+<dc:date>2013-03-22T10:15:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3696989092.html</dc:source>
+<dc:title><![CDATA[Graphic Designer Needed (Streamwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:15:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3696935989.html">
+<title><![CDATA[computer repair needed]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3696935989.html</link>
+<description><![CDATA[Are you handy with personal computer/laptop troubleshooting and repair? We have positions open RIGHT NOW in the field of computer repair. 
+Established company is looking for Techs who can troubleshoot, isolate, and repair hardware issues with Persona [...]]]></description>
+<dc:date>2013-03-22T09:50:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3696935989.html</dc:source>
+<dc:title><![CDATA[computer repair needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:50:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3641232078.html">
+<title><![CDATA[Building a Firefox / Chrome Plugin (Chicago, IL)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3641232078.html</link>
+<description><![CDATA[Hi, 
+I'm looking at building a Firefox / Chrome Plugin. 
+I want to use some JavaScript and HTML/Canvas Overlays. 
+Lets work together on this. ]]></description>
+<dc:date>2013-03-22T08:53:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3641232078.html</dc:source>
+<dc:title><![CDATA[Building a Firefox / Chrome Plugin (Chicago, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:53:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3696791814.html">
+<title><![CDATA[*** NEED COMPUTER TECH.! *** (Oak Park)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3696791814.html</link>
+<description><![CDATA[A new-to-Oak-Park "major appliance" repair company needs some computer technical support. If you have some experience or are a college student studying that particular ciriculum, then this is a GREAT opportunity for you. Very close to public transpor [...]]]></description>
+<dc:date>2013-03-22T08:29:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3696791814.html</dc:source>
+<dc:title><![CDATA[*** NEED COMPUTER TECH.! *** (Oak Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:29:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3696781868.html">
+<title><![CDATA[Draw/modify manufactured home plans (Lincoln park)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3696781868.html</link>
+<description><![CDATA[Maybe new manufactured house sketches or maybe modify stock plans. $20.hr cash. - Phone/Text 312 375 7285]]></description>
+<dc:date>2013-03-22T08:22:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3696781868.html</dc:source>
+<dc:title><![CDATA[Draw/modify manufactured home plans (Lincoln park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:22:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3696613355.html">
+<title><![CDATA[College Students Needed for Study on Video Game Engagement (Loop)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3696613355.html</link>
+<description><![CDATA[$10 Gift Cards to Barnes and Noble for an hour of your time. 
+Your contribution will help improve future game designs. 
+Each participant will come in for 1 research session that can be arranged to fit your schedule. Sessions last about an hour, and y [...]]]></description>
+<dc:date>2013-03-22T04:09:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3696613355.html</dc:source>
+<dc:title><![CDATA[College Students Needed for Study on Video Game Engagement (Loop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T04:09:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3696365549.html">
+<title><![CDATA[Flash banner designer (Oak Brook)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3696365549.html</link>
+<description><![CDATA[We are in need of an experienced flash developer that can build out multiple banners for our client making them interactive and some light games. Please send samples, resume with hourly rate, work on or off site, and scheduled availability. Our first [...]]]></description>
+<dc:date>2013-03-21T21:52:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3696365549.html</dc:source>
+<dc:title><![CDATA[Flash banner designer (Oak Brook)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T21:52:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3696259032.html">
+<title><![CDATA[Video Conferencing Technician - $300/day (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3696259032.html</link>
+<description><![CDATA[Video Conferencing Technician, Polycom preferred. 
+$300/day on 3 schedule dates in Chicago. 
+contact Robert: 312-485-9957 OR rrush@dragonrecruiting.com ]]></description>
+<dc:date>2013-03-21T20:32:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3696259032.html</dc:source>
+<dc:title><![CDATA[Video Conferencing Technician - $300/day (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T20:32:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3659439077.html">
+<title><![CDATA[SEO Professional - Contract (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3659439077.html</link>
+<description><![CDATA[We are in search of a highly experienced SEO leader that will help cut through the competitive online landscape to secure us top rankings in the search results driving serious traffic to our online real estate business. This ideal candidate will be l [...]]]></description>
+<dc:date>2013-03-21T18:28:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3659439077.html</dc:source>
+<dc:title><![CDATA[SEO Professional - Contract (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T18:28:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3696019935.html">
+<title><![CDATA[Freelance Graphic Designer (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3696019935.html</link>
+<description><![CDATA[National gay men's magazine looking for a freelance graphic designer for 
+special projects.]]></description>
+<dc:date>2013-03-21T18:01:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3696019935.html</dc:source>
+<dc:title><![CDATA[Freelance Graphic Designer (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T18:01:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3695986200.html">
+<title><![CDATA[DRUPAL & MAGENTO Developers! (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3695986200.html</link>
+<description><![CDATA[Please call 312-206-6892 9am-4pm weekdays]]></description>
+<dc:date>2013-03-21T17:41:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3695986200.html</dc:source>
+<dc:title><![CDATA[DRUPAL & MAGENTO Developers! (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:41:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3695589920.html">
+<title><![CDATA[Access Database Help (Western Suburbs)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3695589920.html</link>
+<description><![CDATA[Insurance Agent sick of combining ACT and Excel spreadsheets to track insurance companies, insurance types, customers, policies, policy renewals, birthdays, mailing lists and commissions. Looking for someone to create an Access Database Report that w [...]]]></description>
+<dc:date>2013-03-21T14:22:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3695589920.html</dc:source>
+<dc:title><![CDATA[Access Database Help (Western Suburbs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:22:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3695449338.html">
+<title><![CDATA[Chicago startup seeks mobile app developer (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3695449338.html</link>
+<description><![CDATA[We are a Chicago based startup specializing in ticket upgrades for sporting events. We are currently taking on venue and team clients. As our company grows, we are seeking a talented app developer to help with our expansion. Please be local to the Ch [...]]]></description>
+<dc:date>2013-03-21T13:20:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3695449338.html</dc:source>
+<dc:title><![CDATA[Chicago startup seeks mobile app developer (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T13:20:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3695399285.html">
+<title><![CDATA[Create a Website (Chitown)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3695399285.html</link>
+<description><![CDATA[Looking for someone to create a slick looking informative website introducing our new Sustainable Technology. This website should look innovative slick with a "water like theme" no e-commerce on the site only lead generating that could tie into our C [...]]]></description>
+<dc:date>2013-03-21T12:58:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3695399285.html</dc:source>
+<dc:title><![CDATA[Create a Website (Chitown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:58:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3695385304.html">
+<title><![CDATA[IOS Apps Developer (Chicago, IL.)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3695385304.html</link>
+<description><![CDATA[IOS APP Developer 
+2+Years 
+Cocoa Touch Frame Work 
+Data mapping / messaging 
+Native IOS 
+Google API's 2.x 
+GPS Mapping 
+Audio and Video Controls 
+Object C 
+Have built and deployed apps through App store 
+Integrated APP with social media (Twitter, Fo [...]]]></description>
+<dc:date>2013-03-21T12:52:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3695385304.html</dc:source>
+<dc:title><![CDATA[IOS Apps Developer (Chicago, IL.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:52:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3695350694.html">
+<title><![CDATA[custom magento or xcart website ]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3695350694.html</link>
+<description><![CDATA[Looking for an experienced web developer/designer to help us finish our magento site. If it ends up being easier and cost effective we can switch to xcart. We need someone who really knows what they are doing. Trying to keep it under $ 3000. This is  [...]]]></description>
+<dc:date>2013-03-21T12:37:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3695350694.html</dc:source>
+<dc:title><![CDATA[custom magento or xcart website ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:37:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3694925419.html">
+<title><![CDATA[Bilingual (French) Help Desk Support (Schaumburg, IL)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3694925419.html</link>
+<description><![CDATA[Position: Level 1 Help Desk 
+Location: Schaumburg, IL 
+Duration: 3+ Months 
+Rate: Open 
+Start: Immediate 
+Requirements 
+- Must be fluent in French and English 
+- Associate's degree or equivalent from two-year college or technical school and 1 year re [...]]]></description>
+<dc:date>2013-03-21T09:25:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3694925419.html</dc:source>
+<dc:title><![CDATA[Bilingual (French) Help Desk Support (Schaumburg, IL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:25:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3684332532.html">
+<title><![CDATA[Writers, Reviewers, Make extra cash on the side legit. (Anywhere)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3684332532.html</link>
+<description><![CDATA[We are looking for a few online posters. Our requirements are as follows: 
+1.) Must have online access from a home computer 
+2.) Must have a valid credit card in your own name. (If needed it will not be more that $5 and you will be reumbursed prior t [...]]]></description>
+<dc:date>2013-03-20T23:46:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3684332532.html</dc:source>
+<dc:title><![CDATA[Writers, Reviewers, Make extra cash on the side legit. (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T23:46:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3694391545.html">
+<title><![CDATA[Typeset/Layout (Barrington area)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3694391545.html</link>
+<description><![CDATA[Looking for talented individual for a small job with experience in adobe creative suite products to layout and typeset a marketing post card. 
+The printer will accept the following file formats: .TIF, .TIFF, .EPS, .AI, .PSD, .JPG, .PNG & .PDF. 
+They  [...]]]></description>
+<dc:date>2013-03-20T22:31:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3694391545.html</dc:source>
+<dc:title><![CDATA[Typeset/Layout (Barrington area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T22:31:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3694038118.html">
+<title><![CDATA[studio engineer/video editor]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3694038118.html</link>
+<description><![CDATA[My Studio Demo is seeking full and part time interns for videographers and studio engineers. We are located in North Riverside Mall 7501 w. Cermak North Riverside Ill. ]]></description>
+<dc:date>2013-03-20T18:40:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3694038118.html</dc:source>
+<dc:title><![CDATA[studio engineer/video editor]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:40:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3694012956.html">
+<title><![CDATA[iOS App Developer]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3694012956.html</link>
+<description><![CDATA[job description 
+Yella is a fast growing Customer Experience startup in need of a full time top notch iOS developer. 
+Responsibilites: 
+- Write clean code and optimized code for iOS 
+- Architect, build, iterate and manage the iOS app 
+- Partner close [...]]]></description>
+<dc:date>2013-03-20T18:26:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3694012956.html</dc:source>
+<dc:title><![CDATA[iOS App Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:26:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3693930843.html">
+<title><![CDATA[Web/Mobile Programmer (Milwaukee)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3693930843.html</link>
+<description><![CDATA[I am looking for a great developer that can help with our overflow of work. I want someone who can add value to the project as well as build what is needed. 
+IMPORTANT - Notice the small details. Please include links to portfolio and hourly rate. 
+He [...]]]></description>
+<dc:date>2013-03-20T17:40:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3693930843.html</dc:source>
+<dc:title><![CDATA[Web/Mobile Programmer (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:40:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3693867020.html">
+<title><![CDATA[Security Camera System Installer (Lombard)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3693867020.html</link>
+<description><![CDATA[We are located in Lombard and are working to build our camera installation business. 
+Looking for an experienced installer with the following: 
+1. Installation of Cameras (IP or Cmos) 
+2. Installing Siamese coax cabling and installing BNC ends or Cat [...]]]></description>
+<dc:date>2013-03-20T17:06:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3693867020.html</dc:source>
+<dc:title><![CDATA[Security Camera System Installer (Lombard)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:06:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693826817.html">
+<title><![CDATA[Imaging/Data Entry Internship (May and Grand)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693826817.html</link>
+<description><![CDATA[BMG Models in Chicago is looking for a full-time or part-time intern in the Imaging Department. Photoshop skills are necessary, but can range from beginner to advanced. This internship has room for advancement! Job duties include: retouching, light c [...]]]></description>
+<dc:date>2013-03-20T16:46:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693826817.html</dc:source>
+<dc:title><![CDATA[Imaging/Data Entry Internship (May and Grand)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:46:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/sox/cpg/3693791031.html">
+<title><![CDATA[Do you have sickle cell disease or TRAIT? (Illinois)]]></title>
+<link>http://chicago.craigslist.org/sox/cpg/3693791031.html</link>
+<description><![CDATA[The University of Illinois at Chicago is looking for people with sickle cell disease or trait, 18 to 35 years old, for an Internet research study to test a new computerized educational program called CHOICES to teach young people (18 to 35 years old) [...]]]></description>
+<dc:date>2013-03-20T16:29:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/sox/cpg/3693791031.html</dc:source>
+<dc:title><![CDATA[Do you have sickle cell disease or TRAIT? (Illinois)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:29:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693652573.html">
+<title><![CDATA[iOS Expert Needed! (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693652573.html</link>
+<description><![CDATA[Relocation assistance available.]]></description>
+<dc:date>2013-03-20T15:24:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693652573.html</dc:source>
+<dc:title><![CDATA[iOS Expert Needed! (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:24:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3693611522.html">
+<title><![CDATA[Excel workers (grayslake, il)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3693611522.html</link>
+<description><![CDATA[Excel Workers listing , Analyzing & Pricing Products (Grayslake, IL) 
+Excel Workers listing , Analyzing & Pricing Products in excel and on our web sites. 
+Must live locally in the Grayslake, IL area - within 15 miles due to emergency situations requi [...]]]></description>
+<dc:date>2013-03-20T15:06:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3693611522.html</dc:source>
+<dc:title><![CDATA[Excel workers (grayslake, il)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:06:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693472582.html">
+<title><![CDATA[Looking for Data Scientist]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693472582.html</link>
+<description><![CDATA[Yella is a startup that gathers data on customer transactions, demographics and feedback at large fast-food restaurant chains. We are looking for a Data Scientist to join our team to help us generate actionable insights for our customers 
+The Data Sc [...]]]></description>
+<dc:date>2013-03-20T14:03:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693472582.html</dc:source>
+<dc:title><![CDATA[Looking for Data Scientist]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:03:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693451358.html">
+<title><![CDATA[Looking for a Software Engineer]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693451358.html</link>
+<description><![CDATA[Yella is a startup that gathers data on customer transactions, demographics and feedback at large fast-food restaurant chains. We are looking for a Software Engineer to join our team to help us create integrate with receipt printers on Point of Sales [...]]]></description>
+<dc:date>2013-03-20T13:54:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693451358.html</dc:source>
+<dc:title><![CDATA[Looking for a Software Engineer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:54:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693330528.html">
+<title><![CDATA[cookie website ]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693330528.html</link>
+<description><![CDATA[Hello, looking for quotes on a simple webstore to sell cookies on. Im looking for no more than 5 pages and it needs to have a shopping cart. 
+please respond with similar sites you've done and a quote. ]]></description>
+<dc:date>2013-03-20T13:02:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693330528.html</dc:source>
+<dc:title><![CDATA[cookie website ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:02:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693243248.html">
+<title><![CDATA[Build my website (Sauganash)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693243248.html</link>
+<description><![CDATA[I need a website built for a loan officer. Please have an idea of what these websites typically entail and what you can offer when you present your proposal. ]]></description>
+<dc:date>2013-03-20T12:25:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693243248.html</dc:source>
+<dc:title><![CDATA[Build my website (Sauganash)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:25:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3693240840.html">
+<title><![CDATA[Looking for local experienced DRUPAL & MAGENTO Developers (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3693240840.html</link>
+<description><![CDATA[Please call me 9am-4pm. 312 206 6892]]></description>
+<dc:date>2013-03-20T12:24:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3693240840.html</dc:source>
+<dc:title><![CDATA[Looking for local experienced DRUPAL & MAGENTO Developers (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:24:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3692819579.html">
+<title><![CDATA[Web Developer - Business Partner (Libertyville)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3692819579.html</link>
+<description><![CDATA[Looking for a Highly Technical Web Developer as a business partner to be located in-house in Libertyville, IL. 
+Will split profits 50-50%. No Investment Required!!! We win new projects on a weekly basis. 
+We have been in the Digital Media/Web Develop [...]]]></description>
+<dc:date>2013-03-20T09:20:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3692819579.html</dc:source>
+<dc:title><![CDATA[Web Developer - Business Partner (Libertyville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:20:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3692736967.html">
+<title><![CDATA[3D illustrator (Lake Zurich)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3692736967.html</link>
+<description><![CDATA[We are in need of a 3D designer - we have a video project that we need to render some stills or possibly animated 3D videos and then import them into After Effects. 
+This particular item is an electrical connector....we may or may not be able to get  [...]]]></description>
+<dc:date>2013-03-20T08:33:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3692736967.html</dc:source>
+<dc:title><![CDATA[3D illustrator (Lake Zurich)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T08:33:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3692661493.html">
+<title><![CDATA[Need someone to teach me quick books and some excel skills]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3692661493.html</link>
+<description><![CDATA[Ok so I've tried to learn from these books but its not working. Please let me know your price and where we can meet. Would like to learn very soon ]]></description>
+<dc:date>2013-03-20T07:37:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3692661493.html</dc:source>
+<dc:title><![CDATA[Need someone to teach me quick books and some excel skills]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T07:37:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3692319137.html">
+<title><![CDATA[Summer Internship - Web Development (Chicago &amp; Remote)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3692319137.html</link>
+<description><![CDATA[Looking for someone in college that wants some amazing real world experience getting their hands on live sites and a small and growing company. 
+No experience needed, we are willing to train the right candidate. Please reply to this post via email an [...]]]></description>
+<dc:date>2013-03-19T22:51:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3692319137.html</dc:source>
+<dc:title><![CDATA[Summer Internship - Web Development (Chicago &amp; Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:51:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3692287458.html">
+<title><![CDATA[Basic HTML Coding needed for graphic novel website (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3692287458.html</link>
+<description><![CDATA[We have designed a simple, elegant website to display our graphic novel to the world, but need someone to code it in. Shouldn't be a lot of work, and it's not highly complex. If you're good, there might be additional work down the line, including gra [...]]]></description>
+<dc:date>2013-03-19T22:23:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3692287458.html</dc:source>
+<dc:title><![CDATA[Basic HTML Coding needed for graphic novel website (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:23:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3692215385.html">
+<title><![CDATA[NEED A LOGO FOR WEBSITE (Calumet City)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3692215385.html</link>
+<description><![CDATA[hey i need a ,professional looking website logo... not to cheesy and basement done! something that stands out and represents the website... dont have to be fancy... just something that will fit the already done website design...... also i really want [...]]]></description>
+<dc:date>2013-03-19T21:29:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3692215385.html</dc:source>
+<dc:title><![CDATA[NEED A LOGO FOR WEBSITE (Calumet City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:29:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3692198669.html">
+<title><![CDATA[App Developer - iPhone, Galaxy (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3692198669.html</link>
+<description><![CDATA[Hi, I'm looking for someone who has experience developing apps for iPhone and Galaxy systems. I have an idea for an app that I'd like to have developed. Please let me know of what experience do you have and what is the pricing. 
+Thanks]]></description>
+<dc:date>2013-03-19T21:17:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3692198669.html</dc:source>
+<dc:title><![CDATA[App Developer - iPhone, Galaxy (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:17:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/sox/cpg/3692109388.html">
+<title><![CDATA[Simple Web Design Needed (Bourbonnais)]]></title>
+<link>http://chicago.craigslist.org/sox/cpg/3692109388.html</link>
+<description><![CDATA[I am a young singer launching a jingle career and I need a simple 1-page site to direct prospective clients to. I do not want/need web optimized site. 
+The site should contain: 
+* My name (a nice font is fine, no logo design necessary) 
+* Easy 1-clic [...]]]></description>
+<dc:date>2013-03-19T20:18:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/sox/cpg/3692109388.html</dc:source>
+<dc:title><![CDATA[Simple Web Design Needed (Bourbonnais)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:18:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691859173.html">
+<title><![CDATA[DRUPAL & MAGENTO Developers (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691859173.html</link>
+<description><![CDATA[We are looking for local developers well versed in DRUPAL and MAGENTO. Ecommerce nice, but nor necessary. Please call 312-206-6892 9-5 weekdays. Thanks.]]></description>
+<dc:date>2013-03-19T17:57:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691859173.html</dc:source>
+<dc:title><![CDATA[DRUPAL & MAGENTO Developers (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:57:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3691813059.html">
+<title><![CDATA[Web Site Design (Bolingbrook/anywhere)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3691813059.html</link>
+<description><![CDATA[Need present website upgraded and moved from current host. 
+Contact me. You location is not important. Talent and creativeness is important. 
+Work needed as soon as possible, like moving current website. 
+Don]]></description>
+<dc:date>2013-03-19T17:34:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3691813059.html</dc:source>
+<dc:title><![CDATA[Web Site Design (Bolingbrook/anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:34:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3691596998.html">
+<title><![CDATA[Spanish Speaking and Writing Sales Assistant (Schiller Park, Il)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3691596998.html</link>
+<description><![CDATA[Spanish speaking and writing assistant need for small international engineering company. Full time or part time. Need to write e-mails and make follow up calls to customers met at trade shows. Must be computer literate. Must be flexible and willing t [...]]]></description>
+<dc:date>2013-03-19T15:49:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3691596998.html</dc:source>
+<dc:title><![CDATA[Spanish Speaking and Writing Sales Assistant (Schiller Park, Il)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:49:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691562495.html">
+<title><![CDATA[Pros Pricing Tech Admin (Greater Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691562495.html</link>
+<description><![CDATA[XcelPros is a premier consulting and technology solutions company based out of Greater Chicago. We are looking for somebody in the area or willing to relocate for a Pros Pricing Tech Admin position. Must have experience in working with Pros Pricing.  [...]]]></description>
+<dc:date>2013-03-19T15:34:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691562495.html</dc:source>
+<dc:title><![CDATA[Pros Pricing Tech Admin (Greater Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:34:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691514188.html">
+<title><![CDATA[Multiplayer Word App Designer (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691514188.html</link>
+<description><![CDATA[***** Please download the FREE app before applying - want you to understand the features of the app**** 
+Need a developer to upgrade our existing word game app "All Words Up" to have multiplayer features. The app is similar to Bejeweled & Boggles wor [...]]]></description>
+<dc:date>2013-03-19T15:12:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691514188.html</dc:source>
+<dc:title><![CDATA[Multiplayer Word App Designer (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:12:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3691509970.html">
+<title><![CDATA[IT Company needs VMware and Windows Engineers (Chicago land)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3691509970.html</link>
+<description><![CDATA[We are a network consulting firm located in Oak Brook IL, servicing accounts throughout Chicago, please email resume. Thanks 
+All resumes kept confidential. ]]></description>
+<dc:date>2013-03-19T15:10:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3691509970.html</dc:source>
+<dc:title><![CDATA[IT Company needs VMware and Windows Engineers (Chicago land)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:10:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691444493.html">
+<title><![CDATA[Small Program Needed (Remote)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691444493.html</link>
+<description><![CDATA[I need a small program created that will compare files in two folders that share the first 8 or so characters. I then need the files in one folder to be renamed to the same as the corresponding file in the first folder. This program will be run twice [...]]]></description>
+<dc:date>2013-03-19T14:41:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691444493.html</dc:source>
+<dc:title><![CDATA[Small Program Needed (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:41:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691297909.html">
+<title><![CDATA[Joomla Developer Needed (Greater Chicago Area)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691297909.html</link>
+<description><![CDATA[Our software development company currently has more Joomla development projects then we can handle. We are looking to find a talented Joomla developer in (or at least near) North Carolina that can assist us in development. 
+If you are a senior level, [...]]]></description>
+<dc:date>2013-03-19T13:38:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691297909.html</dc:source>
+<dc:title><![CDATA[Joomla Developer Needed (Greater Chicago Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:38:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691251428.html">
+<title><![CDATA[Video Game Programming and App Development Instructors (@ University of Chicago  )]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691251428.html</link>
+<description><![CDATA[Video Game Programming, App Development and Programming Instructors for Week-Long Immersive Summer Courses for Teens 
+@ University of Chicago 
+The Digital Media Academy (DMA) offers summer digital arts, media and technology camps and courses for kids [...]]]></description>
+<dc:date>2013-03-19T13:19:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691251428.html</dc:source>
+<dc:title><![CDATA[Video Game Programming and App Development Instructors (@ University of Chicago  )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:19:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691066257.html">
+<title><![CDATA[Android App Developer NOW! (Must live in the Chicagoland Area)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691066257.html</link>
+<description><![CDATA[Greetings Chi-Town tech community. I am part of a local collaborative of creatives and progressive entrepreneurs looking for an android app developer for an innovative city project. The app will be available on mobile and tablet devices. Excellent co [...]]]></description>
+<dc:date>2013-03-19T12:02:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691066257.html</dc:source>
+<dc:title><![CDATA[Android App Developer NOW! (Must live in the Chicagoland Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:02:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691062987.html">
+<title><![CDATA[Need:Certified Accountant (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691062987.html</link>
+<description><![CDATA[I need to file my business and personal taxes. Please provide me with a quote for both. I do have quickbooks and receipts but this will need to be reconciled. ]]></description>
+<dc:date>2013-03-19T12:01:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691062987.html</dc:source>
+<dc:title><![CDATA[Need:Certified Accountant (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:01:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3662804055.html">
+<title><![CDATA[Help Desk and Software Support (O'Hare Area)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3662804055.html</link>
+<description><![CDATA[Entry Level Technician Needed for our clients 
+- Part time to start with (20 hours week - set schedule) - with full time position within 30 days 
+- Recent college graduate a huge plus 
+Job Description 
+Looking for an entry level technical person to p [...]]]></description>
+<dc:date>2013-03-19T11:43:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3662804055.html</dc:source>
+<dc:title><![CDATA[Help Desk and Software Support (O'Hare Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:43:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3691001219.html">
+<title><![CDATA[Seeking Talented Freelance Designers (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3691001219.html</link>
+<description><![CDATA[We are a small but growing advertising/marketing agency in the Chicago area. We specialize in creating websites, digital campaigns and marketing strategies for big and small clients. Businesses come to us looking for ways to increase sales and we com [...]]]></description>
+<dc:date>2013-03-19T11:36:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3691001219.html</dc:source>
+<dc:title><![CDATA[Seeking Talented Freelance Designers (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:36:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690910533.html">
+<title><![CDATA[Corvision Position (Greater Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690910533.html</link>
+<description><![CDATA[XcelPros is a premier consulting and technology solutions company based out of Greater Chicago. We are looking for somebody in the area or willing to locate for a Corvision position. Must have experience in working with Corvision. 
+Duration -- At lea [...]]]></description>
+<dc:date>2013-03-19T10:59:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690910533.html</dc:source>
+<dc:title><![CDATA[Corvision Position (Greater Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:59:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690882574.html">
+<title><![CDATA[Oracle EBS Functional Consultant (Greater Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690882574.html</link>
+<description><![CDATA[XcelPros is looking for an Oracle EBS Functional Consultant with expertise in Oracle Lease and Finance Management (OLFM). 
+Duration -- 6 months + 
+Location -- Greater Chicago 
+Remuneration - To Be Determined 
+Major Responsibilities: 
+• Work with busi [...]]]></description>
+<dc:date>2013-03-19T10:47:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690882574.html</dc:source>
+<dc:title><![CDATA[Oracle EBS Functional Consultant (Greater Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:47:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690863814.html">
+<title><![CDATA[Start-up eluhy.com is looking for a few talented programmers (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690863814.html</link>
+<description><![CDATA[Start-up eluhy.com is looking for a few talented programmers to join our team to complete the current development, which was hand built by a medical school student. All of the car dealerships around Champaign and Urbana IL such as UC Auto Inc, Motors [...]]]></description>
+<dc:date>2013-03-19T10:39:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690863814.html</dc:source>
+<dc:title><![CDATA[Start-up eluhy.com is looking for a few talented programmers (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:39:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nch/cpg/3690821502.html">
+<title><![CDATA[Want Extra Money? Great Extra Income (Chicago)]]></title>
+<link>http://chicago.craigslist.org/nch/cpg/3690821502.html</link>
+<description><![CDATA[I have some work that needs to be done, anyone can do it. I just need the extra help in Chicago. All that is required is you having a computer with internet access. I'll pay $50+ for a few hours of work daily. ]]></description>
+<dc:date>2013-03-19T10:21:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nch/cpg/3690821502.html</dc:source>
+<dc:title><![CDATA[Want Extra Money? Great Extra Income (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:21:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690789206.html">
+<title><![CDATA[Website Developer Wanted (Burr Ridge )]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690789206.html</link>
+<description><![CDATA[Looking for a very talented and creative webdeveloper. and graphic designer 
+.Please no companies or anyone not in Chicago. I have several clients, so you will be working on several projects at once. 
+Submit portfolio, and contact info. Thanks 
+I wil [...]]]></description>
+<dc:date>2013-03-19T10:06:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690789206.html</dc:source>
+<dc:title><![CDATA[Website Developer Wanted (Burr Ridge )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:06:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690551495.html">
+<title><![CDATA[Attention Facebook Users!]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690551495.html</link>
+<description><![CDATA[A research group at Northwestern University is currently recruiting Facebook users for a research study exploring the way that people handle awkward situations on Facebook. 
+To participate, you must be 18 years old or older and a Facebook user. Parti [...]]]></description>
+<dc:date>2013-03-19T07:47:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690551495.html</dc:source>
+<dc:title><![CDATA[Attention Facebook Users!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T07:47:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3690506192.html">
+<title><![CDATA[Graphic Designer Wanted (downtown)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3690506192.html</link>
+<description><![CDATA[My website, http://www.GrammarU.com , needs a graphic designer to help modernize the look. I am willing to pay cash. Can anyone help? ]]></description>
+<dc:date>2013-03-19T07:00:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3690506192.html</dc:source>
+<dc:title><![CDATA[Graphic Designer Wanted (downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T07:00:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3690148808.html">
+<title><![CDATA[Syncing my music to Ipod (berwyn)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3690148808.html</link>
+<description><![CDATA[I have apple ipod having trouble syncying my music to this device anyone know how to do that? ]]></description>
+<dc:date>2013-03-18T22:02:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3690148808.html</dc:source>
+<dc:title><![CDATA[Syncing my music to Ipod (berwyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T22:02:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3690116533.html">
+<title><![CDATA[Marketing Assistant Client Co-ordinator w/ web / computer knowlege (Schaumburg)]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3690116533.html</link>
+<description><![CDATA[Chicago marketing firm based in the Northwest Suburbs seeking full-time Marketing /Admin Assistant and Client Co-ordinator. Candidate must have excellent listening, communication, and organizational. Candidate must be comfortable and proficient using [...]]]></description>
+<dc:date>2013-03-18T21:39:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3690116533.html</dc:source>
+<dc:title><![CDATA[Marketing Assistant Client Co-ordinator w/ web / computer knowlege (Schaumburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T21:39:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/wcl/cpg/3690040658.html">
+<title><![CDATA[Need free php help  (Montgomery, Illinois)]]></title>
+<link>http://chicago.craigslist.org/wcl/cpg/3690040658.html</link>
+<description><![CDATA[Need free php help 
+Have no money , but can place a free ad or link on my website for you. If you have the answers to my problem and answer them in a reply, please send your ad or link or both and I will list them as I fix my problem. Thank you 
+Plea [...]]]></description>
+<dc:date>2013-03-18T20:49:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/wcl/cpg/3690040658.html</dc:source>
+<dc:title><![CDATA[Need free php help  (Montgomery, Illinois)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T20:49:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3689872537.html">
+<title><![CDATA[Excell/access payroll system (chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3689872537.html</link>
+<description><![CDATA[My company is looking for some help with an excel/access payroll system. When deal with independent contractors on a commission only bases. We have 6 products to sell each with a different commission as well as three management levels that receive ov [...]]]></description>
+<dc:date>2013-03-18T19:11:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3689872537.html</dc:source>
+<dc:title><![CDATA[Excell/access payroll system (chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T19:11:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3689773008.html">
+<title><![CDATA[Needed: Drupal and Megento Developers (Chicago)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3689773008.html</link>
+<description><![CDATA[We are looking for freelance developers who reside in Chicago. Drupal and Magento need to be your strengths. E-commerce experience is a major PLUS. Please call 9am-4pm. 312 206 6892]]></description>
+<dc:date>2013-03-18T18:18:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3689773008.html</dc:source>
+<dc:title><![CDATA[Needed: Drupal and Megento Developers (Chicago)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T18:18:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3689593294.html">
+<title><![CDATA[WEB DEVELOPER - Paid Internship, $10/hr plus school credit (West Loop)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3689593294.html</link>
+<description><![CDATA[This position involves working with our Webmaster through the development and design of individual sub-websites for our 32 locations nationwide, as well as working on the main site and our propriety online Health Risk Assessment, Biometric and Biomec [...]]]></description>
+<dc:date>2013-03-18T16:47:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3689593294.html</dc:source>
+<dc:title><![CDATA[WEB DEVELOPER - Paid Internship, $10/hr plus school credit (West Loop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T16:47:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/chc/cpg/3689490509.html">
+<title><![CDATA[MySQL phpmyadmin help (Loop)]]></title>
+<link>http://chicago.craigslist.org/chc/cpg/3689490509.html</link>
+<description><![CDATA[We use a database that runs off of MySQL and uploads our data (images) to three of our websites. We need someone to upgrade and make changes to it. We are not familiar with how to program it, but rather we know how to operate it. We'd like to keep th [...]]]></description>
+<dc:date>2013-03-18T16:00:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/chc/cpg/3689490509.html</dc:source>
+<dc:title><![CDATA[MySQL phpmyadmin help (Loop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T16:00:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chicago.craigslist.org/nwc/cpg/3671984950.html">
+<title><![CDATA[Cnc Operators Needed x y z axis Software (Northside )]]></title>
+<link>http://chicago.craigslist.org/nwc/cpg/3671984950.html</link>
+<description><![CDATA[We are looking to hire cnc computer operators and or computer software programmers 
+We are currently looking for someone with experience ]]></description>
+<dc:date>2013-03-18T15:23:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chicago.craigslist.org/nwc/cpg/3671984950.html</dc:source>
+<dc:title><![CDATA[Cnc Operators Needed x y z axis Software (Northside )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:23:01-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

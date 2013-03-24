@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://erie.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in erie, PA</title>
+<link>http://erie.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://erie.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in erie, PA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3681030473.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3697896713.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3691020870.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3660136218.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3643172745.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3596950875.html" />
+  <rdf:li rdf:resource="http://erie.craigslist.org/cpg/3618620950.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://erie.craigslist.org/cpg/3681030473.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://erie.craigslist.org/cpg/3681030473.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:54:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3681030473.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:54:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3697896713.html">
+<title><![CDATA[Remote Survey Takers Wanted (Work From Home - Remote)]]></title>
+<link>http://erie.craigslist.org/cpg/3697896713.html</link>
+<description><![CDATA[This is a great opportunity to make money in your spare time. 
+Taking a wide variety of surveys for varying pay. Payments are sent directly to you. 
+Please review and see for yourself http://tryvindale.com/VwUNRkUf1 ]]></description>
+<dc:date>2013-03-22T18:14:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3697896713.html</dc:source>
+<dc:title><![CDATA[Remote Survey Takers Wanted (Work From Home - Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T18:14:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3691020870.html">
+<title><![CDATA[Growing IT Company In Need of Motivated Technicians!  (Erie)]]></title>
+<link>http://erie.craigslist.org/cpg/3691020870.html</link>
+<description><![CDATA[I am looking for techs who can do the following types of jobs: 
+- Network installation and troubleshooting 
+- Cabling (cat 5, cat 6, fiber optic) 
+- Printer troubleshooting / repair 
+- Computer repair 
+- POS troubleshooting 
+- T1 and T3 lines 
+- Swit [...]]]></description>
+<dc:date>2013-03-19T12:44:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3691020870.html</dc:source>
+<dc:title><![CDATA[Growing IT Company In Need of Motivated Technicians!  (Erie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:44:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3660136218.html">
+<title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></title>
+<link>http://erie.craigslist.org/cpg/3660136218.html</link>
+<description><![CDATA[Amazing Opportunity! We are looking for Mobile Game App Developers to help with new app development. Experience with iOS & Android development a must. Part-Time, subcontract. Payment will be in shares of the revenue of the game, On-Going, for the rig [...]]]></description>
+<dc:date>2013-03-05T09:23:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3660136218.html</dc:source>
+<dc:title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T09:23:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3643172745.html">
+<title><![CDATA[Wireless Field Technicians (Erie, PA)]]></title>
+<link>http://erie.craigslist.org/cpg/3643172745.html</link>
+<description><![CDATA[Looking for Wireless Field Technicians in the greater Erie market. 
+Candidates will be completing break/fix and quality assurance work at various cellular sites throughout the area. 
+Candidates must be flexible to work all shifts and must have a reli [...]]]></description>
+<dc:date>2013-02-25T16:58:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3643172745.html</dc:source>
+<dc:title><![CDATA[Wireless Field Technicians (Erie, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:58:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3596950875.html">
+<title><![CDATA[The App That Pays In So Many Ways :) (Millcreek)]]></title>
+<link>http://erie.craigslist.org/cpg/3596950875.html</link>
+<description><![CDATA[Already in the iTunes store! An App that pays you to refer it to others. Personal development + income....There's an App for that :) 
+Got a Smart phone, iPad, Tablet, Desktop, Laptop or most any sort of technology and you can get a piece of the App I [...]]]></description>
+<dc:date>2013-02-17T00:02:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3596950875.html</dc:source>
+<dc:title><![CDATA[The App That Pays In So Many Ways :) (Millcreek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T00:02:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://erie.craigslist.org/cpg/3618620950.html">
+<title><![CDATA[Web Design Students/Amateurs: Résumé Experience! (Erie and Surrounding Area)]]></title>
+<link>http://erie.craigslist.org/cpg/3618620950.html</link>
+<description><![CDATA[Attention Web Design students and amateurs! 
+I'm a chapter officer for a local non-profit organization. Our main focus is wildlife/habitat preservation, but we do a lot of other great work through Northwest Pennsylvania. I enjoy web and graphic desig [...]]]></description>
+<dc:date>2013-02-15T06:15:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://erie.craigslist.org/cpg/3618620950.html</dc:source>
+<dc:title><![CDATA[Web Design Students/Amateurs: Résumé Experience! (Erie and Surrounding Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T06:15:01-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

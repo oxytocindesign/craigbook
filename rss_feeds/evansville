@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://evansville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in evansville</title>
+<link>http://evansville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://evansville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in evansville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:37:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3564296843.html" />
+  <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3625964093.html" />
+  <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3575243256.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://evansville.craigslist.org/cpg/3564296843.html">
+<title><![CDATA[&#9816;Company needs Online Workers]]></title>
+<link>http://evansville.craigslist.org/cpg/3564296843.html</link>
+<description><![CDATA[ENTREPRENEURS WANTED, GROUND FLOOR OPPORTUNITY WITH NEW PRODUCTS AND A HIGH COMMISSION COMPENSATION PLAN! EARN 100% COMMISSIONS!!!!! FROM DAY 1. TRAINING IS PROVIDED. 
+GO TO : http://notwork925.co.nr for full description ]]></description>
+<dc:date>2013-02-18T13:25:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://evansville.craigslist.org/cpg/3564296843.html</dc:source>
+<dc:title><![CDATA[&#9816;Company needs Online Workers]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:25:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://evansville.craigslist.org/cpg/3625964093.html">
+<title><![CDATA[Seeking a Network Analyst -Systems Administrator ( Jasper, IN 47546)]]></title>
+<link>http://evansville.craigslist.org/cpg/3625964093.html</link>
+<description><![CDATA[Please send resume for details 
+Contract to hire: $55K-65K (contract to hire for 6 months than the job goes permenant) 
+Duration: This is a Contract to hire (after 90 business days the company can bring you on full time with benefits) 
+Education: 
+As [...]]]></description>
+<dc:date>2013-02-18T12:12:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://evansville.craigslist.org/cpg/3625964093.html</dc:source>
+<dc:title><![CDATA[Seeking a Network Analyst -Systems Administrator ( Jasper, IN 47546)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T12:12:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://evansville.craigslist.org/cpg/3575243256.html">
+<title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></title>
+<link>http://evansville.craigslist.org/cpg/3575243256.html</link>
+<description><![CDATA[A job position is available immediately. The work can be done from your home online, so all you need is an internet connection. $40.00 is all it takes to get started. Turn $40.00 into $2,000.00/week. Email me for more details ]]></description>
+<dc:date>2013-02-07T13:22:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://evansville.craigslist.org/cpg/3575243256.html</dc:source>
+<dc:title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T13:22:21-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

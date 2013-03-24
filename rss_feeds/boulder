@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://boulder.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in boulder</title>
+<link>http://boulder.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://boulder.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in boulder</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:29:30-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3700732015.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3699994219.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3698804234.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3698361874.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3698185108.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3696514770.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3695685485.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3695383193.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3695321998.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3692993148.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3692260755.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3688919570.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3688009758.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3687411408.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3683951733.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3682844780.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3678570992.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3672984549.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3670473474.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3669154347.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3668978843.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3668512631.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3665187384.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3663188145.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3661492088.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3659786562.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3657835123.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3655515867.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3648170291.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3645722137.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3645710821.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3614879359.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3631482511.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3629154393.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3627760530.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3617622128.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3614793189.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3614788046.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3611797752.html" />
+  <rdf:li rdf:resource="http://boulder.craigslist.org/cpg/3608134699.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://boulder.craigslist.org/cpg/3700732015.html">
+<title><![CDATA[Looking for web designer / business partner (Denver)]]></title>
+<link>http://boulder.craigslist.org/cpg/3700732015.html</link>
+<description><![CDATA[I'm sure programmers are overwhelmed with people who have the "next great idea" but the need your "free" services. 
+I have an idea that I would like to share with a programmer who is interested. I have two other very successful businesses and I do th [...]]]></description>
+<dc:date>2013-03-24T09:31:51-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3700732015.html</dc:source>
+<dc:title><![CDATA[Looking for web designer / business partner (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:31:51-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3699994219.html">
+<title><![CDATA[Computer Project Help Needed (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3699994219.html</link>
+<description><![CDATA[Need some help with some computer projects.I have all the equipment and software but need help making things work. I'll pay cash at a fair rate. Please email with questions and what you'd charge. Prefer price per project than hourly, and thinking in  [...]]]></description>
+<dc:date>2013-03-23T18:37:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3699994219.html</dc:source>
+<dc:title><![CDATA[Computer Project Help Needed (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:37:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3698804234.html">
+<title><![CDATA[Awesome student job]]></title>
+<link>http://boulder.craigslist.org/cpg/3698804234.html</link>
+<description><![CDATA[A great opportunity for students or whomever wants to make 100% commissions with a new "star age" company!!! Reply for full disclosure video!!!]]></description>
+<dc:date>2013-03-23T08:08:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3698804234.html</dc:source>
+<dc:title><![CDATA[Awesome student job]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:08:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3698361874.html">
+<title><![CDATA[Need iphoto & imovie help! (Broomfield)]]></title>
+<link>http://boulder.craigslist.org/cpg/3698361874.html</link>
+<description><![CDATA[MAC iphoto and imovie training/help needed for current and upcoming projects. 
+Can you communicate well enough to explain answers and how-to's for my questions? 
+Do you know the ins and outs of iPhoto? Photo management: help me to get photos I have n [...]]]></description>
+<dc:date>2013-03-22T21:33:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3698361874.html</dc:source>
+<dc:title><![CDATA[Need iphoto & imovie help! (Broomfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:33:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3698185108.html">
+<title><![CDATA[Part-time analyst/smartie  (Westminster)]]></title>
+<link>http://boulder.craigslist.org/cpg/3698185108.html</link>
+<description><![CDATA[We're an analytics driven marketing company that needs a part-time (which could lead to full-time position) analyst who can help crunch some of our data. Ideally, we'd like a math or physics student or recent graduate who wants to make some extra cas [...]]]></description>
+<dc:date>2013-03-22T19:11:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3698185108.html</dc:source>
+<dc:title><![CDATA[Part-time analyst/smartie  (Westminster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T19:11:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3696514770.html">
+<title><![CDATA[Web Programer needed for Local Music Prod Company  (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3696514770.html</link>
+<description><![CDATA[Hi, We are a small live music production company and we are looking to put a shopping cart on our site via our Paypal Manager. Please let us know if you are interested and some examples of your work. We are a small growing company so please keep the  [...]]]></description>
+<dc:date>2013-03-21T23:30:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3696514770.html</dc:source>
+<dc:title><![CDATA[Web Programer needed for Local Music Prod Company  (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T23:30:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3695685485.html">
+<title><![CDATA[Seeking CTO Co-Founder  (Boulder area)]]></title>
+<link>http://boulder.craigslist.org/cpg/3695685485.html</link>
+<description><![CDATA[If you're a talented Ruby and/or mobile developer, let's talk! In 2 minutes you'll know enough to make a decision......]]></description>
+<dc:date>2013-03-21T14:07:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3695685485.html</dc:source>
+<dc:title><![CDATA[Seeking CTO Co-Founder  (Boulder area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:07:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3695383193.html">
+<title><![CDATA[iOS App -- Small Help Needed (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3695383193.html</link>
+<description><![CDATA[Hello, 
+I'm looking for help with my iOS PhoneGap project. I just can't get In App Purchases to work. 
+Willing to pay hourly rate. Email me and I will send back my phone number. 
+Help needed ASAP!]]></description>
+<dc:date>2013-03-21T11:51:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3695383193.html</dc:source>
+<dc:title><![CDATA[iOS App -- Small Help Needed (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:51:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3695321998.html">
+<title><![CDATA[Drupal Developer Needed (Boulder, CO)]]></title>
+<link>http://boulder.craigslist.org/cpg/3695321998.html</link>
+<description><![CDATA[Looking for a Drupal developer in the Boulder area (need to meet periodically downtown Boulder.) I'm a designer/front-end developer/website contractor with multiple clients with WIP Drupal websites and need someone to work on custom modules and other [...]]]></description>
+<dc:date>2013-03-21T11:24:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3695321998.html</dc:source>
+<dc:title><![CDATA[Drupal Developer Needed (Boulder, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:24:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3692993148.html">
+<title><![CDATA[Mobile App Developer in Boulder Colorado Area]]></title>
+<link>http://boulder.craigslist.org/cpg/3692993148.html</link>
+<description><![CDATA[I'd like to get some help on developing a mobile app. It is currently a pdf-based travel guide that I'd like to convert to a mobile app that travelers can download (so they can use with or without wifi), but not share. LOCALS ONLY IN BOULDER COLORADO [...]]]></description>
+<dc:date>2013-03-20T09:42:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3692993148.html</dc:source>
+<dc:title><![CDATA[Mobile App Developer in Boulder Colorado Area]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:42:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3692260755.html">
+<title><![CDATA[MAKE $500 A DAY FAST AND EASY]]></title>
+<link>http://boulder.craigslist.org/cpg/3692260755.html</link>
+<description><![CDATA[HEY! Here is a system that is 100% free and allows you to make money fast and easy. Click on this link to get started now!: http://rdd.me/7pvcpvlt]]></description>
+<dc:date>2013-03-19T21:02:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3692260755.html</dc:source>
+<dc:title><![CDATA[MAKE $500 A DAY FAST AND EASY]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:02:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3688919570.html">
+<title><![CDATA[Mobile App Needed (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3688919570.html</link>
+<description><![CDATA[We need a mobile app developed (preferably both Android and iOS). Here are some of the high level requirements, and more specific details are available: 
+1. The app should perform like a normal app that people are accustomed to using on their phone/m [...]]]></description>
+<dc:date>2013-03-18T11:08:45-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3688919570.html</dc:source>
+<dc:title><![CDATA[Mobile App Needed (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:08:45-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3688009758.html">
+<title><![CDATA[Looking for CU Student to help with Mobile App Development (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3688009758.html</link>
+<description><![CDATA[I'd like to get some help on developing a mobile app. It is currently a pdf-based travel guide that I'd like to convert to a mobile app that travelers can download (so they can use with or without wifi), but not share. Would like to work with CU stud [...]]]></description>
+<dc:date>2013-03-17T21:57:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3688009758.html</dc:source>
+<dc:title><![CDATA[Looking for CU Student to help with Mobile App Development (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T21:57:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3687411408.html">
+<title><![CDATA[Database information search for license plate?]]></title>
+<link>http://boulder.craigslist.org/cpg/3687411408.html</link>
+<description><![CDATA[Looking for someone who can possibly do a background trace or get more information on a license plate. 
+Long story short had a break in over the weekend near the triangle sort of (I know, should not have parked there), and witnesses caught some of a  [...]]]></description>
+<dc:date>2013-03-17T15:27:51-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3687411408.html</dc:source>
+<dc:title><![CDATA[Database information search for license plate?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T15:27:51-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3683951733.html">
+<title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></title>
+<link>http://boulder.craigslist.org/cpg/3683951733.html</link>
+<description><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON, AWS, e3, Hadoop, noSQL and MySQL. 
+We are a team of 3 engineers looking for a 4th partner to assist in further developing a social media \ image management site. 
+The Backend Programmer role  [...]]]></description>
+<dc:date>2013-03-15T18:58:20-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3683951733.html</dc:source>
+<dc:title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T18:58:20-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3682844780.html">
+<title><![CDATA[On Call Technician-  (Boulder CO)]]></title>
+<link>http://boulder.craigslist.org/cpg/3682844780.html</link>
+<description><![CDATA[Our company is seeking an on call technician to assist with some on going projects that we have. AT&T, Wells Fargo, Wells Point, Dell, HP and many more. 
+The can be from a flat fee of 66 or and hourly base of $16-20 an hour depending of the project a [...]]]></description>
+<dc:date>2013-03-15T10:11:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3682844780.html</dc:source>
+<dc:title><![CDATA[On Call Technician-  (Boulder CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:11:22-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3678570992.html">
+<title><![CDATA[reputed company seeking reps (Colorado)]]></title>
+<link>http://boulder.craigslist.org/cpg/3678570992.html</link>
+<description><![CDATA[We are looking for motivated persons to move our product. Please respond via email. thanks]]></description>
+<dc:date>2013-03-13T10:14:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3678570992.html</dc:source>
+<dc:title><![CDATA[reputed company seeking reps (Colorado)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T10:14:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3672984549.html">
+<title><![CDATA[Help with Adobe Illustrator CS6 (Longmont)]]></title>
+<link>http://boulder.craigslist.org/cpg/3672984549.html</link>
+<description><![CDATA[I need someone to teach me how to: 
+Scan a black and white line drawing and vectorize it 
+Fill in the vectorized shapes with colors and gradients. 
+I have done some graphic design but I am brand new to Adobe. 
+Will pay you by the hour. Please email m [...]]]></description>
+<dc:date>2013-03-10T21:06:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3672984549.html</dc:source>
+<dc:title><![CDATA[Help with Adobe Illustrator CS6 (Longmont)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:06:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3670473474.html">
+<title><![CDATA[SEO & Social Media Expert (Colorado)]]></title>
+<link>http://boulder.craigslist.org/cpg/3670473474.html</link>
+<description><![CDATA[Word Press SEO & Social Media Expert with PROVEN & VERIFIABLE references sought for monthly gig (independent contractor) 
+Start-up biz with a Word Press E-Commerce Site (BLANCO template) looking for a Word Press Guru for SEO & Social Media Management [...]]]></description>
+<dc:date>2013-03-09T15:29:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3670473474.html</dc:source>
+<dc:title><![CDATA[SEO & Social Media Expert (Colorado)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T15:29:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3669154347.html">
+<title><![CDATA[WEB DESIGNER / DEVELOPER (COLORADO)]]></title>
+<link>http://boulder.craigslist.org/cpg/3669154347.html</link>
+<description><![CDATA[Word Press Designer & Developer 
+Start-up biz w/recently built Word Press E-Commerce Site looking for a reputable website designer/developer in the capacity of an independent Contractor / 1099. 
+The new website has all the shopping cart coding alread [...]]]></description>
+<dc:date>2013-03-09T03:36:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3669154347.html</dc:source>
+<dc:title><![CDATA[WEB DESIGNER / DEVELOPER (COLORADO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T03:36:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3668978843.html">
+<title><![CDATA[great opportunity (US)]]></title>
+<link>http://boulder.craigslist.org/cpg/3668978843.html</link>
+<description><![CDATA[Marketing via Social Media (United States) 
+IF YOU'VE EVER WANTED TO BE IN THE RIGHT PLACE AT THE RIGHT TIME, 
+THE MOMENT HAS ARRIVED IF YOU'RE UP FOR THE CHALLENGE 
+Entrepreneurial-minded company is now looking for Professional Reps! 
+Our Educationa [...]]]></description>
+<dc:date>2013-03-08T22:42:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3668978843.html</dc:source>
+<dc:title><![CDATA[great opportunity (US)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T22:42:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3668512631.html">
+<title><![CDATA[Mid-Level PHP/MySQL Developer (Longmont/Boulder Area)]]></title>
+<link>http://boulder.craigslist.org/cpg/3668512631.html</link>
+<description><![CDATA[When responding, please include your resume, tell us a little about yourself, and attach a code sample in PHP that you have written. Please read this entire post, and follow all the directions, or we will not even open your email. 
+• Must have 2-3 ye [...]]]></description>
+<dc:date>2013-03-08T17:20:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3668512631.html</dc:source>
+<dc:title><![CDATA[Mid-Level PHP/MySQL Developer (Longmont/Boulder Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:20:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3665187384.html">
+<title><![CDATA[Web/UI Designer Wanted (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3665187384.html</link>
+<description><![CDATA[Finance software startup is seeking a web designer to overhaul our website/UI. We've done what we can, but lack anything in our collective being that might be considered "artistic". Required skills include HTML, CSS, and Javascript. Graphics abilitie [...]]]></description>
+<dc:date>2013-03-07T10:18:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3665187384.html</dc:source>
+<dc:title><![CDATA[Web/UI Designer Wanted (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T10:18:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3663188145.html">
+<title><![CDATA[Need Help with iOS In App Purchases (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3663188145.html</link>
+<description><![CDATA[Hello, 
+I'm developing an iOS application with In-App Purchases. 
+I've been stuck for days trying to get it to work. But I can't get past "invalid product ID". I think it has to do with how I'm defining Product/Bundle IDs in xCode and iTunes Connect. [...]]]></description>
+<dc:date>2013-03-06T12:09:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3663188145.html</dc:source>
+<dc:title><![CDATA[Need Help with iOS In App Purchases (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T12:09:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3661492088.html">
+<title><![CDATA[Need 5 telecommuters ASAP (USA)]]></title>
+<link>http://boulder.craigslist.org/cpg/3661492088.html</link>
+<description><![CDATA[Want to make an easy $500-$1000? 
+No experience necessary. 
+knowledge in social media is A+ 
+Training Provided 
+For more information Reply to this ad]]></description>
+<dc:date>2013-03-05T16:32:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3661492088.html</dc:source>
+<dc:title><![CDATA[Need 5 telecommuters ASAP (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T16:32:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3659786562.html">
+<title><![CDATA[Looking for Wordpress Webmaster (Prospect, Longmont)]]></title>
+<link>http://boulder.craigslist.org/cpg/3659786562.html</link>
+<description><![CDATA[I have a small project needing some help with wordpress design, functionality and flex and squeeze. This is good for a quick jump-in, college student or aspiring designer. 
+Mostly, need design, widget implementation and website pages on a wordpress t [...]]]></description>
+<dc:date>2013-03-04T23:20:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3659786562.html</dc:source>
+<dc:title><![CDATA[Looking for Wordpress Webmaster (Prospect, Longmont)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T23:20:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3657835123.html">
+<title><![CDATA[Software engineer looking to partner with a business developer]]></title>
+<link>http://boulder.craigslist.org/cpg/3657835123.html</link>
+<description><![CDATA[I am looking for a business developer to partner with on software development projects. I have the skills to develop the software, I just need someone that can help find the gigs and share the revenue with. If you're someone that has the ability to l [...]]]></description>
+<dc:date>2013-03-04T07:59:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3657835123.html</dc:source>
+<dc:title><![CDATA[Software engineer looking to partner with a business developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T07:59:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3655515867.html">
+<title><![CDATA[Veterans wanted (Broomfield)]]></title>
+<link>http://boulder.craigslist.org/cpg/3655515867.html</link>
+<description><![CDATA[A Vet owned company is looking for veterans that are looking to learn new skills in the computer industry, so if you are one, or know one, let me know. We have several clients looking for Vets to hire, but they aren't finding the right people with th [...]]]></description>
+<dc:date>2013-03-03T02:45:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3655515867.html</dc:source>
+<dc:title><![CDATA[Veterans wanted (Broomfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T02:45:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3648170291.html">
+<title><![CDATA[Dependable Word Processor Needed (99 Kalamath St., Denver, CO)]]></title>
+<link>http://boulder.craigslist.org/cpg/3648170291.html</link>
+<description><![CDATA[WE ARE SEEKING AN EXPERIENCED WORD PROCESSOR FOR 
+CONTRACT WORK. 
+1. THE PUBLISHER NEEDS SOMEONE TO SET UP MAILING LISTS FOR US ON PIECEWORK BASIS. WE SUPPLY THE ADDRESSES AND THE ADDRESS LABELS. WE WILL SUBMIT THE ADDRESSES IN WRITTEN, PRINTED OR DI [...]]]></description>
+<dc:date>2013-02-27T16:49:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3648170291.html</dc:source>
+<dc:title><![CDATA[Dependable Word Processor Needed (99 Kalamath St., Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T16:49:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3645722137.html">
+<title><![CDATA[FINAL CUT 7 (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3645722137.html</link>
+<description><![CDATA[Hey Crew! 
+I am rocking on FINAL CUT 7, with tons of material from Naropa theatrical shows, and need support! 
+I know you want to help! I am looking for a couple of sessions at a coffee show talking shop and making fun art together. 
+Students, this i [...]]]></description>
+<dc:date>2013-02-26T15:58:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3645722137.html</dc:source>
+<dc:title><![CDATA[FINAL CUT 7 (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T15:58:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3645710821.html">
+<title><![CDATA[Web Designer/Educator needed (Boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3645710821.html</link>
+<description><![CDATA[Hello, 
+I am an actor/designer/educator working on my website and beginning to learn HTML coding. I am looking for a student web designer or pro who would be interested in collaborating with me on troubleshooting and configuring images. 
+I am looking [...]]]></description>
+<dc:date>2013-02-26T15:53:52-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3645710821.html</dc:source>
+<dc:title><![CDATA[Web Designer/Educator needed (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T15:53:52-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3614879359.html">
+<title><![CDATA[Implement Applications for Mobile / HTML 5 / Mobi (Pearl Street Office / Campus)]]></title>
+<link>http://boulder.craigslist.org/cpg/3614879359.html</link>
+<description><![CDATA[Part Time 
+20 hours per week 
+HTML 5 
+Adobe InDesign 
+Adobe Dreamweaver 
+When is good time for a one hour interview with you Monday to Friday? 
+Admin 
+OILUSA.CO]]></description>
+<dc:date>2013-02-21T11:17:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3614879359.html</dc:source>
+<dc:title><![CDATA[Implement Applications for Mobile / HTML 5 / Mobi (Pearl Street Office / Campus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:17:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3631482511.html">
+<title><![CDATA[Wordpress Guru Needed (Home)]]></title>
+<link>http://boulder.craigslist.org/cpg/3631482511.html</link>
+<description><![CDATA[WP guru needed for quick fixes to my site that I can't seem to figure out. 
+I have a blog that I'm building that I need some small bits of help with getting the template to look right. 
+I can pay $20 ph and would like someone who is WP savvy and won' [...]]]></description>
+<dc:date>2013-02-20T12:43:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3631482511.html</dc:source>
+<dc:title><![CDATA[Wordpress Guru Needed (Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:43:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3629154393.html">
+<title><![CDATA[Startup looking for beta testers- Wikileaks for Business Intelligence  (Everywhere)]]></title>
+<link>http://boulder.craigslist.org/cpg/3629154393.html</link>
+<description><![CDATA[What would you do if you had contact information for every business executive in the country? 
+This is exactly what the Gam.io App gives you...direct access to over 800k professionals. 
+The applications for this app are almost endless and we are now  [...]]]></description>
+<dc:date>2013-02-19T13:54:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3629154393.html</dc:source>
+<dc:title><![CDATA[Startup looking for beta testers- Wikileaks for Business Intelligence  (Everywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T13:54:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3627760530.html">
+<title><![CDATA[Cash for a very quick soldering job I need done. (erie/lafayette)]]></title>
+<link>http://boulder.craigslist.org/cpg/3627760530.html</link>
+<description><![CDATA[I got a simple car radio and I accidentally broke two tiny wires while replacing a bulb. I don't know how to solder. I need someone to do a quick solder of two tiny wires to a metal part of bulb. You bring all the solder equipment. Or I can come to y [...]]]></description>
+<dc:date>2013-02-19T00:09:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3627760530.html</dc:source>
+<dc:title><![CDATA[Cash for a very quick soldering job I need done. (erie/lafayette)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T00:09:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3617622128.html">
+<title><![CDATA[New Colorado-based Company focused on Gigs and Gurus (Colorado)]]></title>
+<link>http://boulder.craigslist.org/cpg/3617622128.html</link>
+<description><![CDATA[KDragonfly is an agile talent network connecting Gigs and Gurus. We assist Independent Contractors(IC) seeking project work and the Employers who need their expertise. 
+We are a new Colorado-based company and for a limited time during our launch peri [...]]]></description>
+<dc:date>2013-02-14T14:27:07-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3617622128.html</dc:source>
+<dc:title><![CDATA[New Colorado-based Company focused on Gigs and Gurus (Colorado)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T14:27:07-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3614793189.html">
+<title><![CDATA[IT Consultant (boulder area)]]></title>
+<link>http://boulder.craigslist.org/cpg/3614793189.html</link>
+<description><![CDATA[Computer consultant sought. Successful, top-of-the-line IT consulting firm in Erie seeks another dynamite team member. We're looking for a mid-level sys-admin, not a newbee, rookie or developer. Again, no web developers please. 
+Excellent customer se [...]]]></description>
+<dc:date>2013-02-13T11:07:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3614793189.html</dc:source>
+<dc:title><![CDATA[IT Consultant (boulder area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:07:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3614788046.html">
+<title><![CDATA[High end IT consultant (Mobile + work from home)]]></title>
+<link>http://boulder.craigslist.org/cpg/3614788046.html</link>
+<description><![CDATA[Established IT consulting firm seeks high level consultant. 
+Comprehensive knowledge of Windows, Exchange, SQL, Hosting, Security as well as PC knowledge required. 
+Strong understanding and experience with Cisco/ Sonicwall firewalls required. 
+Superi [...]]]></description>
+<dc:date>2013-02-13T11:06:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3614788046.html</dc:source>
+<dc:title><![CDATA[High end IT consultant (Mobile + work from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:06:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3611797752.html">
+<title><![CDATA[need computer tutorial (boulder)]]></title>
+<link>http://boulder.craigslist.org/cpg/3611797752.html</link>
+<description><![CDATA[I need about 4 hours tutorial on google sketch-up and importing images from google earth. I do landscape design... would be very helpful if you also knew Prolandscape software, but not necessary. Just need someone quick with computer skills and good  [...]]]></description>
+<dc:date>2013-02-12T07:32:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3611797752.html</dc:source>
+<dc:title><![CDATA[need computer tutorial (boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T07:32:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://boulder.craigslist.org/cpg/3608134699.html">
+<title><![CDATA[Help compiling information]]></title>
+<link>http://boulder.craigslist.org/cpg/3608134699.html</link>
+<description><![CDATA[I need someone to help me compiling addresses and emails into File Maker Pro 
+Also need some other clerical work help.]]></description>
+<dc:date>2013-02-10T15:49:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boulder.craigslist.org/cpg/3608134699.html</dc:source>
+<dc:title><![CDATA[Help compiling information]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T15:49:31-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

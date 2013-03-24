@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://watertown.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in watertown</title>
+<link>http://watertown.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://watertown.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in watertown</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:00-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://watertown.craigslist.org/cpg/3701847896.html" />
+  <rdf:li rdf:resource="http://watertown.craigslist.org/cpg/3553609895.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://watertown.craigslist.org/cpg/3701847896.html">
+<title><![CDATA[Any phone app developers out there (Watertown)]]></title>
+<link>http://watertown.craigslist.org/cpg/3701847896.html</link>
+<description><![CDATA[Any phone app developers out there. Please contact to discuss....]]></description>
+<dc:date>2013-03-24T21:58:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://watertown.craigslist.org/cpg/3701847896.html</dc:source>
+<dc:title><![CDATA[Any phone app developers out there (Watertown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:58:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://watertown.craigslist.org/cpg/3553609895.html">
+<title><![CDATA[Looking For Someone To Do Ebay For Me (watertown)]]></title>
+<link>http://watertown.craigslist.org/cpg/3553609895.html</link>
+<description><![CDATA[Looking for someone who can do Ebay for me. This could be a good position for a single parent. Possibly you could bring your child with you. Could be good for a retired or disabled person. I can train the right person. This would be done at my place  [...]]]></description>
+<dc:date>2013-02-09T12:18:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://watertown.craigslist.org/cpg/3553609895.html</dc:source>
+<dc:title><![CDATA[Looking For Someone To Do Ebay For Me (watertown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T12:18:53-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

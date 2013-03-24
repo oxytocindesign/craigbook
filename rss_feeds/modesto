@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://modesto.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in modesto</title>
+<link>http://modesto.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://modesto.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in modesto</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3681012556.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3671948492.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3690218837.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3687744948.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3681735422.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3616310783.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3665180770.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3658995479.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3658960386.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3656071679.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3652526271.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3643774279.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3631628191.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3623816830.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3600568670.html" />
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3608384039.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://modesto.craigslist.org/cpg/3681012556.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://modesto.craigslist.org/cpg/3681012556.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:48:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3681012556.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:48:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3671948492.html">
+<title><![CDATA[Entrepreneurs]]></title>
+<link>http://modesto.craigslist.org/cpg/3671948492.html</link>
+<description><![CDATA[Looking for Entrepreneurs to boost their business or 
+if your just getting started in one.Then this is for you! 
+Your going to need Qualified Leads! 
+Simply put Leads=Cash! 
+Click below for a FREE Video that will explain everything! 
+It's worth your  [...]]]></description>
+<dc:date>2013-03-20T18:18:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3671948492.html</dc:source>
+<dc:title><![CDATA[Entrepreneurs]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:18:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3690218837.html">
+<title><![CDATA[Work From Home (Bay Area)]]></title>
+<link>http://modesto.craigslist.org/cpg/3690218837.html</link>
+<description><![CDATA[Our company is looking for recruiters to capture the attention of the general public and sign them up for our service.  
+You can do this job from anywhere where there is a computer with Internet  
+Please email us if you are interested 
+Or text (414)2 [...]]]></description>
+<dc:date>2013-03-18T20:56:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3690218837.html</dc:source>
+<dc:title><![CDATA[Work From Home (Bay Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T20:56:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3687744948.html">
+<title><![CDATA[Bloggers Wanted]]></title>
+<link>http://modesto.craigslist.org/cpg/3687744948.html</link>
+<description><![CDATA[Hello, I would first like to thank you for viewing this ad. I am offering a really cool blogging platform for very little money. This platform is utilized with Wordpress so if you are familiar, then you will get along just fine. This is an opportunit [...]]]></description>
+<dc:date>2013-03-17T17:46:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3687744948.html</dc:source>
+<dc:title><![CDATA[Bloggers Wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:46:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3681735422.html">
+<title><![CDATA[&#9654; Turn $100 Into $1000 a Week (modesto)]]></title>
+<link>http://modesto.craigslist.org/cpg/3681735422.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-14T16:50:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3681735422.html</dc:source>
+<dc:title><![CDATA[&#9654; Turn $100 Into $1000 a Week (modesto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:50:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3616310783.html">
+<title><![CDATA[Side income /$20 Starting]]></title>
+<link>http://modesto.craigslist.org/cpg/3616310783.html</link>
+<description><![CDATA[Side income 
+/$20 Starting 
+We are looking for someone who is creative and can complete 
+simple computer tasks. 
+No computer experience required. 
+1-4hours a day 
+$20/hour starting 
+Email when you can start along with your name 
+for more information  [...]]]></description>
+<dc:date>2013-03-12T21:39:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3616310783.html</dc:source>
+<dc:title><![CDATA[Side income /$20 Starting]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:39:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3665180770.html">
+<title><![CDATA[Do you suck at slaes  (nodesto)]]></title>
+<link>http://modesto.craigslist.org/cpg/3665180770.html</link>
+<description><![CDATA[This guy talks a lot of SMACK but he's genuine...Forget the scams...Seriously are you unhappy with the money you're currently making... than send your resumie]]></description>
+<dc:date>2013-03-07T09:15:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3665180770.html</dc:source>
+<dc:title><![CDATA[Do you suck at slaes  (nodesto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T09:15:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3658995479.html">
+<title><![CDATA[Internet Sales Lister/Data Entry   ]]></title>
+<link>http://modesto.craigslist.org/cpg/3658995479.html</link>
+<description><![CDATA[We are looking to purchase eBay accounts I offer $225 a month, per account. I am also looking to hire new people to work for our online business. Pleas send an email to discuss.]]></description>
+<dc:date>2013-03-04T14:24:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3658995479.html</dc:source>
+<dc:title><![CDATA[Internet Sales Lister/Data Entry   ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T14:24:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3658960386.html">
+<title><![CDATA[Internet Sales Lister poster Ebay Amazon]]></title>
+<link>http://modesto.craigslist.org/cpg/3658960386.html</link>
+<description><![CDATA[Internet sales company looking for a experienced lister poster on ebay and Amazon. 
+This job requires full knowledge of ebay and or amazon rules and regulations. 
+Ideal candidate would have the following 
+- Experience on Ebay and Amazon rules, listin [...]]]></description>
+<dc:date>2013-03-04T14:09:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3658960386.html</dc:source>
+<dc:title><![CDATA[Internet Sales Lister poster Ebay Amazon]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T14:09:51-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3656071679.html">
+<title><![CDATA[My MacBook Keyboard needs cleaning (Tracy)]]></title>
+<link>http://modesto.craigslist.org/cpg/3656071679.html</link>
+<description><![CDATA[I had a slight accident with a dog and some food spilling onto my MacBook keyboard. There isn't any damage to the computer but the keys are sticky and dirty underneath. I'm looking for someone who know how to clean the entire keyboard so this is no l [...]]]></description>
+<dc:date>2013-03-03T09:40:16-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3656071679.html</dc:source>
+<dc:title><![CDATA[My MacBook Keyboard needs cleaning (Tracy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T09:40:16-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3652526271.html">
+<title><![CDATA[Tech Needed  (Dublin, CA)]]></title>
+<link>http://modesto.craigslist.org/cpg/3652526271.html</link>
+<description><![CDATA[We're seeking a PC Technician for service call at major bank in Dublin, CA. The service call is for tomorrow 3/2/13 at 4:45PM. 
+The service call will be disconnecting and reconnecting PC's and Printers. 
+You must have reliable transportation. 
+If you [...]]]></description>
+<dc:date>2013-03-01T14:16:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3652526271.html</dc:source>
+<dc:title><![CDATA[Tech Needed  (Dublin, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T14:16:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3643774279.html">
+<title><![CDATA[Struggling To Make Money? (modesto)]]></title>
+<link>http://modesto.craigslist.org/cpg/3643774279.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-25T18:43:18-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3643774279.html</dc:source>
+<dc:title><![CDATA[Struggling To Make Money? (modesto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T18:43:18-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3631628191.html">
+<title><![CDATA[web design ]]></title>
+<link>http://modesto.craigslist.org/cpg/3631628191.html</link>
+<description><![CDATA[In need of a computer expert for design and help of running a new website huge potential earnings ]]></description>
+<dc:date>2013-02-20T12:38:16-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3631628191.html</dc:source>
+<dc:title><![CDATA[web design ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:38:16-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3623816830.html">
+<title><![CDATA[Juke Box Repair (Modesto)]]></title>
+<link>http://modesto.craigslist.org/cpg/3623816830.html</link>
+<description><![CDATA[We have an Antiques Apparatus jukebox with little or no sound. Think it might be the amplifier. Looking for someone who can fix it. Please call (209)571-0582. Please don't respond to this email as I don't have computer access during the week. The Mod [...]]]></description>
+<dc:date>2013-02-17T10:01:45-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3623816830.html</dc:source>
+<dc:title><![CDATA[Juke Box Repair (Modesto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T10:01:45-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3600568670.html">
+<title><![CDATA[Software QA Engineer (Modesto, CA)]]></title>
+<link>http://modesto.craigslist.org/cpg/3600568670.html</link>
+<description><![CDATA[Please forward a Word doc resume for consideration. 
+Software Quality Assurance Engineer: 
+Position Summary: 
+The primary responsibility of this Software Quality Assurance Engineer is the planning and execution of functional testing for a new browser [...]]]></description>
+<dc:date>2013-02-13T13:33:37-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3600568670.html</dc:source>
+<dc:title><![CDATA[Software QA Engineer (Modesto, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:33:37-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://modesto.craigslist.org/cpg/3608384039.html">
+<title><![CDATA[Juke Box Repair (Modesto)]]></title>
+<link>http://modesto.craigslist.org/cpg/3608384039.html</link>
+<description><![CDATA[We have a jukebox that gets very little or no sound (amplifier?). It is an Antiques Apparatus Model RB, Serial #33269 and need someone who can fix this. Please call (209)571-0582. Please call as this computer is not available during the week. Compens [...]]]></description>
+<dc:date>2013-02-10T16:57:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3608384039.html</dc:source>
+<dc:title><![CDATA[Juke Box Repair (Modesto)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T16:57:09-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

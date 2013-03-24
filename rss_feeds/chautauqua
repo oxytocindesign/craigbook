@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://chautauqua.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in chautauqua</title>
+<link>http://chautauqua.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://chautauqua.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in chautauqua</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:57-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://chautauqua.craigslist.org/cpg/3671751009.html" />
+  <rdf:li rdf:resource="http://chautauqua.craigslist.org/cpg/3663920402.html" />
+  <rdf:li rdf:resource="http://chautauqua.craigslist.org/cpg/3608703569.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://chautauqua.craigslist.org/cpg/3671751009.html">
+<title><![CDATA[Comissions (US)]]></title>
+<link>http://chautauqua.craigslist.org/cpg/3671751009.html</link>
+<description><![CDATA[EPX 
+If you are looking to earn more income, you are definitely in the right place. EPX Body is expanding futures 
+together so please call us anytime, and join our fast growing EPXbody team today by ordering a product and watch your 
+health improve a [...]]]></description>
+<dc:date>2013-03-10T12:42:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chautauqua.craigslist.org/cpg/3671751009.html</dc:source>
+<dc:title><![CDATA[Comissions (US)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T12:42:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://chautauqua.craigslist.org/cpg/3663920402.html">
+<title><![CDATA[spare time = spare cash (NY)]]></title>
+<link>http://chautauqua.craigslist.org/cpg/3663920402.html</link>
+<description><![CDATA[I am looking for a few people with some spare time to help me with some phone calls and emails. 
+Anyone can apply, hours are up to you as long as the job can get done.]]></description>
+<dc:date>2013-03-06T19:17:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chautauqua.craigslist.org/cpg/3663920402.html</dc:source>
+<dc:title><![CDATA[spare time = spare cash (NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T19:17:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chautauqua.craigslist.org/cpg/3608703569.html">
+<title><![CDATA[need a website built (jamestown)]]></title>
+<link>http://chautauqua.craigslist.org/cpg/3608703569.html</link>
+<description><![CDATA[I'm looking for someone to build me a membership-based video streaming website. I'm looking for something that can have members add videos, pics, stories,ext.]]></description>
+<dc:date>2013-02-10T23:14:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chautauqua.craigslist.org/cpg/3608703569.html</dc:source>
+<dc:title><![CDATA[need a website built (jamestown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T23:14:49-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://harrisburg.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in harrisburg</title>
+<link>http://harrisburg.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://harrisburg.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in harrisburg</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3688737586.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3687650673.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3672590657.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3638276045.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3636257260.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3633558533.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3618553216.html" />
+  <rdf:li rdf:resource="http://harrisburg.craigslist.org/cpg/3594714210.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3688737586.html">
+<title><![CDATA[Phone/voice tech (Mechanicsburg)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3688737586.html</link>
+<description><![CDATA[Have hum on phone line in room. Hotel setup. Connected to Avaya Magic phone system. Needing a tech to check out the connection in the room and follow back to Comm room analog port to find/ cause 
+If you workout, we would use you for other jobs on sit [...]]]></description>
+<dc:date>2013-03-18T11:57:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3688737586.html</dc:source>
+<dc:title><![CDATA[Phone/voice tech (Mechanicsburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:57:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3687650673.html">
+<title><![CDATA[Looking for Business Referrals (Harrisburg)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3687650673.html</link>
+<description><![CDATA[I am looking to provide cell phone services to businesses. For every referral that closes at least five lines or more you will $200 dollars. Email me with your number and the details about the referral(s) which should include: business name, phone nu [...]]]></description>
+<dc:date>2013-03-17T19:48:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3687650673.html</dc:source>
+<dc:title><![CDATA[Looking for Business Referrals (Harrisburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T19:48:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3672590657.html">
+<title><![CDATA[very basic in-home tutorial (wormleysburg)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3672590657.html</link>
+<description><![CDATA[We got my sister a laptop for christmas (Dell? I don't remember but Windows/PC for sure) and she likes it OK but the thing is she's really computer illiterate and I think a bit embarrassed to ask for help. 
+I'd like to arrange an hour or two a week,  [...]]]></description>
+<dc:date>2013-03-10T19:17:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3672590657.html</dc:source>
+<dc:title><![CDATA[very basic in-home tutorial (wormleysburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T19:17:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3638276045.html">
+<title><![CDATA[Graphic Design Internship (NYC based)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3638276045.html</link>
+<description><![CDATA[The Collecte is seeking a graphic design intern specifically for html coding with minor website maintenance/development/design. We are seeking someone who has the ability to use Adobe Creative Suite; Photoshop, Dreamweaver, Illustrator etc. Start dat [...]]]></description>
+<dc:date>2013-02-23T13:00:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3638276045.html</dc:source>
+<dc:title><![CDATA[Graphic Design Internship (NYC based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T13:00:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3636257260.html">
+<title><![CDATA[PHP/Quickbooks Integration Expert (PA)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3636257260.html</link>
+<description><![CDATA[We are in need of a local php quickbooks expert for a client. Tasks would include, but not limited to, developing functions for the php/quickbooks framework to create and manage invoices, customers, vendors, and purchase orders. Please send your cred [...]]]></description>
+<dc:date>2013-02-22T14:52:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3636257260.html</dc:source>
+<dc:title><![CDATA[PHP/Quickbooks Integration Expert (PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T14:52:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3633558533.html">
+<title><![CDATA[Technician needed (Harrisburg)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3633558533.html</link>
+<description><![CDATA[*****NOTICE****** 
+IF YOU RESPONDED TO THIS ADD IN THE PAST 2 MONTHS, PLEASE RESUBMIT AS WE DISCOVERED N ERROR IN OUR EMAIL SETTINGS AND DID NOT RECEIVE YOUR RESUME - THANK YOU 
+*****NOTICE****** 
+IMMEDIATE NEED: To support our locations in Harrisbur [...]]]></description>
+<dc:date>2013-02-21T12:44:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3633558533.html</dc:source>
+<dc:title><![CDATA[Technician needed (Harrisburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T12:44:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3618553216.html">
+<title><![CDATA[Web Developer/Designer (Camp Hill, PA)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3618553216.html</link>
+<description><![CDATA[Looking for a web developer/designer with e-commerce experience. Please reply with a resume and portfolio or any work available you have showing your skills. Or call Mike at 717-307-8630 for more details.]]></description>
+<dc:date>2013-02-15T03:40:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3618553216.html</dc:source>
+<dc:title><![CDATA[Web Developer/Designer (Camp Hill, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T03:40:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://harrisburg.craigslist.org/cpg/3594714210.html">
+<title><![CDATA[Hiring Marketing Reps (Your Computer)]]></title>
+<link>http://harrisburg.craigslist.org/cpg/3594714210.html</link>
+<description><![CDATA[All information will be provided through Email.. Reply (I'm Interested) to the email address listed above..]]></description>
+<dc:date>2013-02-12T16:17:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://harrisburg.craigslist.org/cpg/3594714210.html</dc:source>
+<dc:title><![CDATA[Hiring Marketing Reps (Your Computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:17:53-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

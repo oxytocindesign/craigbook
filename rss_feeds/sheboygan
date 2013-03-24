@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://sheboygan.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in sheboygan, WI</title>
+<link>http://sheboygan.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://sheboygan.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in sheboygan, WI</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:12-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sheboygan.craigslist.org/cpg/3611676156.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sheboygan.craigslist.org/cpg/3611676156.html">
+<title><![CDATA[Local web designer wanted (sheboygan county)]]></title>
+<link>http://sheboygan.craigslist.org/cpg/3611676156.html</link>
+<description><![CDATA[We are looking for a local web designer that can update and revamp our site. Must have references and portfolio. Call or email. 920-698-1887]]></description>
+<dc:date>2013-02-12T07:15:51-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sheboygan.craigslist.org/cpg/3611676156.html</dc:source>
+<dc:title><![CDATA[Local web designer wanted (sheboygan county)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T07:15:51-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

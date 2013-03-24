@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://tallahassee.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in tallahassee</title>
+<link>http://tallahassee.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://tallahassee.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in tallahassee</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3701969558.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3656459579.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3697147047.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3676784677.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3696255697.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3695957262.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3695285669.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3693056384.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3691180008.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3688305286.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3686565966.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3679955459.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3642063531.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3642058418.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3639286858.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3634917045.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3629011548.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3558444603.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3602640995.html" />
+  <rdf:li rdf:resource="http://tallahassee.craigslist.org/cpg/3600291544.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3701969558.html">
+<title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3701969558.html</link>
+<description><![CDATA[We are a rapidly expanding company seeking to help motivated individuals earn $500 plus a week depending on work ethic as a part-time sales associate with benefits. 
+Benefits are comprehensive & include but are not limited to legal & medical assistan [...]]]></description>
+<dc:date>2013-03-24T23:38:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3701969558.html</dc:source>
+<dc:title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:38:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3656459579.html">
+<title><![CDATA[Basic Computer skills needed (Anywhere)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3656459579.html</link>
+<description><![CDATA[Basic computer skills needed . . . 
+}*{Your Own Hours}* 
+}*{Your Own Location}* 
+}*{Any Internet Connect }* 
+}*{Excellent Compensation}* 
+}*{No Bull -- 100% Legit Company}* 
+}*{No Tricks, Just Simple Fact }* 
+Nothing to lose -- Email Reply for Info o [...]]]></description>
+<dc:date>2013-03-22T21:09:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3656459579.html</dc:source>
+<dc:title><![CDATA[Basic Computer skills needed (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:09:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3697147047.html">
+<title><![CDATA[WORD PRESS? TALLAHASSEE AREA (LEON COUNTY, FL)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3697147047.html</link>
+<description><![CDATA[Need someone familiar with word press. Experienced, skilled, good work habits, willing to train others. Florida non-profit looking for person to do web work using word press. Salary commensurate with experience. Must be in Leon County area or willing [...]]]></description>
+<dc:date>2013-03-22T12:24:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3697147047.html</dc:source>
+<dc:title><![CDATA[WORD PRESS? TALLAHASSEE AREA (LEON COUNTY, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:24:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3676784677.html">
+<title><![CDATA[Part-time Database Creator Needed]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3676784677.html</link>
+<description><![CDATA[We are looking to bring someone in for a part-time position in helping to create databases in Microsoft Access. Please send your experience and resume in your response to this ad.]]></description>
+<dc:date>2013-03-22T10:04:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3676784677.html</dc:source>
+<dc:title><![CDATA[Part-time Database Creator Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:04:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3696255697.html">
+<title><![CDATA[TVC Marketing is seeking sales associates (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3696255697.html</link>
+<description><![CDATA[MCA/TVC marketing is hiring for sales associates within our company. Potential to earn $500+ weekly depending on work ethic and effort, and benefits are included. 
+No requirements, but candidate must be: 
+Customer oriented and possess customer servic [...]]]></description>
+<dc:date>2013-03-21T21:29:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3696255697.html</dc:source>
+<dc:title><![CDATA[TVC Marketing is seeking sales associates (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T21:29:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3695957262.html">
+<title><![CDATA[Seeking an Affordable Website Designer (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3695957262.html</link>
+<description><![CDATA[I am seeking a professional website designer. 
+I have tried this twice before, and got screwed over twice. So forgive me for being very direct and very skeptical. 
+I know exactly what concept I want for the site. so I just need a designer to put it t [...]]]></description>
+<dc:date>2013-03-21T18:25:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3695957262.html</dc:source>
+<dc:title><![CDATA[Seeking an Affordable Website Designer (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T18:25:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3695285669.html">
+<title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3695285669.html</link>
+<description><![CDATA[We are a rapidly expanding company seeking to help motivated individuals earn $500 plus a week depending on work ethic as a part-time sales associate with benefits. 
+Benefits are comprehensive & include but are not limited to legal & medical assistan [...]]]></description>
+<dc:date>2013-03-21T13:08:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3695285669.html</dc:source>
+<dc:title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T13:08:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3693056384.html">
+<title><![CDATA[TVC marketing is seeking sales associates (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3693056384.html</link>
+<description><![CDATA[MCA/TVC marketing is hiring for sales associates within our company. Potential to earn $500+ weekly depending on work ethic and effort, and benefits are included. 
+No requirements, but candidate must be: 
+Customer oriented and possess customer servic [...]]]></description>
+<dc:date>2013-03-20T12:08:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3693056384.html</dc:source>
+<dc:title><![CDATA[TVC marketing is seeking sales associates (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:08:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3691180008.html">
+<title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3691180008.html</link>
+<description><![CDATA[We are a rapidly expanding company seeking to help motivated individuals earn $500 plus a week depending on work ethic as a part-time sales associate with benefits. 
+Benefits are comprehensive & include but are not limited to legal & medical assistan [...]]]></description>
+<dc:date>2013-03-19T13:50:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3691180008.html</dc:source>
+<dc:title><![CDATA[Rapidly Expanding Company Seeking Sales Associates (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:50:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3688305286.html">
+<title><![CDATA[I offer help w/my math lab (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3688305286.html</link>
+<description><![CDATA[I can offer you help with completing your course compass or my math lab online stuff this semester. If you need any help...let me know. txt or email 8506885250. 
+Very cheap prices - guranteed good grades. 
+Thanks!]]></description>
+<dc:date>2013-03-18T07:49:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3688305286.html</dc:source>
+<dc:title><![CDATA[I offer help w/my math lab (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T07:49:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3686565966.html">
+<title><![CDATA[Need 10 New People Pays Great]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3686565966.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-17T10:12:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3686565966.html</dc:source>
+<dc:title><![CDATA[Need 10 New People Pays Great]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T10:12:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3679955459.html">
+<title><![CDATA[AFFILIATE (TALLAHASSEE)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3679955459.html</link>
+<description><![CDATA[I'm an Executive Affiliate with SFI. For over 14 years now, SFI has been showing people all over the world how to build profitable internet businesses from the comfort of their homes. In fact, the system is so successful that 1000's now join SFI ever [...]]]></description>
+<dc:date>2013-03-13T23:22:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3679955459.html</dc:source>
+<dc:title><![CDATA[AFFILIATE (TALLAHASSEE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T23:22:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3642063531.html">
+<title><![CDATA[Web Designer (NW Tally)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3642063531.html</link>
+<description><![CDATA[Looking for an individual who wants to make a few extra dollars and design two websites for me. Please be motivated and open to change and tinkering a long the way. If you have a portfolio that is a plus. Please email me as soon as possible. Thank Yo [...]]]></description>
+<dc:date>2013-02-25T09:57:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3642063531.html</dc:source>
+<dc:title><![CDATA[Web Designer (NW Tally)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T09:57:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3642058418.html">
+<title><![CDATA[Graphic Designer Needed (NW Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3642058418.html</link>
+<description><![CDATA[Hello, 
+I am looking for a graphic design major who is looking to make a few extra dollars. I am starting my own small business and am in need of some logos. If you can also write code for websites that is a plus! Please email me as soon as possible. [...]]]></description>
+<dc:date>2013-02-25T09:54:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3642058418.html</dc:source>
+<dc:title><![CDATA[Graphic Designer Needed (NW Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T09:54:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3639286858.html">
+<title><![CDATA[WE ARE HIRING TODAY (TALLAHASSEE)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3639286858.html</link>
+<description><![CDATA[WE ARE HIRING!!! MOTOR CLUB OF AMERICA IS NOW HIRING SALES REPS & RECRUITING OFFICERS!!!! WEEKLY PAY!!! CALL 850-270-0527 JOB LINE TODAY!!! YOU MAY ALSO VISIT US AT OUR WEBSITE http://weeklypaychecksystem.com/deidre850 ]]></description>
+<dc:date>2013-02-23T20:36:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3639286858.html</dc:source>
+<dc:title><![CDATA[WE ARE HIRING TODAY (TALLAHASSEE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T20:36:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3634917045.html">
+<title><![CDATA[Looking for a Computer Programmer for a Startup (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3634917045.html</link>
+<description><![CDATA[I'm gonna keep the ad short and simple. We can discuss further over the phone. I am currently looking for a Computer Programmer/Web Designer( Preferably an FSU student). This will involve working with a Startup company. If you are not interested in t [...]]]></description>
+<dc:date>2013-02-21T22:58:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3634917045.html</dc:source>
+<dc:title><![CDATA[Looking for a Computer Programmer for a Startup (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T22:58:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3629011548.html">
+<title><![CDATA[Computer Gig for band promo (Tallahassee, FL)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3629011548.html</link>
+<description><![CDATA[We need someone to do the videography/computer/tech support for a rising local band. This will include things from helping with internet promotions, to putting together videos, to uploading and saving files. A energetic and driven student would be id [...]]]></description>
+<dc:date>2013-02-19T15:02:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3629011548.html</dc:source>
+<dc:title><![CDATA[Computer Gig for band promo (Tallahassee, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T15:02:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3558444603.html">
+<title><![CDATA[Course Compass/UTexas (Tallahassee, Fl)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3558444603.html</link>
+<description><![CDATA[If you need help you your course compass or utexas homework, contact me.]]></description>
+<dc:date>2013-02-13T16:24:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3558444603.html</dc:source>
+<dc:title><![CDATA[Course Compass/UTexas (Tallahassee, Fl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T16:24:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3602640995.html">
+<title><![CDATA[Looking for a web designer (Tallahassee)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3602640995.html</link>
+<description><![CDATA[We are looking for someone local, in the Tallahassee area, to work on web sites. The ideal candidate should be knowledgeable in setting up and working in Joomla, HTML and WordPress. This is not a full time position but on an as needed basis. If inter [...]]]></description>
+<dc:date>2013-02-08T10:21:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3602640995.html</dc:source>
+<dc:title><![CDATA[Looking for a web designer (Tallahassee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T10:21:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tallahassee.craigslist.org/cpg/3600291544.html">
+<title><![CDATA[Fiber Optics Technician (Attapulgus)]]></title>
+<link>http://tallahassee.craigslist.org/cpg/3600291544.html</link>
+<description><![CDATA[We are looking for 2 experienced fiber optics technicians for a week long project. We need technicians who have experience with anaerobic connectors. Start date is Monday 2/11. Must have basic tools, fiber specific tools will be provided. Must have c [...]]]></description>
+<dc:date>2013-02-07T10:41:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tallahassee.craigslist.org/cpg/3600291544.html</dc:source>
+<dc:title><![CDATA[Fiber Optics Technician (Attapulgus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T10:41:06-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://ventura.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in ventura county</title>
+<link>http://ventura.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://ventura.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in ventura county</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:56-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3701025786.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3697044651.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3696919254.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3694410369.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3693401646.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3692829872.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3692305730.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3691246343.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3688976544.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3688858143.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3687565996.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3682049746.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3674552683.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3674126351.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3665561435.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3660962067.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3659300146.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3651137836.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3650243691.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3644827479.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3643003212.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3573726635.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3634880527.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3564522730.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3630318132.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3626932778.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3618516155.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3617692967.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3616925911.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3615075157.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3610080084.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3609968535.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3605728056.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3601752016.html" />
+  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3599873274.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://ventura.craigslist.org/cpg/3701025786.html">
+<title><![CDATA[you have a print shop and do photo shop (ventura area)]]></title>
+<link>http://ventura.craigslist.org/cpg/3701025786.html</link>
+<description><![CDATA[Looking for the wonderful man who replyed to my add and did a photo shop project of a crib on August 24-26th. 
+I am looking for you because I need business cards done well and low cost. 
+Please contact me. 
+Thanks, 
+Ciena Rose]]></description>
+<dc:date>2013-03-24T11:06:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3701025786.html</dc:source>
+<dc:title><![CDATA[you have a print shop and do photo shop (ventura area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:06:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3697044651.html">
+<title><![CDATA[Alpha 5 database designer needed (simi valley,ca)]]></title>
+<link>http://ventura.craigslist.org/cpg/3697044651.html</link>
+<description><![CDATA[The company I work for is looking for a third party web based data base designer. Someone who is proficient in alpha5/java script. 
+All work will be done in office and paid on an houlry basis. 
+please email or call for more details. 
+john kyle 
+808-3 [...]]]></description>
+<dc:date>2013-03-22T08:40:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3697044651.html</dc:source>
+<dc:title><![CDATA[Alpha 5 database designer needed (simi valley,ca)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:40:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3696919254.html">
+<title><![CDATA[Position Available - Customer Service/Client Support Rep - Apply Now (Newbury Park)]]></title>
+<link>http://ventura.craigslist.org/cpg/3696919254.html</link>
+<description><![CDATA[Advertising firm looking to add Level 1 Customer Service Rep, 
+1 year experience preferred. Ideal candidate is positive, independent 
+and organized. 
+Duties: 
+Take inbound calls 
+Mild data entry 
+Follow company scripts, with your own personality 
+Loo [...]]]></description>
+<dc:date>2013-03-22T07:42:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3696919254.html</dc:source>
+<dc:title><![CDATA[Position Available - Customer Service/Client Support Rep - Apply Now (Newbury Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T07:42:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3694410369.html">
+<title><![CDATA[Need Help selling my instructional videos (World)]]></title>
+<link>http://ventura.craigslist.org/cpg/3694410369.html</link>
+<description><![CDATA[Hello. I've created a product and I would like to hire someone to help me manage it by setting up the website and helping me promote it to make sales. Please be trustworthy. Would prefer someone who is already doing something like this. Salary will b [...]]]></description>
+<dc:date>2013-03-20T20:46:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3694410369.html</dc:source>
+<dc:title><![CDATA[Need Help selling my instructional videos (World)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:46:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3693401646.html">
+<title><![CDATA[SEO Help Needed (Ventura)]]></title>
+<link>http://ventura.craigslist.org/cpg/3693401646.html</link>
+<description><![CDATA[Hello, 
+I have a few clients that I would like SEO help with. I have an online marketing background and am familiar with the process, I just don't have time. 
+Please send examples of work and rates. 
+Thank you. ]]></description>
+<dc:date>2013-03-20T11:32:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3693401646.html</dc:source>
+<dc:title><![CDATA[SEO Help Needed (Ventura)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:32:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3692829872.html">
+<title><![CDATA[Install Technicians (Ventura area, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3692829872.html</link>
+<description><![CDATA[Techs needed in the Ventura area for Bank conversion project to install peripherals and switch the hdd's in the bios to a hard drive. Techs will also handle printer installs and IP configurations. Work to begin on Friday 4/19 at 4pm through midnight, [...]]]></description>
+<dc:date>2013-03-20T07:25:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3692829872.html</dc:source>
+<dc:title><![CDATA[Install Technicians (Ventura area, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T07:25:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3692305730.html">
+<title><![CDATA[Need someone to build a website like swappa (Port Hueneme)]]></title>
+<link>http://ventura.craigslist.org/cpg/3692305730.html</link>
+<description><![CDATA[I would like to know how much some one would charge me to build a website like swappa . com 
+Please text me with you're quotes at 805 890 4883 or email me at craigbezares23@gmail.com]]></description>
+<dc:date>2013-03-19T20:39:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3692305730.html</dc:source>
+<dc:title><![CDATA[Need someone to build a website like swappa (Port Hueneme)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:39:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3691246343.html">
+<title><![CDATA[Tech Support (On-Site + Remote) (Westlake Village, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3691246343.html</link>
+<description><![CDATA[Hello - 
+I am looking to hire a tech support on a contract basis. I have routine work that involves mostly remote work, but I also need someone who can arrive on-site at a location in Westlake Village for a client. Work involves desktop support (Wind [...]]]></description>
+<dc:date>2013-03-19T11:17:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3691246343.html</dc:source>
+<dc:title><![CDATA[Tech Support (On-Site + Remote) (Westlake Village, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:17:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3688976544.html">
+<title><![CDATA[Volusion Web Desiger Needed ASAP (Westlake Village, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3688976544.html</link>
+<description><![CDATA[We have a Volusion web template and it is currently down due to editing the CSS. We are missing pictures and some content but overall the information is there. Problem is we are not web developers and need someone to put it back onto the web and edit [...]]]></description>
+<dc:date>2013-03-18T10:30:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3688976544.html</dc:source>
+<dc:title><![CDATA[Volusion Web Desiger Needed ASAP (Westlake Village, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:30:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3688858143.html">
+<title><![CDATA[Web Designer Needed (Westlake Village, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3688858143.html</link>
+<description><![CDATA[I am looking for wordpress designer who can create my template looking like the following: 
+www.kewill.com 
+www.movemethod.com 
+www.digitalshipper.com 
+www.foxfiresoftware.com 
+These are our vendors and I need someone to screen scrape 15 products fro [...]]]></description>
+<dc:date>2013-03-18T09:44:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3688858143.html</dc:source>
+<dc:title><![CDATA[Web Designer Needed (Westlake Village, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T09:44:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3687565996.html">
+<title><![CDATA[demo reel needed! (OXNARD)]]></title>
+<link>http://ventura.craigslist.org/cpg/3687565996.html</link>
+<description><![CDATA[Hi, I need a demo reel done, with a few radio shows I've done, some TV...media etc. I have limited funds for this project, if you have experience to do it, and are local, please send contact info and your fees. Thanks!]]></description>
+<dc:date>2013-03-17T15:57:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3687565996.html</dc:source>
+<dc:title><![CDATA[demo reel needed! (OXNARD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T15:57:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3682049746.html">
+<title><![CDATA[Need help with printer! (Saticoy)]]></title>
+<link>http://ventura.craigslist.org/cpg/3682049746.html</link>
+<description><![CDATA[Help! I am running low on black ink with my Konica Minolta 2400W Color Laser Printer. It has been making black ink from the color cartridges for a few months and I need some help with the refill kit I bought. It is a refill kit specifically for this  [...]]]></description>
+<dc:date>2013-03-14T20:15:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3682049746.html</dc:source>
+<dc:title><![CDATA[Need help with printer! (Saticoy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T20:15:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3674552683.html">
+<title><![CDATA[College Student/Intern - Field Testing for Mobile App (Simi Valley, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3674552683.html</link>
+<description><![CDATA[I have my start-up with a mobile app running on Windows, Mac, Android, iOS devices and I need some field testers who can verify our app experience and provide real user feedback/extra data from the field. 
+This project may take maximum 5-8 hours of y [...]]]></description>
+<dc:date>2013-03-11T13:29:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3674552683.html</dc:source>
+<dc:title><![CDATA[College Student/Intern - Field Testing for Mobile App (Simi Valley, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T13:29:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3674126351.html">
+<title><![CDATA[College Interns/Students/Mobile App Field Testers (Oxnard, CA)]]></title>
+<link>http://ventura.craigslist.org/cpg/3674126351.html</link>
+<description><![CDATA[I have my start-up with a mobile app running on Windows, Mac, Android, iOS devices and I need some field testers who can verify our app experience and provide real user feedback/extra data from the field. 
+This project may take maximum 5-8 hours of y [...]]]></description>
+<dc:date>2013-03-11T10:50:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3674126351.html</dc:source>
+<dc:title><![CDATA[College Interns/Students/Mobile App Field Testers (Oxnard, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:50:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3665561435.html">
+<title><![CDATA[I Pod Music Transfer (Oxnard)]]></title>
+<link>http://ventura.craigslist.org/cpg/3665561435.html</link>
+<description><![CDATA[Hi I'm looking for someone who knows how to transfer music from one I Pod to another. Please give me a call at 805-455-6555]]></description>
+<dc:date>2013-03-11T10:04:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3665561435.html</dc:source>
+<dc:title><![CDATA[I Pod Music Transfer (Oxnard)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:04:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3660962067.html">
+<title><![CDATA[Web designer needed (Remote)]]></title>
+<link>http://ventura.craigslist.org/cpg/3660962067.html</link>
+<description><![CDATA[Web designer needed for contract work. Please respond with contact information, experience, and sample work.]]></description>
+<dc:date>2013-03-05T11:53:19-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3660962067.html</dc:source>
+<dc:title><![CDATA[Web designer needed (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T11:53:19-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3659300146.html">
+<title><![CDATA[Sell Me Your Telecom Gear (Los Angles)]]></title>
+<link>http://ventura.craigslist.org/cpg/3659300146.html</link>
+<description><![CDATA[Calling all Telecom and Network Technicians and Engineers (Los Angeles) 
+I am a telecom reseller based out of Los Angeles. I provide new and refurbished/used telecom equipment to my customers all over the world. I am currently looking for local telec [...]]]></description>
+<dc:date>2013-03-04T16:49:24-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3659300146.html</dc:source>
+<dc:title><![CDATA[Sell Me Your Telecom Gear (Los Angles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:49:24-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3651137836.html">
+<title><![CDATA[Small digital signage project]]></title>
+<link>http://ventura.craigslist.org/cpg/3651137836.html</link>
+<description><![CDATA[Looking to contract a digital signage project in Simi Valley. Powerpoint main window with scrolling horizontal content on bottom of large hd tv connected to pc. Do you have the knowhow and ability to make this happen? We have the hardware and whateve [...]]]></description>
+<dc:date>2013-03-01T01:52:48-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3651137836.html</dc:source>
+<dc:title><![CDATA[Small digital signage project]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T01:52:48-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3650243691.html">
+<title><![CDATA[Looking for CAT6 installation Tech (Simi Valley)]]></title>
+<link>http://ventura.craigslist.org/cpg/3650243691.html</link>
+<description><![CDATA[Looking for a technician to install network lines in Warehouse. 
+This is a part time gig theres usually work every 1 to 2 weeks. 
+Must have experience (no trainees) 
+Must have own tools 
+Transportation 
+Neat and professional appearance. 
+Must communi [...]]]></description>
+<dc:date>2013-02-28T14:21:12-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3650243691.html</dc:source>
+<dc:title><![CDATA[Looking for CAT6 installation Tech (Simi Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T14:21:12-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3644827479.html">
+<title><![CDATA[REPAIRING A/C JACK ON LAPTOP    (Oxnard)]]></title>
+<link>http://ventura.craigslist.org/cpg/3644827479.html</link>
+<description><![CDATA[Hello i have an ACER EXTENSA 4420 that need either replace or repair of the a/c jack ....the hinge close to the jack broke and i was getting on/off problems with it till finally i need to either fix or replace this jack ... I also have an older DELL  [...]]]></description>
+<dc:date>2013-02-26T09:17:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3644827479.html</dc:source>
+<dc:title><![CDATA[REPAIRING A/C JACK ON LAPTOP    (Oxnard)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:17:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3643003212.html">
+<title><![CDATA[Focus Group  (Ventura County)]]></title>
+<link>http://ventura.craigslist.org/cpg/3643003212.html</link>
+<description><![CDATA[FREE GIFT CARD 
+A progressive, Global, humanitarian based company is looking for qualified participants to join us for a Focus Group Study (FGS). If you are selected, you will evaluate an overview of the program. You will learn about the program in d [...]]]></description>
+<dc:date>2013-02-25T12:51:48-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3643003212.html</dc:source>
+<dc:title><![CDATA[Focus Group  (Ventura County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T12:51:48-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3573726635.html">
+<title><![CDATA[Need Graphic Artist For Website (Ventura County)]]></title>
+<link>http://ventura.craigslist.org/cpg/3573726635.html</link>
+<description><![CDATA[Looking to hire a competent graphic designer/web developer for my website. It just needs some formatting tweaking, nothing big. 
+Viste site now to review at http://www.confessionsofaboudoirstudio.com 
+Must know WordPress 3.4.2 & Pure Vision 1.9.0 
+Lo [...]]]></description>
+<dc:date>2013-02-25T08:39:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3573726635.html</dc:source>
+<dc:title><![CDATA[Need Graphic Artist For Website (Ventura County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T08:39:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3634880527.html">
+<title><![CDATA[Need Google Analytics Expert (Ventura Area)]]></title>
+<link>http://ventura.craigslist.org/cpg/3634880527.html</link>
+<description><![CDATA[Hello, 
+I need a Google Funnel set up for a ecommerce client of mine. I am not sure how to do it and I'd love to learn. Small job, but pay will be involved. 
+Please let me know if you are interested and what your qualifications are. 
+Thank you. ]]></description>
+<dc:date>2013-02-21T19:32:02-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3634880527.html</dc:source>
+<dc:title><![CDATA[Need Google Analytics Expert (Ventura Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T19:32:02-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3564522730.html">
+<title><![CDATA[Venture Capitol for MYSQL Programmer needed (805)]]></title>
+<link>http://ventura.craigslist.org/cpg/3564522730.html</link>
+<description><![CDATA[Capitol investor needed for COMCALLER.COM. This new website will be big! 
+Programmer also needed please call 805-701-1037 
+CLICK HERE]]></description>
+<dc:date>2013-02-20T21:01:50-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3564522730.html</dc:source>
+<dc:title><![CDATA[Venture Capitol for MYSQL Programmer needed (805)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T21:01:50-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3630318132.html">
+<title><![CDATA[Seeking Joomla or Drupal Expert (Thousand Oaks)]]></title>
+<link>http://ventura.craigslist.org/cpg/3630318132.html</link>
+<description><![CDATA[Seeking freelance expert on Joomla or Drupal for special web design project. 
+Involves setup/install and some back-end coding. 
+Please send the following: 
+1. Your experience/portfolio/resume 
+2. Sample links 
+3. Your location (prefer local) 
+4. Your [...]]]></description>
+<dc:date>2013-02-20T00:01:22-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3630318132.html</dc:source>
+<dc:title><![CDATA[Seeking Joomla or Drupal Expert (Thousand Oaks)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T00:01:22-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3626932778.html">
+<title><![CDATA[Wanted: Experienced computer tech, small office VOIP and network help (Thousand Oaks)]]></title>
+<link>http://ventura.craigslist.org/cpg/3626932778.html</link>
+<description><![CDATA[We have a small office with four workstations. We are looking for someone or a company with around five years experience in networking and VOIP setup. We need the flexibility, so we would like to use pay as you go services like callcentric and Anevo  [...]]]></description>
+<dc:date>2013-02-18T14:56:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3626932778.html</dc:source>
+<dc:title><![CDATA[Wanted: Experienced computer tech, small office VOIP and network help (Thousand Oaks)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T14:56:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3618516155.html">
+<title><![CDATA[Business Development partners needed (Ventura)]]></title>
+<link>http://ventura.craigslist.org/cpg/3618516155.html</link>
+<description><![CDATA[Start up IT services off shore firm looking for talented business development/sales person(s) for data processing services (including data entry, data cleansing, form processing, document processing etc.). We will soon be starting our US based operat [...]]]></description>
+<dc:date>2013-02-14T23:31:12-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3618516155.html</dc:source>
+<dc:title><![CDATA[Business Development partners needed (Ventura)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T23:31:12-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3617692967.html">
+<title><![CDATA[seo needed (Ventura County)]]></title>
+<link>http://ventura.craigslist.org/cpg/3617692967.html</link>
+<description><![CDATA[Good afternoon, 
+We have a need to have 3 different websites optimized. Our max budget is $1500. We need our sites to be optimized along with a solid link building plan. 
+Please send over samples of work.]]></description>
+<dc:date>2013-02-14T13:57:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3617692967.html</dc:source>
+<dc:title><![CDATA[seo needed (Ventura County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T13:57:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3616925911.html">
+<title><![CDATA[COMPUTER ASSISTANT (Thousand Oaks)]]></title>
+<link>http://ventura.craigslist.org/cpg/3616925911.html</link>
+<description><![CDATA[I'm involved with Real Estate and looking for a part-time individual who can assist me at various time importing virtual tour photography, image editing of marketing pieces, and has a general knowledge of trouble shooting scanners, computers, and oth [...]]]></description>
+<dc:date>2013-02-14T08:48:57-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3616925911.html</dc:source>
+<dc:title><![CDATA[COMPUTER ASSISTANT (Thousand Oaks)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T08:48:57-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3615075157.html">
+<title><![CDATA[Earn $ Online (Webinar)]]></title>
+<link>http://ventura.craigslist.org/cpg/3615075157.html</link>
+<description><![CDATA[Earn money online! No recruiting required to make money! 
+To register for webinar email gofuncash at ymail dot com. 
+Event is Thursday 2/14/2013 at 6pm]]></description>
+<dc:date>2013-02-13T11:52:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3615075157.html</dc:source>
+<dc:title><![CDATA[Earn $ Online (Webinar)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:52:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3610080084.html">
+<title><![CDATA[Website for new startup (Simi)]]></title>
+<link>http://ventura.craigslist.org/cpg/3610080084.html</link>
+<description><![CDATA[I am looking for someone to create a simple HTML website for a start up manufacturing company. 
+Must have experience and provide samples of previous work. 
+I will provide some examples of what we are looking for and then you run with it. 
+Also, if yo [...]]]></description>
+<dc:date>2013-02-11T11:36:56-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3610080084.html</dc:source>
+<dc:title><![CDATA[Website for new startup (Simi)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T11:36:56-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3609968535.html">
+<title><![CDATA[Teach me Wordpress (Ventura)]]></title>
+<link>http://ventura.craigslist.org/cpg/3609968535.html</link>
+<description><![CDATA[I need someone to teach me how to manipulate my Wordpress website. Must be in Ventura area. Please email me your resume and experience, along with examples of your work. State your hourly wage or flat fee. 
+Thank you.]]></description>
+<dc:date>2013-02-11T10:58:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3609968535.html</dc:source>
+<dc:title><![CDATA[Teach me Wordpress (Ventura)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T10:58:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3605728056.html">
+<title><![CDATA[ inexpensive web designer (ventura, ojai, santa Barbara)]]></title>
+<link>http://ventura.craigslist.org/cpg/3605728056.html</link>
+<description><![CDATA[Hi, 
+I am looking for a local high school or college guy who can help me put together a Google site...lots of templates...should be easy. 
+My budget is very low. I have gotten great help from wonderful young folks in the area in the past so I know th [...]]]></description>
+<dc:date>2013-02-09T12:21:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3605728056.html</dc:source>
+<dc:title><![CDATA[ inexpensive web designer (ventura, ojai, santa Barbara)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T12:21:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3601752016.html">
+<title><![CDATA[I need help with Stats class (Oxnard)]]></title>
+<link>http://ventura.craigslist.org/cpg/3601752016.html</link>
+<description><![CDATA[i would like to hire someone to complete my on-line Probability and statistics class.....Do not reply if you do not have the skills . There is 6 weeks of class left I currently Have a B in the class but have become over whelmed by work. If you are in [...]]]></description>
+<dc:date>2013-02-07T17:36:01-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3601752016.html</dc:source>
+<dc:title><![CDATA[I need help with Stats class (Oxnard)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T17:36:01-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://ventura.craigslist.org/cpg/3599873274.html">
+<title><![CDATA[Web Design company looking for Sales people (Ventura)]]></title>
+<link>http://ventura.craigslist.org/cpg/3599873274.html</link>
+<description><![CDATA[We are a Oxnard based website design and development company. We are looking for sales people to get us website projects on a commission basis. We will pay 45%% commission for each project, depending on volume. 
+Our closing rate is very high, if we g [...]]]></description>
+<dc:date>2013-02-07T01:20:39-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ventura.craigslist.org/cpg/3599873274.html</dc:source>
+<dc:title><![CDATA[Web Design company looking for Sales people (Ventura)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T01:20:39-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

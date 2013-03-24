@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://joplin.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in joplin</title>
+<link>http://joplin.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://joplin.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in joplin</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:59-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://joplin.craigslist.org/cpg/3652180617.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://joplin.craigslist.org/cpg/3652180617.html">
+<title><![CDATA[person to film, list to utube (noel, mo)]]></title>
+<link>http://joplin.craigslist.org/cpg/3652180617.html</link>
+<description><![CDATA[private party seeking young computer person to film, post to utube. Competent high schooler or college person, 
+male or female. If you can get the job done competently for me, I need you, and will pay reasonable fee. No gimmics, 
+sincere offer. I am  [...]]]></description>
+<dc:date>2013-03-01T13:55:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://joplin.craigslist.org/cpg/3652180617.html</dc:source>
+<dc:title><![CDATA[person to film, list to utube (noel, mo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T13:55:19-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

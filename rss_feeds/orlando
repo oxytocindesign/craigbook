@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://orlando.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in orlando</title>
+<link>http://orlando.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://orlando.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in orlando</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:32:10-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3691391235.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3682504782.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3701733862.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3701605990.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3701468954.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3679132594.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3699913055.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3699518091.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3694248221.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3696457548.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3696132027.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3695693024.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3694961320.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3693311661.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3693268004.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3692841054.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3692320240.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3692227158.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3692193620.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3691349381.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3691309287.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3672377052.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3690622096.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3689777452.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3689699969.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3688673978.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3659032280.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3688143708.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3686121010.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3685982522.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3685978289.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3684043626.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3657020991.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3683246426.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3683072202.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3682678477.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3681309186.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3627603846.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3680652290.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3680524581.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3680441831.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3680011862.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3679292433.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3646739921.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3678301613.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3677668412.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3677587880.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3676349871.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3666039547.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3673552673.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3672823654.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3614406467.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3669880202.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3668206705.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3665992535.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3665522154.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3664304924.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3663921747.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3662230390.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3660746080.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3660306818.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3659423176.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3657967351.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3599477974.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3655873786.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3655283134.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3654958149.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3650792921.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3650565829.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3650104263.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3649751232.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3600116611.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3641511476.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3647417280.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3647328708.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3645458898.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3645114521.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3643898759.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3642659124.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3642265207.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3642114823.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3576111346.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3638956016.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3638253901.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3638076361.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3637980273.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3566853408.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3636060663.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3635621118.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3635460253.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3634970067.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3633410754.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3632210133.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3631920476.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3618761342.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3631401040.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3631063876.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3607156698.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3630035163.html" />
+  <rdf:li rdf:resource="http://orlando.craigslist.org/cpg/3561998978.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://orlando.craigslist.org/cpg/3691391235.html">
+<title><![CDATA[MAKE 125 FOUR TIMES IN ONE DAY!]]></title>
+<link>http://orlando.craigslist.org/cpg/3691391235.html</link>
+<description><![CDATA[Let me share with you an amazing way to earn 
+life changing income starting today, this is a 
+real oportunity that is allowing people just like 
+you to make hundreds and even thousands 
+of dollars a week, no gimmicks no smoke screens only 
+hard facts [...]]]></description>
+<dc:date>2013-03-25T00:07:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3691391235.html</dc:source>
+<dc:title><![CDATA[MAKE 125 FOUR TIMES IN ONE DAY!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T00:07:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3682504782.html">
+<title><![CDATA[Typers - Computer literate (waterford lk.   AZALEA pk)]]></title>
+<link>http://orlando.craigslist.org/cpg/3682504782.html</link>
+<description><![CDATA[I need you to help me with advertising. 
+Must be honest hardworking dependable clean. 
+Must take direction well and be very attentive to detail. 
+Able work on laptop for at least 6 hours a day. 
+Easy labor but, you must be creative and extremely inte [...]]]></description>
+<dc:date>2013-03-25T00:04:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3682504782.html</dc:source>
+<dc:title><![CDATA[Typers - Computer literate (waterford lk.   AZALEA pk)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T00:04:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3701733862.html">
+<title><![CDATA[Intern for Website Development (Remote)]]></title>
+<link>http://orlando.craigslist.org/cpg/3701733862.html</link>
+<description><![CDATA[Looking for a Website Developer wanting to build their resume or seeking college credit. 
+Websites are very basic GoDaddy builds x 5 pages each with stock data. 
+Remit resume, bio, stock photo and hours available. 
+May became a long-term role with sa [...]]]></description>
+<dc:date>2013-03-24T20:41:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3701733862.html</dc:source>
+<dc:title><![CDATA[Intern for Website Development (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:41:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3701605990.html">
+<title><![CDATA[Seeking computer data entry for 2 days this week (Orlando.  Near Orange &amp; Michigan St.)]]></title>
+<link>http://orlando.craigslist.org/cpg/3701605990.html</link>
+<description><![CDATA[Seeking someone VERY experienced in DATA entry at a fast and accurate pace. 
+Only 2 or 3 days THIS week. Then Only occasionally as needed. 
+Office is just South of Downtown Orlando off Orange Ave. 
+You would be reading off EXCEL spread sheets & Enter [...]]]></description>
+<dc:date>2013-03-24T19:22:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3701605990.html</dc:source>
+<dc:title><![CDATA[Seeking computer data entry for 2 days this week (Orlando.  Near Orange &amp; Michigan St.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:22:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3701468954.html">
+<title><![CDATA[SUPERSTAR WEB DEVELOPERS WANTED/MEDIA PRESENTATIONS]]></title>
+<link>http://orlando.craigslist.org/cpg/3701468954.html</link>
+<description><![CDATA[We are searching for expertise web developers who are capable of creating CUSTOM websites of this nature: with social integration and many features. 
+http://dwyanewade.com/ 
+http://www.charitywater.org 
+http://www.andersoncooper.com/ 
+Seeking also de [...]]]></description>
+<dc:date>2013-03-24T18:01:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3701468954.html</dc:source>
+<dc:title><![CDATA[SUPERSTAR WEB DEVELOPERS WANTED/MEDIA PRESENTATIONS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:01:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3679132594.html">
+<title><![CDATA[Make $200 per day]]></title>
+<link>http://orlando.craigslist.org/cpg/3679132594.html</link>
+<description><![CDATA[Do you have a passion for sales and love to help others? 
+People need our product! 
+Schedule your phone interview today! 
+Email your name and phone number. ]]></description>
+<dc:date>2013-03-24T15:22:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3679132594.html</dc:source>
+<dc:title><![CDATA[Make $200 per day]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:22:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3699913055.html">
+<title><![CDATA[web developer needed - for fun female driven web design project (orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3699913055.html</link>
+<description><![CDATA[Hello! 
+I am an experienced female graphic designer in the area looking to partner with a local wordpress developer for a female audience driven web design project. I would prefer a female developer - because that's the target audience of the project [...]]]></description>
+<dc:date>2013-03-23T19:41:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3699913055.html</dc:source>
+<dc:title><![CDATA[web developer needed - for fun female driven web design project (orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:41:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3699518091.html">
+<title><![CDATA[Use Your mac! (Kissimmee)]]></title>
+<link>http://orlando.craigslist.org/cpg/3699518091.html</link>
+<description><![CDATA[My macbook pro's screen has gone dead. I need to send it in, but before I do, I must back up all data. 
+To do this, I need another mac, and a firewire cable to boot my mac as an external drive, then copy stuff to my external drive. 
+What I need from  [...]]]></description>
+<dc:date>2013-03-23T15:54:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3699518091.html</dc:source>
+<dc:title><![CDATA[Use Your mac! (Kissimmee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:54:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3694248221.html">
+<title><![CDATA[Assistant Needed (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3694248221.html</link>
+<description><![CDATA[I am in need of an assistant that's able to meet with clients in the Orlando area. 
+You must have experience with Microsoft Office, and understand how to use the programs. 
+I am in need of someone that can take my place as I can't be there. 
+Please s [...]]]></description>
+<dc:date>2013-03-23T15:34:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3694248221.html</dc:source>
+<dc:title><![CDATA[Assistant Needed (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:34:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3696457548.html">
+<title><![CDATA[Full sail talent needed to create website! (Orlando )]]></title>
+<link>http://orlando.craigslist.org/cpg/3696457548.html</link>
+<description><![CDATA[Seeking an extremely talented student full sail who is able to make a website for our brand new company. The site must contain retail applications and accept all forms of payment. We will pay for your work and this could turn into a long term job onc [...]]]></description>
+<dc:date>2013-03-22T00:19:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3696457548.html</dc:source>
+<dc:title><![CDATA[Full sail talent needed to create website! (Orlando )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T00:19:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3696132027.html">
+<title><![CDATA[Assistant Wanted/ Online Help from Home (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3696132027.html</link>
+<description><![CDATA[Must be good with computers, great attitude, and customer service ready! This is a small online store and you will be responsible and receive cash daily for sales! No drug Policy. No car required. Apply by email]]></description>
+<dc:date>2013-03-21T20:08:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3696132027.html</dc:source>
+<dc:title><![CDATA[Assistant Wanted/ Online Help from Home (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T20:08:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3695693024.html">
+<title><![CDATA[Event help: webcast/editing/video conference (OCCC)]]></title>
+<link>http://orlando.craigslist.org/cpg/3695693024.html</link>
+<description><![CDATA[We are looking for a few experienced A/V type people to assist with at a large IT conference at the end of June. The gig is 5 days. 
+This position will be "Capture / Edit Technician", working with a specialized session recording system. 
+Experience R [...]]]></description>
+<dc:date>2013-03-21T16:10:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3695693024.html</dc:source>
+<dc:title><![CDATA[Event help: webcast/editing/video conference (OCCC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T16:10:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3694961320.html">
+<title><![CDATA[Seeking a Freelance WordPress PHP Developer (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3694961320.html</link>
+<description><![CDATA[Hello, 
+I am seeking to find a freelance WordPress PHP Developer. NO Companies, project managers, or people who are not programmers. Sorry, only looking for a self motivated person. 
+This person should know WordPress inside and out and be interested  [...]]]></description>
+<dc:date>2013-03-21T10:43:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3694961320.html</dc:source>
+<dc:title><![CDATA[Seeking a Freelance WordPress PHP Developer (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:43:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3693311661.html">
+<title><![CDATA[I'm looking for an administrative ROCK STAR! (orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3693311661.html</link>
+<description><![CDATA[I'm looking for an administrative ROCK STAR! 
+Your key role will be to show initiative to make my life easier and to free up my time. 
+You need to be able to transition between tasks and make it look easy. 
+i-dotting and t-crossing is required and Re [...]]]></description>
+<dc:date>2013-03-20T13:54:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3693311661.html</dc:source>
+<dc:title><![CDATA[I'm looking for an administrative ROCK STAR! (orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:54:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3693268004.html">
+<title><![CDATA[Graphic Designer Needed - Overspill Work (Baldwin Park)]]></title>
+<link>http://orlando.craigslist.org/cpg/3693268004.html</link>
+<description><![CDATA[Over spill relief, job to job, Professional and Creative design, finishing projects, start up to finish projects, you should have input and care about doing what you say when you say. We have fun but we take pride in our work! email your portfolio an [...]]]></description>
+<dc:date>2013-03-20T13:36:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3693268004.html</dc:source>
+<dc:title><![CDATA[Graphic Designer Needed - Overspill Work (Baldwin Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:36:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3692841054.html">
+<title><![CDATA[Craigslist Poster - Long term  (Orlando )]]></title>
+<link>http://orlando.craigslist.org/cpg/3692841054.html</link>
+<description><![CDATA[Looking for craigslist poster to work from home ( Trial will be done at our location for couple of weeks ), we are looking for someone who can type very fast , knows how to use craigslist , photobucket ,make new accounts ( email & craigslist accounts [...]]]></description>
+<dc:date>2013-03-20T10:31:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3692841054.html</dc:source>
+<dc:title><![CDATA[Craigslist Poster - Long term  (Orlando )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:31:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3692320240.html">
+<title><![CDATA[Social Media Expert (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3692320240.html</link>
+<description><![CDATA[We're a large marketing company looking for a local social media expert to manage some of our marketing campaigns. We are looking for a dedicated individual with extensive experience in large-scale social media/web marketing. Google Adwords certifica [...]]]></description>
+<dc:date>2013-03-19T23:52:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3692320240.html</dc:source>
+<dc:title><![CDATA[Social Media Expert (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T23:52:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3692227158.html">
+<title><![CDATA[Website Design and more Needed (Winter Springs)]]></title>
+<link>http://orlando.craigslist.org/cpg/3692227158.html</link>
+<description><![CDATA[I need to have several websites built. One is a social media site, one is a classified site, and there are several others similar in context. I will discuss more but I have a nondisclosure statement and non compete that needs signed. I am in the star [...]]]></description>
+<dc:date>2013-03-19T22:37:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3692227158.html</dc:source>
+<dc:title><![CDATA[Website Design and more Needed (Winter Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:37:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3692193620.html">
+<title><![CDATA[Call Today, Start Today, Paid Cash Daily! (ORLANDO)]]></title>
+<link>http://orlando.craigslist.org/cpg/3692193620.html</link>
+<description><![CDATA[EXPLODE Your Cash Flow. . . 
+GET PAID DAILY! 
+New 100% FREE System Does It All! 
+Converts HUGE Numbers. See It Now: 
+GO TO THE LINK BELOW START TODAY AND GET PAID TOMORROW 
+WWW.MAKEMONEYWITHBEEZY.BIZ 
+9136690741 WITH ANY QUESTIONS ]]></description>
+<dc:date>2013-03-19T22:13:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3692193620.html</dc:source>
+<dc:title><![CDATA[Call Today, Start Today, Paid Cash Daily! (ORLANDO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:13:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3691349381.html">
+<title><![CDATA[LI closers and fronters $650 a week (Sanford)]]></title>
+<link>http://orlando.craigslist.org/cpg/3691349381.html</link>
+<description><![CDATA[Hiring Now for fronters and closers interviews today and start tomorrow...top pay for good experienced reps. Paid weekly and you can make as little as $500 a week and sky is the limit for the max! give me a call today if your ready to start getting p [...]]]></description>
+<dc:date>2013-03-19T15:00:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3691349381.html</dc:source>
+<dc:title><![CDATA[LI closers and fronters $650 a week (Sanford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:00:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3691309287.html">
+<title><![CDATA[Web Development Internship (Oviedo)]]></title>
+<link>http://orlando.craigslist.org/cpg/3691309287.html</link>
+<description><![CDATA[PLEASE READ!!! NOT LOOKING FOR OUTSOURCING OR CONTRACTORS. LOCAL PEOPLE ONLY! 
+Newly established startup company is looking for an INTERN developer eager to get some hands-on experience with a variety of web technologies. 
+Ideal candidate has an educ [...]]]></description>
+<dc:date>2013-03-19T14:43:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3691309287.html</dc:source>
+<dc:title><![CDATA[Web Development Internship (Oviedo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:43:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3672377052.html">
+<title><![CDATA[I.T. Sales Team (Central Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3672377052.html</link>
+<description><![CDATA[Requirements: 
+Candidate should possess the following personal attributes: 
+* Good knowledge with the IT industry 
+* Forward thinking 
+* Strategic thinking 
+* Creative 
+* Energetic 
+* Results-Oriented 
+* Positive 
+* Excellent Organization skills 
+* O [...]]]></description>
+<dc:date>2013-03-19T12:06:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3672377052.html</dc:source>
+<dc:title><![CDATA[I.T. Sales Team (Central Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:06:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3690622096.html">
+<title><![CDATA[$$$computer pro $$$]]></title>
+<link>http://orlando.craigslist.org/cpg/3690622096.html</link>
+<description><![CDATA[Need help in marketing my business. Computer skills needed . Top of the line compan. Earn gig $$$. Call Lenny. 407-808-2681. Big $$$]]></description>
+<dc:date>2013-03-19T09:39:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3690622096.html</dc:source>
+<dc:title><![CDATA[$$$computer pro $$$]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:39:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3689777452.html">
+<title><![CDATA[NEED HELP WITH MY MY CORP! (ORLANDO)]]></title>
+<link>http://orlando.craigslist.org/cpg/3689777452.html</link>
+<description><![CDATA[YES IM LOOKING FOR A QULIFIED COMPUTER TECY AND BUSINESS CONSULTAINT TO HELP ME WITH MY CORP! CALL ME AND WILL DISCUSS PROGRAM PRICES! I HAVE A VERY GOOD PROGRAM THAT I WANT TO DO! AND I KNOW IT WILL BE THE NEXT BIG THING! WWWALPHAMALEGROUP.COM CHECK [...]]]></description>
+<dc:date>2013-03-18T19:20:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3689777452.html</dc:source>
+<dc:title><![CDATA[NEED HELP WITH MY MY CORP! (ORLANDO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T19:20:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3689699969.html">
+<title><![CDATA[Legal Secretary (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3689699969.html</link>
+<description><![CDATA[Small Firm is need of a full time legal assistant/legal secretary with personal injury experience to start as soon as possible. 
+Work experience in personal injury and/or legal field is required. 
+If you have the necessary experience, are professiona [...]]]></description>
+<dc:date>2013-03-18T18:40:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3689699969.html</dc:source>
+<dc:title><![CDATA[Legal Secretary (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T18:40:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3688673978.html">
+<title><![CDATA[Systems Integrator/Builder (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3688673978.html</link>
+<description><![CDATA[We are an IT company in the Orlando area looking to expand. We have a new opening available and will outline it below: 
+- Proficient in GNU/Linux software 
+- Capabile of compiling software from source code and integrating into a workable system 
+- Kn [...]]]></description>
+<dc:date>2013-03-18T11:31:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3688673978.html</dc:source>
+<dc:title><![CDATA[Systems Integrator/Builder (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:31:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3659032280.html">
+<title><![CDATA[Looking for a talented wordpress developer. (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3659032280.html</link>
+<description><![CDATA[Please respond in all CAPS that you live in central Florida. 
+Looking for talented wordpress programmers. Need someone who can program on the back end. 
+Please email me samples of your creative wordpress sites that you have developed. 
+must know css  [...]]]></description>
+<dc:date>2013-03-18T09:49:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3659032280.html</dc:source>
+<dc:title><![CDATA[Looking for a talented wordpress developer. (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T09:49:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3688143708.html">
+<title><![CDATA[Computer Project (Orlando, FL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3688143708.html</link>
+<description><![CDATA[I will pay someone $200 to complete a discreet computer project for me. Text me at 4075381142 for more info.]]></description>
+<dc:date>2013-03-18T02:34:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3688143708.html</dc:source>
+<dc:title><![CDATA[Computer Project (Orlando, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T02:34:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3686121010.html">
+<title><![CDATA[Loyalty Marketing WILL be the Next Big Thing (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3686121010.html</link>
+<description><![CDATA[Provide Engagement Marketing Services to Boost your Local Economy 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-16T23:26:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3686121010.html</dc:source>
+<dc:title><![CDATA[Loyalty Marketing WILL be the Next Big Thing (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T23:26:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3685982522.html">
+<title><![CDATA[Need an Iphone App Developed (Anywhere)]]></title>
+<link>http://orlando.craigslist.org/cpg/3685982522.html</link>
+<description><![CDATA[I need an Iphone app developed. What I need is basically exactly like the app Ultimate Guitar Tools app with maybe one more feature. It needs a Chromatic Tuner so it needs to be able to read pitch, an ear tuner so it needs to produce string notes, a  [...]]]></description>
+<dc:date>2013-03-16T21:30:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3685982522.html</dc:source>
+<dc:title><![CDATA[Need an Iphone App Developed (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:30:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3685978289.html">
+<title><![CDATA[Looking for a Developer to help with a project (Port St. Lucie)]]></title>
+<link>http://orlando.craigslist.org/cpg/3685978289.html</link>
+<description><![CDATA[Looking for PHP, multiple C languages, HTML 5, IT networking and servers, the whole deal. If your a magician with computers and programming we'd like to talk to you. Right now we are in the process of development and we need some help. If you are loo [...]]]></description>
+<dc:date>2013-03-16T21:27:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3685978289.html</dc:source>
+<dc:title><![CDATA[Looking for a Developer to help with a project (Port St. Lucie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:27:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3684043626.html">
+<title><![CDATA[kn]]></title>
+<link>http://orlando.craigslist.org/cpg/3684043626.html</link>
+<description><![CDATA[The text you want to be linked]]></description>
+<dc:date>2013-03-15T22:02:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3684043626.html</dc:source>
+<dc:title><![CDATA[kn]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T22:02:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3657020991.html">
+<title><![CDATA[Looking for Cell Phone or/and Computer Repair Technician (FL Mall Area)]]></title>
+<link>http://orlando.craigslist.org/cpg/3657020991.html</link>
+<description><![CDATA[Looking for experienced: 
+Cell Phone Repair Techs 
+Computer Repair Techs 
+Sales Reps 
+You must have experience. Please send your resume to the email address: info@mytechdepot.com 
+Thanks! ]]></description>
+<dc:date>2013-03-15T17:12:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3657020991.html</dc:source>
+<dc:title><![CDATA[Looking for Cell Phone or/and Computer Repair Technician (FL Mall Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T17:12:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3683246426.html">
+<title><![CDATA[Graphic Designer Needed - Overspill Work (Baldwin Park)]]></title>
+<link>http://orlando.craigslist.org/cpg/3683246426.html</link>
+<description><![CDATA[Over spill relief, job to job, Professional and Creative design, finishing projects, start up to finish projects, you should have input and care about doing what you say when you say. We have fun but we take pride in our work! email your portfolio an [...]]]></description>
+<dc:date>2013-03-15T15:00:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3683246426.html</dc:source>
+<dc:title><![CDATA[Graphic Designer Needed - Overspill Work (Baldwin Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T15:00:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3683072202.html">
+<title><![CDATA[Amazon Listing Help (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3683072202.html</link>
+<description><![CDATA[Amazon Listing Help Needed 
+Our company is in search of a part time person to be in charge of our Amazon feed. 
+This position requires knowledge of the import function, BTG and Category Templates. Product information comes from several sources and mu [...]]]></description>
+<dc:date>2013-03-15T13:46:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3683072202.html</dc:source>
+<dc:title><![CDATA[Amazon Listing Help (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T13:46:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3682678477.html">
+<title><![CDATA[Windows 7 Specialist  (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3682678477.html</link>
+<description><![CDATA[In need of a Windows 7 Specialist who currently has exam 073-680 Windows 7 configuring certification . Will need to submit copy of the score report to show proficiency along with resume. Pay is is between 16-18 an hour benefits after 90 days position [...]]]></description>
+<dc:date>2013-03-15T10:58:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3682678477.html</dc:source>
+<dc:title><![CDATA[Windows 7 Specialist  (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:58:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3681309186.html">
+<title><![CDATA[$100-300 a day online. Easy (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3681309186.html</link>
+<description><![CDATA[Make $100.00 a day online (Orlando) 
+Make $100 a day directly to your PayPal while working from home. I did not believe it until I tried it. I spent $5 and now I am making $100-240 a day. 
+Look for yourself. The old days of Marketing are gone. I wake [...]]]></description>
+<dc:date>2013-03-14T16:19:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3681309186.html</dc:source>
+<dc:title><![CDATA[$100-300 a day online. Easy (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:19:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3627603846.html">
+<title><![CDATA[APPLE MACINTOSH LAPTOP TABLET COMPUTER INTERN (MAITLAND)]]></title>
+<link>http://orlando.craigslist.org/cpg/3627603846.html</link>
+<description><![CDATA[Hi, 
+We are looking for a nice person and team player with an interest in repairing Apple / Macintosh computers, laptops, tablets and other Apple devices. 
+If interested, just send us an email and a resume. In your email please telling us a little ab [...]]]></description>
+<dc:date>2013-03-14T13:33:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3627603846.html</dc:source>
+<dc:title><![CDATA[APPLE MACINTOSH LAPTOP TABLET COMPUTER INTERN (MAITLAND)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T13:33:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3680652290.html">
+<title><![CDATA[^^^ RECEPTIONIST ^^^ (KIRKMAN)]]></title>
+<link>http://orlando.craigslist.org/cpg/3680652290.html</link>
+<description><![CDATA[Hiring PT receptionist for bodyrub office 
+Mon & Wed 430-1130pm & eventually sundays 1pm-9pm 
+Pay is $9/hr 
+Duties include: answering phone, scheduling appointments, collecting $ & at end of shift light cleaning 
+Females only need apply. Must be attr [...]]]></description>
+<dc:date>2013-03-14T11:41:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3680652290.html</dc:source>
+<dc:title><![CDATA[^^^ RECEPTIONIST ^^^ (KIRKMAN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T11:41:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3680524581.html">
+<title><![CDATA[Web desginer needed (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3680524581.html</link>
+<description><![CDATA[Looking for an experienced and talented web designer to design a retail clothing website. Time frame: 3months 
+Please reply to CL add for more information, portfolio or website of your own to view work would be awesome. Please give price range and ev [...]]]></description>
+<dc:date>2013-03-14T10:42:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3680524581.html</dc:source>
+<dc:title><![CDATA[Web desginer needed (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:42:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3680441831.html">
+<title><![CDATA[APPOINTMENT SETTER NEEDED ASAP (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3680441831.html</link>
+<description><![CDATA[I am looking for preferably a Real Estate agent or someone who has some Real Estate background to work with me to set appointments with homeowners who are in pre-foreclosure. I have the list of pre-forclosure home owners with phone numbers. I also ha [...]]]></description>
+<dc:date>2013-03-14T09:56:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3680441831.html</dc:source>
+<dc:title><![CDATA[APPOINTMENT SETTER NEEDED ASAP (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T09:56:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3680011862.html">
+<title><![CDATA[Personal Assistant/Admin Support/Household Help (Mt Dora)]]></title>
+<link>http://orlando.craigslist.org/cpg/3680011862.html</link>
+<description><![CDATA[Consultant with home based business needs help with filing, data base management, phone calls, client outreach and some general light household work. I need help with everything from client/admin office work to dog walking. A "Jill of all trades" who [...]]]></description>
+<dc:date>2013-03-14T00:08:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3680011862.html</dc:source>
+<dc:title><![CDATA[Personal Assistant/Admin Support/Household Help (Mt Dora)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T00:08:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3679292433.html">
+<title><![CDATA[Dreamweaver CS5 Training Needed (Winter Park)]]></title>
+<link>http://orlando.craigslist.org/cpg/3679292433.html</link>
+<description><![CDATA[I need someone to come over to my office and give me a crash course in Dreamweaver tomorrow afternoon (Thursday 3.14). I am very fluent in Illustrator and just want to know the basics to be able to do a simple one/two page site. 
+Please email be if y [...]]]></description>
+<dc:date>2013-03-13T17:09:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3679292433.html</dc:source>
+<dc:title><![CDATA[Dreamweaver CS5 Training Needed (Winter Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T17:09:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3646739921.html">
+<title><![CDATA[PHP Developer (Central Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3646739921.html</link>
+<description><![CDATA[Corfun Inc www.corfun.com is looking to partner up with a PHP developer for the joomla platform. We are currently upgrading and developing joomla extensions and plugins.]]></description>
+<dc:date>2013-03-13T12:15:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3646739921.html</dc:source>
+<dc:title><![CDATA[PHP Developer (Central Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T12:15:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3678301613.html">
+<title><![CDATA[WordPress Designer/Developer Needed (Baldwin Park)]]></title>
+<link>http://orlando.craigslist.org/cpg/3678301613.html</link>
+<description><![CDATA[Over spill relief, job to job, simple wordpress styling and design, finishing projects, start up to finish projects, you should have input and care about doing what you say when you say. We have fun but we take pride in our work! email your portfolio [...]]]></description>
+<dc:date>2013-03-13T10:16:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3678301613.html</dc:source>
+<dc:title><![CDATA[WordPress Designer/Developer Needed (Baldwin Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T10:16:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3677668412.html">
+<title><![CDATA[$$$ marketing expert $$$]]></title>
+<link>http://orlando.craigslist.org/cpg/3677668412.html</link>
+<description><![CDATA[Im seeking someone with marketing skills to help me grow my new business . Good pay , a chance at the biz oppertunity and fun. Lenny 407-808-2681. Thx ]]></description>
+<dc:date>2013-03-12T22:35:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3677668412.html</dc:source>
+<dc:title><![CDATA[$$$ marketing expert $$$]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T22:35:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3677587880.html">
+<title><![CDATA[EASY CASH**Need Temp Virtual Assistant** EASY CASH (Central Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3677587880.html</link>
+<description><![CDATA[Looking to make some quick extra CASH? 
+We need someone to organize sales leads and convert them from a paper source into a digital one (word, excel or PDF). The paper leads would be given to you and then you would convert them into digital format. W [...]]]></description>
+<dc:date>2013-03-12T21:44:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3677587880.html</dc:source>
+<dc:title><![CDATA[EASY CASH**Need Temp Virtual Assistant** EASY CASH (Central Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:44:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3676349871.html">
+<title><![CDATA[Website for Limo service (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3676349871.html</link>
+<description><![CDATA[I need a website for Limo service. Nothing fancy, a simple nice looking website needed. 
+You can use templates or use your own coding. Please let me know your hourly rate when you respond to this posting. ]]></description>
+<dc:date>2013-03-12T12:50:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3676349871.html</dc:source>
+<dc:title><![CDATA[Website for Limo service (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T12:50:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3666039547.html">
+<title><![CDATA[Part Time SEO Assistant (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3666039547.html</link>
+<description><![CDATA[I am looking for someone who can do guest posting, social media and backlink building for one of my clients. You will be paid 8-10 an hour and work part time. You don't have to have SEO experience, but it would be a plus. The location is East Orlando [...]]]></description>
+<dc:date>2013-03-11T12:34:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3666039547.html</dc:source>
+<dc:title><![CDATA[Part Time SEO Assistant (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T12:34:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3673552673.html">
+<title><![CDATA[Local PHP/Wordpress Programmer needed for one-time project (Central Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3673552673.html</link>
+<description><![CDATA[Hello 
+If you can write PHP code from scratch and you understand Wordpress from the inside out, I may have a job for you. Much of what I want accomplished "might" be obtainable from your ability to tweak existing or abandoned Wordpress plugins. There [...]]]></description>
+<dc:date>2013-03-11T10:09:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3673552673.html</dc:source>
+<dc:title><![CDATA[Local PHP/Wordpress Programmer needed for one-time project (Central Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:09:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3672823654.html">
+<title><![CDATA[Ground breaking web art project (orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3672823654.html</link>
+<description><![CDATA[Any computer animators, web developers, augmented reality devs, or AI programmers out there want to work on a ground breaking art project with no promise of pay? (although the idea is brilliant enough that if we can get all of those types together, c [...]]]></description>
+<dc:date>2013-03-10T21:24:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3672823654.html</dc:source>
+<dc:title><![CDATA[Ground breaking web art project (orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:24:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3614406467.html">
+<title><![CDATA[Computer & Cell phone Repair Tech NEEDED (aloma/dean/417)]]></title>
+<link>http://orlando.craigslist.org/cpg/3614406467.html</link>
+<description><![CDATA[We are currently seeking a computer and cell phone repair technician to work in our retail store. 
+The person we are seeking MUST be reliable and able to come to work Monday -- Friday, between 3pm-8pm. As well as Saturday 10am-4pm 
+There is not a hea [...]]]></description>
+<dc:date>2013-03-09T13:59:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3614406467.html</dc:source>
+<dc:title><![CDATA[Computer & Cell phone Repair Tech NEEDED (aloma/dean/417)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T13:59:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3669880202.html">
+<title><![CDATA[Java (Orlando, FL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3669880202.html</link>
+<description><![CDATA[Looking for someone to help complete a few open java projects. Looking for someone who is pretty advanced and knows the language inside and out. Right now I am working on two simple small projects, that may or may not need some re-design. 
+Will negot [...]]]></description>
+<dc:date>2013-03-09T13:17:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3669880202.html</dc:source>
+<dc:title><![CDATA[Java (Orlando, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T13:17:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3668206705.html">
+<title><![CDATA[Quicken and/or Excel (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3668206705.html</link>
+<description><![CDATA[Investment group in need of a marketing rep/consultant for a new website. If this is you please respond with your resume and experience with online driven marketing plans. click here for the application enter your email and it will come up 
+33862 thr [...]]]></description>
+<dc:date>2013-03-08T16:58:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3668206705.html</dc:source>
+<dc:title><![CDATA[Quicken and/or Excel (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T16:58:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3665992535.html">
+<title><![CDATA[Sound System Expert (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3665992535.html</link>
+<description><![CDATA[We need a sound system expert contractor who can support our existing systems and install new systems. 
+Please reply via email or to 321-274-5861. Thank you!]]></description>
+<dc:date>2013-03-07T17:42:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3665992535.html</dc:source>
+<dc:title><![CDATA[Sound System Expert (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T17:42:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3665522154.html">
+<title><![CDATA[PC, Windows 7 Migration, technicians (Orlando, FL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3665522154.html</link>
+<description><![CDATA[Please see the assignment I have available below and let me know if you are qualified and interested in the work. I will need a copy of your resume as a MS Word document to present to our customer. Looking forward to hearing from you, questions are e [...]]]></description>
+<dc:date>2013-03-07T14:27:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3665522154.html</dc:source>
+<dc:title><![CDATA[PC, Windows 7 Migration, technicians (Orlando, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T14:27:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3664304924.html">
+<title><![CDATA[We Pay Every Single Friday! (Work At Home Computer Required)]]></title>
+<link>http://orlando.craigslist.org/cpg/3664304924.html</link>
+<description><![CDATA[wanna get paid every friday? email me for the most amazing opportunity its referral based, make 80.00 for every referral that you get. Awesome Job! Work from Home Guarenteed Weekly Paycheck Every Single Friday!]]></description>
+<dc:date>2013-03-06T23:06:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3664304924.html</dc:source>
+<dc:title><![CDATA[We Pay Every Single Friday! (Work At Home Computer Required)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T23:06:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3663921747.html">
+<title><![CDATA[Vacation Rental Reservations Representative (United States)]]></title>
+<link>http://orlando.craigslist.org/cpg/3663921747.html</link>
+<description><![CDATA[RedAwning.com, the website that makes booking a vacation rental just like a hotel, is seeking a local independent reservations sales representative to communicate with prospective vacation renters and help them find and book a property for their trip [...]]]></description>
+<dc:date>2013-03-06T19:18:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3663921747.html</dc:source>
+<dc:title><![CDATA[Vacation Rental Reservations Representative (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T19:18:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3662230390.html">
+<title><![CDATA[WEB BLOG LANDING PAGES DESIGNER (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3662230390.html</link>
+<description><![CDATA[Web Designer Landing Pages for Adobe PS and WordPress 
+I need a dynamic design quote from a WEB DESIGNER who has great eye for creative clean and clear design. I have all text assets but I need a web developer for landing pages that will feature vide [...]]]></description>
+<dc:date>2013-03-06T03:48:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3662230390.html</dc:source>
+<dc:title><![CDATA[WEB BLOG LANDING PAGES DESIGNER (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T03:48:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3660746080.html">
+<title><![CDATA[Need an apprentice (orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3660746080.html</link>
+<description><![CDATA[I'm looking for an apprentice to learn Autocad and steel detailing, contact me for more info.]]></description>
+<dc:date>2013-03-05T13:32:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3660746080.html</dc:source>
+<dc:title><![CDATA[Need an apprentice (orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T13:32:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3660306818.html">
+<title><![CDATA[Marketing Intern for Established Brand (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3660306818.html</link>
+<description><![CDATA[HappyFeet USA is seeking an aggressive marketing intern for a possible longtime position reporting directly to the Internet Marketing Director. 
+As a qualified candidate, you will be able to write copy and assist in Graphic Design duties for, but not [...]]]></description>
+<dc:date>2013-03-05T10:45:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3660306818.html</dc:source>
+<dc:title><![CDATA[Marketing Intern for Established Brand (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T10:45:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3659423176.html">
+<title><![CDATA[Assistance Needed With Web Site Creation (Will Teach You, If Needed) (Orlando, FL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3659423176.html</link>
+<description><![CDATA[I'm looking for some one, preferably in school or between the age of 18-24 to assist me with the completion of my website. I currently work as both a Web Designer and a Care Taker for my two Children through out the day, so it is hard for me to conce [...]]]></description>
+<dc:date>2013-03-04T20:53:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3659423176.html</dc:source>
+<dc:title><![CDATA[Assistance Needed With Web Site Creation (Will Teach You, If Needed) (Orlando, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T20:53:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3657967351.html">
+<title><![CDATA[Affordable, reliable web designer wanted (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3657967351.html</link>
+<description><![CDATA[I am a solopreneur and owner of a new business seeking an AFFORDABLE and RELIABLE website designer for a project to commence immediately. I will only work with LOCAL (Orlando area) individuals. I am also only interested in CUSTOM designs and do not w [...]]]></description>
+<dc:date>2013-03-04T10:56:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3657967351.html</dc:source>
+<dc:title><![CDATA[Affordable, reliable web designer wanted (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T10:56:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3599477974.html">
+<title><![CDATA[Sell on ebay and inside store (Sanford)]]></title>
+<link>http://orlando.craigslist.org/cpg/3599477974.html</link>
+<description><![CDATA[If you are good in sales and have a pleasing personality then please phone me at 4076878447 
+www.rugking.com]]></description>
+<dc:date>2013-03-03T21:06:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3599477974.html</dc:source>
+<dc:title><![CDATA[Sell on ebay and inside store (Sanford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T21:06:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3655873786.html">
+<title><![CDATA[Reservation Website Needed (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3655873786.html</link>
+<description><![CDATA[ONLY ORLANDO AREA PEOPLE.. WE WILL MEET IN PERSON. HIRED SOMEONE FROM MIAMI TO DO THIS AND HE STOLE MY MONEY AND DID NOTHING! 
+I am stating a new equipment rental company in Orlando. 
+Here's what I need. 
+A very simple website from a graphic design p [...]]]></description>
+<dc:date>2013-03-03T11:01:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3655873786.html</dc:source>
+<dc:title><![CDATA[Reservation Website Needed (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T11:01:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3655283134.html">
+<title><![CDATA[Looking for Business Partner for Web development Startup  (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3655283134.html</link>
+<description><![CDATA[We are a start up web company who currently has over 200 website that are ready to be built and start making money. We are looking for the following: 
+Business Partner (investment partner) 
+Business Partner (web developer who will built site for perc [...]]]></description>
+<dc:date>2013-03-02T23:21:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3655283134.html</dc:source>
+<dc:title><![CDATA[Looking for Business Partner for Web development Startup  (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T23:21:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3654958149.html">
+<title><![CDATA[help with satalight (clermont)]]></title>
+<link>http://orlando.craigslist.org/cpg/3654958149.html</link>
+<description><![CDATA[I'm looking for someone help me reset up my satellite dish..]]></description>
+<dc:date>2013-03-02T19:34:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3654958149.html</dc:source>
+<dc:title><![CDATA[help with satalight (clermont)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T19:34:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3650792921.html">
+<title><![CDATA[Phone App Developer (Winter Springs, Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3650792921.html</link>
+<description><![CDATA[Looking for an experienced phone app developer. Must use tool that will create app for all platforms. 
+For clarification must have extensive experience with Titanium Appcelerator or Corona SKD. Both are java frameworks. The phone app you will develop [...]]]></description>
+<dc:date>2013-02-28T22:18:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3650792921.html</dc:source>
+<dc:title><![CDATA[Phone App Developer (Winter Springs, Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T22:18:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3650565829.html">
+<title><![CDATA[Experienced SEO Professional Wanted For Hourly Work and Consulting  (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3650565829.html</link>
+<description><![CDATA[SEO professional needed for hourly projects and consulting local business for work on business websites. We have a good working knowledge of SEO practices for 2013 and intend to always manage our own site. We do need, however, an experienced professi [...]]]></description>
+<dc:date>2013-02-28T19:59:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3650565829.html</dc:source>
+<dc:title><![CDATA[Experienced SEO Professional Wanted For Hourly Work and Consulting  (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T19:59:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3650104263.html">
+<title><![CDATA[In Search of Web/Graphic Designer]]></title>
+<link>http://orlando.craigslist.org/cpg/3650104263.html</link>
+<description><![CDATA[Killatee Beatz, LLC is Currently Looking for a Webpage And/or Graphics Designer to Add to It's Marketing/Advertisement Team, or for Future Work(s) / Purchases. If you are Looking for Exposure for Your Work(s) & Talent, Contact Us @ Killateebeatz@gmai [...]]]></description>
+<dc:date>2013-02-28T16:20:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3650104263.html</dc:source>
+<dc:title><![CDATA[In Search of Web/Graphic Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:20:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3649751232.html">
+<title><![CDATA[SALES or CUSTOMER SERVICE EXP - Earn up to $900 Every Week ]]></title>
+<link>http://orlando.craigslist.org/cpg/3649751232.html</link>
+<description><![CDATA[For SELF motivated Individuals only ... 
+100% Web-based 
+Income on your own teams. 
+limited Positions Available so act fast ... 
+Commission based PAY 
+Our Company is expanding thus the need for highly motivated sales and Customer service PEOPLE. 
+GET [...]]]></description>
+<dc:date>2013-02-28T13:56:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3649751232.html</dc:source>
+<dc:title><![CDATA[SALES or CUSTOMER SERVICE EXP - Earn up to $900 Every Week ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T13:56:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3600116611.html">
+<title><![CDATA[Social Media Intern Wanted (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3600116611.html</link>
+<description><![CDATA[We are looking for a person who understands Social Media. 
+Face book 
+Twitter 
+instagram 
+Google + 
+etc 
+Work on many projects from print to electronic Media. 
+Must be able to travel to Altamonte Springs 2 days a week. 
+Please send your resume or the [...]]]></description>
+<dc:date>2013-02-28T10:02:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3600116611.html</dc:source>
+<dc:title><![CDATA[Social Media Intern Wanted (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T10:02:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3641511476.html">
+<title><![CDATA[Programming tutor needed]]></title>
+<link>http://orlando.craigslist.org/cpg/3641511476.html</link>
+<description><![CDATA[Programming tutor needed 
+Mon-Friday after 6pm 
+Sat & sun any time ]]></description>
+<dc:date>2013-02-27T18:56:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3641511476.html</dc:source>
+<dc:title><![CDATA[Programming tutor needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T18:56:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3647417280.html">
+<title><![CDATA[Receptionist  (Largo florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3647417280.html</link>
+<description><![CDATA[We are a small business looking for a receptionist must speak spanish and english. Someone puntable and reliable please send resume to judithcarlos15 at gmAil.com need to hire asap we are located at largo fl belcher and ulmerton rd you can call at 78 [...]]]></description>
+<dc:date>2013-02-27T13:39:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3647417280.html</dc:source>
+<dc:title><![CDATA[Receptionist  (Largo florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T13:39:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3647328708.html">
+<title><![CDATA[Need C# Developer to teach me some codes (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3647328708.html</link>
+<description><![CDATA[Hi, 
+Im looking for Someone immediately for few hours teaching me some C# or Java codes developing 
+please email me your number and ill return your call ASAP.I need someone for this weekend so please don't email after March 1st ]]></description>
+<dc:date>2013-02-27T13:06:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3647328708.html</dc:source>
+<dc:title><![CDATA[Need C# Developer to teach me some codes (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T13:06:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3645458898.html">
+<title><![CDATA[Web Designer needed (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3645458898.html</link>
+<description><![CDATA[Searching for a web/logo designer for a start-up company. Basic site/logo.]]></description>
+<dc:date>2013-02-26T16:11:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3645458898.html</dc:source>
+<dc:title><![CDATA[Web Designer needed (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T16:11:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3645114521.html">
+<title><![CDATA[Major Label Talent Development Team Seeking a Tech Partner (Florida)]]></title>
+<link>http://orlando.craigslist.org/cpg/3645114521.html</link>
+<description><![CDATA[Artist acquisition & development company is seeking a talented tech savvy individual to head our digital department. If you are a highly motivated self starter with experience in website development, marketing and optimization then we would like to t [...]]]></description>
+<dc:date>2013-02-26T14:01:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3645114521.html</dc:source>
+<dc:title><![CDATA[Major Label Talent Development Team Seeking a Tech Partner (Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T14:01:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3643898759.html">
+<title><![CDATA[Computer Science Tutor Needed (UCF)]]></title>
+<link>http://orlando.craigslist.org/cpg/3643898759.html</link>
+<description><![CDATA[I need a Computer Science Tutor. I go to UCF and need a tutor for the following classes: 
+COP 4600- OPERATING SYSTEMS 
+CDA 3103- COMPUTER LOGIC AL ORGANIZATION 
+CIS 4004- WEB BASED INFO TECHNOLOGY 
+COP 4331- PROC OBJECT ORIENTED SOFTWARE 
+call or tex [...]]]></description>
+<dc:date>2013-02-25T23:03:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3643898759.html</dc:source>
+<dc:title><![CDATA[Computer Science Tutor Needed (UCF)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T23:03:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3642659124.html">
+<title><![CDATA[looking for a professional person to mount TV on wall (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3642659124.html</link>
+<description><![CDATA[I am looking for a professional tv installer to mount 3 TVs on my wall at my house Call . Casey 407-970-2400 or Daisy 407-346-1245]]></description>
+<dc:date>2013-02-25T13:46:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3642659124.html</dc:source>
+<dc:title><![CDATA[looking for a professional person to mount TV on wall (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T13:46:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3642265207.html">
+<title><![CDATA[Looking for a Customer Service Rep. (Downtown Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3642265207.html</link>
+<description><![CDATA[Craigslist Ad 
+Customer Service Representative needed for a Small Call Center. (30 people) 
+FLUENT IN ENGLISH AND SPANISH is a PLUS 
+Duties Include but are not limited to: 
+Answering calls on Customer Service Line 
+Light Data Entry 
+Hours are Mon - F [...]]]></description>
+<dc:date>2013-02-25T11:22:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3642265207.html</dc:source>
+<dc:title><![CDATA[Looking for a Customer Service Rep. (Downtown Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T11:22:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3642114823.html">
+<title><![CDATA[Back-end Coder (SW Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3642114823.html</link>
+<description><![CDATA['m a graphic designer and quoting a few website projects --looking to partner with a coder 
+MUST BE LOCAL TO ORLANDO, FL USA 
+Must know how to do back-end coding [take my PSD files and make them websites] --I don't care how you do it. Also, have a bi [...]]]></description>
+<dc:date>2013-02-25T10:21:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3642114823.html</dc:source>
+<dc:title><![CDATA[Back-end Coder (SW Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T10:21:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3576111346.html">
+<title><![CDATA[post and sell our items on ebay and craigs list (Sanford)]]></title>
+<link>http://orlando.craigslist.org/cpg/3576111346.html</link>
+<description><![CDATA[We have million of dollars of inventory. We need to sell this inventory on Ebay and craigs list. 
+You must have experience of selling these items professionally. 
+Excellent opportunity for the right person who knows how to sell and market products, 
+ [...]]]></description>
+<dc:date>2013-02-24T19:45:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3576111346.html</dc:source>
+<dc:title><![CDATA[post and sell our items on ebay and craigs list (Sanford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T19:45:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3638956016.html">
+<title><![CDATA[Business in mobil app industry (anywhere)]]></title>
+<link>http://orlando.craigslist.org/cpg/3638956016.html</link>
+<description><![CDATA[This is a brand new opportunity to start your own business and profit from the lucrative mobil app industry. This is not app development, so no experience is required there. But if you would like to find out how you can profit from the app world, sen [...]]]></description>
+<dc:date>2013-02-23T17:39:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3638956016.html</dc:source>
+<dc:title><![CDATA[Business in mobil app industry (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T17:39:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3638253901.html">
+<title><![CDATA[eBay Poster (Clermont)]]></title>
+<link>http://orlando.craigslist.org/cpg/3638253901.html</link>
+<description><![CDATA[eBay Posting Help 
+Assistant needed to post household items and antiques 
+on eBay and/or Craigslist. 
+Part Time - Flexible Hours 
+Please respond with name and phone number. 
+No text. 
+Thank you!]]></description>
+<dc:date>2013-02-23T12:52:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3638253901.html</dc:source>
+<dc:title><![CDATA[eBay Poster (Clermont)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T12:52:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3638076361.html">
+<title><![CDATA[$$$ HOW MANY WOULD YOU GIVE AWAY !!! (Very Busy)]]></title>
+<link>http://orlando.craigslist.org/cpg/3638076361.html</link>
+<description><![CDATA[IF YOU WERE GIVEN AN UNLIMITED 
+AMOUNT OF $20 DOLLAR BILLS AND 
+EACH TIME YOU GAVE ONE AWAY 
+YOU WERE ALLOWED TO KEEP ONE 
+FOR YOURSELF. 
+HOW MANY WOULD YOU GIVE AWAY ! ]]></description>
+<dc:date>2013-02-23T11:45:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3638076361.html</dc:source>
+<dc:title><![CDATA[$$$ HOW MANY WOULD YOU GIVE AWAY !!! (Very Busy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T11:45:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3637980273.html">
+<title><![CDATA[Mobile Marketing Brings More Customers Back to You (ORLANDO)]]></title>
+<link>http://orlando.craigslist.org/cpg/3637980273.html</link>
+<description><![CDATA[Text Message Loyalty Marketing Business For Sale]]></description>
+<dc:date>2013-02-23T11:06:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3637980273.html</dc:source>
+<dc:title><![CDATA[Mobile Marketing Brings More Customers Back to You (ORLANDO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T11:06:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3566853408.html">
+<title><![CDATA[Data entry (Chuluota)]]></title>
+<link>http://orlando.craigslist.org/cpg/3566853408.html</link>
+<description><![CDATA[Need Spanish speaking female able to receive phone calls from Spanish speaking callers and enter information on a web based application. Can work from your home any shift, must have no background noise while speaking on phone with clients. Position a [...]]]></description>
+<dc:date>2013-02-22T13:51:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3566853408.html</dc:source>
+<dc:title><![CDATA[Data entry (Chuluota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T13:51:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3636060663.html">
+<title><![CDATA[I need someone to fix the headphone port on my laptop (Kissimmee)]]></title>
+<link>http://orlando.craigslist.org/cpg/3636060663.html</link>
+<description><![CDATA[It works sometimes if I fiddle with the headphone plug, but I would love for my sound to work full time on my laptop. The Best buy people said it would cost like, 30 dollars to fix, I just dont have time to send it away to be fixed. So any help would [...]]]></description>
+<dc:date>2013-02-22T13:39:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3636060663.html</dc:source>
+<dc:title><![CDATA[I need someone to fix the headphone port on my laptop (Kissimmee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T13:39:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3635621118.html">
+<title><![CDATA[Seeking Fixture Assembler  (Kissimmee)]]></title>
+<link>http://orlando.craigslist.org/cpg/3635621118.html</link>
+<description><![CDATA[We are seeking someone to check for assemblies in a retail store. If it is there, you would be taking pictures of the set up and reporting those back to us. If it is not there you would report the absence to us. This is a simple job. If you are inter [...]]]></description>
+<dc:date>2013-02-22T10:53:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3635621118.html</dc:source>
+<dc:title><![CDATA[Seeking Fixture Assembler  (Kissimmee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T10:53:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3635460253.html">
+<title><![CDATA[Intermediate/Jr PHP/Mobile Developer for Contract Position (Altamonte Springs)]]></title>
+<link>http://orlando.craigslist.org/cpg/3635460253.html</link>
+<description><![CDATA[We are seeking a highly motivated, self-starter, software engineer with PHP and ideally Java (Android) experience. Objective C (iPhone/iPad) experience would be a bonus. This is a full-time multipurpose position, which will work with our technology t [...]]]></description>
+<dc:date>2013-02-22T09:39:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3635460253.html</dc:source>
+<dc:title><![CDATA[Intermediate/Jr PHP/Mobile Developer for Contract Position (Altamonte Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T09:39:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3634970067.html">
+<title><![CDATA[Accounting/Statistics (orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3634970067.html</link>
+<description><![CDATA[Looking for someone that is good in accounting and statistics that is looking to make some extra money]]></description>
+<dc:date>2013-02-21T23:39:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3634970067.html</dc:source>
+<dc:title><![CDATA[Accounting/Statistics (orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T23:39:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3633410754.html">
+<title><![CDATA[Event help: webcast/editing/video conference (Orlando CC)]]></title>
+<link>http://orlando.craigslist.org/cpg/3633410754.html</link>
+<description><![CDATA[We are looking for a few experienced A/V type people to assist with at a large IT conference at the end of June. The gig is 5 days. 
+This position will be "Capture / Edit Technician", working with a specialized session recording system. 
+Experience R [...]]]></description>
+<dc:date>2013-02-21T11:49:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3633410754.html</dc:source>
+<dc:title><![CDATA[Event help: webcast/editing/video conference (Orlando CC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:49:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3632210133.html">
+<title><![CDATA[HTML CSS PHP MYSQL ETC (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3632210133.html</link>
+<description><![CDATA[Entry Level Web Help (Orlando) 
+I need help with various projects and tasks. 
+I have numerous clients, websites that need maintenance, minor HTML, PHP, MYSQL etc. 
+The job would be part time 10 - 20 hrs per week or project based. 
+Rate dependent on E [...]]]></description>
+<dc:date>2013-02-20T19:44:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3632210133.html</dc:source>
+<dc:title><![CDATA[HTML CSS PHP MYSQL ETC (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T19:44:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3631920476.html">
+<title><![CDATA[Adwords Set-up (Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3631920476.html</link>
+<description><![CDATA[Looking for someone to setup pool company adwords campaign for orlando pool company. We are a marketing agency in Orlando and nee some help as we are back logged with work. Please let us know the cost to set up a campaign with about 50 keywords. 
+wou [...]]]></description>
+<dc:date>2013-02-20T17:33:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3631920476.html</dc:source>
+<dc:title><![CDATA[Adwords Set-up (Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T17:33:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3618761342.html">
+<title><![CDATA[BARTER: Pro Cleaning for your home for Lessons (CFL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3618761342.html</link>
+<description><![CDATA[BARTERING services. Cleaning for Coding/Designing 
+I run a Professional Maid service company. Willing to offer you FREE CLEANING in exchange for Web Design/Programming lessons. I can come to you, you can come to me, or meet in a central location for  [...]]]></description>
+<dc:date>2013-02-20T14:15:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3618761342.html</dc:source>
+<dc:title><![CDATA[BARTER: Pro Cleaning for your home for Lessons (CFL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T14:15:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3631401040.html">
+<title><![CDATA[Looking for a CCNP-Voice (Debary)]]></title>
+<link>http://orlando.craigslist.org/cpg/3631401040.html</link>
+<description><![CDATA[Cisco Certified Network Professional - Voice Engineer 
+Candidate will support the Cisco Voice implementation/support team for Cisco SMB and Enterprise UC platforms. We are looking for a person with a minimum of CCNP Voice (CCVP). The candidate will r [...]]]></description>
+<dc:date>2013-02-20T14:14:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3631401040.html</dc:source>
+<dc:title><![CDATA[Looking for a CCNP-Voice (Debary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T14:14:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3631063876.html">
+<title><![CDATA[Looking for Independent Game Developers (Orlando, FL)]]></title>
+<link>http://orlando.craigslist.org/cpg/3631063876.html</link>
+<description><![CDATA[I am currently a part time computer science student, whom has an interest in game development. I am looking for people who are interested in working on long term project(s). Any skills related to Game design are relevant, including script writing, pr [...]]]></description>
+<dc:date>2013-02-20T12:16:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3631063876.html</dc:source>
+<dc:title><![CDATA[Looking for Independent Game Developers (Orlando, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:16:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3607156698.html">
+<title><![CDATA[Online Marketing Representative (Orlando / Kissimee)]]></title>
+<link>http://orlando.craigslist.org/cpg/3607156698.html</link>
+<description><![CDATA[New Online Marketing Representatives are needed to expand growing small business, B. Screet Productions. 
+If you are interested please contact me at 757.362.8589 via text or call. Thank you, A.J.]]></description>
+<dc:date>2013-02-20T10:04:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3607156698.html</dc:source>
+<dc:title><![CDATA[Online Marketing Representative (Orlando / Kissimee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T10:04:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3630035163.html">
+<title><![CDATA[I need a cold fushion developer ASAP (Any)]]></title>
+<link>http://orlando.craigslist.org/cpg/3630035163.html</link>
+<description><![CDATA[I have a full built site and database that i need to be correctly installed on a new server but I am not able to get it working I need someone who can just get it setup correctly. it is built in cold fusion.. I dont have any budget just need some hel [...]]]></description>
+<dc:date>2013-02-19T22:36:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3630035163.html</dc:source>
+<dc:title><![CDATA[I need a cold fushion developer ASAP (Any)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T22:36:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://orlando.craigslist.org/cpg/3561998978.html">
+<title><![CDATA[C#, ASP.NET developer (IDEAS Orlando)]]></title>
+<link>http://orlando.craigslist.org/cpg/3561998978.html</link>
+<description><![CDATA[We are currently looking to fill a freelance/contract C#, ASP.NET developer position. Candidates should have the following skills: 
+Minimum skill requirements include: 
+.NET 2.0+ experience 
+C# programming with extensive VS 2008 experience 
+Have comf [...]]]></description>
+<dc:date>2013-02-19T15:08:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://orlando.craigslist.org/cpg/3561998978.html</dc:source>
+<dc:title><![CDATA[C#, ASP.NET developer (IDEAS Orlando)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T15:08:51-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

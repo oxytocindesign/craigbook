@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://altoona.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in altoona-johnstown</title>
+<link>http://altoona.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://altoona.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in altoona-johnstown</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:05-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3681022270.html" />
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3695707960.html" />
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3665295619.html" />
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3577554079.html" />
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3566132810.html" />
+  <rdf:li rdf:resource="http://altoona.craigslist.org/cpg/3566140037.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://altoona.craigslist.org/cpg/3681022270.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://altoona.craigslist.org/cpg/3681022270.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:56:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3681022270.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:56:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://altoona.craigslist.org/cpg/3695707960.html">
+<title><![CDATA[Calling all Telecom and Network Engineers and Technicians]]></title>
+<link>http://altoona.craigslist.org/cpg/3695707960.html</link>
+<description><![CDATA[We are a large company seeking Network and Telecom Engineers and Techs to help us expand our technology based business. We currently work with technicians and engineers in PA and the surrounding areas, and a lot of our techs work from home or in thei [...]]]></description>
+<dc:date>2013-03-21T16:17:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3695707960.html</dc:source>
+<dc:title><![CDATA[Calling all Telecom and Network Engineers and Technicians]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T16:17:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://altoona.craigslist.org/cpg/3665295619.html">
+<title><![CDATA[10 openings will fill fast ]]></title>
+<link>http://altoona.craigslist.org/cpg/3665295619.html</link>
+<description><![CDATA[We have 10 spots left. 
+We are looking for the sharpest people to join our team. 
+No experience is necessary. Training is available. 
+Must have great customer service. We are looking for the best sale reps. 
+If you think you can handle the sales fiel [...]]]></description>
+<dc:date>2013-03-07T12:59:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3665295619.html</dc:source>
+<dc:title><![CDATA[10 openings will fill fast ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T12:59:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://altoona.craigslist.org/cpg/3577554079.html">
+<title><![CDATA[Looking for marketing professionals (Anywhere)]]></title>
+<link>http://altoona.craigslist.org/cpg/3577554079.html</link>
+<description><![CDATA[I have recently started my own business, and I am looking for any ideas or insight on how to take it to the next level. My product is used by everyone daily!!!!! I just need to get the word out. Please visit my webstie for additional information. 
+ht [...]]]></description>
+<dc:date>2013-02-24T19:03:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3577554079.html</dc:source>
+<dc:title><![CDATA[Looking for marketing professionals (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T19:03:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://altoona.craigslist.org/cpg/3566132810.html">
+<title><![CDATA[Work from home (Home)]]></title>
+<link>http://altoona.craigslist.org/cpg/3566132810.html</link>
+<description><![CDATA[Want to make some spare cash from home in your free time? I do it all the time, it is free and easy. 
+Just goto the link provided and start clicking, it is really that easy. 
+http://www.clixsense.com/?5014617 
+Have fun and enjoy.]]></description>
+<dc:date>2013-02-21T02:35:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3566132810.html</dc:source>
+<dc:title><![CDATA[Work from home (Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T02:35:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://altoona.craigslist.org/cpg/3566140037.html">
+<title><![CDATA[Home opportunities (Anywhere)]]></title>
+<link>http://altoona.craigslist.org/cpg/3566140037.html</link>
+<description><![CDATA[All you have to do is sign up and start clicking. It really is that easy to start making some spare cash. 
+I have been making money from this and I know you can too. Have fun and enjoy. 
+http://www.clixsense.com/?5014617]]></description>
+<dc:date>2013-02-21T02:35:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://altoona.craigslist.org/cpg/3566140037.html</dc:source>
+<dc:title><![CDATA[Home opportunities (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T02:35:06-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

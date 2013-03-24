@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://bend.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in bend</title>
+<link>http://bend.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://bend.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in bend</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:04-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3681004804.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3701564577.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3693052686.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3692948263.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3683889406.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3679003835.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3667627577.html" />
+  <rdf:li rdf:resource="http://bend.craigslist.org/cpg/3603895528.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://bend.craigslist.org/cpg/3681004804.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://bend.craigslist.org/cpg/3681004804.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:54:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3681004804.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:54:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3701564577.html">
+<title><![CDATA[QB DATA ENTRY (PRINEVILLE, OR)]]></title>
+<link>http://bend.craigslist.org/cpg/3701564577.html</link>
+<description><![CDATA[DATA ENTRY AND AUDIT OF QUICKBOOKS 2012 FOR END OF YEAR AND RECONCILIATION. WORK PERFORMED AT OFFICE LOCATION. PLEASE REPLY WITH RESUME AND OR QUALIFICATIONS]]></description>
+<dc:date>2013-03-24T15:57:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3701564577.html</dc:source>
+<dc:title><![CDATA[QB DATA ENTRY (PRINEVILLE, OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:57:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3693052686.html">
+<title><![CDATA[WordPress developer needed for projects (Bend)]]></title>
+<link>http://bend.craigslist.org/cpg/3693052686.html</link>
+<description><![CDATA[Looking for an experienced WordPress developer to work as a sub-contractor on occasional projects. I sometimes have too much work and need to be able to contract out the development, and would prefer someone local to work with. 
+Please let me know th [...]]]></description>
+<dc:date>2013-03-20T09:07:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3693052686.html</dc:source>
+<dc:title><![CDATA[WordPress developer needed for projects (Bend)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:07:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3692948263.html">
+<title><![CDATA[Need Blog Tutor (Bend)]]></title>
+<link>http://bend.craigslist.org/cpg/3692948263.html</link>
+<description><![CDATA[I want to learn the in's and out's of blogging: feeds, RSS, links, trackbacks, tags............... 
+I have a book but it's not an easy read and would rather have person to person help. 
+Can meet you in a public place with my questions and then I will [...]]]></description>
+<dc:date>2013-03-20T08:22:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3692948263.html</dc:source>
+<dc:title><![CDATA[Need Blog Tutor (Bend)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T08:22:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3683889406.html">
+<title><![CDATA[piratetube.tk (kailu)]]></title>
+<link>http://bend.craigslist.org/cpg/3683889406.html</link>
+<description><![CDATA[www.piratetube.tk]]></description>
+<dc:date>2013-03-15T17:19:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3683889406.html</dc:source>
+<dc:title><![CDATA[piratetube.tk (kailu)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T17:19:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3679003835.html">
+<title><![CDATA[Need help integrating website, PayPal, and e-commerce site (Bend)]]></title>
+<link>http://bend.craigslist.org/cpg/3679003835.html</link>
+<description><![CDATA[I need help integrating my website + PayPal + Big Cartel (e-commerce site / service). 
+I would like to meet with you at a Starbucks. I do not think it will take long, maybe 1 hour, 2 at most. I would like to watch you do this / have you show me how.  [...]]]></description>
+<dc:date>2013-03-13T12:05:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3679003835.html</dc:source>
+<dc:title><![CDATA[Need help integrating website, PayPal, and e-commerce site (Bend)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T12:05:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3667627577.html">
+<title><![CDATA[Need someone for court record search (Bend)]]></title>
+<link>http://bend.craigslist.org/cpg/3667627577.html</link>
+<description><![CDATA[Will need someone preferably with some experience with court records and the OJIN Oregon computerized record system to look up a court record in Deschutes county courthouse and possibly make copies and mail them. ]]></description>
+<dc:date>2013-03-08T10:08:31-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3667627577.html</dc:source>
+<dc:title><![CDATA[Need someone for court record search (Bend)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T10:08:31-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://bend.craigslist.org/cpg/3603895528.html">
+<title><![CDATA[Internet Marketing ]]></title>
+<link>http://bend.craigslist.org/cpg/3603895528.html</link>
+<description><![CDATA[I have an online business and need someone who knows how to generate business on the internet. I will pay you a percentage of the increased sales resulting from your contribution. This could be a ongoing opportunity for the right person. If you are a [...]]]></description>
+<dc:date>2013-02-08T15:28:58-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bend.craigslist.org/cpg/3603895528.html</dc:source>
+<dc:title><![CDATA[Internet Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T15:28:58-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

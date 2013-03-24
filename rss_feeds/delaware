@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://delaware.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in delaware</title>
+<link>http://delaware.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://delaware.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in delaware</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:07-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3697286820.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3693056408.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3687461129.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3684917926.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3684452241.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3649776696.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3671596774.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3653017635.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3649006942.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3643065948.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3638294771.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3634253543.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3631934147.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3630603814.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3626978765.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3626239347.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3611980872.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3620323679.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3615435442.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3607319631.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3611820588.html" />
+  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3606616508.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://delaware.craigslist.org/cpg/3697286820.html">
+<title><![CDATA[Cabling Crews CAT5/6 Fiber (Delaware)]]></title>
+<link>http://delaware.craigslist.org/cpg/3697286820.html</link>
+<description><![CDATA[Cabling Tech CAT5/6 Fiber (Delaware - All Counties) 
+CAT5 / CAT6 Cabling Installers 
+Nationwide cabling company seeking cabling technicians for work in the Philadelphia Suburbs 
+&gt; Data Network Cabling Installation 
+&gt; Telephone Wiring & Cabling  [...]]]></description>
+<dc:date>2013-03-22T13:24:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3697286820.html</dc:source>
+<dc:title><![CDATA[Cabling Crews CAT5/6 Fiber (Delaware)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:24:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3693056408.html">
+<title><![CDATA[Java Developer-Great Opportunity! (Newark )]]></title>
+<link>http://delaware.craigslist.org/cpg/3693056408.html</link>
+<description><![CDATA[Seeking a java developer to help with a mobile project. 6 months contract-to-hire. W2 only 
+Requirements: 
+3+ years application development work 
+3+ years sdlc 
+3+ years experience with Java 
+3+ years experience with J2EE/EJB application server 
+3+ y [...]]]></description>
+<dc:date>2013-03-20T12:08:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3693056408.html</dc:source>
+<dc:title><![CDATA[Java Developer-Great Opportunity! (Newark )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:08:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3687461129.html">
+<title><![CDATA[Looking for Techs for Service Calls (Seaford)]]></title>
+<link>http://delaware.craigslist.org/cpg/3687461129.html</link>
+<description><![CDATA[We are looking for people skilled in computer repair, printer repair, network setup and troubleshooting, and similar work. Only reply if you have previous experience going on service calls. Respond with your phone number and when to call.]]></description>
+<dc:date>2013-03-17T17:54:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3687461129.html</dc:source>
+<dc:title><![CDATA[Looking for Techs for Service Calls (Seaford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:54:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3684917926.html">
+<title><![CDATA[YouTube / Facebook / Pinterest / Twitter - get paid to promote us! (USA)]]></title>
+<link>http://delaware.craigslist.org/cpg/3684917926.html</link>
+<description><![CDATA[YouTube / Facebook / Pinterest / Twitter users with social power - get paid to promote us! 
+We are a local fashion company for woman's jewelry and we can even give you some of our fancy products in exchange for helping promote 
+Please reply with your [...]]]></description>
+<dc:date>2013-03-16T12:21:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3684917926.html</dc:source>
+<dc:title><![CDATA[YouTube / Facebook / Pinterest / Twitter - get paid to promote us! (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T12:21:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3684452241.html">
+<title><![CDATA[Desktop engineer, MCSE (Wilmington, DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3684452241.html</link>
+<description><![CDATA[We are looking for a desktop Repackaging Engineer that will be responsible for the maintenance, administration, and training on the use of the software repackaging and automated deployment environment including the automated deployment and repackagin [...]]]></description>
+<dc:date>2013-03-16T06:55:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3684452241.html</dc:source>
+<dc:title><![CDATA[Desktop engineer, MCSE (Wilmington, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T06:55:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3649776696.html">
+<title><![CDATA[Make $500.00 now then weekly, Bloggers needed (Anywhere)]]></title>
+<link>http://delaware.craigslist.org/cpg/3649776696.html</link>
+<description><![CDATA[We are hiring fast for people that can use twitter or facebook a few times a day of week for us to blog post and or upload about are viral guarantee software. For workinjg for us you will receive this software upfront so if you have a video of blog p [...]]]></description>
+<dc:date>2013-03-12T14:33:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3649776696.html</dc:source>
+<dc:title><![CDATA[Make $500.00 now then weekly, Bloggers needed (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T14:33:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3671596774.html">
+<title><![CDATA[Programmer  (Wilmington)]]></title>
+<link>http://delaware.craigslist.org/cpg/3671596774.html</link>
+<description><![CDATA[Searching for a computer programmer to write code for a project that is fairly straight forward. Please send me a quick reply with your experience to this post for consideration ]]></description>
+<dc:date>2013-03-10T11:23:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3671596774.html</dc:source>
+<dc:title><![CDATA[Programmer  (Wilmington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T11:23:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3653017635.html">
+<title><![CDATA[Computer programmer (Wilmington)]]></title>
+<link>http://delaware.craigslist.org/cpg/3653017635.html</link>
+<description><![CDATA[Searching for a computer programmer to write code for a project that is fairly straight forward. Please send me a quick reply with your experience to this post for consideration ]]></description>
+<dc:date>2013-03-01T21:33:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3653017635.html</dc:source>
+<dc:title><![CDATA[Computer programmer (Wilmington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T21:33:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3649006942.html">
+<title><![CDATA[samsung admire Bricked possibly (pike creeck)]]></title>
+<link>http://delaware.craigslist.org/cpg/3649006942.html</link>
+<description><![CDATA[i tried to root my metro admire and now it gets stuck on the boot up screen samsung sch720, im still able to get into downloading mode, and i can get into cwr...so i think it can be fixed, if somone can help i will pay..]]></description>
+<dc:date>2013-02-28T08:00:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3649006942.html</dc:source>
+<dc:title><![CDATA[samsung admire Bricked possibly (pike creeck)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T08:00:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3643065948.html">
+<title><![CDATA[Wii Nintendo (Wilmington)]]></title>
+<link>http://delaware.craigslist.org/cpg/3643065948.html</link>
+<description><![CDATA[Optical lense -- laser is not reading any disc... can someone help --- Dave (302)540-4623]]></description>
+<dc:date>2013-02-25T16:16:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3643065948.html</dc:source>
+<dc:title><![CDATA[Wii Nintendo (Wilmington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:16:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3638294771.html">
+<title><![CDATA[Graphic Design Internship (NYC based)]]></title>
+<link>http://delaware.craigslist.org/cpg/3638294771.html</link>
+<description><![CDATA[The Collecte is seeking a graphic design intern specifically for html coding with minor website maintenance/development/design. We are seeking someone who has the ability to use Adobe Creative Suite; Photoshop, Dreamweaver, Illustrator etc. Start dat [...]]]></description>
+<dc:date>2013-02-23T13:07:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3638294771.html</dc:source>
+<dc:title><![CDATA[Graphic Design Internship (NYC based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T13:07:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3634253543.html">
+<title><![CDATA[Java Developer (Onsite) (Wilmington,DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3634253543.html</link>
+<description><![CDATA[Senior/Lead Java Developer -- Wilmington, DE. 
+(Six Month Assignment- Onsite) 
+- Sales Service Platform, Financial Services, Agile 
+Java Spring Framework required 
+Must have development experience with Customer Management Systems, Customer Service or [...]]]></description>
+<dc:date>2013-02-21T17:10:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3634253543.html</dc:source>
+<dc:title><![CDATA[Java Developer (Onsite) (Wilmington,DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T17:10:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3631934147.html">
+<title><![CDATA[Java Developer]]></title>
+<link>http://delaware.craigslist.org/cpg/3631934147.html</link>
+<description><![CDATA[Java J2EE Application Developer 
+General Information 
+Job Family Description: Designs, analyzes, develops, codes, tests, debugs and documents programming to satisfy business requirements. Proficient in application development for a specific technolog [...]]]></description>
+<dc:date>2013-02-20T17:38:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3631934147.html</dc:source>
+<dc:title><![CDATA[Java Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T17:38:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3630603814.html">
+<title><![CDATA[Phone Line extended (Newark, DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3630603814.html</link>
+<description><![CDATA[Need to have 4 phone lines extended, already ran two cat5-e cables. Want the lines split from where they come in and extended to a computer closet. Once they are at the computer closet they need to be punched down on a 66 block and RJ-11 jacks put in [...]]]></description>
+<dc:date>2013-02-20T09:03:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3630603814.html</dc:source>
+<dc:title><![CDATA[Phone Line extended (Newark, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T09:03:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3626978765.html">
+<title><![CDATA[Business Systems Analysts Needed! (Wilmington, DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3626978765.html</link>
+<description><![CDATA[Roles and Responsibilities: As a Business Systems Analyst on the Mobile Digital Transformation Team, you will serve as liaison between IT and business end-users. Work with the business to analyze business requirements and review/produce specification [...]]]></description>
+<dc:date>2013-02-18T18:15:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3626978765.html</dc:source>
+<dc:title><![CDATA[Business Systems Analysts Needed! (Wilmington, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T18:15:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3626239347.html">
+<title><![CDATA[Need local website designer (Delaware )]]></title>
+<link>http://delaware.craigslist.org/cpg/3626239347.html</link>
+<description><![CDATA[I have a business in Delaware and I am looking for a web designer located in Delaware. 
+Please have a list of websites that you have completed that are active. 
+I am looking for a simple website with maybe 5 pages and a contact form. 
+Send over your  [...]]]></description>
+<dc:date>2013-02-18T13:46:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3626239347.html</dc:source>
+<dc:title><![CDATA[Need local website designer (Delaware )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:46:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3611980872.html">
+<title><![CDATA[looking for a reasonable price for ipod 4generation screen replacement (new castle county)]]></title>
+<link>http://delaware.craigslist.org/cpg/3611980872.html</link>
+<description><![CDATA[I need a company or someone with the proper qualifications to fix my daughters ipod touch 4th generation screen. Needs a new screen and needs replaced. I won't hire just anyone. You must have qualifications. Thank you. Please put "ipod screen replace [...]]]></description>
+<dc:date>2013-02-16T14:28:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3611980872.html</dc:source>
+<dc:title><![CDATA[looking for a reasonable price for ipod 4generation screen replacement (new castle county)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T14:28:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3620323679.html">
+<title><![CDATA[Desktop PC Technician (Newark, DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3620323679.html</link>
+<description><![CDATA[Our client, a nationally known PC distributor, has requested we source a number of PC technicians as follows: 
+Newark, DE 
+Beginning Friday 2/22 and continuing every Friday and Monday thereafter for 3 to 4 months. 
+Must be able to lift up to 50lbs. 
+ [...]]]></description>
+<dc:date>2013-02-15T20:07:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3620323679.html</dc:source>
+<dc:title><![CDATA[Desktop PC Technician (Newark, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T20:07:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3615435442.html">
+<title><![CDATA[Junior Level Java Developers Needed (Wilmington, DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3615435442.html</link>
+<description><![CDATA[Seeking Junior Level Java Developers to work in Wilmington Delaware. C++ experience preferred. Send resume for details if interested. ]]></description>
+<dc:date>2013-02-13T17:16:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3615435442.html</dc:source>
+<dc:title><![CDATA[Junior Level Java Developers Needed (Wilmington, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T17:16:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3607319631.html">
+<title><![CDATA[Php programmer ]]></title>
+<link>http://delaware.craigslist.org/cpg/3607319631.html</link>
+<description><![CDATA[I'm looking for help with my php script. I want someone local to work with directly. Possible to turn into a long term job.]]></description>
+<dc:date>2013-02-12T14:53:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3607319631.html</dc:source>
+<dc:title><![CDATA[Php programmer ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T14:53:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3611820588.html">
+<title><![CDATA[I NEED PC HELP, I-TUNES!! (Dover)]]></title>
+<link>http://delaware.craigslist.org/cpg/3611820588.html</link>
+<description><![CDATA[I need help organizing my lap top,----I have so many questions with windows 7-----Photos address book, etc, real easy stuff I can't figure out. I will pay you or I would love to trade off my HANDYMAN skills. I am a licensed contractor in DE ------HEL [...]]]></description>
+<dc:date>2013-02-12T09:43:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3611820588.html</dc:source>
+<dc:title><![CDATA[I NEED PC HELP, I-TUNES!! (Dover)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T09:43:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://delaware.craigslist.org/cpg/3606616508.html">
+<title><![CDATA[Looking for iOS developer for start up (Newark DE)]]></title>
+<link>http://delaware.craigslist.org/cpg/3606616508.html</link>
+<description><![CDATA[Hello everyone. 
+We are a team of motivated and cool people who is starting something new...! 
+Planing to present our idea with prototype at PTM (Philadelphia Tech meet up) in April. 
+If you know how to build an iphone app, call me 302-333-47seven8. ]]></description>
+<dc:date>2013-02-09T23:26:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://delaware.craigslist.org/cpg/3606616508.html</dc:source>
+<dc:title><![CDATA[Looking for iOS developer for start up (Newark DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T23:26:25-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

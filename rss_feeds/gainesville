@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://gainesville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in gainesville</title>
+<link>http://gainesville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://gainesville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in gainesville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3700163470.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3696988660.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3649287780.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3691687544.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3671445623.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3681540389.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3680676894.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3678206032.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3673628332.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3673627414.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3664027087.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3658942893.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3626220493.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3653292733.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3650114700.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3599571593.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3643786117.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3554586103.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3604866664.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3700163470.html">
+<title><![CDATA[Need help with Website design!]]></title>
+<link>http://gainesville.craigslist.org/cpg/3700163470.html</link>
+<description><![CDATA[I operate a small website www.adventure4sale.com but the website is horrid. I am very limited in computer related skills and the site is held back for that reason. Looking for someone to help with design (particularly visual layout). I'm open to all  [...]]]></description>
+<dc:date>2013-03-23T22:54:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3700163470.html</dc:source>
+<dc:title><![CDATA[Need help with Website design!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T22:54:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3696988660.html">
+<title><![CDATA[   computer repairer needed urgently...!!!!]]></title>
+<link>http://gainesville.craigslist.org/cpg/3696988660.html</link>
+<description><![CDATA[Are you handy with personal computer/laptop troubleshooting and repair? We have positions open RIGHT NOW in the field of computer repair. 
+Established company is looking for Techs who can troubleshoot, isolate, and repair hardware issues with Persona [...]]]></description>
+<dc:date>2013-03-22T11:15:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3696988660.html</dc:source>
+<dc:title><![CDATA[   computer repairer needed urgently...!!!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:15:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3649287780.html">
+<title><![CDATA[Looking for person to market a new product (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3649287780.html</link>
+<description><![CDATA[Looking for someone to market a cutting edge product. 
+Must be motivated to make money and share an awesome product that retailers will sell like hotcakes! 
+You can also sell this product through the website and earn commissions. 
+This is an amazing  [...]]]></description>
+<dc:date>2013-03-20T14:07:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3649287780.html</dc:source>
+<dc:title><![CDATA[Looking for person to market a new product (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:07:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3691687544.html">
+<title><![CDATA[Videomaking Consultation (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3691687544.html</link>
+<description><![CDATA[I have several hours of promising (?) raw camcorder footage of a recent trip to Montreal that I would like to turn into a professional-looking travelogue for uploading to YouTube and/or Vimeo. I am familiar with Windows MovieMaker and have recently b [...]]]></description>
+<dc:date>2013-03-19T17:32:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3691687544.html</dc:source>
+<dc:title><![CDATA[Videomaking Consultation (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:32:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3671445623.html">
+<title><![CDATA[Magento (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3671445623.html</link>
+<description><![CDATA[Experienced Magento des/dev needed to complete punch out list for local e-commerce store. Mainly product categorization, site organization and general maintenance. 
+Please respond via Craigslist. 
+Prefer someone local]]></description>
+<dc:date>2013-03-18T23:02:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3671445623.html</dc:source>
+<dc:title><![CDATA[Magento (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T23:02:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3681540389.html">
+<title><![CDATA[Need Razr maxx android help (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3681540389.html</link>
+<description><![CDATA[Having problems with recent OS update and need assitance ]]></description>
+<dc:date>2013-03-14T18:09:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3681540389.html</dc:source>
+<dc:title><![CDATA[Need Razr maxx android help (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:09:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3680676894.html">
+<title><![CDATA[fixing some laptops (Lawtey/Starke)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3680676894.html</link>
+<description><![CDATA[I have 2 laptops that needs fixing and need to be fixed cheap I'm disabled and can't afford to much plz email me at Barbaraleslie79@Gmail.com thank you!]]></description>
+<dc:date>2013-03-14T11:52:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3680676894.html</dc:source>
+<dc:title><![CDATA[fixing some laptops (Lawtey/Starke)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T11:52:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3678206032.html">
+<title><![CDATA[Wordpress Tutor Needed (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3678206032.html</link>
+<description><![CDATA[Photographer needs assistance with setting up a word press format template to allow for regular self updates of a website. Experienced Word press designer needed. Availability 3/16, 3/17 or 3/21. ]]></description>
+<dc:date>2013-03-13T09:20:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3678206032.html</dc:source>
+<dc:title><![CDATA[Wordpress Tutor Needed (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:20:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3673628332.html">
+<title><![CDATA[Web Developer Needed - ASAP (Gainesville, FL)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3673628332.html</link>
+<description><![CDATA[We are looking for a skilled web developer who can work with us to build a website for our startup company. 
+We are a Startup Video Game Developer, that needs a higher end site, that will integrate Forums, Blogs, and and more. It needs to be cutting  [...]]]></description>
+<dc:date>2013-03-11T10:44:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3673628332.html</dc:source>
+<dc:title><![CDATA[Web Developer Needed - ASAP (Gainesville, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:44:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3673627414.html">
+<title><![CDATA[Web Designer Needed (Gainesville, FL)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3673627414.html</link>
+<description><![CDATA[Web Designer needed to build a website for a Start up Company. 
+WE HAVE NO BUDGET TO PAY SOMEONE AT THE MOMENT... We are looking for someone who is willing to do work to build their portfolio. 
+Our hope is to build a relationship with someone that wi [...]]]></description>
+<dc:date>2013-03-11T10:44:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3673627414.html</dc:source>
+<dc:title><![CDATA[Web Designer Needed (Gainesville, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:44:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3664027087.html">
+<title><![CDATA[Project Bidding Expert at Freelancer.com/Elance/Odesk/Guru (Florida)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3664027087.html</link>
+<description><![CDATA[Job Description: 
+Please Read the post completely otherwise your will not receive any mail/call from the company. 
+This is an excellent opportunity for a Indiviual who is having experience in Bidding or Marketing. 
+We are a Group of 5 People and have [...]]]></description>
+<dc:date>2013-03-06T20:12:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3664027087.html</dc:source>
+<dc:title><![CDATA[Project Bidding Expert at Freelancer.com/Elance/Odesk/Guru (Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T20:12:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3658942893.html">
+<title><![CDATA[looking for a webdesigner  (gainesville florida)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3658942893.html</link>
+<description><![CDATA[I'm looking for a webdesigner to create a game website like mafia wars, drug wars etc.]]></description>
+<dc:date>2013-03-04T17:02:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3658942893.html</dc:source>
+<dc:title><![CDATA[looking for a webdesigner  (gainesville florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T17:02:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3626220493.html">
+<title><![CDATA[Looking for a hacker/Computer tutor (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3626220493.html</link>
+<description><![CDATA[Looking for someone to help me learn the in's and outs of computers 
+Someone who can tutor me so I can hopefully start a career in computers 
+Also need to get my comptia a+ 
+hmu so we can discuss prices ]]></description>
+<dc:date>2013-03-02T17:07:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3626220493.html</dc:source>
+<dc:title><![CDATA[Looking for a hacker/Computer tutor (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T17:07:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3653292733.html">
+<title><![CDATA[Restaurant Online Ordering System (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3653292733.html</link>
+<description><![CDATA[I am looking for an individual that can create a restaurant online ordering system AND integrate it with Aloha point of sale. Please only reply if you know how to integrate it with Aloha point of sale software. MUST HAVE KNOWLEDGE SET TO INTEGRATE WI [...]]]></description>
+<dc:date>2013-03-02T01:39:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3653292733.html</dc:source>
+<dc:title><![CDATA[Restaurant Online Ordering System (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T01:39:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3650114700.html">
+<title><![CDATA[Searching for Web/Graphic Designer]]></title>
+<link>http://gainesville.craigslist.org/cpg/3650114700.html</link>
+<description><![CDATA[Killatee Beatz, LLC is Currently Looking for a Webpage And/or Graphics Designer to Add to It's Marketing/Advertisement Team, or for Future Work(s) / Purchases. If you are Looking for Exposure for Your Work(s) & Talent, Contact Us @ Killateebeatz@gmai [...]]]></description>
+<dc:date>2013-02-28T16:25:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3650114700.html</dc:source>
+<dc:title><![CDATA[Searching for Web/Graphic Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:25:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3599571593.html">
+<title><![CDATA[Need a website within 4-5 days!]]></title>
+<link>http://gainesville.craigslist.org/cpg/3599571593.html</link>
+<description><![CDATA[Need a website with several pages, not very dynamic. Just opened a lawn care company. I will need graphics as well, please respond with "law web" or I will consider spam. 
+Also already have a domain and hosting, so need need there.]]></description>
+<dc:date>2013-02-27T11:18:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3599571593.html</dc:source>
+<dc:title><![CDATA[Need a website within 4-5 days!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T11:18:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3643786117.html">
+<title><![CDATA[eBay / Etsy help setup (NW 10th street)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3643786117.html</link>
+<description><![CDATA[Hello, 
+I am looking for someone to setup (and teach me) how to setup and update the banners, etc on my Etsy and eBay stores. I just need help with the aesthetics and the technical aspects of it. It's relatively simple. We can negotiate compensation.]]></description>
+<dc:date>2013-02-25T21:50:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3643786117.html</dc:source>
+<dc:title><![CDATA[eBay / Etsy help setup (NW 10th street)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T21:50:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3554586103.html">
+<title><![CDATA[Football Americano International (Charleston, SC)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3554586103.html</link>
+<description><![CDATA[Charleston Man-of-War is the first ever U.S. International Football Team. We challenge teams from all of the world in American Football. Our first game will be against a Chinese Americn Football Team. 
+We are looking for the the right people or compa [...]]]></description>
+<dc:date>2013-02-12T16:40:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3554586103.html</dc:source>
+<dc:title><![CDATA[Football Americano International (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:40:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3604866664.html">
+<title><![CDATA[SEO&M/SocialMediaExpert/OnlineResearchSkills/PeopleSkills (any - telecomute)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3604866664.html</link>
+<description><![CDATA[It's very simple. 
+You need to be good at all of these things in the title in order for you to succeed best with this business. It IS a business, and YOU CAN SUCCEED, if you are excited enough to promote the revolutionary product to others and teach  [...]]]></description>
+<dc:date>2013-02-09T09:12:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3604866664.html</dc:source>
+<dc:title><![CDATA[SEO&M/SocialMediaExpert/OnlineResearchSkills/PeopleSkills (any - telecomute)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T09:12:08-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

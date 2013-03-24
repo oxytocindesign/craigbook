@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://maine.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in maine</title>
+<link>http://maine.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://maine.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in maine</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:34:53-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3684182789.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3674265367.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3683962572.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3661184339.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3661076030.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3641947672.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3641529516.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3640349383.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3621341793.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3628329247.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3610521292.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://maine.craigslist.org/cpg/3684182789.html">
+<title><![CDATA[Want to be a part of something big? (Remote)]]></title>
+<link>http://maine.craigslist.org/cpg/3684182789.html</link>
+<description><![CDATA[I need a programmer.. more than one eventually. Project is in the beginning stage. Not sure what code will be need (HTML, BootStrap, CSS, API, PHP, JSON & MySQL ), that's where you come in. 
+My idea is very complex but if done properly can be very su [...]]]></description>
+<dc:date>2013-03-23T10:53:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3684182789.html</dc:source>
+<dc:title><![CDATA[Want to be a part of something big? (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:53:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3674265367.html">
+<title><![CDATA[looking to learn autocad (lewiston)]]></title>
+<link>http://maine.craigslist.org/cpg/3674265367.html</link>
+<description><![CDATA[I am looking for someone to give me some lessons in auto-cad. The drawings I'm looking to do are very basic. Please include your hourly rate in your reply. 
+Tim]]></description>
+<dc:date>2013-03-15T22:56:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3674265367.html</dc:source>
+<dc:title><![CDATA[looking to learn autocad (lewiston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T22:56:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3683962572.html">
+<title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></title>
+<link>http://maine.craigslist.org/cpg/3683962572.html</link>
+<description><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON, AWS, e3, Hadoop, noSQL and MySQL. 
+We are a team of 3 engineers looking for a 4th partner to assist in further developing a social media \ image management site. 
+The Backend Programmer role  [...]]]></description>
+<dc:date>2013-03-15T21:05:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3683962572.html</dc:source>
+<dc:title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T21:05:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3661184339.html">
+<title><![CDATA[Need Someone to teach me Youtube (Central Maine)]]></title>
+<link>http://maine.craigslist.org/cpg/3661184339.html</link>
+<description><![CDATA[I need someone to teach me how to upload and edit on YouTube]]></description>
+<dc:date>2013-03-05T16:20:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3661184339.html</dc:source>
+<dc:title><![CDATA[Need Someone to teach me Youtube (Central Maine)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T16:20:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3661076030.html">
+<title><![CDATA[Crimp new end onto Ethernet cable (South Portland - Willard Beach area)]]></title>
+<link>http://maine.craigslist.org/cpg/3661076030.html</link>
+<description><![CDATA[Need someone to cut an Ethernet cable that's too long and crimp a new end onto it. $10. Willard Beach area.]]></description>
+<dc:date>2013-03-05T15:37:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3661076030.html</dc:source>
+<dc:title><![CDATA[Crimp new end onto Ethernet cable (South Portland - Willard Beach area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T15:37:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3641947672.html">
+<title><![CDATA[Need a buisness mailing address in Augusta (Augusta)]]></title>
+<link>http://maine.craigslist.org/cpg/3641947672.html</link>
+<description><![CDATA[Local Maine buisness needs a mailing address in Augusta to receive mail at. 
+I can pay $500/year for you to receive 10 pieces of mail 
+Call Kevin at 207-890-7475 for ore details. MUST OWN THE HOME ....]]></description>
+<dc:date>2013-02-25T08:52:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3641947672.html</dc:source>
+<dc:title><![CDATA[Need a buisness mailing address in Augusta (Augusta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T08:52:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3641529516.html">
+<title><![CDATA[Chunk TV! is looking for Production Staff! (Cumberland County)]]></title>
+<link>http://maine.craigslist.org/cpg/3641529516.html</link>
+<description><![CDATA[Chunk TV! Productions has been my one man team passion project for about 5 years now. It consists of a website that is in the process of being tailored into an entirely new format where other broadcasters may contribute their own "channel" to the sit [...]]]></description>
+<dc:date>2013-02-24T23:24:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3641529516.html</dc:source>
+<dc:title><![CDATA[Chunk TV! is looking for Production Staff! (Cumberland County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T23:24:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3640349383.html">
+<title><![CDATA[amazon seller (portland)]]></title>
+<link>http://maine.craigslist.org/cpg/3640349383.html</link>
+<description><![CDATA[i want to start selling on amazon, i want someone who knows everything about amazon seller account. from posting product to shipping tips, you must live in portland]]></description>
+<dc:date>2013-02-24T13:05:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3640349383.html</dc:source>
+<dc:title><![CDATA[amazon seller (portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T13:05:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3621341793.html">
+<title><![CDATA[web developer (portland to auburn)]]></title>
+<link>http://maine.craigslist.org/cpg/3621341793.html</link>
+<description><![CDATA[We are looking for a candidate that understands frontend web development: html, css, and javascript, and has experience with or is comfortable with learning javascript on the server side using node.js. / We are looking for someone from Maine.]]></description>
+<dc:date>2013-02-22T17:43:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3621341793.html</dc:source>
+<dc:title><![CDATA[web developer (portland to auburn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T17:43:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3628329247.html">
+<title><![CDATA[PHP/MySQL/Javascript Programmer Needed (Greater Portland Area)]]></title>
+<link>http://maine.craigslist.org/cpg/3628329247.html</link>
+<description><![CDATA[We are looking for a bright, motivated and talented programmer to work on multiple projects involving OpenSource platforms (Joomla 1.5/1.6, Wordpress 3.5.+, Drupal 6/7) and proprietary PHP platforms. The right candidate could secure permanent work ov [...]]]></description>
+<dc:date>2013-02-19T11:01:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3628329247.html</dc:source>
+<dc:title><![CDATA[PHP/MySQL/Javascript Programmer Needed (Greater Portland Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:01:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3610521292.html">
+<title><![CDATA[PC Tech (Bangor)]]></title>
+<link>http://maine.craigslist.org/cpg/3610521292.html</link>
+<description><![CDATA[PCTech needed in Bangor to install a server cage. Must have a drill. Will disconnect and reconnect servers. Work will be Wednesday at 9 a.m. 
+Please email your resume for immediate consideration.]]></description>
+<dc:date>2013-02-11T17:21:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3610521292.html</dc:source>
+<dc:title><![CDATA[PC Tech (Bangor)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T17:21:12-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

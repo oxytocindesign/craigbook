@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://spokane.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in spokane / coeur d&#x27;alene</title>
+<link>http://spokane.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://spokane.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in spokane / coeur d&#x27;alene</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:11-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3690343864.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3679653874.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3678929804.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3668457314.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3661207205.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3665679669.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3659552607.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3659500843.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3653081005.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3636817406.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3631546225.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3629318398.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3620251055.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3608707817.html" />
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3603827972.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://spokane.craigslist.org/cpg/3690343864.html">
+<title><![CDATA[need help (cheney)]]></title>
+<link>http://spokane.craigslist.org/cpg/3690343864.html</link>
+<description><![CDATA[I need someone to re-solder a wire on my wireless router that broke off.]]></description>
+<dc:date>2013-03-18T23:13:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3690343864.html</dc:source>
+<dc:title><![CDATA[need help (cheney)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T23:13:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3679653874.html">
+<title><![CDATA[one on one help navigating the internet. (cda area)]]></title>
+<link>http://spokane.craigslist.org/cpg/3679653874.html</link>
+<description><![CDATA[I'm a tech-retard..I need someone with expert computer skills and even better people skills and PATIENCE to advise and help me get the right equipment(inexspensive begginers laptop) for my father and then be able to give him one on one lessons on how [...]]]></description>
+<dc:date>2013-03-13T17:14:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3679653874.html</dc:source>
+<dc:title><![CDATA[one on one help navigating the internet. (cda area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T17:14:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3678929804.html">
+<title><![CDATA[I Need help, 40$/hr (Millbrae, CA)]]></title>
+<link>http://spokane.craigslist.org/cpg/3678929804.html</link>
+<description><![CDATA[Hello, 
+I have been trying to teach myself programing, because Im trying to make an app. 
+I CANNOT figure out why I can't do certain things on googles app engine, and need to be pointed in the right direction. 
+If you can help me with just setting up [...]]]></description>
+<dc:date>2013-03-13T11:35:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3678929804.html</dc:source>
+<dc:title><![CDATA[I Need help, 40$/hr (Millbrae, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:35:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3668457314.html">
+<title><![CDATA[Help Us and Get Paid (spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3668457314.html</link>
+<description><![CDATA[Entry level position available for some easy computer work that requires minimal time to complete.. The type of person we´re looking for will be reliable and punctual and all training is provided to that person.. Being that it´s somewhat data entry,  [...]]]></description>
+<dc:date>2013-03-08T15:52:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3668457314.html</dc:source>
+<dc:title><![CDATA[Help Us and Get Paid (spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T15:52:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3661207205.html">
+<title><![CDATA[Need fast cash? We have just the Job for YOU!! (Post Falls )]]></title>
+<link>http://spokane.craigslist.org/cpg/3661207205.html</link>
+<description><![CDATA[Hiring customer service / sales professionals who can work part-time or full-time. 
+Must be humble and ready to learn a new way of sales. Everything is done over 
+the phone and is very simple. We supply scripts and managers to train you. Can 
+get pai [...]]]></description>
+<dc:date>2013-03-07T15:12:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3661207205.html</dc:source>
+<dc:title><![CDATA[Need fast cash? We have just the Job for YOU!! (Post Falls )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T15:12:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3665679669.html">
+<title><![CDATA[Office Assistant (Downtown Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3665679669.html</link>
+<description><![CDATA[Office assistant needed for photoshop, excel, quick books, mailings and organizing files. Please visit our site at www.passbackfootball.com.]]></description>
+<dc:date>2013-03-07T12:30:42-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3665679669.html</dc:source>
+<dc:title><![CDATA[Office Assistant (Downtown Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T12:30:42-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3659552607.html">
+<title><![CDATA[Phone System - Warehouse Paging Install (Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3659552607.html</link>
+<description><![CDATA[I need someone who can help me transfer our warehouse paging system that integrates with our phone system to our new location. It's in and functional now so you could see how it is presently hooked up. It does not appear to be very complicated, its j [...]]]></description>
+<dc:date>2013-03-04T19:09:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3659552607.html</dc:source>
+<dc:title><![CDATA[Phone System - Warehouse Paging Install (Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T19:09:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3659500843.html">
+<title><![CDATA[Web Design  (Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3659500843.html</link>
+<description><![CDATA[Local company needs a website for an upcoming event. We've started the process late and need a very quick turn-around time. Doesnt need to be too fancy - probably a main home page plus 6 subpages. 
+If you are interested in this job, please reply to t [...]]]></description>
+<dc:date>2013-03-04T18:38:04-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3659500843.html</dc:source>
+<dc:title><![CDATA[Web Design  (Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T18:38:04-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3653081005.html">
+<title><![CDATA[Music producer? (cda)]]></title>
+<link>http://spokane.craigslist.org/cpg/3653081005.html</link>
+<description><![CDATA[Looking for a producer or someone to help with a mix tape, needs to know how to work pro tools or something of the sort. Rap/Hiphop 
+Just lookin for a cool dude to help make my cd sound professional, im willing to pay and have the time so let know th [...]]]></description>
+<dc:date>2013-03-01T19:17:25-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3653081005.html</dc:source>
+<dc:title><![CDATA[Music producer? (cda)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T19:17:25-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3636817406.html">
+<title><![CDATA[Sales Reps for Upcoming Cell Phone APP (Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3636817406.html</link>
+<description><![CDATA[Looking for awesome networking partners and Sales Reps for Health & Lifestyle Cell Phone App. 
+This does take a $10 investment but you get the cell phone app as part of that! 
+Please contact for more information]]></description>
+<dc:date>2013-02-22T15:42:25-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3636817406.html</dc:source>
+<dc:title><![CDATA[Sales Reps for Upcoming Cell Phone APP (Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T15:42:25-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3631546225.html">
+<title><![CDATA[CNC machine/Solid works/CAD Program (Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3631546225.html</link>
+<description><![CDATA[Fast cash opportunity! Looking for someone skilled in working with laser CNC machine, and Plastic injection molding machine! Also would be helpful if you have knowledge in CAD programing and Solid works! 
+If this sounds like you, please email! 
+Thank [...]]]></description>
+<dc:date>2013-02-20T12:07:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3631546225.html</dc:source>
+<dc:title><![CDATA[CNC machine/Solid works/CAD Program (Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:07:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3629318398.html">
+<title><![CDATA[Web Programming (Newport, WA)]]></title>
+<link>http://spokane.craigslist.org/cpg/3629318398.html</link>
+<description><![CDATA[E-Commerce programming with a small town charm]]></description>
+<dc:date>2013-02-19T13:57:07-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3629318398.html</dc:source>
+<dc:title><![CDATA[Web Programming (Newport, WA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T13:57:07-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3620251055.html">
+<title><![CDATA[Bad@$$ Android Developer Wanted (Sandpoint/Remote)]]></title>
+<link>http://spokane.craigslist.org/cpg/3620251055.html</link>
+<description><![CDATA[We're a development firm in Sandpoint looking for an Android developer for a fixed-scope project. The project includes creating a native app that is able to interact with a local server to send information (video camera stream, text messages, etc.) a [...]]]></description>
+<dc:date>2013-02-15T16:28:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3620251055.html</dc:source>
+<dc:title><![CDATA[Bad@$$ Android Developer Wanted (Sandpoint/Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T16:28:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3608707817.html">
+<title><![CDATA[ Computer Help Wanted (wolf lodge area)]]></title>
+<link>http://spokane.craigslist.org/cpg/3608707817.html</link>
+<description><![CDATA[Wanted someone to tooter for a Mac Book Pro laptop computer. 
+No e-mails please Call ( 208) 691-1446 Wolf Lodge Area ]]></description>
+<dc:date>2013-02-10T20:17:57-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3608707817.html</dc:source>
+<dc:title><![CDATA[ Computer Help Wanted (wolf lodge area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T20:17:57-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://spokane.craigslist.org/cpg/3603827972.html">
+<title><![CDATA[Small Business Needs IT Help]]></title>
+<link>http://spokane.craigslist.org/cpg/3603827972.html</link>
+<description><![CDATA[We think we may need a computer server installed and set up, or some other type of system to ensure computer's are being used by authorized employee's. Not sure what options are available (server or no server) but would appreciate your help. Would pr [...]]]></description>
+<dc:date>2013-02-08T14:58:11-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3603827972.html</dc:source>
+<dc:title><![CDATA[Small Business Needs IT Help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T14:58:11-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

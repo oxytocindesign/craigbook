@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://jacksonville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in jacksonville</title>
+<link>http://jacksonville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://jacksonville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in jacksonville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:34:57-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3681079430.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3665008293.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3639876879.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3686347848.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3683490325.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3683240372.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3681884083.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3672827695.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3678500277.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3678266475.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3678105291.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3676819408.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3670197449.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3668169402.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3666827570.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3665869274.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3647155233.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3661811266.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3649670307.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3649531034.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3645140930.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3636456536.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3627130771.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3626239478.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3626155964.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3620005551.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3554572299.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3611228285.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3681079430.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3681079430.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:56:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3681079430.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:56:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3665008293.html">
+<title><![CDATA[Are You Using a Computer? (Florida)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3665008293.html</link>
+<description><![CDATA[Do you know how to update a Facebook Status? Are you familiar with Facebook & Pinterest? 
+More details on: http://www.getherhired.com/social-media-manager/]]></description>
+<dc:date>2013-03-24T09:40:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3665008293.html</dc:source>
+<dc:title><![CDATA[Are You Using a Computer? (Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:40:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3639876879.html">
+<title><![CDATA[Social Media and Writing Project for Jacksonville College Students ]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3639876879.html</link>
+<description><![CDATA[We are looking for a few Jacksonville college students for a short term writing and social media (Facebook, Twitter, etc.) project. You do not need to work from our office. If you work for a college newspaper, organization, club, fraternity or sorori [...]]]></description>
+<dc:date>2013-03-21T19:27:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3639876879.html</dc:source>
+<dc:title><![CDATA[Social Media and Writing Project for Jacksonville College Students ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T19:27:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3686347848.html">
+<title><![CDATA[We're looking for web designers, sales associates and tech support (Jacksonville,FL)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3686347848.html</link>
+<description><![CDATA[Positions Available 
+Sales 
+Web Design 
+Technical Support (this is for a Web Hosting Company, so you must be proficient with Linux servers and cPanel/WHM) 
+SEO Specialists 
+Internet Marketing Specialist 
+We're looking for Jacksonville,FL Residents. I [...]]]></description>
+<dc:date>2013-03-17T04:57:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3686347848.html</dc:source>
+<dc:title><![CDATA[We're looking for web designers, sales associates and tech support (Jacksonville,FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T04:57:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3683490325.html">
+<title><![CDATA[Network Drops (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3683490325.html</link>
+<description><![CDATA[I need a company to pull four network drops in an open warehouse office. They are to mod heads on one end and wall jacks on the other. Max drop length is about 70ft. The lines need to terminated and tested. Email me with any questions. I need to have [...]]]></description>
+<dc:date>2013-03-15T16:50:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3683490325.html</dc:source>
+<dc:title><![CDATA[Network Drops (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T16:50:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3683240372.html">
+<title><![CDATA[Cabinet Layout Design]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3683240372.html</link>
+<description><![CDATA[Cabinet layout design using the 20-20 software. As needed; not a permanent position.]]></description>
+<dc:date>2013-03-15T14:58:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3683240372.html</dc:source>
+<dc:title><![CDATA[Cabinet Layout Design]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T14:58:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3681884083.html">
+<title><![CDATA[Seeking web Designer  (north east florida )]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3681884083.html</link>
+<description><![CDATA[Hi, I am looking to team up with a web designer I am looking to do some business if you can please email me in regards to this it could be a long term thing. I am specifically seeking freelance artist. If you feel we can work together please email me [...]]]></description>
+<dc:date>2013-03-14T21:20:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3681884083.html</dc:source>
+<dc:title><![CDATA[Seeking web Designer  (north east florida )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T21:20:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3672827695.html">
+<title><![CDATA[career opportunity  (jacksonville  fl)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3672827695.html</link>
+<description><![CDATA[iF YOU ARE SELF MOTIVATED AND HAVE EXPERIENCE IN RETAIL AND LOOKING TO EXPAND YOUR CAREER AS A BUSINESS OWNER I HAVE THE JOB FOR YOU .SO IF THIS SOUND LIKE SOMETHING YOU ARE CAPABLE OF DOING GIVE ME A CALL @9044056443 AND THIS IS A WORLD WIDE CAREER  [...]]]></description>
+<dc:date>2013-03-14T18:16:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3672827695.html</dc:source>
+<dc:title><![CDATA[career opportunity  (jacksonville  fl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:16:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3678500277.html">
+<title><![CDATA[Do you need some extra cash??? (FL)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3678500277.html</link>
+<description><![CDATA[ARE YOU LOOKING TO MAKE SOME EXTRA CASH??? 
+THIS IS A FUN OPPORTUNITY, IT WON'T MAKE YOU RICH, HOWEVER IT WILL PAY THE BILLS!! 
+PLEASE EMAIL FOR DETAILS!!!]]></description>
+<dc:date>2013-03-13T11:45:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3678500277.html</dc:source>
+<dc:title><![CDATA[Do you need some extra cash??? (FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:45:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3678266475.html">
+<title><![CDATA[Looking for Web Developer (Orange Park, FL)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3678266475.html</link>
+<description><![CDATA[We are looking for a web developer skilled in HTML/CSS/Wordpress and Photoshop would be a plus. This will be for project work and will increase over time. ]]></description>
+<dc:date>2013-03-13T09:57:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3678266475.html</dc:source>
+<dc:title><![CDATA[Looking for Web Developer (Orange Park, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:57:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3678105291.html">
+<title><![CDATA[Help with Web Design Needed ASAP (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3678105291.html</link>
+<description><![CDATA[Help with simple website needed ASAP. Reply for further details.]]></description>
+<dc:date>2013-03-13T07:53:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3678105291.html</dc:source>
+<dc:title><![CDATA[Help with Web Design Needed ASAP (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T07:53:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3676819408.html">
+<title><![CDATA[Install Slingbox 500 (Mandarin)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3676819408.html</link>
+<description><![CDATA[Received a Slingbox 500 and need help installing it on my HD TV setup, which includes Comcast DVR. Call 904-887-0389 or email qualifications and contact info.]]></description>
+<dc:date>2013-03-12T15:48:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3676819408.html</dc:source>
+<dc:title><![CDATA[Install Slingbox 500 (Mandarin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T15:48:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3670197449.html">
+<title><![CDATA[Seeking Management and Associates for web development start up. (Jacksonville, Fla. Metro)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3670197449.html</link>
+<description><![CDATA[New start up looking for Management and Associates/Sells Reps for new web development start up company. The company with offer services such as website design, hosting, Facebook fan pages design, seo and other services. To apply you MUST HAVE either  [...]]]></description>
+<dc:date>2013-03-09T15:25:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3670197449.html</dc:source>
+<dc:title><![CDATA[Seeking Management and Associates for web development start up. (Jacksonville, Fla. Metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T15:25:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3668169402.html">
+<title><![CDATA[MATH GENIUS NEEDED!!!!! (FERNANDINA BEACH/JAX)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3668169402.html</link>
+<description><![CDATA[I have to read a book for work. I've read said book however I do not understand it. It's a lot of charting, rate of change, and moving averages and plotting all of it. I need someone to read this book and teach me how to do what's in the book. After  [...]]]></description>
+<dc:date>2013-03-08T16:42:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3668169402.html</dc:source>
+<dc:title><![CDATA[MATH GENIUS NEEDED!!!!! (FERNANDINA BEACH/JAX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T16:42:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3666827570.html">
+<title><![CDATA[OUT-OF-THE-BOX THINKER FOR WEB CREATION (JAX BEACH)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3666827570.html</link>
+<description><![CDATA[I've been sitting on this far too long and need some assistance. I have a concept/idea that needs to be designed/created/established into a new website. I'm in the travel industry and know how to search my way through the internet, that's where my co [...]]]></description>
+<dc:date>2013-03-08T04:04:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3666827570.html</dc:source>
+<dc:title><![CDATA[OUT-OF-THE-BOX THINKER FOR WEB CREATION (JAX BEACH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T04:04:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3665869274.html">
+<title><![CDATA[IT Company needs onsite IT tech (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3665869274.html</link>
+<description><![CDATA[IT Company is in need of a 1099 IT technician to assist in handling onsite client visits Monday-Friday. Must have a solid background in supporting Windows desktop operating systems, Windows Server, Exchange Server and Networking. Please forward your  [...]]]></description>
+<dc:date>2013-03-07T16:48:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3665869274.html</dc:source>
+<dc:title><![CDATA[IT Company needs onsite IT tech (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:48:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3647155233.html">
+<title><![CDATA[Looking for Java,css,HTML5,coder (SS JAX)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3647155233.html</link>
+<description><![CDATA[I am looking for a person for site / Mobile site design. A student would be a great fit. I will be out sourcing work, but this is not for the ordinary 
+person. If mobile is your interest, and you have the skills, and can get way outside the box, then [...]]]></description>
+<dc:date>2013-03-06T00:06:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3647155233.html</dc:source>
+<dc:title><![CDATA[Looking for Java,css,HTML5,coder (SS JAX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T00:06:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3661811266.html">
+<title><![CDATA[Web Designer needed (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3661811266.html</link>
+<description><![CDATA[Talented designer looking to build his or her portfolio needed to create a specialized e-commerce site for a local artist. Able to pay a small but fair fee based upon experience/ portfolio. Contact Joy at the anonymized email address listed. ]]></description>
+<dc:date>2013-03-05T21:15:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3661811266.html</dc:source>
+<dc:title><![CDATA[Web Designer needed (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T21:15:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3649670307.html">
+<title><![CDATA[Ghost of Windows NT Server (West Jax)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3649670307.html</link>
+<description><![CDATA[Hello, 
+We have a server with a critical accounting, crm software on it. We would like someone to make a duplicate of the software and the data with a Ghost "type" software. We tried and the version of Ghost we have was not compatible. Please let us  [...]]]></description>
+<dc:date>2013-02-28T13:24:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3649670307.html</dc:source>
+<dc:title><![CDATA[Ghost of Windows NT Server (West Jax)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T13:24:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3649531034.html">
+<title><![CDATA[Need help with Hackintosh OS X Loin - Reinstalling]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3649531034.html</link>
+<description><![CDATA[Hello, I have a friend that I build him a Hackintosh and I'm out of town for a while. He needs to reinstall loin. I made him a back up flash drive to reinstall the OS but its not working when reinstalling the files. 
+He has payed for the apple OS but [...]]]></description>
+<dc:date>2013-02-28T12:30:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3649531034.html</dc:source>
+<dc:title><![CDATA[Need help with Hackintosh OS X Loin - Reinstalling]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:30:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3645140930.html">
+<title><![CDATA[Flood Writers Needed (Mobile, AL)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3645140930.html</link>
+<description><![CDATA[Flood Writers needed immediately. 
+Writers must have at least three years flood and SIMSOL experience. 
+Will be able to write reports from home. 
+Looking for field adjusters and writers. 
+Please forward resume with response. ]]></description>
+<dc:date>2013-02-26T14:10:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3645140930.html</dc:source>
+<dc:title><![CDATA[Flood Writers Needed (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T14:10:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3636456536.html">
+<title><![CDATA[Video Shoot (Orange Park)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3636456536.html</link>
+<description><![CDATA[Hey I am a music artist and I am in need of anybody who are good at shooting music videos get at me at my email...demetrius.johnson57@yahoo.com...we will discuss everything and come up with an agreement through email]]></description>
+<dc:date>2013-02-22T16:09:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3636456536.html</dc:source>
+<dc:title><![CDATA[Video Shoot (Orange Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T16:09:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3627130771.html">
+<title><![CDATA[Custom Joomla Templates Needed (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3627130771.html</link>
+<description><![CDATA[Joomla template expert needed immediately! Huge company looking for custom Joomla template. Time frame is really tight - the template would need to be completed in just several days, so only apply if you're ready for a challenge. Please send samples  [...]]]></description>
+<dc:date>2013-02-18T19:20:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3627130771.html</dc:source>
+<dc:title><![CDATA[Custom Joomla Templates Needed (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T19:20:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3626239478.html">
+<title><![CDATA[Need Data Entry help (Regency)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3626239478.html</link>
+<description><![CDATA[Have about 250 business cards to enter into Apple Addressbook. 
+Need Apple proficient, detail oriented individual. 2 day job. 
+Apple computer experience required. 
+Typing experience required. 
+Pays $8 per hour. 
+Call: 407-217-3255 ]]></description>
+<dc:date>2013-02-18T13:46:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3626239478.html</dc:source>
+<dc:title><![CDATA[Need Data Entry help (Regency)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:46:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3626155964.html">
+<title><![CDATA[Recover data from 98 laptop (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3626155964.html</link>
+<description><![CDATA[I have an old Trogon '98 laptop which I am trying to recover some old documents from. I have already had a tech attempt to do the following: Hooked it up via ide/usb converter through windows 7 on two separate laptops and one desktop. Ran cmd, chkdsk [...]]]></description>
+<dc:date>2013-02-18T13:18:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3626155964.html</dc:source>
+<dc:title><![CDATA[Recover data from 98 laptop (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:18:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3620005551.html">
+<title><![CDATA[Office VBA Script Guru Needed (Green Cove Springs)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3620005551.html</link>
+<description><![CDATA[I am searching for someone to take and existing project to the next level. I have an Excel that is used for audit purposes that when complete is then turned into a readable word document by clicking a button. The project has evolved and this excel ne [...]]]></description>
+<dc:date>2013-02-15T17:30:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3620005551.html</dc:source>
+<dc:title><![CDATA[Office VBA Script Guru Needed (Green Cove Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T17:30:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3554572299.html">
+<title><![CDATA[World Football (Charleston, SC)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3554572299.html</link>
+<description><![CDATA[Charleston Man-of-War is the first ever U.S. International Football Team. We challenge teams from all of the world in American Football. Our first game will be against a Chinese Americn Football Team. 
+We are looking for the the right people or compa [...]]]></description>
+<dc:date>2013-02-12T16:38:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3554572299.html</dc:source>
+<dc:title><![CDATA[World Football (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:38:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3611228285.html">
+<title><![CDATA[Video Editor for Radio  (Jacksonville Beach)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3611228285.html</link>
+<description><![CDATA[Hi this is Jack with the Neil and Jack morning show on mydxradio.com. In addition to the audio stream of our program, we also have a video stream. What we;re looking for is someone who can easily edit down some video and stream it. We are a burgeonin [...]]]></description>
+<dc:date>2013-02-11T23:16:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3611228285.html</dc:source>
+<dc:title><![CDATA[Video Editor for Radio  (Jacksonville Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T23:16:01-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://buffalo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in buffalo</title>
+<link>http://buffalo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://buffalo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in buffalo</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:00-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3701927928.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3694166613.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3693418160.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3689963938.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3686933731.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3686918474.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3686094868.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3684460770.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3665555682.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3660284660.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3659103575.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3656926939.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3635477135.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3646159032.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3644379713.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3642236467.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3640499228.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3629762808.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3620744455.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3608643813.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3607707981.html" />
+  <rdf:li rdf:resource="http://buffalo.craigslist.org/cpg/3604502156.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3701927928.html">
+<title><![CDATA[Writers Wanted (Buffalo)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3701927928.html</link>
+<description><![CDATA[We are a rapidly growing online marketing company seeking out people with an ability to write good, fresh content... 
+If you have experience working on a computer and are familiar with how to use the internet, this may very well be a great fit. 
+Does [...]]]></description>
+<dc:date>2013-03-24T23:01:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3701927928.html</dc:source>
+<dc:title><![CDATA[Writers Wanted (Buffalo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:01:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3694166613.html">
+<title><![CDATA[Programmers (Buffalo ny)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3694166613.html</link>
+<description><![CDATA[Looking for programmers that are willing to make an investment. 
+Have a large scale project in need of either below: 
+1. Mysql developers (help optimizing queries) 
+2. PHP developers. Most of our code is based on php 5.3+ Nothing lower. We moved away [...]]]></description>
+<dc:date>2013-03-20T20:54:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3694166613.html</dc:source>
+<dc:title><![CDATA[Programmers (Buffalo ny)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:54:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3693418160.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3693418160.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-20T14:39:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3693418160.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:39:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3689963938.html">
+<title><![CDATA[Start your own business, profit from app industry (anywhere)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3689963938.html</link>
+<description><![CDATA[If you can talk to people or send an email, you can do this business. Network marketing, super easy, part time and fun! $9.95/mo for your website, share the website with people, make an income. Commissions paid 3 ways. Serious inquiries only, email l [...]]]></description>
+<dc:date>2013-03-18T21:03:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3689963938.html</dc:source>
+<dc:title><![CDATA[Start your own business, profit from app industry (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T21:03:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3686933731.html">
+<title><![CDATA[Looking for programmer (Buffalo NY)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3686933731.html</link>
+<description><![CDATA[I am looking for a programmer for a shopping cart website that includes integration of client databases. Client will need to make changes on this site on a daily basis. Buffalo / Rochester / WNY area only. ]]></description>
+<dc:date>2013-03-17T13:34:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3686933731.html</dc:source>
+<dc:title><![CDATA[Looking for programmer (Buffalo NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:34:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3686918474.html">
+<title><![CDATA[Need Wordpress / PHP Guru (Buffalo-WNY Area)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3686918474.html</link>
+<description><![CDATA[Agency looking for Wordpress / PHP professional for upcoming projects. Must have knowledge of php coding. Looking for developer immediately. Buffalo / WNY area only. ]]></description>
+<dc:date>2013-03-17T13:27:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3686918474.html</dc:source>
+<dc:title><![CDATA[Need Wordpress / PHP Guru (Buffalo-WNY Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:27:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3686094868.html">
+<title><![CDATA[Make Your Own Schedule Selling Text Message Marketing (BUffalo)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3686094868.html</link>
+<description><![CDATA[Try Something New With Your Own Text Message Marketing Business 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-16T23:02:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3686094868.html</dc:source>
+<dc:title><![CDATA[Make Your Own Schedule Selling Text Message Marketing (BUffalo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T23:02:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3684460770.html">
+<title><![CDATA[Network Admin (Amherst, NY)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3684460770.html</link>
+<description><![CDATA[I am looking for a network admin that has experience with BMC-PNET, IBM-Netcool and or Compuware- DCRUM. This is a 3-4 month contract, 40 hours per week, must be onsite. $45-$55 an hour, negotiable. ]]></description>
+<dc:date>2013-03-16T07:11:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3684460770.html</dc:source>
+<dc:title><![CDATA[Network Admin (Amherst, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T07:11:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3665555682.html">
+<title><![CDATA[Calibrating a ASUS VG248QE Monitor (Amherst NY)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3665555682.html</link>
+<description><![CDATA[Hello i am looking for a professional or atleast someone who knows how to calibrate this monitor on each mode so i can use it to do work on/ play games watch movies and have it looking the best you can. 
+I don't have any software such as Spyder4 or a [...]]]></description>
+<dc:date>2013-03-07T14:40:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3665555682.html</dc:source>
+<dc:title><![CDATA[Calibrating a ASUS VG248QE Monitor (Amherst NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T14:40:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3660284660.html">
+<title><![CDATA[Looking for a AUTO CAD DRAFTING PERSON (East Amherst)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3660284660.html</link>
+<description><![CDATA[I'm looking AUTO CAD DRAFTING PERSON to draft some very simple line drawings IE: square, circle, rectangle, writing will also be needed on each drawing. Please call Jillian 716-548-6112 or text Please DO NOT E-MAIL Only Local please call]]></description>
+<dc:date>2013-03-05T10:36:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3660284660.html</dc:source>
+<dc:title><![CDATA[Looking for a AUTO CAD DRAFTING PERSON (East Amherst)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T10:36:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3659103575.html">
+<title><![CDATA[Stock data mining program  (WNY)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3659103575.html</link>
+<description><![CDATA[I am trying to design a stock trading system. 
+I need to be able to mine data from stock charts from a website called stockfetcher.com 
+Basically I need to be able to pull up a chart and be able to get prices from each day from one stockchart that sp [...]]]></description>
+<dc:date>2013-03-04T18:11:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3659103575.html</dc:source>
+<dc:title><![CDATA[Stock data mining program  (WNY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T18:11:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3656926939.html">
+<title><![CDATA[ Web designer (Lyndonville)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3656926939.html</link>
+<description><![CDATA[Wanted HS or collage student to work on web design for a small local christian ministry in Orleans county... Important to have a giving and positive attitude towards giving back and paying it forward...]]></description>
+<dc:date>2013-03-03T19:34:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3656926939.html</dc:source>
+<dc:title><![CDATA[ Web designer (Lyndonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T19:34:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3635477135.html">
+<title><![CDATA[Looking for 3D Modeler for PC Video Game]]></title>
+<link>http://buffalo.craigslist.org/cpg/3635477135.html</link>
+<description><![CDATA[I am looking for a 3D modeler that might be interested in working with our small team to make a PC game. We will be taking care of everything else art/coding wise, we just have our hands full working on this project, school and work. We are going for [...]]]></description>
+<dc:date>2013-03-01T17:42:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3635477135.html</dc:source>
+<dc:title><![CDATA[Looking for 3D Modeler for PC Video Game]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T17:42:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3646159032.html">
+<title><![CDATA[3D Printer?]]></title>
+<link>http://buffalo.craigslist.org/cpg/3646159032.html</link>
+<description><![CDATA[Hi I am attempting to en devour on a 3d printer project, I was wondering if anyone owns or has access to a printer, as I need to print some parts to build my own. 
+http://hackaday.com/2013/02/08/scara-arm-3d-printer/]]></description>
+<dc:date>2013-02-26T21:39:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3646159032.html</dc:source>
+<dc:title><![CDATA[3D Printer?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T21:39:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3644379713.html">
+<title><![CDATA[ Governance Risk and Compliance consultant (Buffalo, NY)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3644379713.html</link>
+<description><![CDATA[I am looking for a enterprise Governance Risk and Compliance Consultant, someone who has familiarity with basic information security concepts as well as government regulations such as FFIEC helpful. This is a 40 hr per week contract. ]]></description>
+<dc:date>2013-02-26T09:03:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3644379713.html</dc:source>
+<dc:title><![CDATA[ Governance Risk and Compliance consultant (Buffalo, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:03:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3642236467.html">
+<title><![CDATA[Electrician to fix elliptical (N. Collins)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3642236467.html</link>
+<description><![CDATA[I have a used Sears elliptical that worked great for about 2 years. The input for the power adapter then became loose, and if you jiggled the wire the elliptical would flicker on/off. I ended up taking the whole thing apart to see if I could fix it,  [...]]]></description>
+<dc:date>2013-02-25T11:11:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3642236467.html</dc:source>
+<dc:title><![CDATA[Electrician to fix elliptical (N. Collins)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T11:11:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3640499228.html">
+<title><![CDATA[Home Based Part-Time Assistant  (Williamsville)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3640499228.html</link>
+<description><![CDATA[Job description (I might ask other things as well): 
+Pick up mails, most of the time it is returned mails, and organize the address in spreadsheet on Google doc 
+It would take a couple of hours and you could do it once, few times or as you were asked [...]]]></description>
+<dc:date>2013-02-24T14:13:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3640499228.html</dc:source>
+<dc:title><![CDATA[Home Based Part-Time Assistant  (Williamsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T14:13:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3629762808.html">
+<title><![CDATA[Programming tutor (West Seneca)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3629762808.html</link>
+<description><![CDATA[I am a current game design student looking for someone willing to tutor me in Java script or C++ programming. Willing to pay $10/ hour. This is a serious post as I am nearing graduation and feel I am seriously lacking in my code skills. Could support [...]]]></description>
+<dc:date>2013-02-19T20:09:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3629762808.html</dc:source>
+<dc:title><![CDATA[Programming tutor (West Seneca)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T20:09:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3620744455.html">
+<title><![CDATA[World of Warcraft tank/raid leader wanted]]></title>
+<link>http://buffalo.craigslist.org/cpg/3620744455.html</link>
+<description><![CDATA[Guild looking for a new tank/raid leader. Must speak English, know how to lead all current raids. Must be geared 485 ilv minimum. I will pay for server transfer if necessary. 
+We are currently 6/6 MV,1/6 HOF,and 1/4 ToES. We are a very friendly fun g [...]]]></description>
+<dc:date>2013-02-16T01:03:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3620744455.html</dc:source>
+<dc:title><![CDATA[World of Warcraft tank/raid leader wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T01:03:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3608643813.html">
+<title><![CDATA[need help with mysql/access (williamsville)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3608643813.html</link>
+<description><![CDATA[I have a Msaccess application that I've been using for years. I just converted one of my larger tables to a MySQL table. Now I'm having issues creating queries and using some fucntions with the new MYSQL table. 
+I'm located in WIlliamsville on Main n [...]]]></description>
+<dc:date>2013-02-10T22:32:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3608643813.html</dc:source>
+<dc:title><![CDATA[need help with mysql/access (williamsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T22:32:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3607707981.html">
+<title><![CDATA[Need help with wii mod (Hamburg)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3607707981.html</link>
+<description><![CDATA[This wii is hacked already and hooked up to a hard drive so we can load games from menu instead of disc. Something is wrong now where some of the games stopped working. Sometimes reloading the game works but sometimes not. We can't play them from dis [...]]]></description>
+<dc:date>2013-02-10T14:38:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3607707981.html</dc:source>
+<dc:title><![CDATA[Need help with wii mod (Hamburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T14:38:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://buffalo.craigslist.org/cpg/3604502156.html">
+<title><![CDATA[Trade Dreamweaver CS5.5 for Simple Webpage (Buffalo)]]></title>
+<link>http://buffalo.craigslist.org/cpg/3604502156.html</link>
+<description><![CDATA[Hello. 
+I am looking for a simple web page with a rotating image gallery and a zoom tool or roll over function. 
+I have all of the codes I want to use I just need some one to compile the code for me. 
+The time frame for this project is 3 weeks. 
+Comp [...]]]></description>
+<dc:date>2013-02-09T00:58:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://buffalo.craigslist.org/cpg/3604502156.html</dc:source>
+<dc:title><![CDATA[Trade Dreamweaver CS5.5 for Simple Webpage (Buffalo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T00:58:26-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

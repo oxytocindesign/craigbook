@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://ocala.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in ocala</title>
+<link>http://ocala.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://ocala.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in ocala</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:29:54-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3691484043.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3689392154.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3680744988.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3667668726.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3667550956.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3658128473.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3655204980.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3636329383.html" />
+  <rdf:li rdf:resource="http://ocala.craigslist.org/cpg/3623887089.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://ocala.craigslist.org/cpg/3691484043.html">
+<title><![CDATA[Intern Website Designer (Lady Lake/The Villages)]]></title>
+<link>http://ocala.craigslist.org/cpg/3691484043.html</link>
+<description><![CDATA[I have a small website design company and need help with several projects. This position offers a great chance for someone to work on their website building skills while under the supervision of a professional developer who can teach various aspects  [...]]]></description>
+<dc:date>2013-03-19T15:58:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3691484043.html</dc:source>
+<dc:title><![CDATA[Intern Website Designer (Lady Lake/The Villages)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:58:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3689392154.html">
+<title><![CDATA[Expert with Windows 8 help in Crystal River. (Crystal River)]]></title>
+<link>http://ocala.craigslist.org/cpg/3689392154.html</link>
+<description><![CDATA[I have computer problems with my new Windows 8 desk top. I'm looking for an expert to schedule a stop at my house in Crystal River to fix My computer problems. 
+Please let me know. 
+Thanks]]></description>
+<dc:date>2013-03-18T16:18:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3689392154.html</dc:source>
+<dc:title><![CDATA[Expert with Windows 8 help in Crystal River. (Crystal River)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T16:18:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3680744988.html">
+<title><![CDATA[I need a math tutor (Leesburg Florida)]]></title>
+<link>http://ocala.craigslist.org/cpg/3680744988.html</link>
+<description><![CDATA[I am in dire need of a math tutor. Must be knowledable in algebra. I need someone that will come to my house and help me through my math assignments which are online. I can't afford a lot, but I am willing to pay for tutoring. Please contact me at 35 [...]]]></description>
+<dc:date>2013-03-14T12:21:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3680744988.html</dc:source>
+<dc:title><![CDATA[I need a math tutor (Leesburg Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T12:21:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3667668726.html">
+<title><![CDATA[tattoo artest and computer graphics]]></title>
+<link>http://ocala.craigslist.org/cpg/3667668726.html</link>
+<description><![CDATA[Tattoo artest and computer artest I need some people to take a graphic and put it into a templet for a head band in adobie ilastrater needs to be in a esp file if your interested callme at 352-464-1416 ]]></description>
+<dc:date>2013-03-08T13:23:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3667668726.html</dc:source>
+<dc:title><![CDATA[tattoo artest and computer graphics]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T13:23:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3667550956.html">
+<title><![CDATA[Find My Horse Job Internship (Virtual)]]></title>
+<link>http://ocala.craigslist.org/cpg/3667550956.html</link>
+<description><![CDATA[I am the owner of Findmyhorsejob.com and I am looking for a intern to fill a Marketing/Advertising/Business Consultant position on the website. The position is unpaid, but advertising commissions would be paid for filled ad spaces. I am working on ad [...]]]></description>
+<dc:date>2013-03-08T12:39:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3667550956.html</dc:source>
+<dc:title><![CDATA[Find My Horse Job Internship (Virtual)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T12:39:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3658128473.html">
+<title><![CDATA[Red Hat Expert needed ASAP (Leesburg, Fl)]]></title>
+<link>http://ocala.craigslist.org/cpg/3658128473.html</link>
+<description><![CDATA[PROJECT - RHEL 6.4 Guru needed. Need to build a RHEL Server for a website with LAMP. We also need a proxy built. He have the software/hardware just need the brains.]]></description>
+<dc:date>2013-03-04T11:57:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3658128473.html</dc:source>
+<dc:title><![CDATA[Red Hat Expert needed ASAP (Leesburg, Fl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T11:57:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3655204980.html">
+<title><![CDATA[Small Animation work required  (Ocala, FL)]]></title>
+<link>http://ocala.craigslist.org/cpg/3655204980.html</link>
+<description><![CDATA[Looking to create small web animation for a new brand. ]]></description>
+<dc:date>2013-03-02T22:17:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3655204980.html</dc:source>
+<dc:title><![CDATA[Small Animation work required  (Ocala, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T22:17:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3636329383.html">
+<title><![CDATA[Fix computer $55 (leesburg)]]></title>
+<link>http://ocala.craigslist.org/cpg/3636329383.html</link>
+<description><![CDATA[one key doesnt work 
+call if you will fix for 55 flat rate]]></description>
+<dc:date>2013-02-22T15:20:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3636329383.html</dc:source>
+<dc:title><![CDATA[Fix computer $55 (leesburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T15:20:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://ocala.craigslist.org/cpg/3623887089.html">
+<title><![CDATA[Experienced cable tech needed for overnight work - 6 month contract (Ocala, Fl)]]></title>
+<link>http://ocala.craigslist.org/cpg/3623887089.html</link>
+<description><![CDATA[Tech needed for extended project. Project is lasting 6 months in Ocala area overnight. 
+Must have 2 - 3 years of previous cabling experience ( Cat5e) 
+Must have own tools and reliable transportation 
+Able to follow directions 
+Working Cellphone and T [...]]]></description>
+<dc:date>2013-02-20T01:24:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://ocala.craigslist.org/cpg/3623887089.html</dc:source>
+<dc:title><![CDATA[Experienced cable tech needed for overnight work - 6 month contract (Ocala, Fl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T01:24:08-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

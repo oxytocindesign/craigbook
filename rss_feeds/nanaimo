@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://nanaimo.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in nanaimo</title>
+<link>http://nanaimo.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://nanaimo.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in nanaimo</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:14-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://nanaimo.en.craigslist.ca/cpg/3693491970.html" />
+  <rdf:li rdf:resource="http://nanaimo.en.craigslist.ca/cpg/3654214273.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://nanaimo.en.craigslist.ca/cpg/3693491970.html">
+<title><![CDATA[420 graphics sought (online)]]></title>
+<link>http://nanaimo.en.craigslist.ca/cpg/3693491970.html</link>
+<description><![CDATA[We need original graphics for our new site. 
+420talkdotca 
+Top banner with our slogan. 
+medibles 
+Something catchy but not a "leaf" and a pipe. 
+Looking for someone into the 420 scene. 
+Will pay for quality, original work. 
+The sooner we see it, the  [...]]]></description>
+<dc:date>2013-03-20T12:12:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nanaimo.en.craigslist.ca/cpg/3693491970.html</dc:source>
+<dc:title><![CDATA[420 graphics sought (online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:12:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://nanaimo.en.craigslist.ca/cpg/3654214273.html">
+<title><![CDATA[WORDPRESS TRAINING (Nanaimo)]]></title>
+<link>http://nanaimo.en.craigslist.ca/cpg/3654214273.html</link>
+<description><![CDATA[I'm looking for someone who can help me get my wordpress website finished. Need help with what plug ins to use, A weber and how to navigate Genesis child theme. 
+Please email with hourly rate and your contact information.]]></description>
+<dc:date>2013-03-02T10:46:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nanaimo.en.craigslist.ca/cpg/3654214273.html</dc:source>
+<dc:title><![CDATA[WORDPRESS TRAINING (Nanaimo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T10:46:40-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

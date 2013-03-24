@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://wilmington.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in wilmington, NC</title>
+<link>http://wilmington.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://wilmington.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in wilmington, NC</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:38:45-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3701975456.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3701684169.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3692824907.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3670139232.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3663369508.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3644401320.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3603586340.html" />
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3642301283.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3701975456.html">
+<title><![CDATA[Newly Open Positions -- Staff Wanted! (Wilm)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3701975456.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T23:43:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3701975456.html</dc:source>
+<dc:title><![CDATA[Newly Open Positions -- Staff Wanted! (Wilm)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:43:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3701684169.html">
+<title><![CDATA[I need someone to do some CAT5e/6 wiring in my home (Wilmington, NC)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3701684169.html</link>
+<description><![CDATA[I am looking to have someone do some CAT5e/CAT6 cabling in my home. There is already existing cabling but I am trying to keep my cable modem, router, etc. in a closet where the wiring runs and also wire the other parts of the home.]]></description>
+<dc:date>2013-03-24T20:10:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3701684169.html</dc:source>
+<dc:title><![CDATA[I need someone to do some CAT5e/6 wiring in my home (Wilmington, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:10:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3692824907.html">
+<title><![CDATA[Please Link to My Website (Anywhere)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3692824907.html</link>
+<description><![CDATA[Do you have a personal college/school website (i.e., UNCW, etc)? Or any personal website with a .edu , .gov , or .org top level domain? 
+If not, any web site with a beach related theme will work as well. 
+If you do have a site, and are willing to ins [...]]]></description>
+<dc:date>2013-03-20T10:23:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3692824907.html</dc:source>
+<dc:title><![CDATA[Please Link to My Website (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:23:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3670139232.html">
+<title><![CDATA[Data Input / Direct Mail Preparation (Wallace, NC)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3670139232.html</link>
+<description><![CDATA[I need someone as reliable as a Swiss watch to input 80-150 names and addresses daily into a database every monday through friday. Grammar, spelling, and excellent typing skills are required. You must also have an intermediate knowledge of MS Office  [...]]]></description>
+<dc:date>2013-03-09T15:01:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3670139232.html</dc:source>
+<dc:title><![CDATA[Data Input / Direct Mail Preparation (Wallace, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T15:01:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3663369508.html">
+<title><![CDATA[seeking 3 individuals (USA)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3663369508.html</link>
+<description><![CDATA[Seeking 3 individuals looking to make a realistic online income. 
+Make $150-$400 a week. 
+Must Be self motivated 
+knowledge in social media is a plus 
+should be friendly and out going 
+NO EXPERIENCE NECESSARY 
+For more information reply to this ad]]></description>
+<dc:date>2013-03-06T15:18:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3663369508.html</dc:source>
+<dc:title><![CDATA[seeking 3 individuals (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T15:18:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3644401320.html">
+<title><![CDATA[computer helper (rocky point)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3644401320.html</link>
+<description><![CDATA[i am looking to hire someone on as a as needed basis 
+with help with the computer. i need help with following 
+and can meet you at local taco bell or library. 
+help needed with following: 
+loading business photos on facebook from pitchures 
+edit pict [...]]]></description>
+<dc:date>2013-02-26T09:16:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3644401320.html</dc:source>
+<dc:title><![CDATA[computer helper (rocky point)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:16:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3603586340.html">
+<title><![CDATA[Craigslist, Ebay Ad Designer (Monkey Junction)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3603586340.html</link>
+<description><![CDATA[We are looking for someone with experience writing ads and taking pictures for online ads. Must be experienced. Please email contact information and brief description of experience. You may send samples of your work as well. Hours are flexible and wo [...]]]></description>
+<dc:date>2013-02-25T11:51:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3603586340.html</dc:source>
+<dc:title><![CDATA[Craigslist, Ebay Ad Designer (Monkey Junction)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T11:51:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3642301283.html">
+<title><![CDATA[Craigslist Advertiser (Monkey Junction)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3642301283.html</link>
+<description><![CDATA[Please have experience writing sales ads as well as posting on Ebay & Craigslist. ]]></description>
+<dc:date>2013-02-25T11:36:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3642301283.html</dc:source>
+<dc:title><![CDATA[Craigslist Advertiser (Monkey Junction)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T11:36:12-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

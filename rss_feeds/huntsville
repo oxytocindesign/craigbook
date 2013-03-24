@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://huntsville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in huntsville / decatur</title>
+<link>http://huntsville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://huntsville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in huntsville / decatur</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:34:54-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3692418193.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3687820570.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3683269860.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3675321429.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3671390389.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3670592061.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3669046087.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3668723077.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3667944731.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3599598388.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3654274156.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3627174155.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3636974112.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3623821983.html" />
+  <rdf:li rdf:resource="http://huntsville.craigslist.org/cpg/3618412191.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3692418193.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://huntsville.craigslist.org/cpg/3692418193.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T22:52:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3692418193.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:52:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3687820570.html">
+<title><![CDATA[making side legal side money (huntsville)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3687820570.html</link>
+<description><![CDATA[Do you need extra money like the money you dont get from your job well its easy you get paid every week all you have to do is social media make at least $800 this week. its not hard at all just email me ill give you my number i stay in huntsville als [...]]]></description>
+<dc:date>2013-03-17T20:35:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3687820570.html</dc:source>
+<dc:title><![CDATA[making side legal side money (huntsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T20:35:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3683269860.html">
+<title><![CDATA[Seeking Help Marketing My Business (United States)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3683269860.html</link>
+<description><![CDATA[Im looking for some help developing a marketing strategy for my business to get more quality traffic to my website , and I need recommendations for my website to lower my bounce rate and increase my sales conversion rate. Below are the details of my  [...]]]></description>
+<dc:date>2013-03-15T14:10:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3683269860.html</dc:source>
+<dc:title><![CDATA[Seeking Help Marketing My Business (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T14:10:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3675321429.html">
+<title><![CDATA[ fix my tanning bed please! (Morgan city)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3675321429.html</link>
+<description><![CDATA[Looking for someone who can fix my tanning bed or even maybe have an idea of what's going on with it.. I plug it up and it gives me a 2, 30. A 27 and the bulbs wont cone on.. its a sunvision zx30.. if u know anything about it send me an e mail please [...]]]></description>
+<dc:date>2013-03-11T21:29:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3675321429.html</dc:source>
+<dc:title><![CDATA[ fix my tanning bed please! (Morgan city)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T21:29:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3671390389.html">
+<title><![CDATA[Looking for 3D Game Artists for exciting OUYA game project! (Huntsville)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3671390389.html</link>
+<description><![CDATA[We launched our company recently and are looking for some early testers to navigate our site and provide us with some feedback. This test requires two things: 1. you live in or near NYC area 2. Spend abo click here for the application enter your emai [...]]]></description>
+<dc:date>2013-03-10T07:58:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3671390389.html</dc:source>
+<dc:title><![CDATA[Looking for 3D Game Artists for exciting OUYA game project! (Huntsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T07:58:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3670592061.html">
+<title><![CDATA[******* Green Coffee Bean Max - Natural Weight Loss Product ******* (Huntsville)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3670592061.html</link>
+<description><![CDATA[Green coffee beans%$^&^$==&gt; Green Coffee Bean Max - Rated NO 1 Weight Loss Product &lt;==%$ click here for our website and more information 36802
+plant number city their these their of hot write between time man way should as picture up under ]]></description>
+<dc:date>2013-03-09T17:29:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3670592061.html</dc:source>
+<dc:title><![CDATA[******* Green Coffee Bean Max - Natural Weight Loss Product ******* (Huntsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:29:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3669046087.html">
+<title><![CDATA[Computer Science Major - E-Commerce (Huntsville)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3669046087.html</link>
+<description><![CDATA[I am looking for someone to build a custom wholesale extension for me. It is fairly simple, I have some product that needs to have a different price based on whether or not a customer is in the wholesale group. click here for the application enter yo [...]]]></description>
+<dc:date>2013-03-09T01:05:12-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3669046087.html</dc:source>
+<dc:title><![CDATA[Computer Science Major - E-Commerce (Huntsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T01:05:12-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3668723077.html">
+<title><![CDATA[App Developer]]></title>
+<link>http://huntsville.craigslist.org/cpg/3668723077.html</link>
+<description><![CDATA[I need help developing an app for a phone. 
+I don't want my time to be wasted. Only respond if you are serious about helping. 
+You will be compensated for your help. ]]></description>
+<dc:date>2013-03-08T20:19:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3668723077.html</dc:source>
+<dc:title><![CDATA[App Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T20:19:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3667944731.html">
+<title><![CDATA[Experienced Ad sales person needed to generate ad revenues for online (Huntsville)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3667944731.html</link>
+<description><![CDATA[I'm looking for someone to tutor me in Javascript. I am an expert in HTML & CSS but I've struggled for years with Javascript. click here for the application enter your email and it will come up 
+36087 earth kind run all same night high picture of wor [...]]]></description>
+<dc:date>2013-03-08T14:10:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3667944731.html</dc:source>
+<dc:title><![CDATA[Experienced Ad sales person needed to generate ad revenues for online (Huntsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T14:10:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3599598388.html">
+<title><![CDATA[WANTED: YOU!]]></title>
+<link>http://huntsville.craigslist.org/cpg/3599598388.html</link>
+<description><![CDATA[NOW is the perfect time to be a business owner and we want to help YOU. 
+Own your own business and be your boss by selling digital marketing, design, programming, social media marketing, and many other services. You will NOT be alone, there will be a [...]]]></description>
+<dc:date>2013-03-07T03:06:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3599598388.html</dc:source>
+<dc:title><![CDATA[WANTED: YOU!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T03:06:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3654274156.html">
+<title><![CDATA[How much $$ did you make last WEEK internet marketing? (Alabama)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3654274156.html</link>
+<description><![CDATA[If I told you that you could get paid WEEKLY AND learn new skills that will help your existing web based business, what would you say? Ok, what if I told you that you could make more than $500 every WEEK as soon as next week? The catch? Well, it's no [...]]]></description>
+<dc:date>2013-03-02T13:10:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3654274156.html</dc:source>
+<dc:title><![CDATA[How much $$ did you make last WEEK internet marketing? (Alabama)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T13:10:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3627174155.html">
+<title><![CDATA[- Legit Commission based Income]]></title>
+<link>http://huntsville.craigslist.org/cpg/3627174155.html</link>
+<description><![CDATA[All you need is a phone & a computer.$20-$160 daily]]></description>
+<dc:date>2013-02-26T21:16:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3627174155.html</dc:source>
+<dc:title><![CDATA[- Legit Commission based Income]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T21:16:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3636974112.html">
+<title><![CDATA[Web Design/Programmer (Huntsville, AL)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3636974112.html</link>
+<description><![CDATA[Joomla Programmer needed for short-term assignment for volunteer organization. Paid gig, however minimal. Great exposure.]]></description>
+<dc:date>2013-02-22T18:59:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3636974112.html</dc:source>
+<dc:title><![CDATA[Web Design/Programmer (Huntsville, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T18:59:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3623821983.html">
+<title><![CDATA[Start today]]></title>
+<link>http://huntsville.craigslist.org/cpg/3623821983.html</link>
+<description><![CDATA[!!!!!!SERIOUS INQUIRIES ONLY!!!!!!! NEED A JOB AND CANT FIND ONE!!!WELL I AM WORKING FOR A LEGITIMATE COMPANY THAT IS NOW HIRING, HAS GREAT BENEFITS, YOU CAN WORK FROM HOME, AND HAS GREAT PAY!!!NO EXCUSES THE OPPORTUNITY IS RIGHT IN FRONT OF YOU, SO  [...]]]></description>
+<dc:date>2013-02-17T12:03:59-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3623821983.html</dc:source>
+<dc:title><![CDATA[Start today]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T12:03:59-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://huntsville.craigslist.org/cpg/3618412191.html">
+<title><![CDATA[Someone experienced with web design needed (Harvest)]]></title>
+<link>http://huntsville.craigslist.org/cpg/3618412191.html</link>
+<description><![CDATA[I need a web designer for an online business I'm making. I'm looking for someone experienced in web and Internet design to make me an attractive site layout with a link to some sort of checkout page to complete a purchase from the site. I can pay 60  [...]]]></description>
+<dc:date>2013-02-14T23:19:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://huntsville.craigslist.org/cpg/3618412191.html</dc:source>
+<dc:title><![CDATA[Someone experienced with web design needed (Harvest)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T23:19:11-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://zanesville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in zanesville / cambridge</title>
+<link>http://zanesville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://zanesville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in zanesville / cambridge</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:04-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://zanesville.craigslist.org/cpg/3629282856.html" />
+  <rdf:li rdf:resource="http://zanesville.craigslist.org/cpg/3656113005.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://zanesville.craigslist.org/cpg/3629282856.html">
+<title><![CDATA[Computer Technician (Zanesville)]]></title>
+<link>http://zanesville.craigslist.org/cpg/3629282856.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Zanesville. We are a 24 hour computer repair service the Zanesville area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments around th [...]]]></description>
+<dc:date>2013-03-20T09:17:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://zanesville.craigslist.org/cpg/3629282856.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Zanesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:17:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://zanesville.craigslist.org/cpg/3656113005.html">
+<title><![CDATA[Seeking enthusiastic internet savy Moms (Cutler)]]></title>
+<link>http://zanesville.craigslist.org/cpg/3656113005.html</link>
+<description><![CDATA[Here is a great video on how huge checks are being generated part time. We will work with you personally to do the same... See it Here: Talk to you soon, Natasha P.S.- I have been full time online for over 10 years and have never seen anything like t [...]]]></description>
+<dc:date>2013-03-05T13:02:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://zanesville.craigslist.org/cpg/3656113005.html</dc:source>
+<dc:title><![CDATA[Seeking enthusiastic internet savy Moms (Cutler)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T13:02:28-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

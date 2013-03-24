@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://brownsville.en.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in brownsville</title>
+<link>http://brownsville.en.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://brownsville.en.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in brownsville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3701999510.html" />
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3688740856.html" />
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3677306324.html" />
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3676546269.html" />
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3646530136.html" />
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3610050710.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3701999510.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3701999510.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:06:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3701999510.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:06:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3688740856.html">
+<title><![CDATA[Adroid APP Developer (La feria)]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3688740856.html</link>
+<description><![CDATA[Need someone to develop an app must have knowledge of Android SDK Eclipse + ADT plugin Android SDK Tools Android Platform-tools 
+Android system image for the emulator. Pay varies depending on the successful app results from 25$ to 150$ per app plus 1 [...]]]></description>
+<dc:date>2013-03-18T10:58:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3688740856.html</dc:source>
+<dc:title><![CDATA[Adroid APP Developer (La feria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:58:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3677306324.html">
+<title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3677306324.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-15T12:04:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3677306324.html</dc:source>
+<dc:title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:04:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3676546269.html">
+<title><![CDATA[PC Tech (San Benito)]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3676546269.html</link>
+<description><![CDATA[Part-time contract work in San Benito late Wednesday night/early Thursday morning (starts at midnight) for computer deployment work. Guaranteed 3 hours of work. Please email your resume for immediate consideration.]]></description>
+<dc:date>2013-03-12T13:03:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3676546269.html</dc:source>
+<dc:title><![CDATA[PC Tech (San Benito)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T13:03:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3646530136.html">
+<title><![CDATA[Field PC Tech needed - URGENT - Contract hire (Brownsville, TX)]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3646530136.html</link>
+<description><![CDATA[PC technician - URGENT - Brownsville, TX 
+Need an entry level PC tech in the Brownsville area for a day or two of testing a PC based system. Ideal candidate must have good communication skills and must be available on Monday. Must have your own basic [...]]]></description>
+<dc:date>2013-02-27T02:48:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3646530136.html</dc:source>
+<dc:title><![CDATA[Field PC Tech needed - URGENT - Contract hire (Brownsville, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T02:48:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3610050710.html">
+<title><![CDATA[ofresco servicio de   mosaico (sanbenito t,x  7)]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3610050710.html</link>
+<description><![CDATA[se ofrese servicio de mosaico pora banos cosinas para mas informacion ablar al 956 5899650 ]]></description>
+<dc:date>2013-02-11T13:26:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3610050710.html</dc:source>
+<dc:title><![CDATA[ofresco servicio de   mosaico (sanbenito t,x  7)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:26:50-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

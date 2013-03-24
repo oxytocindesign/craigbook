@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://waterloo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in waterloo / cedar falls</title>
+<link>http://waterloo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://waterloo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in waterloo / cedar falls</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:57-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://waterloo.craigslist.org/cpg/3676934003.html" />
+  <rdf:li rdf:resource="http://waterloo.craigslist.org/cpg/3614964610.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://waterloo.craigslist.org/cpg/3676934003.html">
+<title><![CDATA[In need of Business plan help]]></title>
+<link>http://waterloo.craigslist.org/cpg/3676934003.html</link>
+<description><![CDATA[Looking to find someone in my area (Black Hawk Waterloo, Cedar Falls) to help write out a business plan for a business I would like to open. I have all the plans and research, I just need it to be very inpressive to present to investor or lenders. Th [...]]]></description>
+<dc:date>2013-03-17T22:35:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://waterloo.craigslist.org/cpg/3676934003.html</dc:source>
+<dc:title><![CDATA[In need of Business plan help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T22:35:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://waterloo.craigslist.org/cpg/3614964610.html">
+<title><![CDATA[Contract technician (Cedar Falls)]]></title>
+<link>http://waterloo.craigslist.org/cpg/3614964610.html</link>
+<description><![CDATA[Contract PC tech needed on Friday, Feb. 15 to install a server cage. Must have a drill to secure the cage. Work will includes disconnecting and reconnecting a server. 
+Please email your resume.]]></description>
+<dc:date>2013-02-13T13:11:07-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://waterloo.craigslist.org/cpg/3614964610.html</dc:source>
+<dc:title><![CDATA[Contract technician (Cedar Falls)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:11:07-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://valdosta.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in valdosta</title>
+<link>http://valdosta.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://valdosta.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in valdosta</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:19-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3661983279.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3611488345.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3668407535.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3665763984.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3639295639.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3627749620.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3615379807.html" />
+  <rdf:li rdf:resource="http://valdosta.craigslist.org/cpg/3610809642.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3661983279.html">
+<title><![CDATA[Listen to music $$$]]></title>
+<link>http://valdosta.craigslist.org/cpg/3661983279.html</link>
+<description><![CDATA[If you enjoy music or just need something to do in your spare time (AND earn pay) go to http://www.slicethepie.com/?wyd=515418 and get started! All you have to do is listen to and rate music. You may email me if you have any questions.]]></description>
+<dc:date>2013-03-12T23:15:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3661983279.html</dc:source>
+<dc:title><![CDATA[Listen to music $$$]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T23:15:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3611488345.html">
+<title><![CDATA[Vending Machine Repair (Valdosta,GA)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3611488345.html</link>
+<description><![CDATA[We are in need of vending machine repair. We have a few vending machines. We currently have two down. One is a traditional snack machine and the other is a traditional can soda machine. If you have any experience with vending machines give us a call  [...]]]></description>
+<dc:date>2013-03-11T13:47:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3611488345.html</dc:source>
+<dc:title><![CDATA[Vending Machine Repair (Valdosta,GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T13:47:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3668407535.html">
+<title><![CDATA[NEED CB GUY (valdosta)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3668407535.html</link>
+<description><![CDATA[swr probs, got a meter?]]></description>
+<dc:date>2013-03-08T18:28:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3668407535.html</dc:source>
+<dc:title><![CDATA[NEED CB GUY (valdosta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T18:28:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3665763984.html">
+<title><![CDATA[Looking for a Tech Installer  (Valdosta )]]></title>
+<link>http://valdosta.craigslist.org/cpg/3665763984.html</link>
+<description><![CDATA[We are seeking a technician to set up a retail display in a bog box store in Valdosta. This installation will take less than an hour to set up and the pay rate is $60. 
+If interested, please respond with your name, email, phone number, and where you  [...]]]></description>
+<dc:date>2013-03-07T16:05:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3665763984.html</dc:source>
+<dc:title><![CDATA[Looking for a Tech Installer  (Valdosta )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:05:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3639295639.html">
+<title><![CDATA[WE ARE HIRING TODAY (VALDOSTA)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3639295639.html</link>
+<description><![CDATA[WE ARE HIRING!!! MOTOR CLUB OF AMERICA IS NOW HIRING SALES REPS & RECRUITING OFFICERS!!!! WEEKLY PAY!!! CALL 850-270-0527 JOB LINE TODAY!!! YOU MAY ALSO VISIT US AT OUR WEBSITE http://weeklypaychecksystem.com/deidre850 ]]></description>
+<dc:date>2013-02-23T20:42:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3639295639.html</dc:source>
+<dc:title><![CDATA[WE ARE HIRING TODAY (VALDOSTA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T20:42:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3627749620.html">
+<title><![CDATA[Custom drupal theme (Anywhere)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3627749620.html</link>
+<description><![CDATA[I need a custom drupal theme done for community website. To be considered for the job please include links to custom drupal themes that you have created. You must be able to put together a creative looking theme. 
+Thanks 
+Steve ]]></description>
+<dc:date>2013-02-19T01:55:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3627749620.html</dc:source>
+<dc:title><![CDATA[Custom drupal theme (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T01:55:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3615379807.html">
+<title><![CDATA[Now Hiring!!!!! (Valdosta)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3615379807.html</link>
+<description><![CDATA[Do you want to be a part of a success team? We want to give you the way to get out of debt and finally support your families with financial stability! 
+Discover how the perfect automated system brings endless 200% commissions! 
+Join us today and Get  [...]]]></description>
+<dc:date>2013-02-13T16:52:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3615379807.html</dc:source>
+<dc:title><![CDATA[Now Hiring!!!!! (Valdosta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T16:52:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://valdosta.craigslist.org/cpg/3610809642.html">
+<title><![CDATA[Looking For Computer Professionals (Valdosta)]]></title>
+<link>http://valdosta.craigslist.org/cpg/3610809642.html</link>
+<description><![CDATA[Looking for computer professionals in the Valdosta area to chat about business opportunities. 
+Please no beginners to computers no time to teach and no time for mistakes. Need strong and responsible group to get things started. 
+Call, text, or email  [...]]]></description>
+<dc:date>2013-02-11T19:25:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://valdosta.craigslist.org/cpg/3610809642.html</dc:source>
+<dc:title><![CDATA[Looking For Computer Professionals (Valdosta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T19:25:24-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

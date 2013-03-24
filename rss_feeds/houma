@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://houma.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in houma</title>
+<link>http://houma.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://houma.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in houma</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:58-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://houma.craigslist.org/cpg/3683960634.html" />
+  <rdf:li rdf:resource="http://houma.craigslist.org/cpg/3546877460.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://houma.craigslist.org/cpg/3683960634.html">
+<title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></title>
+<link>http://houma.craigslist.org/cpg/3683960634.html</link>
+<description><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON, AWS, e3, Hadoop, noSQL and MySQL. 
+We are a team of 3 engineers looking for a 4th partner to assist in further developing a social media \ image management site. 
+The Backend Programmer role  [...]]]></description>
+<dc:date>2013-03-15T20:04:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houma.craigslist.org/cpg/3683960634.html</dc:source>
+<dc:title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL (Remote work)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T20:04:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houma.craigslist.org/cpg/3546877460.html">
+<title><![CDATA[Side Income  $45/65 day   ]]></title>
+<link>http://houma.craigslist.org/cpg/3546877460.html</link>
+<description><![CDATA[Side Income 
+$45/65 day 
+We need people who can complete simple 
+computer tasks. 
+Save time by working a gig from home. 
+Email when you can start along with your name 
+for more information ]]></description>
+<dc:date>2013-02-13T19:24:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houma.craigslist.org/cpg/3546877460.html</dc:source>
+<dc:title><![CDATA[Side Income  $45/65 day   ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T19:24:42-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

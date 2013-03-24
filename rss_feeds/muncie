@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://muncie.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in muncie / anderson</title>
+<link>http://muncie.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://muncie.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in muncie / anderson</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:57-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://muncie.craigslist.org/cpg/3673046697.html" />
+  <rdf:li rdf:resource="http://muncie.craigslist.org/cpg/3662540221.html" />
+  <rdf:li rdf:resource="http://muncie.craigslist.org/cpg/3647349666.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://muncie.craigslist.org/cpg/3673046697.html">
+<title><![CDATA[blog creator needed (Anderson)]]></title>
+<link>http://muncie.craigslist.org/cpg/3673046697.html</link>
+<description><![CDATA[Looking for someone who knows computers well and would be willing to help me create a blog for profit. 
+Needs to be honest and willing to be committed to make it happen.]]></description>
+<dc:date>2013-03-19T20:43:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muncie.craigslist.org/cpg/3673046697.html</dc:source>
+<dc:title><![CDATA[blog creator needed (Anderson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:43:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://muncie.craigslist.org/cpg/3662540221.html">
+<title><![CDATA[Computer Technicians (Muncie)]]></title>
+<link>http://muncie.craigslist.org/cpg/3662540221.html</link>
+<description><![CDATA[Technicians needed for a computer deployment overnight March 11/March 12 (starting at midnight March 12). Will be part of a team uninstalling computer equipment, boxing it up, and installing new equipment. Three-hour guarantee of pay. 
+Please email y [...]]]></description>
+<dc:date>2013-03-06T09:53:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muncie.craigslist.org/cpg/3662540221.html</dc:source>
+<dc:title><![CDATA[Computer Technicians (Muncie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T09:53:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://muncie.craigslist.org/cpg/3647349666.html">
+<title><![CDATA[desktop technician (Muncie, IN)]]></title>
+<link>http://muncie.craigslist.org/cpg/3647349666.html</link>
+<description><![CDATA[Our client has requested we source a PC technician for the following: 
+1. Thurs 2/28 at 1pm and Friday, 2/29 at 7am (Day One Support0 
+2. Financial Institution, Muncie, IN 
+3. Win xp upgrade to Win7]]></description>
+<dc:date>2013-02-27T13:14:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muncie.craigslist.org/cpg/3647349666.html</dc:source>
+<dc:title><![CDATA[desktop technician (Muncie, IN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T13:14:23-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

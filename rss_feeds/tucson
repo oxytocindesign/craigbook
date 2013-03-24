@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://tucson.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in tucson</title>
+<link>http://tucson.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://tucson.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in tucson</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3694120402.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3697600613.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3696495682.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3696139014.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3691161856.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3682850626.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3678634333.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3672371494.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3669891221.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3656984265.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3656200528.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3644333923.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3638266860.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3633499762.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3626676084.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3614116061.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3625708248.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3615129999.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3614316850.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3613595853.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3610970627.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3571561421.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://tucson.craigslist.org/cpg/3694120402.html">
+<title><![CDATA[Sales Help]]></title>
+<link>http://tucson.craigslist.org/cpg/3694120402.html</link>
+<description><![CDATA[I am overwhelmed with incoming leads for my software company that I need help following up on via phone and email. 
+I can pay you $100-$300 per sale, and provide all the leads you can handle. You can choose the hours/schedule you like, and are free t [...]]]></description>
+<dc:date>2013-03-23T14:05:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3694120402.html</dc:source>
+<dc:title><![CDATA[Sales Help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:05:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3697600613.html">
+<title><![CDATA[Sync Audio/Video 15 min video (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3697600613.html</link>
+<description><![CDATA[Looking to pay someone $25 to sync the audio and video of a 20min video. The video is on iMove on my computer. We can meet at a Starbucks and I would expect someone who knows what they are doing to complete the job in about an hour. I will not pay ov [...]]]></description>
+<dc:date>2013-03-22T12:45:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3697600613.html</dc:source>
+<dc:title><![CDATA[Sync Audio/Video 15 min video (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:45:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3696495682.html">
+<title><![CDATA[Need a sales guy]]></title>
+<link>http://tucson.craigslist.org/cpg/3696495682.html</link>
+<description><![CDATA[I'm looking for someone that can sell opportunities. 
+If you can sale a product that costs $25 and willing to make 100% commissions. 
+Email me! I have a business opportunity for you! ]]></description>
+<dc:date>2013-03-21T22:04:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3696495682.html</dc:source>
+<dc:title><![CDATA[Need a sales guy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T22:04:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3696139014.html">
+<title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3696139014.html</link>
+<description><![CDATA[I bought a new CNC machine, with Mach 3 software. 
+Wanting to use it to carve pictures into wood. 
+Looking for someone to show me how to run it.]]></description>
+<dc:date>2013-03-21T17:12:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3696139014.html</dc:source>
+<dc:title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:12:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3691161856.html">
+<title><![CDATA[Caterease Software (Oro Valley)]]></title>
+<link>http://tucson.craigslist.org/cpg/3691161856.html</link>
+<description><![CDATA[Need help putting Caterease software from desktop onto a laptop ]]></description>
+<dc:date>2013-03-19T10:42:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3691161856.html</dc:source>
+<dc:title><![CDATA[Caterease Software (Oro Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:42:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3682850626.html">
+<title><![CDATA[Project Recruiter (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3682850626.html</link>
+<description><![CDATA[The project recruiter will work with the recruiting team to ensure all phases of the recruiting process are executed properly. Duties include sourcing, screening, scheduling, administering online assessment, interviewing, selection and on-boarding. T [...]]]></description>
+<dc:date>2013-03-15T09:13:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3682850626.html</dc:source>
+<dc:title><![CDATA[Project Recruiter (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T09:13:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3678634333.html">
+<title><![CDATA[ HELP! I need a Tutor for JQuery (Mid to East-side Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3678634333.html</link>
+<description><![CDATA[I am looking to pay someone who is knowledgeable specifically in JQuery. I am taking an on-line class and need a tutor to help me with my homework. I am creating a microsite using HTML5, CSS3 and JQuery. I am willing to pay if you can tutor me and I  [...]]]></description>
+<dc:date>2013-03-13T09:39:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3678634333.html</dc:source>
+<dc:title><![CDATA[ HELP! I need a Tutor for JQuery (Mid to East-side Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:39:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3672371494.html">
+<title><![CDATA[Scrolling Parallax (Superscrollarama) (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3672371494.html</link>
+<description><![CDATA[I want to try and create a scrolling parallax that not only moves across the y axis but the x axis as well while scaling. I have been trying to tweak an existing code and even tried to dig into Superscrollorama but my understanding of coding is limit [...]]]></description>
+<dc:date>2013-03-10T14:27:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3672371494.html</dc:source>
+<dc:title><![CDATA[Scrolling Parallax (Superscrollarama) (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T14:27:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3669891221.html">
+<title><![CDATA[Flash Video Programmer]]></title>
+<link>http://tucson.craigslist.org/cpg/3669891221.html</link>
+<description><![CDATA[Crew of dedicated people seeks Flash Video programmer to help round out our team. We need someone who can manipulate a video buffer stream on the fly in response to user input. If you feel you have the knowledge and experience to create a Flash Video [...]]]></description>
+<dc:date>2013-03-09T11:21:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3669891221.html</dc:source>
+<dc:title><![CDATA[Flash Video Programmer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T11:21:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3656984265.html">
+<title><![CDATA[Sip ip-pbx programmer (Eastside)]]></title>
+<link>http://tucson.craigslist.org/cpg/3656984265.html</link>
+<description><![CDATA[I need someone to help program and connect a ip-pbx to sip provider.]]></description>
+<dc:date>2013-03-03T18:05:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3656984265.html</dc:source>
+<dc:title><![CDATA[Sip ip-pbx programmer (Eastside)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T18:05:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3656200528.html">
+<title><![CDATA[HELP with C and UNIX! (UA)]]></title>
+<link>http://tucson.craigslist.org/cpg/3656200528.html</link>
+<description><![CDATA[I am in danger of failing CSC 352 (Systems Programming and Unix) course at UA. I am willing to pay someone $15/hr for tutoring + extra for on-call help. This entails that we would typically meet twice a week for about 1-2 hrs per meeting to go over a [...]]]></description>
+<dc:date>2013-03-03T11:39:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3656200528.html</dc:source>
+<dc:title><![CDATA[HELP with C and UNIX! (UA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T11:39:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3644333923.html">
+<title><![CDATA[Blogger needed (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3644333923.html</link>
+<description><![CDATA[Need someone to publicize our great new product, its a pooper scooper vacuum, the PooVak. 
+We make the PooVak in Tucson, and would like to increase our marketing presence on You Tube, facebook and the blogs out there. 
+If you have a following, or kno [...]]]></description>
+<dc:date>2013-02-26T06:31:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3644333923.html</dc:source>
+<dc:title><![CDATA[Blogger needed (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T06:31:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3638266860.html">
+<title><![CDATA[Graphic Design Intern (NYC based)]]></title>
+<link>http://tucson.craigslist.org/cpg/3638266860.html</link>
+<description><![CDATA[The Collecte is seeking a graphic design intern specifically for html coding with minor website maintenance/development/design. We are seeking someone who has the ability to use Adobe Creative Suite; Photoshop, Dreamweaver, Illustrator etc. Start dat [...]]]></description>
+<dc:date>2013-02-23T10:57:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3638266860.html</dc:source>
+<dc:title><![CDATA[Graphic Design Intern (NYC based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T10:57:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3633499762.html">
+<title><![CDATA[Voltage Multiplier Circuit Needed (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3633499762.html</link>
+<description><![CDATA[I need to have someone build me a voltage multiplier circuit. Need 300v DC, very low current, and would like to get it from a wall plug. I haven't been able to figure out how to do it without a xfrmr. 
+Can you help? ]]></description>
+<dc:date>2013-02-21T10:22:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3633499762.html</dc:source>
+<dc:title><![CDATA[Voltage Multiplier Circuit Needed (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T10:22:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3626676084.html">
+<title><![CDATA[PHP Developer (TUCSON ONLY)]]></title>
+<link>http://tucson.craigslist.org/cpg/3626676084.html</link>
+<description><![CDATA[I have a too many projects on my plate and need one of them taken over asap. 
+var email = (19759199).toString(36) + '.' + (22).toString(36) + '.' + (54431201).toString(36) + '@gmail.com';
+Do not respond if you are not in Tucson... I want to work with [...]]]></description>
+<dc:date>2013-02-18T14:18:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3626676084.html</dc:source>
+<dc:title><![CDATA[PHP Developer (TUCSON ONLY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T14:18:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3614116061.html">
+<title><![CDATA[need a webdesigner (tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3614116061.html</link>
+<description><![CDATA[looking for a web designer that could design a 5 page website, this is a small project so I will not pay top dollar for it, this project will be good for first time web designers, if you can design something for me for cheap please feel free to email [...]]]></description>
+<dc:date>2013-02-18T13:22:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3614116061.html</dc:source>
+<dc:title><![CDATA[need a webdesigner (tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:22:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3625708248.html">
+<title><![CDATA[Tutor needed Autocad/ Illustrator (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3625708248.html</link>
+<description><![CDATA[I want to learn how to take a free hand drawing, scan it and using either cad or illustrator end up with a scaled drawing that can be out put in DWG format.]]></description>
+<dc:date>2013-02-18T08:39:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3625708248.html</dc:source>
+<dc:title><![CDATA[Tutor needed Autocad/ Illustrator (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T08:39:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3615129999.html">
+<title><![CDATA[Webmaster needed (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3615129999.html</link>
+<description><![CDATA[I need content and video uploaded to a site...I will also need omgoing support. 
+Please reply with you email or phone number]]></description>
+<dc:date>2013-02-13T13:13:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3615129999.html</dc:source>
+<dc:title><![CDATA[Webmaster needed (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:13:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3614316850.html">
+<title><![CDATA[Looking for a web designer]]></title>
+<link>http://tucson.craigslist.org/cpg/3614316850.html</link>
+<description><![CDATA[Do you know how to design websites? I need help designing a website. ]]></description>
+<dc:date>2013-02-13T07:58:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3614316850.html</dc:source>
+<dc:title><![CDATA[Looking for a web designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T07:58:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3613595853.html">
+<title><![CDATA[Need Someone to Create a LOGO (Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3613595853.html</link>
+<description><![CDATA[I need someone to create a logo for a business. Please email me your previous work that you have done. $75]]></description>
+<dc:date>2013-02-12T19:51:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3613595853.html</dc:source>
+<dc:title><![CDATA[Need Someone to Create a LOGO (Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T19:51:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3610970627.html">
+<title><![CDATA[need webdesigner  (tucson )]]></title>
+<link>http://tucson.craigslist.org/cpg/3610970627.html</link>
+<description><![CDATA[looking for a web designer that could design a 5 page website, this is a small project so I will not pay top dollar for it, this project will be good for first time web designers, if you can design something for me for cheap please feel free to email [...]]]></description>
+<dc:date>2013-02-11T18:43:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3610970627.html</dc:source>
+<dc:title><![CDATA[need webdesigner  (tucson )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T18:43:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3571561421.html">
+<title><![CDATA[Phone Tech Needed (Tucson, AZ.)]]></title>
+<link>http://tucson.craigslist.org/cpg/3571561421.html</link>
+<description><![CDATA[We are looking to hire phone techs who have mobile access and experience in fixing iPhones, Htc's and other smart phones. It is required that the tech can at least change the screen to an iPhone, repair camera, swap out the battery, etc. Serious Inqu [...]]]></description>
+<dc:date>2013-02-07T15:20:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3571561421.html</dc:source>
+<dc:title><![CDATA[Phone Tech Needed (Tucson, AZ.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T15:20:49-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://york.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in york, PA</title>
+<link>http://york.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://york.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in york, PA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://york.craigslist.org/cpg/3652728850.html" />
+  <rdf:li rdf:resource="http://york.craigslist.org/cpg/3633205670.html" />
+  <rdf:li rdf:resource="http://york.craigslist.org/cpg/3627170060.html" />
+  <rdf:li rdf:resource="http://york.craigslist.org/cpg/3604590499.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://york.craigslist.org/cpg/3652728850.html">
+<title><![CDATA[Need someone to Install Mod-Chip into Original Xbox (Hanover, PA)]]></title>
+<link>http://york.craigslist.org/cpg/3652728850.html</link>
+<description><![CDATA[Need someone to solder in a DuoX3 mod chip into an original xbox. 
+Prefer someone who can supply their own tools (willing to compensate for costs).]]></description>
+<dc:date>2013-03-01T18:49:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://york.craigslist.org/cpg/3652728850.html</dc:source>
+<dc:title><![CDATA[Need someone to Install Mod-Chip into Original Xbox (Hanover, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T18:49:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://york.craigslist.org/cpg/3633205670.html">
+<title><![CDATA[COMPUTER SAVVY ENTREPRENEURS WANTED TO START OWN COMPANY! (York area)]]></title>
+<link>http://york.craigslist.org/cpg/3633205670.html</link>
+<description><![CDATA[Entrepreneur seeks 1 or 2 honest, reliable, determined, computer savvy persons who want to join forces to start our own business from scratch and make serious money on the internet. Minimal outlay. This is for real. You must be too! 
+No spam or other [...]]]></description>
+<dc:date>2013-02-21T10:27:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://york.craigslist.org/cpg/3633205670.html</dc:source>
+<dc:title><![CDATA[COMPUTER SAVVY ENTREPRENEURS WANTED TO START OWN COMPANY! (York area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T10:27:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://york.craigslist.org/cpg/3627170060.html">
+<title><![CDATA[I Need a 2 pages website (york)]]></title>
+<link>http://york.craigslist.org/cpg/3627170060.html</link>
+<description><![CDATA[I need a 2 web pages web site. A pitch page and a thank you page. For selling a e-book on clickbank.com. E-mail me with your price and a few websites that you build]]></description>
+<dc:date>2013-02-18T19:38:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://york.craigslist.org/cpg/3627170060.html</dc:source>
+<dc:title><![CDATA[I Need a 2 pages website (york)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T19:38:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://york.craigslist.org/cpg/3604590499.html">
+<title><![CDATA[Website Builder/Partnership  (Pennsylvania)]]></title>
+<link>http://york.craigslist.org/cpg/3604590499.html</link>
+<description><![CDATA[I'm looking for an experienced person to build a website and do SEO for free in exchange for being a Partner in the business 
+If you are Interested....Please Reply with "Website Partnership" in the Subject line so I can delete all the spam mail]]></description>
+<dc:date>2013-02-09T02:45:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://york.craigslist.org/cpg/3604590499.html</dc:source>
+<dc:title><![CDATA[Website Builder/Partnership  (Pennsylvania)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T02:45:08-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

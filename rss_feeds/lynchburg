@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lynchburg.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lynchburg</title>
+<link>http://lynchburg.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lynchburg.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lynchburg</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:13-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lynchburg.craigslist.org/cpg/3687270667.html" />
+  <rdf:li rdf:resource="http://lynchburg.craigslist.org/cpg/3600790433.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lynchburg.craigslist.org/cpg/3687270667.html">
+<title><![CDATA[$$$ I'M looking for 10 people to work with $$$ (Very Busy)]]></title>
+<link>http://lynchburg.craigslist.org/cpg/3687270667.html</link>
+<description><![CDATA[If I were to tell you, you can make $20 for free just for joining this program, would you believe me? 
+Well, I didn't believe it at first either! 
+But low and behold, when you do a little bit of research you never know what you will find! 
+See what I [...]]]></description>
+<dc:date>2013-03-17T16:15:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lynchburg.craigslist.org/cpg/3687270667.html</dc:source>
+<dc:title><![CDATA[$$$ I'M looking for 10 people to work with $$$ (Very Busy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T16:15:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lynchburg.craigslist.org/cpg/3600790433.html">
+<title><![CDATA[Website building lessons (Lynchburg)]]></title>
+<link>http://lynchburg.craigslist.org/cpg/3600790433.html</link>
+<description><![CDATA[I would like to hire or barter services for lessons in how to build a website from the basics to professional auction sites. 
+Please contact me by email if interested in providing this service at a reasonable rate or trading for construction services [...]]]></description>
+<dc:date>2013-02-07T13:50:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lynchburg.craigslist.org/cpg/3600790433.html</dc:source>
+<dc:title><![CDATA[Website building lessons (Lynchburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T13:50:54-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

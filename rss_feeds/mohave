@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://mohave.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in mohave county</title>
+<link>http://mohave.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://mohave.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in mohave county</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3696494648.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3664028793.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3677417505.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3670921686.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3652024156.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3650227995.html" />
+  <rdf:li rdf:resource="http://mohave.craigslist.org/cpg/3649854020.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://mohave.craigslist.org/cpg/3696494648.html">
+<title><![CDATA[Need a sales guy]]></title>
+<link>http://mohave.craigslist.org/cpg/3696494648.html</link>
+<description><![CDATA[I'm looking for someone that can sell opportunities. 
+If you can sale a product that costs $25 and willing to make 100% commissions. 
+Email me! I have a business opportunity for you! ]]></description>
+<dc:date>2013-03-21T22:03:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3696494648.html</dc:source>
+<dc:title><![CDATA[Need a sales guy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T22:03:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3664028793.html">
+<title><![CDATA[Programmer Wanted (Golden Valley, Arizona)]]></title>
+<link>http://mohave.craigslist.org/cpg/3664028793.html</link>
+<description><![CDATA[Need independent webmaster for various projects from time to time. Prefer MYSQL database experience with Godaddy. Having slow query logging so i want an automatic optimization set for once a week and a page created for 404 soft errors. If you know ho [...]]]></description>
+<dc:date>2013-03-17T12:18:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3664028793.html</dc:source>
+<dc:title><![CDATA[Programmer Wanted (Golden Valley, Arizona)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T12:18:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3677417505.html">
+<title><![CDATA[Now interviewing energetic online Business Partners (Pinetop)]]></title>
+<link>http://mohave.craigslist.org/cpg/3677417505.html</link>
+<description><![CDATA[Here is a great video on how huge checks are being generated part time. We will work with you personally to do the same... See it Here: Talk to you soon, Natasha P.S.- I have been full time online for over 10 years and have never seen anything like t [...]]]></description>
+<dc:date>2013-03-12T17:11:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3677417505.html</dc:source>
+<dc:title><![CDATA[Now interviewing energetic online Business Partners (Pinetop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T17:11:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3670921686.html">
+<title><![CDATA[APP SOCIAL BUTTERFLIES (Mohave County)]]></title>
+<link>http://mohave.craigslist.org/cpg/3670921686.html</link>
+<description><![CDATA[I am currently seeking a freelance/contract web developer/programmer to work along side me, remotely speaking on present and upcoming website projects. I develop all of my websites in Photoshop, so I will provid click here for the application enter y [...]]]></description>
+<dc:date>2013-03-09T19:48:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3670921686.html</dc:source>
+<dc:title><![CDATA[APP SOCIAL BUTTERFLIES (Mohave County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T19:48:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3652024156.html">
+<title><![CDATA[IT Technician (Laughlin, NV)]]></title>
+<link>http://mohave.craigslist.org/cpg/3652024156.html</link>
+<description><![CDATA[We are in need for an IT Technician for a project we have coming up 3/12. Please respond with your resume if interested. 
+Details: 
+• Follow a scripted process to install tablets/ipads 
+• Configuration of routers, appliance installation 
+• Work with  [...]]]></description>
+<dc:date>2013-03-06T09:29:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3652024156.html</dc:source>
+<dc:title><![CDATA[IT Technician (Laughlin, NV)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T09:29:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3650227995.html">
+<title><![CDATA[Adobe software expert (Havasu)]]></title>
+<link>http://mohave.craigslist.org/cpg/3650227995.html</link>
+<description><![CDATA[Looking for someone to edit my images in jpeg format - slight changes to each picture]]></description>
+<dc:date>2013-02-28T15:14:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3650227995.html</dc:source>
+<dc:title><![CDATA[Adobe software expert (Havasu)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T15:14:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://mohave.craigslist.org/cpg/3649854020.html">
+<title><![CDATA[Author Programming & Web Dev Tutorials/Virtual]]></title>
+<link>http://mohave.craigslist.org/cpg/3649854020.html</link>
+<description><![CDATA[We're a Connecticut based technical publishing company looking to expand our team of content development experts. We're looking for programmers who can write clear step-by-step tutorials that our learners will both benefit from and enjoy. If you can  [...]]]></description>
+<dc:date>2013-02-28T12:37:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mohave.craigslist.org/cpg/3649854020.html</dc:source>
+<dc:title><![CDATA[Author Programming & Web Dev Tutorials/Virtual]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:37:13-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

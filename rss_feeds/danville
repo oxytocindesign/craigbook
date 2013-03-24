@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://danville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in danville</title>
+<link>http://danville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://danville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in danville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:10-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://danville.craigslist.org/cpg/3649599612.html" />
+  <rdf:li rdf:resource="http://danville.craigslist.org/cpg/3686043394.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://danville.craigslist.org/cpg/3649599612.html">
+<title><![CDATA[IT / Computer technician needed (Danville)]]></title>
+<link>http://danville.craigslist.org/cpg/3649599612.html</link>
+<description><![CDATA[I'm looking for qualified IT and Computer Techs for contract work. 
+Follow the link below to fill out your application for consideration 
+https://www.workmarket.com/register/campaign/E0BD7A92CCBEEC4F2A853BC876941388]]></description>
+<dc:date>2013-03-21T14:18:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://danville.craigslist.org/cpg/3649599612.html</dc:source>
+<dc:title><![CDATA[IT / Computer technician needed (Danville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:18:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://danville.craigslist.org/cpg/3686043394.html">
+<title><![CDATA[make money from home (danville)]]></title>
+<link>http://danville.craigslist.org/cpg/3686043394.html</link>
+<description><![CDATA[online paydays if you put the time in it you can really supplement your income email for details]]></description>
+<dc:date>2013-03-16T22:18:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://danville.craigslist.org/cpg/3686043394.html</dc:source>
+<dc:title><![CDATA[make money from home (danville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T22:18:16-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

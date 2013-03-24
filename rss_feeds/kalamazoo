@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://kalamazoo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in kalamazoo</title>
+<link>http://kalamazoo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://kalamazoo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in kalamazoo</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:58-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://kalamazoo.craigslist.org/cpg/3697321969.html" />
+  <rdf:li rdf:resource="http://kalamazoo.craigslist.org/cpg/3629326087.html" />
+  <rdf:li rdf:resource="http://kalamazoo.craigslist.org/cpg/3654521468.html" />
+  <rdf:li rdf:resource="http://kalamazoo.craigslist.org/cpg/3645887282.html" />
+  <rdf:li rdf:resource="http://kalamazoo.craigslist.org/cpg/3622078894.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://kalamazoo.craigslist.org/cpg/3697321969.html">
+<title><![CDATA[Graphic design student (Kalamazoo area)]]></title>
+<link>http://kalamazoo.craigslist.org/cpg/3697321969.html</link>
+<description><![CDATA[I am looking for a young, up and coming all star designer. This will pay some but would also be a portfolio piece. I have A LOT of business projects coming up and am looking for someone that I could ideally partner with long term. I would like to mee [...]]]></description>
+<dc:date>2013-03-22T13:39:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://kalamazoo.craigslist.org/cpg/3697321969.html</dc:source>
+<dc:title><![CDATA[Graphic design student (Kalamazoo area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:39:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://kalamazoo.craigslist.org/cpg/3629326087.html">
+<title><![CDATA[Computer Technician (Kalamazoo)]]></title>
+<link>http://kalamazoo.craigslist.org/cpg/3629326087.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Kalamazoo. We are a 24 hour computer repair service the Kalamazoo area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments around thei [...]]]></description>
+<dc:date>2013-03-20T09:16:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://kalamazoo.craigslist.org/cpg/3629326087.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Kalamazoo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:16:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://kalamazoo.craigslist.org/cpg/3654521468.html">
+<title><![CDATA[Looking for TECHIES, WEB DEVELOPERS and PROGRAMMERS]]></title>
+<link>http://kalamazoo.craigslist.org/cpg/3654521468.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-12T20:08:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://kalamazoo.craigslist.org/cpg/3654521468.html</dc:source>
+<dc:title><![CDATA[Looking for TECHIES, WEB DEVELOPERS and PROGRAMMERS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:08:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://kalamazoo.craigslist.org/cpg/3645887282.html">
+<title><![CDATA[Social media dating site w custom search & match feature ]]></title>
+<link>http://kalamazoo.craigslist.org/cpg/3645887282.html</link>
+<description><![CDATA[Looking for a well seasoned & honest MI computer programmer to build onto Skadating software or like functions that it has along with a custom search engine that will require much programming & coordination. Algorithms. Search & match criteria / func [...]]]></description>
+<dc:date>2013-02-26T19:14:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://kalamazoo.craigslist.org/cpg/3645887282.html</dc:source>
+<dc:title><![CDATA[Social media dating site w custom search & match feature ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T19:14:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://kalamazoo.craigslist.org/cpg/3622078894.html">
+<title><![CDATA[computer Marketing]]></title>
+<link>http://kalamazoo.craigslist.org/cpg/3622078894.html</link>
+<description><![CDATA[Looking for people who want to change their life and be the best in 2013. 
+If you are employed or unemployed I can help you achieve your financial goal. 
+Mamie Burks 
+Team Lead 
+We are a marketing company looking for experience in sales ]]></description>
+<dc:date>2013-02-16T15:41:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://kalamazoo.craigslist.org/cpg/3622078894.html</dc:source>
+<dc:title><![CDATA[computer Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T15:41:24-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

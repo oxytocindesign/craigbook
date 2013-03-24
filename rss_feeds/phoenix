@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://phoenix.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in phoenix</title>
+<link>http://phoenix.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://phoenix.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in phoenix</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:27:13-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3702057390.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3698230649.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3701806668.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3701595619.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3701212615.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3700894433.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3695548168.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3700222984.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3700204709.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3688810521.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3700017802.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3692519458.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3694106744.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3699557105.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3693751235.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3698611874.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3698482780.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3698469492.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3698455825.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3697874570.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3697745248.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3697675519.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3697547779.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3697076808.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3696493239.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3696367398.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3696172449.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3663853534.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3694142334.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3660558554.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3693959532.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3693268270.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3692345154.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3692305222.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3692069111.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3691994933.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3683452190.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3652989981.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3691251512.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3691159418.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3675529500.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3690595532.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3690282963.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3674060981.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3689593580.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3688782254.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3688628975.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3688558225.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3687628007.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3687448116.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3687181133.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3687115809.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3682575230.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3686621990.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3682159823.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3685823802.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3685728844.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3685129789.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3683704297.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3683477672.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3683189596.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3683091226.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3681753587.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3681695358.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3681691723.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3681619282.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3681614350.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3681581142.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3681476255.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3668423700.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3681025251.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3680892640.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3680833570.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3680174817.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3679715716.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3679356973.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3679245435.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3678806098.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3678520167.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3644982788.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3677877208.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3677670627.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3677272076.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3677160246.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3676597867.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3676526068.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3676504277.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3676489439.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3676453775.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3676406597.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3648225590.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3672940886.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3670658011.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/wvl/cpg/3670646575.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/cph/cpg/3670548978.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3665392930.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/evl/cpg/3670202356.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3669021311.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3599695019.html" />
+  <rdf:li rdf:resource="http://phoenix.craigslist.org/nph/cpg/3667634076.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3702057390.html">
+<title><![CDATA[Can anyone help me with my stereo... (N Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3702057390.html</link>
+<description><![CDATA[I desperately need help getting my stereo connected. I am a single woman and a true music lover who can not get my stereo & speakers to connect to my computer!! I've always been fairly good with these things, however I can not seem to get it done thi [...]]]></description>
+<dc:date>2013-03-24T22:10:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3702057390.html</dc:source>
+<dc:title><![CDATA[Can anyone help me with my stereo... (N Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:10:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3698230649.html">
+<title><![CDATA[eBay Help Looking for help listing on eBay/ Thanks]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3698230649.html</link>
+<description><![CDATA[eBay Help 
+Looking for help listing on eBay/ Thanks]]></description>
+<dc:date>2013-03-24T22:05:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3698230649.html</dc:source>
+<dc:title><![CDATA[eBay Help Looking for help listing on eBay/ Thanks]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:05:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3701806668.html">
+<title><![CDATA[Need a graphic artist to create boardgame hex layer (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3701806668.html</link>
+<description><![CDATA[I need an aspiring graphic artist to create a base level hexagon map for me for board wargaming. This base layer would include a hexagon grid and grid coordinates. The graphics of the boardgame would need to developed next, but that isn't part of the [...]]]></description>
+<dc:date>2013-03-24T18:29:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3701806668.html</dc:source>
+<dc:title><![CDATA[Need a graphic artist to create boardgame hex layer (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:29:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3701595619.html">
+<title><![CDATA[PHP developer]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3701595619.html</link>
+<description><![CDATA[Looking for someone to help with website maintenance on an ongoing basis. It is an E-commerce site with PHP coding. Not looking for advanced PHP 'gurus'. Just want someone who can help our architect out. Reply to this email if interested.]]></description>
+<dc:date>2013-03-24T16:16:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3701595619.html</dc:source>
+<dc:title><![CDATA[PHP developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T16:16:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3701212615.html">
+<title><![CDATA[need SketchUp tutor (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3701212615.html</link>
+<description><![CDATA[I am looking for someone to teach me how to use SketchUp to accomplish two specific goals: 
+1) reproduce a 2D finish line map and learn how to manipulate it 
+2) reproduce/create a 3D map of various parking lots with trailers and trucks in it. Need to [...]]]></description>
+<dc:date>2013-03-24T12:42:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3701212615.html</dc:source>
+<dc:title><![CDATA[need SketchUp tutor (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:42:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3700894433.html">
+<title><![CDATA[COMPUTER GURU NEEDED (MESA AZ)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3700894433.html</link>
+<description><![CDATA[we're looking to hire a computer wiz for a contract job. Must be able to do hacking! That is the most important requirement. If you can hack anything, and in a timely manner, You will have lots of jobs from us. Reply with your name and phone number.  [...]]]></description>
+<dc:date>2013-03-24T09:59:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3700894433.html</dc:source>
+<dc:title><![CDATA[COMPUTER GURU NEEDED (MESA AZ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:59:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3695548168.html">
+<title><![CDATA[Need Sales/Marketing guru for new Software Services Company (North Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3695548168.html</link>
+<description><![CDATA[Looking for an experienced Sales & Marketing guru to help us get new customers for our IT Consulting and Software Sales company. 
+This is not an offer of paid employment, but we will contract with you to receive a portion of the Software fees earned  [...]]]></description>
+<dc:date>2013-03-24T08:53:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3695548168.html</dc:source>
+<dc:title><![CDATA[Need Sales/Marketing guru for new Software Services Company (North Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T08:53:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3700222984.html">
+<title><![CDATA[I would like my laptop or pc loaded with web development software (east valley)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3700222984.html</link>
+<description><![CDATA[Let me know what programs software you can upload am willing to pay a fair price. 
+If you can teach me the basics include your hourly rate.]]></description>
+<dc:date>2013-03-23T20:52:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3700222984.html</dc:source>
+<dc:title><![CDATA[I would like my laptop or pc loaded with web development software (east valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:52:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3700204709.html">
+<title><![CDATA[iPhone Tech Needed ASAP (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3700204709.html</link>
+<description><![CDATA[Looking for a part time/Full Time IPhone Ipad Ipod repair Tech, For Local Buisness please feel free to call for more info @ 575-621-9524 Daisy]]></description>
+<dc:date>2013-03-23T20:34:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3700204709.html</dc:source>
+<dc:title><![CDATA[iPhone Tech Needed ASAP (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:34:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3688810521.html">
+<title><![CDATA[Part time office help (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3688810521.html</link>
+<description><![CDATA[Rentals Tempe is a busy property management company. We are looking for a dedicated, hardworking self-starter to manage our day to day affairs. Answering phones, handling tenant concerns, showing properties (must have own vehicle), filing, advertisin [...]]]></description>
+<dc:date>2013-03-23T20:01:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3688810521.html</dc:source>
+<dc:title><![CDATA[Part time office help (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:01:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3700017802.html">
+<title><![CDATA[Autocad, or like, for invention idea (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3700017802.html</link>
+<description><![CDATA[Hi there... Pretty broke single mom has a multi-million idea product. Perfect for "as seen on TV" type product....will sell millions!! 
+I am far from an engineer...I just know how the product should look and function. 
+With a 3d illustration, and my  [...]]]></description>
+<dc:date>2013-03-23T17:54:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3700017802.html</dc:source>
+<dc:title><![CDATA[Autocad, or like, for invention idea (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T17:54:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3692519458.html">
+<title><![CDATA[Developer Needed]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3692519458.html</link>
+<description><![CDATA[I need a developer with experience in html5, php, mysql and web application development. 
+I currently have a web application that I need duplicated onto a new server, have features removed and add another smaller feature. I also had the UI redesigned [...]]]></description>
+<dc:date>2013-03-23T14:05:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3692519458.html</dc:source>
+<dc:title><![CDATA[Developer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:05:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3694106744.html">
+<title><![CDATA[Sales Help Needed (AZ)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3694106744.html</link>
+<description><![CDATA[I am overwhelmed with incoming leads for my software company that I need help following up on via phone and email. 
+I can pay you $100-$300 per sale, and provide all the leads you can handle. You can choose the hours/schedule you like, and are free t [...]]]></description>
+<dc:date>2013-03-23T14:05:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3694106744.html</dc:source>
+<dc:title><![CDATA[Sales Help Needed (AZ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:05:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3699557105.html">
+<title><![CDATA[Seeking a partner for a website I wanna create. (Gilbert)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3699557105.html</link>
+<description><![CDATA[Please email me if you have experience in Affiliate Authority niche marketing. ]]></description>
+<dc:date>2013-03-23T13:14:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3699557105.html</dc:source>
+<dc:title><![CDATA[Seeking a partner for a website I wanna create. (Gilbert)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:14:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3693751235.html">
+<title><![CDATA[CELLULAR PHONE REPAIR TECH NEEDED ASAP  (1319 W.INDIANSCHOOL RD)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3693751235.html</link>
+<description><![CDATA[WE NEED A TECHNICIAN WHO CAN REPAIR ALL TYPES OF CELL PHONES SCREENS LCDS DIGITIZERS,CHARGING PORTS ETC MUST HAVE VERIFIABLE EXPERIENCE CALL NOW TO SET UP AN INTERVIEW 602 348 3402 /602 374 5335]]></description>
+<dc:date>2013-03-23T09:21:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3693751235.html</dc:source>
+<dc:title><![CDATA[CELLULAR PHONE REPAIR TECH NEEDED ASAP  (1319 W.INDIANSCHOOL RD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:21:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3698611874.html">
+<title><![CDATA[Re: Looking for Website Wizard for New Reality TV Show (DreamLand)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3698611874.html</link>
+<description><![CDATA[We've got all kinds of money and backing, but we'd like you to work for practically nothing....because WE DIDN'T KNOW ALL ALONG THAT AN INTERNET PRESNCE WOULD BE THAT IMPORTANT. 
+A) You'll never get anybody GOOD for free 
+B) Who ever does accept your [...]]]></description>
+<dc:date>2013-03-23T03:50:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3698611874.html</dc:source>
+<dc:title><![CDATA[Re: Looking for Website Wizard for New Reality TV Show (DreamLand)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T03:50:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3698482780.html">
+<title><![CDATA[run an ebay stamp rare stamp selling business (scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3698482780.html</link>
+<description><![CDATA[sell a stamp and get 10% of profit on$20-$30 valued stamps 
+sell many stamps and get higher dollar stamps to sell as incentive 
+602 eight85 3498 
+interesting job for an ebay lister or as a hobby, great for a start up business ]]></description>
+<dc:date>2013-03-22T22:56:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3698482780.html</dc:source>
+<dc:title><![CDATA[run an ebay stamp rare stamp selling business (scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:56:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3698469492.html">
+<title><![CDATA[detailed bookkeeper needed (Brown/Higley)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3698469492.html</link>
+<description><![CDATA[Need help finishing data entry of 2009 bank statements for a client. 
+I have 2 spreadsheets, one for CC charges & one for my bank check registers which need merged together my month, sorted by business and then sort each by account (Utilities, advert [...]]]></description>
+<dc:date>2013-03-22T22:37:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3698469492.html</dc:source>
+<dc:title><![CDATA[detailed bookkeeper needed (Brown/Higley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:37:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3698455825.html">
+<title><![CDATA[Need help building an online forum (anywhere)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3698455825.html</link>
+<description><![CDATA[I'm looking for some help building an online forum website. I have already secured the domain name. I have experience with websties but I have never done a forum before. Looking for help selecting the best forum software, installing software, buildin [...]]]></description>
+<dc:date>2013-03-22T22:18:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3698455825.html</dc:source>
+<dc:title><![CDATA[Need help building an online forum (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:18:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3697874570.html">
+<title><![CDATA[iPhone Tech Needed ASAP (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3697874570.html</link>
+<description><![CDATA[Looking for a part time/Full Time IPhone Ipad Ipod repair Tech, For Local Buisness please feel free to call for more info @ 575-621-9524 Daisy]]></description>
+<dc:date>2013-03-22T15:02:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3697874570.html</dc:source>
+<dc:title><![CDATA[iPhone Tech Needed ASAP (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:02:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3697745248.html">
+<title><![CDATA[Need Wordpress Help For Ad Widget]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3697745248.html</link>
+<description><![CDATA[My site is http://www.superofficialnews.com 
+The home page is divided into 3 vertical sections. 
+The left and and middle section I have full control over just for the home page. 
+The right section is the primary section and is on every page of the si [...]]]></description>
+<dc:date>2013-03-22T13:55:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3697745248.html</dc:source>
+<dc:title><![CDATA[Need Wordpress Help For Ad Widget]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:55:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3697675519.html">
+<title><![CDATA[Mass Emailing Help ]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3697675519.html</link>
+<description><![CDATA[I need a way to increase my deliverability for mass emails (500k emails a month) as my current setup isn't delivering. 
+If you can help me with this, shoot me a message. ]]></description>
+<dc:date>2013-03-22T13:21:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3697675519.html</dc:source>
+<dc:title><![CDATA[Mass Emailing Help ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:21:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3697547779.html">
+<title><![CDATA[Systems Engineer (IT) (Valley Wide)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3697547779.html</link>
+<description><![CDATA[Description 
+The Sr. System Engineer/Consultant role is to plan, design, analyze and implement IT solutions for our customer according to best practices. Solutions include but are not limited to storage, server OS, messaging, infrastructure & virtual [...]]]></description>
+<dc:date>2013-03-22T12:20:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3697547779.html</dc:source>
+<dc:title><![CDATA[Systems Engineer (IT) (Valley Wide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:20:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3697076808.html">
+<title><![CDATA[Startup seeks PHP and Wordpress Guru (Gilbert)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3697076808.html</link>
+<description><![CDATA[A local boot-strapped startup is looking for someone local who has extensive experience customizing Wordpress (plugin and template development) and programing in PHP (with Apache, MYSQL integration). A paid contract and/or equity position will be off [...]]]></description>
+<dc:date>2013-03-22T08:54:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3697076808.html</dc:source>
+<dc:title><![CDATA[Startup seeks PHP and Wordpress Guru (Gilbert)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:54:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3696493239.html">
+<title><![CDATA[Need a sales guy]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3696493239.html</link>
+<description><![CDATA[I'm looking for someone that can sell opportunities. 
+If you can sale a product that costs $25 and willing to make 100% commissions. 
+Email me! I have a business opportunity for you! ]]></description>
+<dc:date>2013-03-21T22:01:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3696493239.html</dc:source>
+<dc:title><![CDATA[Need a sales guy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T22:01:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3696367398.html">
+<title><![CDATA[Bid wanted to install Lorex Camera System (Power Road)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3696367398.html</link>
+<description><![CDATA[Bid wanted to install and set up a Lorex 8 Camera Home Security Camera System. Turn key bid accepted only, no "by the hour". I'll furnish the complete system as boxed. You furnish the labor, nuts, bolts, screws, ladder etc. to make it work including  [...]]]></description>
+<dc:date>2013-03-21T19:54:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3696367398.html</dc:source>
+<dc:title><![CDATA[Bid wanted to install Lorex Camera System (Power Road)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T19:54:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3696172449.html">
+<title><![CDATA[Create a company logo for a custom cake company (Peoria)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3696172449.html</link>
+<description><![CDATA[Hi my name is Danielle and I have a custom cake buisness, I can pay $50.00 or provide a custom cake valued at $75.00 for a new company logo, I would like to use it for all my pictures/website/facebook/buisness cards etc, so I would need to be able to [...]]]></description>
+<dc:date>2013-03-21T17:33:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3696172449.html</dc:source>
+<dc:title><![CDATA[Create a company logo for a custom cake company (Peoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:33:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3663853534.html">
+<title><![CDATA[Needed: Experienced Apple iOS Mobile Developer (New York City)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3663853534.html</link>
+<description><![CDATA[About Us: 
+We are a social product development company that brings consumer product ideas from sketch to store every week, and rewards the thousands of contributors to these products with a share of the revenue generated by their sale. We make invent [...]]]></description>
+<dc:date>2013-03-21T12:06:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3663853534.html</dc:source>
+<dc:title><![CDATA[Needed: Experienced Apple iOS Mobile Developer (New York City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:06:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3694142334.html">
+<title><![CDATA[Need SalesForce Guru (Scottsdale Airpark)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3694142334.html</link>
+<description><![CDATA[Looking for a highly experienced person that can customize our Salesforce CRM. We are an investment company located in N. Scottsdale. This will not be more than a few hours of work, for someone who really knows the system. A quick consultation job fo [...]]]></description>
+<dc:date>2013-03-20T17:40:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3694142334.html</dc:source>
+<dc:title><![CDATA[Need SalesForce Guru (Scottsdale Airpark)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:40:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3660558554.html">
+<title><![CDATA[Accountant/Bookkeeper Needed (Gilbert)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3660558554.html</link>
+<description><![CDATA[Position currently available for BOOKKEEPER: 
+Must have general accounting and administrative skills. Will be dealing with confidential information that is time sensitive. Must be able to think on your feet, multi-task and take direction in a very fa [...]]]></description>
+<dc:date>2013-03-20T16:12:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3660558554.html</dc:source>
+<dc:title><![CDATA[Accountant/Bookkeeper Needed (Gilbert)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:12:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3693959532.html">
+<title><![CDATA[Internet marketer (phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3693959532.html</link>
+<description><![CDATA[Got internet savy? Good blogger? Then you could make a good second income from this opportunity! 
+CLICK THE MONEY BUTTON ]]></description>
+<dc:date>2013-03-20T15:56:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3693959532.html</dc:source>
+<dc:title><![CDATA[Internet marketer (phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:56:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3693268270.html">
+<title><![CDATA[Computer Technician Required (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3693268270.html</link>
+<description><![CDATA[Im looking for a refurb technician that has the ability to properly diagnose and repair laptops. Most will be os install motherboard and lcd replacements. Pay is at 9.00 an hr 30-40 hrs a week. ]]></description>
+<dc:date>2013-03-20T10:36:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3693268270.html</dc:source>
+<dc:title><![CDATA[Computer Technician Required (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:36:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3692345154.html">
+<title><![CDATA[Electrical stuff repair]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3692345154.html</link>
+<description><![CDATA[I'm looking for someone that know how to fix electrical stuff. Stereos, dj lights, computer etc. email me your info and I will contact you a ASAP, I have about 4 things that I need repaired. 
+I need rates.]]></description>
+<dc:date>2013-03-19T21:15:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3692345154.html</dc:source>
+<dc:title><![CDATA[Electrical stuff repair]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:15:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3692305222.html">
+<title><![CDATA[Im looking for people who are interested to work online (anywhere in az)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3692305222.html</link>
+<description><![CDATA[I am looking for someone to help me complete some activities online. I will pay cash, if certain requirements are met. Let me know soon]]></description>
+<dc:date>2013-03-19T20:39:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3692305222.html</dc:source>
+<dc:title><![CDATA[Im looking for people who are interested to work online (anywhere in az)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:39:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3692069111.html">
+<title><![CDATA[Social Media Programmer Needed]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3692069111.html</link>
+<description><![CDATA[We our looking for a recent graduate to come on board with us. Offering equity in a new social media company. Must have a understanding of computer programming 
+Please leave contact info with your background.]]></description>
+<dc:date>2013-03-19T17:53:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3692069111.html</dc:source>
+<dc:title><![CDATA[Social Media Programmer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:53:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3691994933.html">
+<title><![CDATA[Need setup phone line  (Surprise)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3691994933.html</link>
+<description><![CDATA[Need phone wiring from DMARC to suite punch block. Must be licensed, bonded and insured. Email for more details. ]]></description>
+<dc:date>2013-03-19T17:10:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3691994933.html</dc:source>
+<dc:title><![CDATA[Need setup phone line  (Surprise)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:10:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3683452190.html">
+<title><![CDATA[NEED JPEG FILE TO EPS FILE (MESA)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3683452190.html</link>
+<description><![CDATA[I HAVE A COUPLE OF JPEG FILES I'D LIKE TO TURN INTO EPS FILES. IF ANYONE CAN HELP FOR A REASONABLE PRICE PLEASE EMAIL ME. THANKS.]]></description>
+<dc:date>2013-03-19T16:46:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3683452190.html</dc:source>
+<dc:title><![CDATA[NEED JPEG FILE TO EPS FILE (MESA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:46:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3652989981.html">
+<title><![CDATA[Panasonic tv blinking light (Avondale)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3652989981.html</link>
+<description><![CDATA[I have a 6 yr old panasonic TH-42PZ77U(42" plasma tv). Won't turn on and the led light in the front blinks 10 times then stops for about 2 seconds then blinks 10 times again. Did some research but I'm no professional. Would like to have someone fix i [...]]]></description>
+<dc:date>2013-03-19T14:27:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3652989981.html</dc:source>
+<dc:title><![CDATA[Panasonic tv blinking light (Avondale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:27:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3691251512.html">
+<title><![CDATA[SEO and Site Building Needed (Dunlap Ave &amp; Central Ave)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3691251512.html</link>
+<description><![CDATA[We need an experience person to assist in SEO and web design for a small telemarketing room. This will start out as a part time gig and end up much more depending on your creativity and imagination. Be a self started. Paid according to what you add t [...]]]></description>
+<dc:date>2013-03-19T11:19:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3691251512.html</dc:source>
+<dc:title><![CDATA[SEO and Site Building Needed (Dunlap Ave &amp; Central Ave)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:19:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3691159418.html">
+<title><![CDATA[CMS Editor (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3691159418.html</link>
+<description><![CDATA[Looking for detailed person with CMS experience to add products to an e-commerce site. 
+This gig is to start immediately. 
+Please provide your relevant work experience and which CMS systems you have worked in. 
+Please provide your hourly rate.]]></description>
+<dc:date>2013-03-19T10:41:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3691159418.html</dc:source>
+<dc:title><![CDATA[CMS Editor (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:41:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3675529500.html">
+<title><![CDATA[Social Networking Help needed (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3675529500.html</link>
+<description><![CDATA[Country Music Tribute band looking to hire Social Networking guru that can 
+-create new social networking accounts 
+-set up the page 
+-design/fill in the info to have a professional image 
+We are also open to additional marketing ideas. 
+If you are i [...]]]></description>
+<dc:date>2013-03-19T10:10:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3675529500.html</dc:source>
+<dc:title><![CDATA[Social Networking Help needed (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:10:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3690595532.html">
+<title><![CDATA[Need Simple website (any where)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3690595532.html</link>
+<description><![CDATA[Hi 
+I need a simple website, Home, About us, Services, Contact page 
+For my small carpet cleaning business 
+html/css is fine 
+search engine freindly 
+and that is about it. 
+let me know cost, payment terms, sample of previous work, time frame 
+Tank Yo [...]]]></description>
+<dc:date>2013-03-19T06:21:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3690595532.html</dc:source>
+<dc:title><![CDATA[Need Simple website (any where)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T06:21:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3690282963.html">
+<title><![CDATA[Bitcoin (East Valley)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3690282963.html</link>
+<description><![CDATA[Need someone to assist with setting up a Bitcoin account. Instructions: https://bitcointalk.org/index.php?topic=5194.0 
+Thanks. Contact Leroy ]]></description>
+<dc:date>2013-03-18T21:57:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3690282963.html</dc:source>
+<dc:title><![CDATA[Bitcoin (East Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T21:57:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3674060981.html">
+<title><![CDATA[Social Media marketer/designer (apache junction)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3674060981.html</link>
+<description><![CDATA[Smartlaws.org is an Arizona non-profit that is dedicated to putting the control of our policies back into the hands of the voters. 
+How? Smartlaws members choose from a menu of initiatives that address issues that matter most. The most popular ones g [...]]]></description>
+<dc:date>2013-03-18T19:13:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3674060981.html</dc:source>
+<dc:title><![CDATA[Social Media marketer/designer (apache junction)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T19:13:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3689593580.html">
+<title><![CDATA[iPhone / iPad Word Game (East Valley)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3689593580.html</link>
+<description><![CDATA[Upgrade our existing word game app "All Words Up" to have multiplayer features. The app is similar to Bejeweled and Boggles word game. 
+Here's the URL to the Free App: http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=605028805 
+The f [...]]]></description>
+<dc:date>2013-03-18T14:47:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3689593580.html</dc:source>
+<dc:title><![CDATA[iPhone / iPad Word Game (East Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:47:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3688782254.html">
+<title><![CDATA[Small Job Selling Sports Memorabilia on Ebay (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3688782254.html</link>
+<description><![CDATA[Are you looking to make a quick, easy buck? Then this is the perfect small job for you!!!! 
+I need someone to sell a bunch of different sports memorabilia for me on ebay, mostly sports cards. In return for this, you will receive a commission on each, [...]]]></description>
+<dc:date>2013-03-18T09:15:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3688782254.html</dc:source>
+<dc:title><![CDATA[Small Job Selling Sports Memorabilia on Ebay (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T09:15:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3688628975.html">
+<title><![CDATA[Página para Captura de Clientes.]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3688628975.html</link>
+<description><![CDATA[Hola, necesito alguien que me diseñe una página para capturar clientes. Tengo la página en inglés pero la necesito en español. 
+Gracias por su atención e interés. 
+www.myuniquesystem.com 
+-Armando ]]></description>
+<dc:date>2013-03-18T08:13:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3688628975.html</dc:source>
+<dc:title><![CDATA[Página para Captura de Clientes.]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T08:13:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3688558225.html">
+<title><![CDATA[Drupal Web Developer (North Glendale)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3688558225.html</link>
+<description><![CDATA[Our company is in need of a web developer. We have the template, design, and site map all spelled out, we just need someone to make it all function on our website. This is not a full time position. It is a one time development, with potential for fut [...]]]></description>
+<dc:date>2013-03-18T07:41:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3688558225.html</dc:source>
+<dc:title><![CDATA[Drupal Web Developer (North Glendale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T07:41:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3687628007.html">
+<title><![CDATA[Teach me 3D AutoCAd (Chandler)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3687628007.html</link>
+<description><![CDATA[I'm looking for someone to teach me some basic 3D and 2D stuff in AutoCad 2012. I'm learning some stuff on the job but I need some after hours help. 
+Let me know if interested and we can work out some pricing. 
+Thanks]]></description>
+<dc:date>2013-03-17T16:34:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3687628007.html</dc:source>
+<dc:title><![CDATA[Teach me 3D AutoCAd (Chandler)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T16:34:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3687448116.html">
+<title><![CDATA[INTERNET SEARCH ENGINE/BLOG EXPERT NEEDED (ONLINE)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3687448116.html</link>
+<description><![CDATA[Savvy Internet Search Engine/Blog Expert needed to remove internet blog content or at minimum suppress/bury blogs that are being posted by a vindictive individual harassing me and my family. Willing to pay $ for results. Kindly email me and I will pr [...]]]></description>
+<dc:date>2013-03-17T14:47:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3687448116.html</dc:source>
+<dc:title><![CDATA[INTERNET SEARCH ENGINE/BLOG EXPERT NEEDED (ONLINE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T14:47:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3687181133.html">
+<title><![CDATA[Can you save my Fuji Instax camera? Zoom error (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3687181133.html</link>
+<description><![CDATA[My Fuji Instax 210 camera has only been in use for about 6 months. It dropped off the counter while it was off and now it is blinking "E" when I turn it on to take a picture. The lens extends all the way out but when you click to take a photo it wont [...]]]></description>
+<dc:date>2013-03-17T12:32:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3687181133.html</dc:source>
+<dc:title><![CDATA[Can you save my Fuji Instax camera? Zoom error (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T12:32:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3687115809.html">
+<title><![CDATA[Programmer Wanted (Golden Valley, Arizona)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3687115809.html</link>
+<description><![CDATA[Need independent webmaster for various projects from time to time. Prefer MYSQL database experience with Godaddy. Having slow query logging so i want an automatic optimization set for once a week and a page created for 404 soft errors. If you know ho [...]]]></description>
+<dc:date>2013-03-17T12:01:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3687115809.html</dc:source>
+<dc:title><![CDATA[Programmer Wanted (Golden Valley, Arizona)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T12:01:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3682575230.html">
+<title><![CDATA[App Developer]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3682575230.html</link>
+<description><![CDATA[Need skilled App Developer 
+Must know coding to build Apps 
+Be hard working. No bull No excuses 
+Work in Android and IOS 
+Text name and available time to 602-881-2474]]></description>
+<dc:date>2013-03-17T09:59:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3682575230.html</dc:source>
+<dc:title><![CDATA[App Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:59:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3686621990.html">
+<title><![CDATA[stuff envelopes every sunday (phx)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3686621990.html</link>
+<description><![CDATA[stuff envelpoes every sunday for cash at my home office paid the day you work 
+also secreterial work data entry etc]]></description>
+<dc:date>2013-03-17T07:50:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3686621990.html</dc:source>
+<dc:title><![CDATA[stuff envelopes every sunday (phx)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T07:50:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3682159823.html">
+<title><![CDATA[Be a Mobile Marketing Hero to Businesses in your Area (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3682159823.html</link>
+<description><![CDATA[Loyalty Marketing WILL be the Next Big Thing 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-16T21:52:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3682159823.html</dc:source>
+<dc:title><![CDATA[Be a Mobile Marketing Hero to Businesses in your Area (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:52:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3685823802.html">
+<title><![CDATA[looking for a programmer (anywhere)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3685823802.html</link>
+<description><![CDATA[im a designer looking for a programmer to team up with for web design projects.]]></description>
+<dc:date>2013-03-16T16:42:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3685823802.html</dc:source>
+<dc:title><![CDATA[looking for a programmer (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T16:42:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3685728844.html">
+<title><![CDATA[Android game players required]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3685728844.html</link>
+<description><![CDATA[We'll be launching a game to the Google Play store soon and require Android phone/tablet users to try it out before we go live. The gig is unpaid but we are giving away daily prizes of $30-$50 value to players for the next eight weeks. 
+Interested? J [...]]]></description>
+<dc:date>2013-03-16T15:44:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3685728844.html</dc:source>
+<dc:title><![CDATA[Android game players required]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:44:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3685129789.html">
+<title><![CDATA[Websiste Graphic & Design (North Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3685129789.html</link>
+<description><![CDATA[I have a site project that I need to graphic and design work performed on. If you are available immediately and can work in Photoshop and Illustrator please get back to me. I am in located in the north Phoenix area and am looking to meet up shortly.]]></description>
+<dc:date>2013-03-16T10:52:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3685129789.html</dc:source>
+<dc:title><![CDATA[Websiste Graphic & Design (North Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:52:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3683704297.html">
+<title><![CDATA[Windows 7 Specialist  (phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3683704297.html</link>
+<description><![CDATA[In need of a Windows 7 Specialist who currently has exam 073-680 Windows 7 configuring certification . Will need to submit copy of the score report to show proficiency along with resume. Pay is is between 18-20 an hour benefits after 90 days]]></description>
+<dc:date>2013-03-15T15:34:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3683704297.html</dc:source>
+<dc:title><![CDATA[Windows 7 Specialist  (phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T15:34:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3683477672.html">
+<title><![CDATA[Web/App Programmer Needed! (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3683477672.html</link>
+<description><![CDATA[My partner and I are both students @ Arizona State University currently in the development stage of an app idea we plan to launch soon. For about a year now my partner and I have been developing the blueprint (revenue strategy, marking strategy, func [...]]]></description>
+<dc:date>2013-03-15T13:44:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3683477672.html</dc:source>
+<dc:title><![CDATA[Web/App Programmer Needed! (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T13:44:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3683189596.html">
+<title><![CDATA[Looking for small companies (PHX/Scottsdale/Glendale)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3683189596.html</link>
+<description><![CDATA[Hi, 
+I am looking for small companies, retailers anybody who needs someone to place positive reviews for their establishment on - 
+Insider Pages 
+Yelp 
+Merchants Circle 
+Epinions 
+site jabber 
+Contact Michael 
+(602) nine-three-zero -- three-one-three [...]]]></description>
+<dc:date>2013-03-15T11:36:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3683189596.html</dc:source>
+<dc:title><![CDATA[Looking for small companies (PHX/Scottsdale/Glendale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T11:36:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3683091226.html">
+<title><![CDATA[Construction Accountant  (Mesa)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3683091226.html</link>
+<description><![CDATA[We are a General Contractors office looking to hire a Construction Accountant/ Project Administrator. 
+Must know Advanced Quickbooks and Excel. 
+The office is located at Pecos and Sossaman. 
+Please provide a resume, project history and salary require [...]]]></description>
+<dc:date>2013-03-15T10:54:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3683091226.html</dc:source>
+<dc:title><![CDATA[Construction Accountant  (Mesa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:54:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3681753587.html">
+<title><![CDATA[STEREO & ALARM INSTALLER FULLTIME  (CAMELBACK &amp; 19th AVE )]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3681753587.html</link>
+<description><![CDATA[HIRING A FULLTIME CAR ALARM & STEREO INSTALLER AND TROUBLES SHOOTING 
+LOOK FOR SOMEONE WHO KNOWS HOW TO INSTALL CAR ALARMS NEED THIS POSITION FILLED ASAP PLEASE CALL 602-475-0792 OR EMAIL ME AT richm10121@gmail.com FOR INTERVIEW Pay based on EXPERIEN [...]]]></description>
+<dc:date>2013-03-14T17:00:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3681753587.html</dc:source>
+<dc:title><![CDATA[STEREO & ALARM INSTALLER FULLTIME  (CAMELBACK &amp; 19th AVE )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T17:00:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3681695358.html">
+<title><![CDATA[Email Marketing ]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3681695358.html</link>
+<description><![CDATA[Looking for a developer to program an email marketing system or someone to provide or set up an email hosting service. We have a list of over 8,000 emails addresses and would like to send an email to that list once a day (we have multiple flyers for  [...]]]></description>
+<dc:date>2013-03-14T16:29:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3681695358.html</dc:source>
+<dc:title><![CDATA[Email Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:29:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3681691723.html">
+<title><![CDATA[Wordpress Menu Fix (Mesa, AZ)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3681691723.html</link>
+<description><![CDATA[First let me state that I don't need an entire development project, SEO, or marketing help. If you send an entire bio about what you do, it will be ignored. This project should be relatively simple for someone who has worked in Wordpress and PHP. If  [...]]]></description>
+<dc:date>2013-03-14T16:27:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3681691723.html</dc:source>
+<dc:title><![CDATA[Wordpress Menu Fix (Mesa, AZ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:27:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3681619282.html">
+<title><![CDATA[Telemarketer (Queen Creek)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3681619282.html</link>
+<description><![CDATA[We are a highly ambitious, grounded and down to earth telemarketing company focusing primarily on pest control services nationwide. 
+With our rapid growth we are seeking another individual to join our comfortable team from 12 to 9 M-F. 
+Please inquir [...]]]></description>
+<dc:date>2013-03-14T15:49:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3681619282.html</dc:source>
+<dc:title><![CDATA[Telemarketer (Queen Creek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T15:49:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3681614350.html">
+<title><![CDATA[Adult Web help with CSS skills (east valley)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3681614350.html</link>
+<description><![CDATA[Local small business needs help launching a banner onto our web site. I am wanting to link to our distributor in order to have our customers not have to leave our web site to order their products. I believe I basically just need to have a banner on o [...]]]></description>
+<dc:date>2013-03-14T15:47:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3681614350.html</dc:source>
+<dc:title><![CDATA[Adult Web help with CSS skills (east valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T15:47:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3681581142.html">
+<title><![CDATA[Home business]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3681581142.html</link>
+<description><![CDATA[Big money. we need network specialist. go to meeting today at 8pm. www.eggoflife.com/team. if You like it call me 602-370-7007 George Sadoian . we need Russian and Armenian speakers to. thanks]]></description>
+<dc:date>2013-03-14T15:30:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3681581142.html</dc:source>
+<dc:title><![CDATA[Home business]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T15:30:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3681476255.html">
+<title><![CDATA[WoodPress Wizard! We need you- now! (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3681476255.html</link>
+<description><![CDATA[WordPress Wizard- we need you! And you must be LOCAL, here in the sunny Phoenix Metro area. 
+We are doing an install of a responsive WP theme from Themeforest. It's going to take lots of massaging to get it right. 
+If you have graphic design acumen,  [...]]]></description>
+<dc:date>2013-03-14T14:38:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3681476255.html</dc:source>
+<dc:title><![CDATA[WoodPress Wizard! We need you- now! (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:38:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3668423700.html">
+<title><![CDATA[Looking 4 Excel Guru (Central Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3668423700.html</link>
+<description><![CDATA[I am looking for someone that knows everything there is to know about Excel. I am willing to pay 15 and hour for two hour sessions for one two or three weeks depending on the speed of my progress. If your interested please email me and let me know yo [...]]]></description>
+<dc:date>2013-03-14T14:21:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3668423700.html</dc:source>
+<dc:title><![CDATA[Looking 4 Excel Guru (Central Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:21:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3681025251.html">
+<title><![CDATA[Home business]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3681025251.html</link>
+<description><![CDATA[I need 10 network specialist for work in new company like distributor. big money. spick russian or armenian is better. call 602-370-7007.]]></description>
+<dc:date>2013-03-14T11:18:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3681025251.html</dc:source>
+<dc:title><![CDATA[Home business]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T11:18:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3680892640.html">
+<title><![CDATA[Chance of a life time (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3680892640.html</link>
+<description><![CDATA[I am looking for some one that can build my company a e-commerce site. Site must be high quality, easy to navigate, and functional. I do like the visual appeal of T-nation.com, take a moment to look at this site for an example. I can explain in full  [...]]]></description>
+<dc:date>2013-03-14T10:23:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3680892640.html</dc:source>
+<dc:title><![CDATA[Chance of a life time (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:23:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3680833570.html">
+<title><![CDATA[Looking for a Web Designer (Central Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3680833570.html</link>
+<description><![CDATA[I am looking for an entry level Web Designer to help me launch my new company. I don't have much money but this would be perfect for a college student looking to get his or her foot in the door. I would totally let you put your stamp on the site and  [...]]]></description>
+<dc:date>2013-03-14T09:58:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3680833570.html</dc:source>
+<dc:title><![CDATA[Looking for a Web Designer (Central Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T09:58:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3680174817.html">
+<title><![CDATA[Web Designer/Coder (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3680174817.html</link>
+<description><![CDATA[I am looking for a person with coding and web design experience. 
+This is a paid job at $200 with an opportunity to possibly continue doing work for us since the website will need to be updated in the future. 
+If you're interested in this opportunity [...]]]></description>
+<dc:date>2013-03-14T00:41:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3680174817.html</dc:source>
+<dc:title><![CDATA[Web Designer/Coder (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T00:41:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3679715716.html">
+<title><![CDATA[Collector/ Sales Rep (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3679715716.html</link>
+<description><![CDATA[Looking for money motivated ladies with AGGRESSIVE ATTITUDE. Also fellas with deep voices that want to make hourly wage as well as a bonus check! 
+KEY WORDS ***Collections Bonus Money Sales Costumer Service Closer Collection Collector Tempe]]></description>
+<dc:date>2013-03-13T17:48:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3679715716.html</dc:source>
+<dc:title><![CDATA[Collector/ Sales Rep (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T17:48:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3679356973.html">
+<title><![CDATA[Research on Java and Struts (Phoenix / Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3679356973.html</link>
+<description><![CDATA[Hi; 
+I need someone to do a research for me. I am creating a web application that needs URL re-writing like in facebook. For example, your first name is john and last name is smith, your URL will be something like http://www.testapplication.com/johns [...]]]></description>
+<dc:date>2013-03-13T14:40:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3679356973.html</dc:source>
+<dc:title><![CDATA[Research on Java and Struts (Phoenix / Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T14:40:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3679245435.html">
+<title><![CDATA[Android UI Developer Needed (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3679245435.html</link>
+<description><![CDATA[Hi, 
+I need a freelance android developer, to assist with me with couple of apps, who is excellent with UI work. SQLLite experience is preferred but not required. 
+Please respond with any reference apps on Play Store or link to portfolio; phone numbe [...]]]></description>
+<dc:date>2013-03-13T13:48:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3679245435.html</dc:source>
+<dc:title><![CDATA[Android UI Developer Needed (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T13:48:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3678806098.html">
+<title><![CDATA[$50 for a 60-minute usability study on Wednesday, March 20th (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3678806098.html</link>
+<description><![CDATA[$50 for a 60-minute usability study on Friday, March 15th and Wednesday, March 20th 
+I'm seeking participants for 60-minute usability interviews this Friday (March 15th) and next Wednesday (March 20th). Participants will receive a $50 Amazon gift car [...]]]></description>
+<dc:date>2013-03-13T10:46:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3678806098.html</dc:source>
+<dc:title><![CDATA[$50 for a 60-minute usability study on Wednesday, March 20th (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T10:46:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3678520167.html">
+<title><![CDATA[FileMaker Pro Developer Wanted]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3678520167.html</link>
+<description><![CDATA[Looking for a FilerMaker Pro 12 expert who can assist in transferring and setup a database to replace a large excel file. 
+Pls call 408.520.7644 ]]></description>
+<dc:date>2013-03-13T08:53:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3678520167.html</dc:source>
+<dc:title><![CDATA[FileMaker Pro Developer Wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T08:53:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3644982788.html">
+<title><![CDATA[Multi Media Specialist | Digital Marketing (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3644982788.html</link>
+<description><![CDATA[Currently searching for a Multi Media Specialist strong on Web Development Skills with an eye for design, strong Communications Skills and experience with Social Media Strategies. Successful candidate will lead the effort to build the Knowledge Manag [...]]]></description>
+<dc:date>2013-03-13T08:23:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3644982788.html</dc:source>
+<dc:title><![CDATA[Multi Media Specialist | Digital Marketing (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T08:23:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3677877208.html">
+<title><![CDATA[Malware analysis (Scottsdale)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3677877208.html</link>
+<description><![CDATA[Looking for someone experienced in malware analytics.. Java de-obfuscation. Malware analysis tools. Writing scripts would be helpful as well. ]]></description>
+<dc:date>2013-03-12T22:32:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3677877208.html</dc:source>
+<dc:title><![CDATA[Malware analysis (Scottsdale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T22:32:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3677670627.html">
+<title><![CDATA[HTML/CSS front end developer (North Central Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3677670627.html</link>
+<description><![CDATA[Seeking a front end developer/designed to work their magic on our system. We are the leading company in our market and rapidly growing, and our system is in need of some TLC to update the user interface and clean up the design. The system is a large, [...]]]></description>
+<dc:date>2013-03-12T19:37:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3677670627.html</dc:source>
+<dc:title><![CDATA[HTML/CSS front end developer (North Central Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T19:37:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3677272076.html">
+<title><![CDATA[Home business]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3677272076.html</link>
+<description><![CDATA[I need network specialist with Russian or Armenian language. call me 602-370-7007]]></description>
+<dc:date>2013-03-12T16:01:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3677272076.html</dc:source>
+<dc:title><![CDATA[Home business]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T16:01:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3677160246.html">
+<title><![CDATA[Website/App Programmer In Need (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3677160246.html</link>
+<description><![CDATA[Web/App Programmer Needed!!! (Tempe ) 
+My partner and I are both students @ Arizona State University currently in the development stage of an app idea we plan to launch soon. For about a year now my partner and I have been developing the blueprint (r [...]]]></description>
+<dc:date>2013-03-12T15:09:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3677160246.html</dc:source>
+<dc:title><![CDATA[Website/App Programmer In Need (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T15:09:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3676597867.html">
+<title><![CDATA[Camastia Screen Shot Professional Wanted (Tempe)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3676597867.html</link>
+<description><![CDATA[We are seeking a camtasia professional to assist us with our screen shot videos. 
+We have several tutorial and informational videos we would like to create. 
+MUST be Camtasia it similar program. 
+Please email if you are interested. 
+Provide a link to [...]]]></description>
+<dc:date>2013-03-12T11:22:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3676597867.html</dc:source>
+<dc:title><![CDATA[Camastia Screen Shot Professional Wanted (Tempe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T11:22:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3676526068.html">
+<title><![CDATA[T1/DSL Technician (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3676526068.html</link>
+<description><![CDATA[We are looking for technicians to perform field installations in the Phoenix area. We provide subcontract work to independent technicians and smaller companies. -The installations involve the tech installing onsite CPE (ie: T1, DSL, VoIP) and perform [...]]]></description>
+<dc:date>2013-03-12T10:56:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3676526068.html</dc:source>
+<dc:title><![CDATA[T1/DSL Technician (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:56:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3676504277.html">
+<title><![CDATA[Looking for an Mobile Game Developer Business Partner (Greater Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3676504277.html</link>
+<description><![CDATA[I have a background in Game Production. I am looking for a partner that can split the finances. We don't have to be tied down to a specific project. My goal is to find someone with a similar mindset who wants to partner together and retire as soon as [...]]]></description>
+<dc:date>2013-03-12T10:47:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3676504277.html</dc:source>
+<dc:title><![CDATA[Looking for an Mobile Game Developer Business Partner (Greater Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:47:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3676489439.html">
+<title><![CDATA[PT ADMIN ASSISTANT - Entry Level  (91st Ave / Union Hills)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3676489439.html</link>
+<description><![CDATA[Well Established Marketing Agency Now hiring for Entry Level Admin Assistant 
+Duties Included 
+- Database Creation 
+- Mailings 
+- Answering Inbound/Outbound Customer Service Calls (lite) 
+- Data entry 
+- blog posting 
+Skills Required 
+AWESOME PERSONA [...]]]></description>
+<dc:date>2013-03-12T10:42:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3676489439.html</dc:source>
+<dc:title><![CDATA[PT ADMIN ASSISTANT - Entry Level  (91st Ave / Union Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:42:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3676453775.html">
+<title><![CDATA[home business]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3676453775.html</link>
+<description><![CDATA[I need network specialist. call602-370-7007]]></description>
+<dc:date>2013-03-12T10:28:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3676453775.html</dc:source>
+<dc:title><![CDATA[home business]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:28:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3676406597.html">
+<title><![CDATA[Need Admin Assistant/ Familiar with Iphone/Outlook Calendar (NE Valley)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3676406597.html</link>
+<description><![CDATA[I need to find an experienced Admin Assistant/ Personal Assistant who is VERY experienced with Outlook calendars, scheduling etc. and who also knows an Iphone and how to sync etc. I will pay you as a consultant to help me learn how to manage my sched [...]]]></description>
+<dc:date>2013-03-12T10:11:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3676406597.html</dc:source>
+<dc:title><![CDATA[Need Admin Assistant/ Familiar with Iphone/Outlook Calendar (NE Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:11:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3648225590.html">
+<title><![CDATA[Developer to collab with (AZ)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3648225590.html</link>
+<description><![CDATA[Hey! 
+I'm a web/ui designer in Tempe, looking for a talented developer to collaborate with on a few projects. I want someone who would be interested in getting together once a week to jam on some side projects which we could split the profits. Also,  [...]]]></description>
+<dc:date>2013-03-11T19:49:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3648225590.html</dc:source>
+<dc:title><![CDATA[Developer to collab with (AZ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T19:49:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3672940886.html">
+<title><![CDATA[Talented Web Designers - Immediate Work (Phoenix)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3672940886.html</link>
+<description><![CDATA[Immediate need for talented web designers to create new web sites, landing pages and do basic web site updates. 
+Please respond with hourly rate, experience, abilities and design samples. 
+Phoenix area designers ONLY. Must be able to consult at Phoen [...]]]></description>
+<dc:date>2013-03-10T19:36:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3672940886.html</dc:source>
+<dc:title><![CDATA[Talented Web Designers - Immediate Work (Phoenix)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T19:36:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3670658011.html">
+<title><![CDATA[Arcade Cabinet Repair (West Valley)]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3670658011.html</link>
+<description><![CDATA[I've got a small 2 man business that does repairs on clients computers. I'm looking for someone that would be available through normal work hours. Most likely from 10am-5pm area. If you're good at troubleshootin click here for the application enter y [...]]]></description>
+<dc:date>2013-03-09T17:04:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3670658011.html</dc:source>
+<dc:title><![CDATA[Arcade Cabinet Repair (West Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:04:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/wvl/cpg/3670646575.html">
+<title><![CDATA[Need laptop screen repaired  (Far West Valley )]]></title>
+<link>http://phoenix.craigslist.org/wvl/cpg/3670646575.html</link>
+<description><![CDATA[I have a Samsung Galaxy tablet model SCH-I800 with a cracked screen. Need to have this replaced, want a quote for cost of repair and time to complete the repair. I use this for work so I can't leave it with you for several days or a week. Email me if [...]]]></description>
+<dc:date>2013-03-09T16:57:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/wvl/cpg/3670646575.html</dc:source>
+<dc:title><![CDATA[Need laptop screen repaired  (Far West Valley )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T16:57:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/cph/cpg/3670548978.html">
+<title><![CDATA[Need someone with a 3D Printer]]></title>
+<link>http://phoenix.craigslist.org/cph/cpg/3670548978.html</link>
+<description><![CDATA[I want to have a few parts printed out from a 3D printer, I have the files already, I just need someone who owns a 3D printer that I can print them on. I can pay for the materials and whatever you think is fair for using the printer, I can send you t [...]]]></description>
+<dc:date>2013-03-09T16:06:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/cph/cpg/3670548978.html</dc:source>
+<dc:title><![CDATA[Need someone with a 3D Printer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T16:06:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3665392930.html">
+<title><![CDATA[MCSA / MCSE Needed for Server Migration ]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3665392930.html</link>
+<description><![CDATA[Hi we are seeking an Microsoft Certified Administrator to assist in planning and execution of a server migration project which will include a deep understanding of SBS, Exchange 2007 A/D and DNS. a Current Microsoft Certification is required. We esti [...]]]></description>
+<dc:date>2013-03-09T14:40:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3665392930.html</dc:source>
+<dc:title><![CDATA[MCSA / MCSE Needed for Server Migration ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T14:40:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/evl/cpg/3670202356.html">
+<title><![CDATA[Telephone Representative (Queen Creek)]]></title>
+<link>http://phoenix.craigslist.org/evl/cpg/3670202356.html</link>
+<description><![CDATA[We are a highly ambitious, grounded and down to earth telemarketing company focusing primarily on pest control services nationwide. 
+With our rapid growth we are seeking another individual to join our comfortable team from 12 to 9 M-F. 
+Please inquir [...]]]></description>
+<dc:date>2013-03-09T13:27:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/evl/cpg/3670202356.html</dc:source>
+<dc:title><![CDATA[Telephone Representative (Queen Creek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T13:27:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3669021311.html">
+<title><![CDATA[Looking for Telephone Reps (Arizona)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3669021311.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-08T23:32:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3669021311.html</dc:source>
+<dc:title><![CDATA[Looking for Telephone Reps (Arizona)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T23:32:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3599695019.html">
+<title><![CDATA[iOS - Android Game Developer Needed (PHX)]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3599695019.html</link>
+<description><![CDATA[I have an idea of a game I would like to build. I don't have the time to do all the work myself so I am opting to outsource the bulk of the work. This project will require a non-disclosure, no exceptions. I prefer a local designer. Must have a portfo [...]]]></description>
+<dc:date>2013-03-08T20:44:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3599695019.html</dc:source>
+<dc:title><![CDATA[iOS - Android Game Developer Needed (PHX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T20:44:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://phoenix.craigslist.org/nph/cpg/3667634076.html">
+<title><![CDATA[Administrative Assistant]]></title>
+<link>http://phoenix.craigslist.org/nph/cpg/3667634076.html</link>
+<description><![CDATA[We need an administrative assistant with customer service skills as well as a good attitude. We are an accounting firm we have been in buisness for over 25 years and are clients are very important to us. We need an administrative assistant who can us [...]]]></description>
+<dc:date>2013-03-08T11:10:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://phoenix.craigslist.org/nph/cpg/3667634076.html</dc:source>
+<dc:title><![CDATA[Administrative Assistant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T11:10:58-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

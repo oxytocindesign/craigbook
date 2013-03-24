@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://visalia.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in visalia-tulare</title>
+<link>http://visalia.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://visalia.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in visalia-tulare</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:39:03-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://visalia.craigslist.org/cpg/3629416307.html" />
+  <rdf:li rdf:resource="http://visalia.craigslist.org/cpg/3629438144.html" />
+  <rdf:li rdf:resource="http://visalia.craigslist.org/cpg/3580220408.html" />
+  <rdf:li rdf:resource="http://visalia.craigslist.org/cpg/3594402626.html" />
+  <rdf:li rdf:resource="http://visalia.craigslist.org/cpg/3596554397.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://visalia.craigslist.org/cpg/3629416307.html">
+<title><![CDATA[WE ARE FASTEST GROWING ENERGY COMPANY $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$]]></title>
+<link>http://visalia.craigslist.org/cpg/3629416307.html</link>
+<description><![CDATA[Are you looking for a way to make money working from home? 
+Would you like to set your own schedule, work when you want? 
+Are you looking for an opportunity that provides the training needed to succeed? 
+Do you enjoy helping others see their full pot [...]]]></description>
+<dc:date>2013-03-21T12:39:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://visalia.craigslist.org/cpg/3629416307.html</dc:source>
+<dc:title><![CDATA[WE ARE FASTEST GROWING ENERGY COMPANY $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:39:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://visalia.craigslist.org/cpg/3629438144.html">
+<title><![CDATA[ QUIERES GANAR DINERO USANDO TU COMPUTADORA!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></title>
+<link>http://visalia.craigslist.org/cpg/3629438144.html</link>
+<description><![CDATA[AQUI TENEMOS LA OPORTUNIDAD 
+QUE NECESITAS PARA GANAR 
+BIEN DE ACUERDO A TU HORARIO. 
+NO IMPORTA QUE IDIOMA HABLES 
+LLAMA DE INMEDIATO 
+CUPO LIMITADO 
+(707) 236-4539]]></description>
+<dc:date>2013-03-21T12:39:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://visalia.craigslist.org/cpg/3629438144.html</dc:source>
+<dc:title><![CDATA[ QUIERES GANAR DINERO USANDO TU COMPUTADORA!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:39:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://visalia.craigslist.org/cpg/3580220408.html">
+<title><![CDATA[GW2, D3, WoW, LoL gamers (Visalia-Tulare)]]></title>
+<link>http://visalia.craigslist.org/cpg/3580220408.html</link>
+<description><![CDATA[Looking for Powerlevelers & Gold Farmers. If you a love for video games, you should contact us. We are in need of people to watch our game automation software. Games like 
+WoW 
+GW2 
+LoL 
+Diablo3 etc. Compensation begins at $9 an hour and your only jo [...]]]></description>
+<dc:date>2013-02-25T16:22:18-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://visalia.craigslist.org/cpg/3580220408.html</dc:source>
+<dc:title><![CDATA[GW2, D3, WoW, LoL gamers (Visalia-Tulare)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:22:18-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://visalia.craigslist.org/cpg/3594402626.html">
+<title><![CDATA[Server Setup (Tulare, CA)]]></title>
+<link>http://visalia.craigslist.org/cpg/3594402626.html</link>
+<description><![CDATA[In need of someone with networking and server set up experience. 
+It will only need to be done once. 
+Server needs to be configured so that we can save websites and connect to 
+it remotely, save anything needed there so that multimedia players 
+can g [...]]]></description>
+<dc:date>2013-02-13T10:01:37-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://visalia.craigslist.org/cpg/3594402626.html</dc:source>
+<dc:title><![CDATA[Server Setup (Tulare, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T10:01:37-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://visalia.craigslist.org/cpg/3596554397.html">
+<title><![CDATA[cd changer wont work (tulare)]]></title>
+<link>http://visalia.craigslist.org/cpg/3596554397.html</link>
+<description><![CDATA[I have a 5 disc cd changer fairly new wont turn on posibly fuse. If you can fix this for a reasonable price call me at 5597594207 Jaime thankz...its a house stereo..]]></description>
+<dc:date>2013-02-11T17:11:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://visalia.craigslist.org/cpg/3596554397.html</dc:source>
+<dc:title><![CDATA[cd changer wont work (tulare)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T17:11:30-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

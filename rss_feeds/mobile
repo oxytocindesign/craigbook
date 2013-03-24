@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://mobile.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in mobile</title>
+<link>http://mobile.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://mobile.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in mobile</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:34:54-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3692076522.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3672702876.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3667610603.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3648050300.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3644950319.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3634240612.html" />
+  <rdf:li rdf:resource="http://mobile.craigslist.org/cpg/3631083401.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://mobile.craigslist.org/cpg/3692076522.html">
+<title><![CDATA[Hiring beta testers for ringtones]]></title>
+<link>http://mobile.craigslist.org/cpg/3692076522.html</link>
+<description><![CDATA[Our company is hiring new people for small term (one-time) job opportunity. 
+We are testing the ringtones efficiency and productivity over the web , and are therefore hiring beta testers. 
+For the job you will need a mobile phone 
+Contact us at admin [...]]]></description>
+<dc:date>2013-03-19T19:57:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3692076522.html</dc:source>
+<dc:title><![CDATA[Hiring beta testers for ringtones]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:57:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3672702876.html">
+<title><![CDATA[Social media project  (Home)]]></title>
+<link>http://mobile.craigslist.org/cpg/3672702876.html</link>
+<description><![CDATA[Task orient person that love social media posting and communicating online must be a good writer fun work must have high speed Internet. 
+Call send resume or call 251 652-8306]]></description>
+<dc:date>2013-03-10T19:16:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3672702876.html</dc:source>
+<dc:title><![CDATA[Social media project  (Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T19:16:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3667610603.html">
+<title><![CDATA[Need Motivated Marketers (mobile )]]></title>
+<link>http://mobile.craigslist.org/cpg/3667610603.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-08T12:02:06-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3667610603.html</dc:source>
+<dc:title><![CDATA[Need Motivated Marketers (mobile )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T12:02:06-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3648050300.html">
+<title><![CDATA[Recruiting for lead generators (work from home)]]></title>
+<link>http://mobile.craigslist.org/cpg/3648050300.html</link>
+<description><![CDATA[Are you.... Retired?, A Student, Stay at home mom? In between jobs? Or just looking for extra income. Regardless of the reason. I am recruiting people to fill customer service positions as a lead generator. You can work from the comfort of your own h [...]]]></description>
+<dc:date>2013-02-27T16:54:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3648050300.html</dc:source>
+<dc:title><![CDATA[Recruiting for lead generators (work from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T16:54:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3644950319.html">
+<title><![CDATA[Flood Writers Needed (Mobile, AL)]]></title>
+<link>http://mobile.craigslist.org/cpg/3644950319.html</link>
+<description><![CDATA[Flood Writers needed immediately. 
+Writers must have at least three years flood and SIMSOL experience. 
+Will be able to write reports from home. 
+Looking for field adjusters and writers. 
+Please forward resume with response. ]]></description>
+<dc:date>2013-02-26T12:02:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3644950319.html</dc:source>
+<dc:title><![CDATA[Flood Writers Needed (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:02:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3634240612.html">
+<title><![CDATA[Simsol Writer (Mobile, AL)]]></title>
+<link>http://mobile.craigslist.org/cpg/3634240612.html</link>
+<description><![CDATA[Flood Writers needed immediately. Must have at least three years experience. 
+Will be able to write reports from home. 
+Please contact via email ]]></description>
+<dc:date>2013-02-21T16:04:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3634240612.html</dc:source>
+<dc:title><![CDATA[Simsol Writer (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:04:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://mobile.craigslist.org/cpg/3631083401.html">
+<title><![CDATA[architectural cadd needed (fairhope)]]></title>
+<link>http://mobile.craigslist.org/cpg/3631083401.html</link>
+<description><![CDATA[i need someone to teach architectural cadd to my mother, needs to learn floorplans and how to do tile patterns and some 3d. need someone willing to drive to fairhope to teach. you need to have cadd or a program that deals with these issues on your la [...]]]></description>
+<dc:date>2013-02-20T11:23:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://mobile.craigslist.org/cpg/3631083401.html</dc:source>
+<dc:title><![CDATA[architectural cadd needed (fairhope)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T11:23:37-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

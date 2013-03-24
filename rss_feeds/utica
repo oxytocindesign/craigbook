@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://utica.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in utica-rome-oneida</title>
+<link>http://utica.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://utica.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in utica-rome-oneida</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:59-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://utica.craigslist.org/cpg/3637067226.html" />
+  <rdf:li rdf:resource="http://utica.craigslist.org/cpg/3606415424.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://utica.craigslist.org/cpg/3637067226.html">
+<title><![CDATA[Looking to pay someone to record the Oscars in Utica, New York (Utica, New York)]]></title>
+<link>http://utica.craigslist.org/cpg/3637067226.html</link>
+<description><![CDATA[We are a Production Company from Texas called SnapBrothers Productions, and we have a Dunder Mifflin ad airing in Utica, New York during the Oscars this Sunday on ABC affiliate WUTR. We are looking for someone who lives in Utica, New York who can rec [...]]]></description>
+<dc:date>2013-02-22T20:51:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://utica.craigslist.org/cpg/3637067226.html</dc:source>
+<dc:title><![CDATA[Looking to pay someone to record the Oscars in Utica, New York (Utica, New York)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T20:51:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://utica.craigslist.org/cpg/3606415424.html">
+<title><![CDATA[Develop an app (Utica n.y.)]]></title>
+<link>http://utica.craigslist.org/cpg/3606415424.html</link>
+<description><![CDATA[Go to picncolor.com if you are interested in making an app for windows that my product is now designed for, or convert to apple, I will cut you in for 20% to start of what we make. Or give me a qoute on just creating the app. along with just the prog [...]]]></description>
+<dc:date>2013-02-09T21:02:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://utica.craigslist.org/cpg/3606415424.html</dc:source>
+<dc:title><![CDATA[Develop an app (Utica n.y.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T21:02:03-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

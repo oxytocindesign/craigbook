@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://skagit.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in skagit / island / SJI</title>
+<link>http://skagit.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://skagit.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in skagit / island / SJI</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:11-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://skagit.craigslist.org/cpg/3635453911.html" />
+  <rdf:li rdf:resource="http://skagit.craigslist.org/cpg/3648732647.html" />
+  <rdf:li rdf:resource="http://skagit.craigslist.org/cpg/3546724542.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://skagit.craigslist.org/cpg/3635453911.html">
+<title><![CDATA[Computer Technician (Mt Vernon WA)]]></title>
+<link>http://skagit.craigslist.org/cpg/3635453911.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Mt Vernon. We are a 24 hour computer repair service the Mt Vernon area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments around thei [...]]]></description>
+<dc:date>2013-03-13T16:59:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://skagit.craigslist.org/cpg/3635453911.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Mt Vernon WA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T16:59:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://skagit.craigslist.org/cpg/3648732647.html">
+<title><![CDATA[Startup Seeks Entrepreneurial-Minded Web Developer (Anacortes)]]></title>
+<link>http://skagit.craigslist.org/cpg/3648732647.html</link>
+<description><![CDATA[My startup is focused on creating a difference to how individuals use online commerce. We're currently seeking an entrepreneurially minded and hands on Web Developer/Engineer to join our dynamic team. This person will be working directly on the devel [...]]]></description>
+<dc:date>2013-02-27T21:39:22-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://skagit.craigslist.org/cpg/3648732647.html</dc:source>
+<dc:title><![CDATA[Startup Seeks Entrepreneurial-Minded Web Developer (Anacortes)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T21:39:22-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://skagit.craigslist.org/cpg/3546724542.html">
+<title><![CDATA[Computer Technician (Mt Vernon)]]></title>
+<link>http://skagit.craigslist.org/cpg/3546724542.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Mt Vernon . We are a 24 hour computer repair service the Mt Vernon area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments around the [...]]]></description>
+<dc:date>2013-02-12T05:57:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://skagit.craigslist.org/cpg/3546724542.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Mt Vernon)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T05:57:44-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

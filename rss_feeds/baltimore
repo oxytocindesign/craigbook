@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://baltimore.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in baltimore</title>
+<link>http://baltimore.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://baltimore.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in baltimore</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:29:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3698930426.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3691754807.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3695803183.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3654332677.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3654468506.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3693954402.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3692054699.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3691947335.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3691863819.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3690697349.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3688793052.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3687884374.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3687281477.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3686540838.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3686088182.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3681914205.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3680772128.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3679517403.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3678174251.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675975781.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675427155.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675412300.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675020351.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3672880042.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3665927620.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3666022722.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3665953570.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3665818784.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3664762474.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3663476651.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3663228428.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3662612222.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3660481124.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3659549069.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3659251938.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3658842854.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3658666900.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3657985179.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3654541247.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3652418226.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3649931926.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3649291388.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3649062776.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3645223069.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3643212892.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3642752970.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3639253935.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3637195404.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3637189221.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3636255168.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3635541289.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3634196341.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3631359822.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3629579264.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3615448518.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3614991227.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3612965869.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3606419796.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3603702488.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3603300745.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3602318033.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3698930426.html">
+<title><![CDATA[Convert To Vector (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3698930426.html</link>
+<description><![CDATA[Looking for someone to convert my rasta image's to Vector (Illustrator. Corel. ETC....) 
+these images have color please look at the one posted this is what I need..... 
+please email with your price now I can do it myself but just to busy, so lets not [...]]]></description>
+<dc:date>2013-03-23T11:18:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3698930426.html</dc:source>
+<dc:title><![CDATA[Convert To Vector (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:18:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3691754807.html">
+<title><![CDATA[Need Experienced Sales Experts...]]></title>
+<link>http://baltimore.craigslist.org/cpg/3691754807.html</link>
+<description><![CDATA[We're looking for highly-qualified Sales Experts that can really make a difference. Candidates should be well spoken, Energetic, and a people person. 
+It would be a PLUS if: 
+- you have experience with selling technology 
+- If you have experience in  [...]]]></description>
+<dc:date>2013-03-23T10:49:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3691754807.html</dc:source>
+<dc:title><![CDATA[Need Experienced Sales Experts...]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:49:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3695803183.html">
+<title><![CDATA[schematics needed for mobile app development (towson)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3695803183.html</link>
+<description><![CDATA[can you work with me to get the schematics i need to then have someone 
+assemble the code for some very simple app ideas? 
+will you consider barter or low wage? 
+please send social links, brief work history, references 
+and barter ideas. 
+thanks! ]]></description>
+<dc:date>2013-03-21T17:04:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3695803183.html</dc:source>
+<dc:title><![CDATA[schematics needed for mobile app development (towson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:04:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3654332677.html">
+<title><![CDATA[Administrative assistant wanted for domain renewals (Towson)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3654332677.html</link>
+<description><![CDATA[Hello! 
+I have a couple dozen websites which need to be renewed or transferred. 
+Please send resume and pay rate, as well as references. 
+Also, please indicate how close to Towson you are. 
+You must be reliable, courteous and presentable. ]]></description>
+<dc:date>2013-03-21T12:34:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3654332677.html</dc:source>
+<dc:title><![CDATA[Administrative assistant wanted for domain renewals (Towson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:34:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3654468506.html">
+<title><![CDATA[$20/hr quickbooks anyone? (towson)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3654468506.html</link>
+<description><![CDATA[life coach on budget needs bookkeeper 
+to prep taxes using quickbooks 
+at my home office in towson 
+payrate: $20/hr 
+please send 3 references and 
+1 pg resume with contact info 
+and availability. 
+pay: $20/hr 
+total job estimate: $500 ]]></description>
+<dc:date>2013-03-21T12:33:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3654468506.html</dc:source>
+<dc:title><![CDATA[$20/hr quickbooks anyone? (towson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:33:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3693954402.html">
+<title><![CDATA[Looking for C: HTML5 programing teacher. (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3693954402.html</link>
+<description><![CDATA[Native Spaniard looking for programing teacher. It would need to start from scratch, interested in C: and HTML5. 
+3 hours weekly prize to convene and/or exchange for Spanish classes. 
+I got space for the classes.]]></description>
+<dc:date>2013-03-20T18:53:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3693954402.html</dc:source>
+<dc:title><![CDATA[Looking for C: HTML5 programing teacher. (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:53:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3692054699.html">
+<title><![CDATA[Security Camera Wireless Installer (Glen Burnie)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3692054699.html</link>
+<description><![CDATA[Need Installer few hours work This is Uniden Camera if available Please email me I can email you camera details to c if you can set this up]]></description>
+<dc:date>2013-03-19T20:45:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3692054699.html</dc:source>
+<dc:title><![CDATA[Security Camera Wireless Installer (Glen Burnie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:45:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3691947335.html">
+<title><![CDATA[Need to spec. out a small electronic project (Baltimore Metro)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3691947335.html</link>
+<description><![CDATA[Looking for a computer/electronic person to estimate/create a small electronic project for a business. Requires interfacing with a PLC-controlled machine.]]></description>
+<dc:date>2013-03-19T19:44:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3691947335.html</dc:source>
+<dc:title><![CDATA[Need to spec. out a small electronic project (Baltimore Metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:44:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3691863819.html">
+<title><![CDATA[Customer Service Support (Annapolis)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3691863819.html</link>
+<description><![CDATA[We have an immediate need to hire customer service reps on a contract basis. This can become full time after the first 30 days. Please reply with your resume and any details on previous phone customer service experience.]]></description>
+<dc:date>2013-03-19T19:00:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3691863819.html</dc:source>
+<dc:title><![CDATA[Customer Service Support (Annapolis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:00:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3690697349.html">
+<title><![CDATA[asp.NET Programmer (Middle River)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3690697349.html</link>
+<description><![CDATA[I am a PhD student and need to implement a proof of concept program to support my research work. 
+This program would first use a semantic query based on a list of medical chief complaints. This query would be of multiple XML files (provided) that hav [...]]]></description>
+<dc:date>2013-03-19T10:21:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3690697349.html</dc:source>
+<dc:title><![CDATA[asp.NET Programmer (Middle River)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:21:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3688793052.html">
+<title><![CDATA[Looking for 2 Mobile Savvy Sales People (Howard County, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3688793052.html</link>
+<description><![CDATA[Looking for 2 Commission ONLY sales people to "talk to" SERVICE business owners and show them what their website looks like on a Smart-phone. If they are interested in knowing more and how a fully branded and customized Mobile website could help them [...]]]></description>
+<dc:date>2013-03-18T12:19:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3688793052.html</dc:source>
+<dc:title><![CDATA[Looking for 2 Mobile Savvy Sales People (Howard County, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:19:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3687884374.html">
+<title><![CDATA[Be a Mobile Marketing Hero to Businesses in your Area (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3687884374.html</link>
+<description><![CDATA[Text Message Marketing is Taking Over the World 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-17T22:18:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3687884374.html</dc:source>
+<dc:title><![CDATA[Be a Mobile Marketing Hero to Businesses in your Area (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T22:18:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3687281477.html">
+<title><![CDATA[Starting a Mktg Team (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3687281477.html</link>
+<description><![CDATA[Need social media advertising specialists, google ad words and maketing/advertising. 
+Please email me with a quote and write a paragraph stating you areas of expertise. 
+.]]></description>
+<dc:date>2013-03-17T16:21:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3687281477.html</dc:source>
+<dc:title><![CDATA[Starting a Mktg Team (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T16:21:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3686540838.html">
+<title><![CDATA[iOS AppStore and Jailbreak Development]]></title>
+<link>http://baltimore.craigslist.org/cpg/3686540838.html</link>
+<description><![CDATA[Must have experience in Objective-C or Web development. Looking to work alongside someone not for pay. New developers welcome if you can show even the smallest of projects (tutorial based work).]]></description>
+<dc:date>2013-03-17T09:53:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3686540838.html</dc:source>
+<dc:title><![CDATA[iOS AppStore and Jailbreak Development]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:53:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3686088182.html">
+<title><![CDATA[Try Something New With Your Own Loyalty Marketing Business (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3686088182.html</link>
+<description><![CDATA[Make Your Own Schedule With Your Own Text Marketing Business 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-16T22:56:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3686088182.html</dc:source>
+<dc:title><![CDATA[Try Something New With Your Own Loyalty Marketing Business (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T22:56:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3681914205.html">
+<title><![CDATA[Need a Partner with Senior Web Developer Experience]]></title>
+<link>http://baltimore.craigslist.org/cpg/3681914205.html</link>
+<description><![CDATA[We are a team of 3 looking for a fourth partner in developing a social media \ image management site. We've already secured the domain and begun some programming. We have a front-end guy but are looking for someone who can assist with the PHP and MyS [...]]]></description>
+<dc:date>2013-03-14T21:39:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3681914205.html</dc:source>
+<dc:title><![CDATA[Need a Partner with Senior Web Developer Experience]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T21:39:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3680772128.html">
+<title><![CDATA[Accounting Professional for Weekend QuickBooks Project: 3/16 - 3/17 (Columbia, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3680772128.html</link>
+<description><![CDATA[I am looking to have (2) two Accounting professionals provide 16 hours of Accounting support this weekend. 
+The projects are described below: 
+Unemployment Audit (Person 1) 
+o Compiling data regarding disbursements and payroll for 2011 and 2012 
+o Kn [...]]]></description>
+<dc:date>2013-03-14T12:32:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3680772128.html</dc:source>
+<dc:title><![CDATA[Accounting Professional for Weekend QuickBooks Project: 3/16 - 3/17 (Columbia, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T12:32:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3679517403.html">
+<title><![CDATA[Web Site Design (Halethorpe Md)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3679517403.html</link>
+<description><![CDATA[Looking for a web site designer to work with us to create/update our two websites. They are for two separate companies owned by the same folks. One is a retail outlet and the other a manufacturer. The sucessful candidate will have the flexibliity to  [...]]]></description>
+<dc:date>2013-03-13T19:02:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3679517403.html</dc:source>
+<dc:title><![CDATA[Web Site Design (Halethorpe Md)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T19:02:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3678174251.html">
+<title><![CDATA[designer with html/java script (baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3678174251.html</link>
+<description><![CDATA[I am an asp.net developer looking for an html designer who is familiar with javascript to help me finish a couple sites over the next two weeks.]]></description>
+<dc:date>2013-03-13T08:59:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3678174251.html</dc:source>
+<dc:title><![CDATA[designer with html/java script (baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T08:59:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3675975781.html">
+<title><![CDATA[An App Builder Needed Asap (Baltimore )]]></title>
+<link>http://baltimore.craigslist.org/cpg/3675975781.html</link>
+<description><![CDATA[An Online Radio Station is in need of someone to Build an App for Android & IPhone ASAP. Interns are preferred....Please email us back. Thanks!]]></description>
+<dc:date>2013-03-12T10:14:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3675975781.html</dc:source>
+<dc:title><![CDATA[An App Builder Needed Asap (Baltimore )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:14:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3675427155.html">
+<title><![CDATA[exchange server (Nottingham  )]]></title>
+<link>http://baltimore.craigslist.org/cpg/3675427155.html</link>
+<description><![CDATA[Looking for Exchange Server gig to configure my small Business Server to send and receive emails from internet. Please do not respond to this posting if you do not have the experience in this area of Microsoft technology. 
+Call me Jerry at 410-900-42 [...]]]></description>
+<dc:date>2013-03-11T23:39:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3675427155.html</dc:source>
+<dc:title><![CDATA[exchange server (Nottingham  )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:39:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3675412300.html">
+<title><![CDATA[CSS designer to make CMS ecommerce store with SSL]]></title>
+<link>http://baltimore.craigslist.org/cpg/3675412300.html</link>
+<description><![CDATA[Hello to all that read this, 
+I am looking for someone to build a ecommerce store for me under a drawn out yet flexible pre-made layout design using CMS within SSL. You don't have to enter in all the information for products just make it ready to go  [...]]]></description>
+<dc:date>2013-03-11T23:28:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3675412300.html</dc:source>
+<dc:title><![CDATA[CSS designer to make CMS ecommerce store with SSL]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:28:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3675020351.html">
+<title><![CDATA[Looking for ps3 modder (rosedale)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3675020351.html</link>
+<description><![CDATA[looking for someone to mod or downgrade my 4.31 ofw to 3.55 pfw or cfw whichever . please email how much. i know how long it takes. i can do it myself but dont have the dongle, downgrade files nor the time to do it. i wanna free this system from sony [...]]]></description>
+<dc:date>2013-03-11T19:51:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3675020351.html</dc:source>
+<dc:title><![CDATA[Looking for ps3 modder (rosedale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T19:51:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3672880042.html">
+<title><![CDATA[Photo editing and image hosting (Bel Air MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3672880042.html</link>
+<description><![CDATA[I sell around 15 cars a week on ebay. I take about 70 pictures of each and i need someone to edit them. Crop, adjust contrast, color, touchup, ect. Then host the pictures and email me the html so i can just copy it into the auction. I can handle ever [...]]]></description>
+<dc:date>2013-03-10T21:57:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3672880042.html</dc:source>
+<dc:title><![CDATA[Photo editing and image hosting (Bel Air MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:57:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3665927620.html">
+<title><![CDATA[Electronics Tech Needed to Repair Audio Mixing Board (New Windsor/Westminster)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3665927620.html</link>
+<description><![CDATA[IF YOU EMAIL, CHECK YOUR JUNK MAIL FOR MY RESPONSE!!! 
+I have own a Mackie Onyx 1640 analog audio mixing console. 
+There is a known glitch in the power supply having to do with cheap capacitors. 
+I was encouraged to attempt to replace one of the capa [...]]]></description>
+<dc:date>2013-03-09T21:19:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3665927620.html</dc:source>
+<dc:title><![CDATA[Electronics Tech Needed to Repair Audio Mixing Board (New Windsor/Westminster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T21:19:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3666022722.html">
+<title><![CDATA[LIGHT JOCKEY WANTED AT MIRAGE NIGHT CLUB  (401 Baltimore St. Baltimore MD,21201)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3666022722.html</link>
+<description><![CDATA[MIRAGE NIGHT CLUB is looking for Light Jockeys for Friday, Saturday, Sunday and Monday nights. 
+$150 a night clear 
+If interested contact Armani (301) 237 3861]]></description>
+<dc:date>2013-03-07T17:55:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3666022722.html</dc:source>
+<dc:title><![CDATA[LIGHT JOCKEY WANTED AT MIRAGE NIGHT CLUB  (401 Baltimore St. Baltimore MD,21201)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T17:55:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3665953570.html">
+<title><![CDATA[CGI internship for Adult Swim Show (baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3665953570.html</link>
+<description><![CDATA[We producing a one off show for Adult Swim that will feature "realistic" 3D character animation driven by facial motion capture. We are looking for an intern for the next few months to help work on this project. (Most of the work will take place in M [...]]]></description>
+<dc:date>2013-03-07T17:25:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3665953570.html</dc:source>
+<dc:title><![CDATA[CGI internship for Adult Swim Show (baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T17:25:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3665818784.html">
+<title><![CDATA[Looking for a Videographer (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3665818784.html</link>
+<description><![CDATA[Looking for a Videographer to help me with this small documentary I plan on making. All the material for the film has already been shot just looking for someone who has the talent, time and tools to bring my vision to life. I'm a college student and  [...]]]></description>
+<dc:date>2013-03-07T16:28:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3665818784.html</dc:source>
+<dc:title><![CDATA[Looking for a Videographer (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:28:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3664762474.html">
+<title><![CDATA[Wordpress web Designer (Md)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3664762474.html</link>
+<description><![CDATA[Currently looking for website designer to create a website for a fashion wholesale distributor. Word press template preferred. Minimum components of the website are as follows: usable clean interface, effective landing page that is cohesive with bran [...]]]></description>
+<dc:date>2013-03-07T09:06:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3664762474.html</dc:source>
+<dc:title><![CDATA[Wordpress web Designer (Md)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T09:06:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3663476651.html">
+<title><![CDATA[CCNA talent (Baltimore/ DC)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3663476651.html</link>
+<description><![CDATA[Need help CCNA please contact me for further details. This is job that should take no more than 2 hours I will pay. I can bring router to you. 
+$$.]]></description>
+<dc:date>2013-03-06T16:01:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3663476651.html</dc:source>
+<dc:title><![CDATA[CCNA talent (Baltimore/ DC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T16:01:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3663228428.html">
+<title><![CDATA[Yoast WordPress SEO Setup]]></title>
+<link>http://baltimore.craigslist.org/cpg/3663228428.html</link>
+<description><![CDATA[Looking for someone to modify settings for SEO widget on my site. Currently using Yoast but whatever is best and most straightforward is fine with me. 
+I can provide meta tags, but the widget says it doesn't want to use them. 
+It's a small site. 
+Ple [...]]]></description>
+<dc:date>2013-03-06T14:24:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3663228428.html</dc:source>
+<dc:title><![CDATA[Yoast WordPress SEO Setup]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:24:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3662612222.html">
+<title><![CDATA[Need iOS/iPhone app developer for couple hours to fix my code (Towson)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3662612222.html</link>
+<description><![CDATA[I just started learning iOS development. My own iPhone app that is 90% done. Right now I'm having a trouble with a code that is responsible with rotating image and multiple thread processes. 
+I need an expert for couple hours to finish my app. Please [...]]]></description>
+<dc:date>2013-03-06T10:29:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3662612222.html</dc:source>
+<dc:title><![CDATA[Need iOS/iPhone app developer for couple hours to fix my code (Towson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T10:29:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3660481124.html">
+<title><![CDATA[Web site shopping cart - student (Ellicott City)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3660481124.html</link>
+<description><![CDATA[Need shopping cart installed on my web site. Should be relatively easy, as my web host already has a program to use. I just don't have time to sit and do it. 
+Prefer computer sciences student with some previous experience. Might be a good school proj [...]]]></description>
+<dc:date>2013-03-05T11:53:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3660481124.html</dc:source>
+<dc:title><![CDATA[Web site shopping cart - student (Ellicott City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T11:53:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3659549069.html">
+<title><![CDATA[Website Design Project]]></title>
+<link>http://baltimore.craigslist.org/cpg/3659549069.html</link>
+<description><![CDATA[My firm is currently undertaking a website redesign. Please email me and I will send you our Request for Proposal.]]></description>
+<dc:date>2013-03-04T22:07:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3659549069.html</dc:source>
+<dc:title><![CDATA[Website Design Project]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T22:07:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3659251938.html">
+<title><![CDATA[Web Software Developer - HTML5, RESTful (Oriole Park at Camden Yards)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3659251938.html</link>
+<description><![CDATA[TIME CRITICAL - We are seeking a Web Software Developer, to create a rich, lightweigh web applicaton for desktop web browser and iPad. The application will be a Retail Cash Room Management application. Would like the app developed using various platf [...]]]></description>
+<dc:date>2013-03-04T19:26:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3659251938.html</dc:source>
+<dc:title><![CDATA[Web Software Developer - HTML5, RESTful (Oriole Park at Camden Yards)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T19:26:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3658842854.html">
+<title><![CDATA[Moble Secretary ]]></title>
+<link>http://baltimore.craigslist.org/cpg/3658842854.html</link>
+<description><![CDATA[Take and make calls, email, type at some point and report daily activates. 
+contact:#443-278-0402. 
+Thanks. ]]></description>
+<dc:date>2013-03-04T16:21:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3658842854.html</dc:source>
+<dc:title><![CDATA[Moble Secretary ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:21:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3658666900.html">
+<title><![CDATA[help installing avaya phone system and ethernet wires (reisterstown)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3658666900.html</link>
+<description><![CDATA[i have an avaya phone system i would like hooked up and i need 2 rooms connected to ethernet- the cables are all run i just need someone to put on a plug to 3 wires and make sure the internet gets to the right room and hook up my 4 phone avaya phone  [...]]]></description>
+<dc:date>2013-03-04T15:13:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3658666900.html</dc:source>
+<dc:title><![CDATA[help installing avaya phone system and ethernet wires (reisterstown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T15:13:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3657985179.html">
+<title><![CDATA[Looking for Repair Estimate (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3657985179.html</link>
+<description><![CDATA[I'm looking for a repair estimate to fix my desktop. I'm looking for an estimate of what it would cost to repair/build virtually a new High End machine. Please include your address/phone/labor/parts/costs/etc in to the estimate. The desktop that was  [...]]]></description>
+<dc:date>2013-03-04T11:03:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3657985179.html</dc:source>
+<dc:title><![CDATA[Looking for Repair Estimate (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T11:03:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3654541247.html">
+<title><![CDATA[App Development Team members needed (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3654541247.html</link>
+<description><![CDATA[My two partners and I run a established marketing company which has operations in 4 states. We currently are in the energy industry but are looking to expand our horizons, using our knowledge of sales and marketing to help us in a different industry. [...]]]></description>
+<dc:date>2013-03-02T16:02:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3654541247.html</dc:source>
+<dc:title><![CDATA[App Development Team members needed (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T16:02:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3652418226.html">
+<title><![CDATA[Volunteers NFL Forum Moderators]]></title>
+<link>http://baltimore.craigslist.org/cpg/3652418226.html</link>
+<description><![CDATA[An all sports talk forum is looking for Volunteer NFL Moderators. We're looking for dedicated and knowledgeable NFL fans to help keep the forum active in that league. Also, you will be handed the NFL Twitter Account for the site to keep Twitter updat [...]]]></description>
+<dc:date>2013-03-01T16:31:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3652418226.html</dc:source>
+<dc:title><![CDATA[Volunteers NFL Forum Moderators]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T16:31:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3649931926.html">
+<title><![CDATA[Professional in Microsoft Project or 365 (MD-VA)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3649931926.html</link>
+<description><![CDATA[Universal Healthcare Services is looking for a full time / part time professional with experience in Microsoft Project or 365. 
+Please email your resume 
+Responsibilities will include: 
+Help configure the Microsoft system according to the office staf [...]]]></description>
+<dc:date>2013-02-28T15:08:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3649931926.html</dc:source>
+<dc:title><![CDATA[Professional in Microsoft Project or 365 (MD-VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T15:08:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3649291388.html">
+<title><![CDATA[Looking for a display checker (Glen Burnie )]]></title>
+<link>http://baltimore.craigslist.org/cpg/3649291388.html</link>
+<description><![CDATA[We are in need of someone to enter a retail store, check for a display, take photos of the display, and send them to us. If the display is not in the store, you would report that to us. Eventually we will also need someone to set up the display if it [...]]]></description>
+<dc:date>2013-02-28T10:51:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3649291388.html</dc:source>
+<dc:title><![CDATA[Looking for a display checker (Glen Burnie )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T10:51:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3649062776.html">
+<title><![CDATA[Individual experienced with internet marketing needed! (Maryland)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3649062776.html</link>
+<description><![CDATA[Real estate company looking for an individual experienced in PPC marketing with a track record to manage and increase ROI on ad spend for our Google Adwords, Yahoo/Bing and Facebook campaigns. Provider must have immense experience with the Google Adw [...]]]></description>
+<dc:date>2013-02-28T08:47:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3649062776.html</dc:source>
+<dc:title><![CDATA[Individual experienced with internet marketing needed! (Maryland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T08:47:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3645223069.html">
+<title><![CDATA[Part-time Book Keeper (Baltimore, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3645223069.html</link>
+<description><![CDATA[PART-TIME BOOK KEEPER WANTED!!!!!!! 
+MUST BE PROFICENT IN QUICK BOOKS P.O.S. & QUICK BOOKS OFFICE 
+SETTING UP THE HARDWARE & SOFTWARE AND MAINTAINING BOTH 
+QUICK BOOKS P.O.S. & QUICK BOOKS OFFICE 
+IF INTERESETED PEASE CONTACT US DJ RABBITT @ 443-570- [...]]]></description>
+<dc:date>2013-02-26T14:41:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3645223069.html</dc:source>
+<dc:title><![CDATA[Part-time Book Keeper (Baltimore, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T14:41:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3643212892.html">
+<title><![CDATA[Looking for Ticket-System Expert to Consult (White Marsh, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3643212892.html</link>
+<description><![CDATA[eReleases Press Releases is looking for a Ticket-Systems Expert who has experience analyzing email and workflow, and who has successfully implemented Ticket-Systems, such as ZenDesk, for small and large businesses. 
+Please include your qualifications [...]]]></description>
+<dc:date>2013-02-25T17:14:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3643212892.html</dc:source>
+<dc:title><![CDATA[Looking for Ticket-System Expert to Consult (White Marsh, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:14:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3642752970.html">
+<title><![CDATA[Need Web Designer for Blog (MAryland)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3642752970.html</link>
+<description><![CDATA[Hello, 
+I am looking for someone who is savvy with wordpress and web design to help with a blog I am trying to get up and running. I know how to manage wordpress for pics and articles but I need someone who can "decorate" my site and make it attracti [...]]]></description>
+<dc:date>2013-02-25T14:19:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3642752970.html</dc:source>
+<dc:title><![CDATA[Need Web Designer for Blog (MAryland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T14:19:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3639253935.html">
+<title><![CDATA[Help breaking down booth (Baltimore convention center)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3639253935.html</link>
+<description><![CDATA[I need help breaking down my booth at an art fair. 2 hours easy work.]]></description>
+<dc:date>2013-02-23T20:16:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3639253935.html</dc:source>
+<dc:title><![CDATA[Help breaking down booth (Baltimore convention center)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T20:16:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3637195404.html">
+<title><![CDATA[LOOKING FOR ONLINE DJS (ONLINE RADIO)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3637195404.html</link>
+<description><![CDATA[Good Evening!! Its Time For Some Gr8 Music on In My Dreams Radio DJ The Dreamer here to take Requests So Come One Come All and Lets have a great night!!! http://www.inmydreamsradio.net .. ALSO LOOKING FOR ONLINE DJS ,,]]></description>
+<dc:date>2013-02-22T22:13:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3637195404.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR ONLINE DJS (ONLINE RADIO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T22:13:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3637189221.html">
+<title><![CDATA[Local geek needed (Brooklyn)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3637189221.html</link>
+<description><![CDATA[Small size office needs tech support setting up emails pop account with Microsoft email client. Must be an expert in setting up email and other features 
+Need some one soon if available Saturday is great]]></description>
+<dc:date>2013-02-22T22:08:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3637189221.html</dc:source>
+<dc:title><![CDATA[Local geek needed (Brooklyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T22:08:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3636255168.html">
+<title><![CDATA[PHP/Quickbooks Integration Expert (Philadelphia/Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3636255168.html</link>
+<description><![CDATA[We are in need of a local php quickbooks expert for a client. Tasks would include, but not limited to, developing functions for the php/quickbooks framework to create and manage invoices, customers, vendors, and purchase orders. Please send your cred [...]]]></description>
+<dc:date>2013-02-22T14:51:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3636255168.html</dc:source>
+<dc:title><![CDATA[PHP/Quickbooks Integration Expert (Philadelphia/Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T14:51:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3635541289.html">
+<title><![CDATA[Need use of 5 1/4" Drive (Baltimore Area)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3635541289.html</link>
+<description><![CDATA[I have some ancient coursewear on an ancient 5 1/4" floppy drive. I want to move it to a 3 1/2" disk or a data stick or you can even email it to me. 
+If you have the necessary equipment (and it may be a chain of copying from one thing to another), I  [...]]]></description>
+<dc:date>2013-02-22T10:19:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3635541289.html</dc:source>
+<dc:title><![CDATA[Need use of 5 1/4" Drive (Baltimore Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T10:19:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3634196341.html">
+<title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3634196341.html</link>
+<description><![CDATA[Our client located in Washington D.C. is looking for a talented Web Developer (Ruby, Rails, JavaScript, jQuery) to join their high energy, innovative team. This programmer will be joining a large scale e-commerce project and will be creating Ruby on  [...]]]></description>
+<dc:date>2013-02-21T16:46:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3634196341.html</dc:source>
+<dc:title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:46:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3631359822.html">
+<title><![CDATA[game console repair- ps3, xbox, wii repair (owings mills, columbia, silver spring)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3631359822.html</link>
+<description><![CDATA[A computer repair shop looking for someone who can repair Game consoles such as PS3, XBOX etc 
+Should be able to fix problems such as : 
+RROD 
+YLOD 
+Disc error 
+etc 
+Will pay $40 for the repair. We are looking for someone with experience and who know [...]]]></description>
+<dc:date>2013-02-20T13:59:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3631359822.html</dc:source>
+<dc:title><![CDATA[game console repair- ps3, xbox, wii repair (owings mills, columbia, silver spring)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T13:59:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3629579264.html">
+<title><![CDATA[New Startup (Ellicott City)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3629579264.html</link>
+<description><![CDATA[I'm looking for someone with web design experience such as creating software and someone that knows how to create and maintain a search engine. This is for a startup, and the person will be a partner in the company. Please reply if interested.]]></description>
+<dc:date>2013-02-19T18:44:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3629579264.html</dc:source>
+<dc:title><![CDATA[New Startup (Ellicott City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T18:44:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3615448518.html">
+<title><![CDATA[Junior Level Java Developers Needed (Wilmington, DE)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3615448518.html</link>
+<description><![CDATA[Seeking Junior level Java Developers with C++ experience to work in Wilmington, DE. Please submit resume if interested. Replies will be sent within 1 business day]]></description>
+<dc:date>2013-02-13T17:21:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3615448518.html</dc:source>
+<dc:title><![CDATA[Junior Level Java Developers Needed (Wilmington, DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T17:21:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3614991227.html">
+<title><![CDATA[Low voltage wiring termination (Glen Burnie)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3614991227.html</link>
+<description><![CDATA[Looking for a low voltage tech to help terminate 50 Cat5e drops in an office environment. Start Friday (Feb 15th) through Sunday. 
+Send me hourly rate and past experience]]></description>
+<dc:date>2013-02-13T14:20:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3614991227.html</dc:source>
+<dc:title><![CDATA[Low voltage wiring termination (Glen Burnie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T14:20:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3612965869.html">
+<title><![CDATA[1 Day Printer Deployment (Hunt Valley, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3612965869.html</link>
+<description><![CDATA[Our company is a rapidly growing IT Services and Staffing firm supporting companies throughout the world. We currently have a project in the Hunt Valley, MD area. Technicians who join us may receive new certifications for working with our clients; we [...]]]></description>
+<dc:date>2013-02-12T16:56:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3612965869.html</dc:source>
+<dc:title><![CDATA[1 Day Printer Deployment (Hunt Valley, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:56:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3606419796.html">
+<title><![CDATA[WxWidgets Program (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3606419796.html</link>
+<description><![CDATA[We need a programmer who knows wxwidgets that we can work with for a few days. We have a well known program that is written in wxwidgets that we need to make some modifications to. We will pay by the hour. If you're our guy/girl let us know! We want  [...]]]></description>
+<dc:date>2013-02-09T21:04:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3606419796.html</dc:source>
+<dc:title><![CDATA[WxWidgets Program (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T21:04:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3603702488.html">
+<title><![CDATA[Looking For Hosted/VOIP phone system (Bel Air)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3603702488.html</link>
+<description><![CDATA[I am looking for quote on a hosted phone system. I need 10 phones and have 5 lines currently with verizon that I want to keep the numbers. We have Cat. 6 wiring at every location a phone would sit. Let me know what the cost is upfront and monthly. Pl [...]]]></description>
+<dc:date>2013-02-08T17:04:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3603702488.html</dc:source>
+<dc:title><![CDATA[Looking For Hosted/VOIP phone system (Bel Air)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T17:04:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3603300745.html">
+<title><![CDATA[HELP!! Need Glass Replaced on Tablet (Clarksville, MD)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3603300745.html</link>
+<description><![CDATA[I accidentally broke the glass on the face of my daughter's tablet. Can anyone help me? Or, know where I can go to get it replaced? Please call Anthony @ (240) 444-2933 - I do not check e-mails.]]></description>
+<dc:date>2013-02-08T14:27:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3603300745.html</dc:source>
+<dc:title><![CDATA[HELP!! Need Glass Replaced on Tablet (Clarksville, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T14:27:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3602318033.html">
+<title><![CDATA[Seeking UMBC Web Design Student (Catonsville)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3602318033.html</link>
+<description><![CDATA[UMBC STUDENTS ONLY 
+Looking for a student to fix broken website. I need the person to merge our website into a Wordpress or Wix site (whichever is easier) using a FREE template that I found online. 
+We will meet at the campus library and I will pay $ [...]]]></description>
+<dc:date>2013-02-08T05:52:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3602318033.html</dc:source>
+<dc:title><![CDATA[Seeking UMBC Web Design Student (Catonsville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T05:52:46-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

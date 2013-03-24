@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://tulsa.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in tulsa</title>
+<link>http://tulsa.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://tulsa.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in tulsa</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:04-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3676922039.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3664056718.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3657783427.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3652379879.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3652130291.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3647085832.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3637087025.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3634509827.html" />
+  <rdf:li rdf:resource="http://tulsa.craigslist.org/cpg/3605704160.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3676922039.html">
+<title><![CDATA[need help getting angie's list reviews (tulsa)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3676922039.html</link>
+<description><![CDATA[need help getting Angie's list review if your a member or can help im willing to pay ?]]></description>
+<dc:date>2013-03-15T09:07:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3676922039.html</dc:source>
+<dc:title><![CDATA[need help getting angie's list reviews (tulsa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T09:07:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3664056718.html">
+<title><![CDATA[I NEED SOMEONE TO BUILD MY ONLINE RADIO SHOW ]]></title>
+<link>http://tulsa.craigslist.org/cpg/3664056718.html</link>
+<description><![CDATA[LOOKING FOR ANYONE THAT KNOWS HOW TO BUILD A ONLINE RADIO SHOW IF THIS IS YOU CONTACT ME I DONT HAVE A PRICE IM WILLLING TO PAY SO YOU TELL ME WHAT YOU THINK ITS WORTH]]></description>
+<dc:date>2013-03-06T19:28:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3664056718.html</dc:source>
+<dc:title><![CDATA[I NEED SOMEONE TO BUILD MY ONLINE RADIO SHOW ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T19:28:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3657783427.html">
+<title><![CDATA[Need someone who knows Rails (Tulsa)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3657783427.html</link>
+<description><![CDATA[I am looking for someone who knows the programming language Rails to help me complete assignments. Struggling in my college class and willing to pay for the help. I have one assignment about every two weeks. If you know the language Rails please resp [...]]]></description>
+<dc:date>2013-03-04T08:33:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3657783427.html</dc:source>
+<dc:title><![CDATA[Need someone who knows Rails (Tulsa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:33:38-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3652379879.html">
+<title><![CDATA[Need someone who knows Rails (Tulsa)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3652379879.html</link>
+<description><![CDATA[I am looking for someone who knows Rails. I am in need of someone to help with my assignments for my rails class. I have an assignment about every two weeks. Need help greatly.]]></description>
+<dc:date>2013-03-01T15:15:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3652379879.html</dc:source>
+<dc:title><![CDATA[Need someone who knows Rails (Tulsa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T15:15:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3652130291.html">
+<title><![CDATA[Contract PC Techs (Tulsa)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3652130291.html</link>
+<description><![CDATA[Various contract assignments in and around Tulsa for PC Techs. Please email your resume for immediate consideration. Must be able to pass a criminal background check. ]]></description>
+<dc:date>2013-03-01T13:35:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3652130291.html</dc:source>
+<dc:title><![CDATA[Contract PC Techs (Tulsa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T13:35:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3647085832.html">
+<title><![CDATA[Come join our online team! (USA)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3647085832.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-27T10:34:23-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3647085832.html</dc:source>
+<dc:title><![CDATA[Come join our online team! (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T10:34:23-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3637087025.html">
+<title><![CDATA[Need experienced google Adwords help (Tulsa)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3637087025.html</link>
+<description><![CDATA[The head line pretty much sums it up. I need help from someone experienced in Google Adwords. I need help going through my campaigns and making them work proficient. If you can do this shoot me an email and we can go from there. ]]></description>
+<dc:date>2013-02-22T20:03:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3637087025.html</dc:source>
+<dc:title><![CDATA[Need experienced google Adwords help (Tulsa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T20:03:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3634509827.html">
+<title><![CDATA[PC Techs (Chouteau)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3634509827.html</link>
+<description><![CDATA[Need contract computer techs for work in Chouteau at 12 a.m. for a computer deployment on the morning of Feb. 26. Please send your resume for immediate consideration.]]></description>
+<dc:date>2013-02-21T18:05:43-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3634509827.html</dc:source>
+<dc:title><![CDATA[PC Techs (Chouteau)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T18:05:43-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://tulsa.craigslist.org/cpg/3605704160.html">
+<title><![CDATA[Film Editing Presentation (Bartlesville, Ok)]]></title>
+<link>http://tulsa.craigslist.org/cpg/3605704160.html</link>
+<description><![CDATA[I am looking for someone who enjoys and is creative with film & editing. I am interested in creating a video clip presentation that describes my new web site and how it works. An entertaining add for you tube that could also be used as my website tut [...]]]></description>
+<dc:date>2013-02-09T14:12:06-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tulsa.craigslist.org/cpg/3605704160.html</dc:source>
+<dc:title><![CDATA[Film Editing Presentation (Bartlesville, Ok)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T14:12:06-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

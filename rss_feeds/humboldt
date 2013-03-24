@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://humboldt.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in humboldt county</title>
+<link>http://humboldt.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://humboldt.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in humboldt county</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3668992947.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3691456338.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3687890652.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3676889286.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3660753379.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3599592598.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3620573308.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3615686177.html" />
+  <rdf:li rdf:resource="http://humboldt.craigslist.org/cpg/3603618864.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3668992947.html">
+<title><![CDATA[$20/hour starting Side income ]]></title>
+<link>http://humboldt.craigslist.org/cpg/3668992947.html</link>
+<description><![CDATA[$20/hour starting 
+Side income 
+We are looking for someone who is creative and can complete 
+simple computer tasks. 
+No computer experience required. 
+1-4hours a day 
+Email when you can start along with your name 
+for more information 
+(Has been repo [...]]]></description>
+<dc:date>2013-03-24T20:48:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3668992947.html</dc:source>
+<dc:title><![CDATA[$20/hour starting Side income ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:48:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3691456338.html">
+<title><![CDATA[Need a web designer. (Arcata)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3691456338.html</link>
+<description><![CDATA[I am building a website, it is to be sort of like a mom forum website with some extra stuff. I do not have very much money to start this project at this time but I can muster up at least 200. you MUST live in humboldt and be willing to meet with me t [...]]]></description>
+<dc:date>2013-03-19T12:46:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3691456338.html</dc:source>
+<dc:title><![CDATA[Need a web designer. (Arcata)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:46:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3687890652.html">
+<title><![CDATA[ipod transfer (Arcata)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3687890652.html</link>
+<description><![CDATA[I need someone to transfer the songs on my ipod to my computer, i do not want to do it because I am afraid it will erase all my music or I will not do it right. If you know what you're doing should take less than ten minutes. My ipod screen is broken [...]]]></description>
+<dc:date>2013-03-17T19:23:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3687890652.html</dc:source>
+<dc:title><![CDATA[ipod transfer (Arcata)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T19:23:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3676889286.html">
+<title><![CDATA[Online Marketers Needed (WWW)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3676889286.html</link>
+<description><![CDATA[Fast growing company looking for online marketers to assist with advertising. Computer and internet access required. [Click here to apply]]]></description>
+<dc:date>2013-03-12T13:16:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3676889286.html</dc:source>
+<dc:title><![CDATA[Online Marketers Needed (WWW)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T13:16:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3660753379.html">
+<title><![CDATA[Need to Borrow a Projector (1 day) (Arcata)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3660753379.html</link>
+<description><![CDATA[Hey there, 
+My household is throwing our roommate and good friend a birthday party this Friday. There's going to be some dancing and we thought it would be cool to project some images onto a screen while the music is playing. Unfortunately, none of u [...]]]></description>
+<dc:date>2013-03-05T10:35:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3660753379.html</dc:source>
+<dc:title><![CDATA[Need to Borrow a Projector (1 day) (Arcata)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T10:35:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3599592598.html">
+<title><![CDATA[Looking for people to Test FREE Site (California)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3599592598.html</link>
+<description><![CDATA[We are a web startup focused on helping people Search, Manage, and Share trusted service providers. If you are interested in helping us test our product by signing up for a private group please visit us at http://www.frendorsed.com . Thanks ]]></description>
+<dc:date>2013-02-26T09:36:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3599592598.html</dc:source>
+<dc:title><![CDATA[Looking for people to Test FREE Site (California)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:36:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3620573308.html">
+<title><![CDATA[Need a webdesigner (Arcata)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3620573308.html</link>
+<description><![CDATA[Need a web designer to help me build a website. Website would be basically a forum with some added things. Please send resume and put "website' in the subject line so I know you are not spam. 
+will pay cash. 
+Must be someone I can call up for help la [...]]]></description>
+<dc:date>2013-02-15T19:42:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3620573308.html</dc:source>
+<dc:title><![CDATA[Need a webdesigner (Arcata)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T19:42:30-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3615686177.html">
+<title><![CDATA[PC TECHNICIAN (HUMBOLDT)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3615686177.html</link>
+<description><![CDATA[We're looking for a computer/laptop technician for our small team . Our company sells refurbished computers and laptops online. The job will include receiving orders daily and getting them out in time to a strict deadline. The work place requires som [...]]]></description>
+<dc:date>2013-02-13T16:09:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3615686177.html</dc:source>
+<dc:title><![CDATA[PC TECHNICIAN (HUMBOLDT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T16:09:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://humboldt.craigslist.org/cpg/3603618864.html">
+<title><![CDATA[Web Research (Humboldt)]]></title>
+<link>http://humboldt.craigslist.org/cpg/3603618864.html</link>
+<description><![CDATA[I am seeking someone to complete some web research to compile information I am seeking from various websites. This task may also likely include calling these various agencies and gathering the required information via the phone. This gig could be any [...]]]></description>
+<dc:date>2013-02-08T13:30:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://humboldt.craigslist.org/cpg/3603618864.html</dc:source>
+<dc:title><![CDATA[Web Research (Humboldt)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T13:30:32-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

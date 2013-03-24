@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://texarkana.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in texarkana</title>
+<link>http://texarkana.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://texarkana.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in texarkana</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:55-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://texarkana.craigslist.org/cpg/3665866599.html" />
+  <rdf:li rdf:resource="http://texarkana.craigslist.org/cpg/3636394234.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://texarkana.craigslist.org/cpg/3665866599.html">
+<title><![CDATA[online, part time]]></title>
+<link>http://texarkana.craigslist.org/cpg/3665866599.html</link>
+<description><![CDATA[This is a part time opportunity to work online with no cost, and no obligation. Get started today. 
+http://visitors2cash.com/ref.php?refId=57924]]></description>
+<dc:date>2013-03-10T00:23:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://texarkana.craigslist.org/cpg/3665866599.html</dc:source>
+<dc:title><![CDATA[online, part time]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T00:23:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://texarkana.craigslist.org/cpg/3636394234.html">
+<title><![CDATA[Contract PC Techs (Texarkana)]]></title>
+<link>http://texarkana.craigslist.org/cpg/3636394234.html</link>
+<description><![CDATA[Contract work available for PC Technicians at midnight, Thursday, Feb. 28. Other work may be available in the future, too. This is computer deployment work. 
+Please send your resume for immediate consideration.]]></description>
+<dc:date>2013-02-22T14:45:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://texarkana.craigslist.org/cpg/3636394234.html</dc:source>
+<dc:title><![CDATA[Contract PC Techs (Texarkana)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T14:45:18-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

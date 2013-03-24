@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://toledo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in toledo</title>
+<link>http://toledo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://toledo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in toledo</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:03-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3682299385.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3682056325.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3681614136.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3678049383.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3675065294.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3675048769.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3668798680.html" />
+  <rdf:li rdf:resource="http://toledo.craigslist.org/cpg/3648265532.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://toledo.craigslist.org/cpg/3682299385.html">
+<title><![CDATA[experienced ebay seller (toledo)]]></title>
+<link>http://toledo.craigslist.org/cpg/3682299385.html</link>
+<description><![CDATA[Looking for someone to help me expand sales on ebay. I have many dropshippers I work with and due to ebay selling limits I am looking for few people to help me sell more stuff. ]]></description>
+<dc:date>2013-03-15T04:22:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3682299385.html</dc:source>
+<dc:title><![CDATA[experienced ebay seller (toledo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T04:22:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3682056325.html">
+<title><![CDATA[Help (Toledo)]]></title>
+<link>http://toledo.craigslist.org/cpg/3682056325.html</link>
+<description><![CDATA[I need a cheap computer hacker. Reply if you can recover passwords to things like email.]]></description>
+<dc:date>2013-03-14T23:21:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3682056325.html</dc:source>
+<dc:title><![CDATA[Help (Toledo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T23:21:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3681614136.html">
+<title><![CDATA[cash daily (ohio)]]></title>
+<link>http://toledo.craigslist.org/cpg/3681614136.html</link>
+<description><![CDATA[make money from home text me for information 8042558680]]></description>
+<dc:date>2013-03-14T18:46:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3681614136.html</dc:source>
+<dc:title><![CDATA[cash daily (ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:46:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3678049383.html">
+<title><![CDATA[$500 Signing bonus (Ohio)]]></title>
+<link>http://toledo.craigslist.org/cpg/3678049383.html</link>
+<description><![CDATA[Get started working from home with very little time spent working and a $500 sign-up bonus! 
+http://genuineptr.com/pages/index.php?refid=bananaclip 
+This is not a gimmick! Just visit random web pages for 45 seconds and collect $50/site!]]></description>
+<dc:date>2013-03-13T06:21:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3678049383.html</dc:source>
+<dc:title><![CDATA[$500 Signing bonus (Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T06:21:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3675065294.html">
+<title><![CDATA[Dreamweaver - Part-Time (Toledo BG resident)]]></title>
+<link>http://toledo.craigslist.org/cpg/3675065294.html</link>
+<description><![CDATA[Dreamweaver, free-lance assistant needed by Art Director.  Part-time, flex hours, work at our office between 10 am and 2 pm daily or as needed. Must live in Toledo/BG area. Perfect for parents or students. 12 - 20 hours weekly.  Must have experience  [...]]]></description>
+<dc:date>2013-03-11T20:12:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3675065294.html</dc:source>
+<dc:title><![CDATA[Dreamweaver - Part-Time (Toledo BG resident)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:12:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3675048769.html">
+<title><![CDATA[Dreamweaver Designer Part-time (Toledo BG resident)]]></title>
+<link>http://toledo.craigslist.org/cpg/3675048769.html</link>
+<description><![CDATA[Dreamweaver, free-lance assistant needed by Art Director. Part-time, flex hours, work at our office between 10 am and 2 pm daily or as needed. Must live in Toledo/BG area. Perfect for parents or students. 12 - 20 hours weekly. Must have experience in [...]]]></description>
+<dc:date>2013-03-11T20:04:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3675048769.html</dc:source>
+<dc:title><![CDATA[Dreamweaver Designer Part-time (Toledo BG resident)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:04:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3668798680.html">
+<title><![CDATA[Need help NOW]]></title>
+<link>http://toledo.craigslist.org/cpg/3668798680.html</link>
+<description><![CDATA[Looking to hire someone to process a few emails for my business for a few days. Email me for more info]]></description>
+<dc:date>2013-03-08T22:10:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3668798680.html</dc:source>
+<dc:title><![CDATA[Need help NOW]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T22:10:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://toledo.craigslist.org/cpg/3648265532.html">
+<title><![CDATA[direct tv dish needed to be tuned (defiance ohio)]]></title>
+<link>http://toledo.craigslist.org/cpg/3648265532.html</link>
+<description><![CDATA[direct tv dish is not pointed correctly - the hd channels are not coming in - i believe its an antenna issue..... 
+would like someone that installs directtv to tweek my dish on the side...]]></description>
+<dc:date>2013-02-27T19:36:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://toledo.craigslist.org/cpg/3648265532.html</dc:source>
+<dc:title><![CDATA[direct tv dish needed to be tuned (defiance ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T19:36:08-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

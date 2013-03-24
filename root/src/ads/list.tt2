@@ -1,0 +1,41 @@
+[% # This is a TT comment. -%]
+    
+    [%- # Provide a title -%]
+    [% META title = 'Book List' -%]
+    
+    [% # Note That the '-' at the beginning or end of TT code  -%]
+    [% # "chomps" the whitespace/newline at that end of the    -%]
+    [% # output (use View Source in browser to see the effect) -%]
+    
+    [% # Some basic HTML with a loop to display books -%]
+
+
+
+
+
+
+   
+
+
+
+
+    [% # Display each book in a table row %]
+    [% FOREACH ad IN ads -%]
+	<td><a href="[%
+            c.uri_for(c.controller.action_for('delete'), [ad.title]) %]">Delete</a></td>
+	<table onClick="location.href='mailto:[% ad.email%]?subject=[% ad.titlecode %]'"; onmouseover="this.bgColor='#AAF53D'" width="100%" onmouseout="this.bgColor='7ae969'" border="0" bordercolor="black"  style="cursor:pointer;cursor:hand" bgcolor="#7ae969">   
+	    
+	<td width="100%"><font size="10"> <p class="bold">[% ad.title %]</p><p class="regular">[% ad.description %]</p>
+
+	
+        
+      </td>
+	</table>
+	<br>
+    [% END -%]
+    
+
+
+
+
+

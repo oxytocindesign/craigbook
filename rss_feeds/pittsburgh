@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://pittsburgh.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in pittsburgh</title>
+<link>http://pittsburgh.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://pittsburgh.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in pittsburgh</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:36:53-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3700848761.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3699625686.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3699284368.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3699020007.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3698767084.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3697881110.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3696992838.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3695869630.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3695844679.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3694148263.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3693170381.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3693058105.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3691531338.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3690262831.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3689735453.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3689589303.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3688512529.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3687857817.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3686861733.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3684138885.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3683474965.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3681848074.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3677495612.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3677150031.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3672298076.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3666523305.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3663918935.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3662125855.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3660930577.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3660127995.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3654445817.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3653358433.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3652757764.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3651983989.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3643893613.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3650988148.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3647639901.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3646550208.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3645163485.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3643174075.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3636281224.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3635918493.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3633570149.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3633144495.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3631305104.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3610642196.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3620788559.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3614582054.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3614567415.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3610754994.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3609883045.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3608032385.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3599574863.html" />
+  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3600440613.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3700848761.html">
+<title><![CDATA[Need Someone Who Studies Materials Science at CMU to answer a question (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3700848761.html</link>
+<description><![CDATA[I have a materials science question. 
+I need someone who studies or teaches materials science at CMU to answer it. 
+I'll pau you $50 to answer it.]]></description>
+<dc:date>2013-03-24T12:36:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3700848761.html</dc:source>
+<dc:title><![CDATA[Need Someone Who Studies Materials Science at CMU to answer a question (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:36:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3699625686.html">
+<title><![CDATA[Need Help with a small VB job (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3699625686.html</link>
+<description><![CDATA[I need to 'sew together' pieces I have in Word, Excel and an Excel add-on into a single user friendly personality. I suspect it will take a day or possibly less for someone with appropriate familiarity with microsoft products. I would be open to have [...]]]></description>
+<dc:date>2013-03-23T16:50:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3699625686.html</dc:source>
+<dc:title><![CDATA[Need Help with a small VB job (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:50:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3699284368.html">
+<title><![CDATA[Java Script / PHP Programming Partner Wanted  (Pittsburgh Area / USA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3699284368.html</link>
+<description><![CDATA[Hello 
+Future Frontier Games is a new start-up company in the local area of Pittsburgh. We are trying to put together and finish up a mobile and AAA gaming development company. We are in the final stages with investment people. If you like to put you [...]]]></description>
+<dc:date>2013-03-23T14:02:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3699284368.html</dc:source>
+<dc:title><![CDATA[Java Script / PHP Programming Partner Wanted  (Pittsburgh Area / USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:02:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3699020007.html">
+<title><![CDATA[Computer Repair (Butler)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3699020007.html</link>
+<description><![CDATA[Call 973 280 9105]]></description>
+<dc:date>2013-03-23T12:01:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3699020007.html</dc:source>
+<dc:title><![CDATA[Computer Repair (Butler)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:01:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3698767084.html">
+<title><![CDATA[ACT Database 2006 update (Southside)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3698767084.html</link>
+<description><![CDATA[Need someone proficient in ACT 2006 to either suggest a newer version or another database we can carry all of the information onto. ]]></description>
+<dc:date>2013-03-23T09:44:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3698767084.html</dc:source>
+<dc:title><![CDATA[ACT Database 2006 update (Southside)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:44:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3697881110.html">
+<title><![CDATA[Remote Survey Takers Wanted (Work From Home)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3697881110.html</link>
+<description><![CDATA[This is a great opportunity to make money in your spare time. 
+Taking a wide variety of surveys for varying pay. Payments are sent directly to you. 
+Please review and see for yourself http://tryvindale.com/VwUNRkUf1]]></description>
+<dc:date>2013-03-22T18:06:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3697881110.html</dc:source>
+<dc:title><![CDATA[Remote Survey Takers Wanted (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T18:06:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3696992838.html">
+<title><![CDATA[Access Programming Needed (Monaca, PA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3696992838.html</link>
+<description><![CDATA[We are a privately held start-up manufacturing company with operations based out of Monaca, PA. Using a green-tech proprietary technology, we will serve the US's largest titanium producers. 
+Your job as an intern/temp hire will be to help us develop  [...]]]></description>
+<dc:date>2013-03-22T11:17:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3696992838.html</dc:source>
+<dc:title><![CDATA[Access Programming Needed (Monaca, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:17:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3695869630.html">
+<title><![CDATA[Skateboard Shop Intern (Bellevue, PA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3695869630.html</link>
+<description><![CDATA[We're looking to take on an un-paid intern with skills in Excel, Photography, Photoshop, HTML, PHP, and/or MySQL, and nun-chucks. :) 
+Skateboard knowledge a must. 
+Please submit a summary of your skills with references. 
+Great resume builder. 
+Typica [...]]]></description>
+<dc:date>2013-03-21T17:37:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3695869630.html</dc:source>
+<dc:title><![CDATA[Skateboard Shop Intern (Bellevue, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:37:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3695844679.html">
+<title><![CDATA[Wordpress & Generalist Web Developers Needed (Remote)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3695844679.html</link>
+<description><![CDATA[Looking for Wordpress and generalist (frontend, PHP, full stack, maybe Rails) web developers to work remotely for a design and interactive agency based out of NYC. We have a bunch of projects with urgent needs by developers experienced in WP and HTML [...]]]></description>
+<dc:date>2013-03-21T17:25:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3695844679.html</dc:source>
+<dc:title><![CDATA[Wordpress & Generalist Web Developers Needed (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:25:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3694148263.html">
+<title><![CDATA[LEMP work - occasional tasks (US based)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3694148263.html</link>
+<description><![CDATA[We're looking for one or two people who can do tasks on an occasional basis: 
+- one to do linux server admin + nginx server admin + mySQL tasks 
+- one to do php/css/jquery tasks 
+If one person can do both, all the better. 
+Please send your resume and [...]]]></description>
+<dc:date>2013-03-20T20:43:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3694148263.html</dc:source>
+<dc:title><![CDATA[LEMP work - occasional tasks (US based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:43:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3693170381.html">
+<title><![CDATA[Testers Needed for New Coder-Focused Freelance Site (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3693170381.html</link>
+<description><![CDATA[Hello! We are a tech startup working on a new product. As we get ready to put our site out there for the world to see, we are looking for a few people to test it for us and give us their feedback. Our site focuses on freelance coders and the people w [...]]]></description>
+<dc:date>2013-03-20T12:55:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3693170381.html</dc:source>
+<dc:title><![CDATA[Testers Needed for New Coder-Focused Freelance Site (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:55:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3693058105.html">
+<title><![CDATA[WE NEED AN AV GEEK! (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3693058105.html</link>
+<description><![CDATA[Were you on the AV squad in college? Do you understand security systems, computers, communication equipment, wiring etc? We need a consultation from someone who geeks-out over this kind of stuff. This is a paid gig, with long-term retainer potential, [...]]]></description>
+<dc:date>2013-03-20T12:09:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3693058105.html</dc:source>
+<dc:title><![CDATA[WE NEED AN AV GEEK! (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:09:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3691531338.html">
+<title><![CDATA[Earn Money Using Your Computer Skills (Pittsburgh Area)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3691531338.html</link>
+<description><![CDATA[Do you hate your job or your boss? Are you in a career transition? Our company is looking for professionals or recent college graduates with an entrepreneur mindset to work in a comfortable, relaxed environment. Complete training provided and no sell [...]]]></description>
+<dc:date>2013-03-19T16:20:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3691531338.html</dc:source>
+<dc:title><![CDATA[Earn Money Using Your Computer Skills (Pittsburgh Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:20:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3690262831.html">
+<title><![CDATA[Company Partner Needed (Cranberry/Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3690262831.html</link>
+<description><![CDATA[Hello, 
+We are looking for a partner for our established business. We need someone who can bring value to the table. We are offering ownership in exchange for your knowledge, time and work. 
+Our company currently specializes in web hosting and web de [...]]]></description>
+<dc:date>2013-03-19T00:37:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3690262831.html</dc:source>
+<dc:title><![CDATA[Company Partner Needed (Cranberry/Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T00:37:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3689735453.html">
+<title><![CDATA[I need my IGT slot machine fixd (North Hills)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3689735453.html</link>
+<description><![CDATA[I have an IGT Tripple Diamond slot I bought for my wife, It worked great for a year , the "Low Battery / See attendant apeared on the screen , I sent the part away & had a new battery installed , Now it does'nt work , I guess it needs set up, Can any [...]]]></description>
+<dc:date>2013-03-18T18:58:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3689735453.html</dc:source>
+<dc:title><![CDATA[I need my IGT slot machine fixd (North Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T18:58:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3689589303.html">
+<title><![CDATA[Need a judgement collector (Westmoreland county)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3689589303.html</link>
+<description><![CDATA[I have a small business and have several judgments against former customers that need collected. Does anybody know anybody in the business of judgement collection. These are actual court judgements that the person owes the money.]]></description>
+<dc:date>2013-03-18T17:45:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3689589303.html</dc:source>
+<dc:title><![CDATA[Need a judgement collector (Westmoreland county)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T17:45:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3688512529.html">
+<title><![CDATA[CMU Multimedia Study - $60 (300 South Craig St. )]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3688512529.html</link>
+<description><![CDATA[How does multimedia influence decision-making? Participate in a study at Carnegie Mellon University and help us to find out. Receive $60 for a 3-hour study and 45-minute follow-up survey. 
+E-mail cmustudyrecruit@gmail.com for more information. 
+Payme [...]]]></description>
+<dc:date>2013-03-18T10:20:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3688512529.html</dc:source>
+<dc:title><![CDATA[CMU Multimedia Study - $60 (300 South Craig St. )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:20:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3687857817.html">
+<title><![CDATA[Need PHD in Biology to Answer Simple Question (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3687857817.html</link>
+<description><![CDATA[If you have a PHD in biology I have a simple question I'd like to ask you. If you can answer it, I'll give you $75. ]]></description>
+<dc:date>2013-03-17T22:00:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3687857817.html</dc:source>
+<dc:title><![CDATA[Need PHD in Biology to Answer Simple Question (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T22:00:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3686861733.html">
+<title><![CDATA[EBAY helper wanted (Bellevue RT 65 area)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3686861733.html</link>
+<description><![CDATA[I would like to find someone to place ads on Ebay for me - need experienced inidividual - I sell antiques and collectibles. Please call - leave voicemail briefly describing your terms and how it would work (your fee, who's responsible for what, etc). [...]]]></description>
+<dc:date>2013-03-17T13:00:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3686861733.html</dc:source>
+<dc:title><![CDATA[EBAY helper wanted (Bellevue RT 65 area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:00:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3684138885.html">
+<title><![CDATA[trade for personal training (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3684138885.html</link>
+<description><![CDATA[help me make my site the way I want it, I'll help you achieve your health goals 
+http://www.inspiredvitality.com/]]></description>
+<dc:date>2013-03-15T23:15:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3684138885.html</dc:source>
+<dc:title><![CDATA[trade for personal training (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T23:15:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3683474965.html">
+<title><![CDATA[referral agent (United States)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3683474965.html</link>
+<description><![CDATA[Do you want to change your life? 
+I am serious.. 
+Do you really want to change your life? 
+i am hoping you do 
+just in case you do 
+If so.. 
+This is real 
+one link.. 
+one click.. 
+one changed life.. 
+http://www.starter.instantrewards.net/index.php?re [...]]]></description>
+<dc:date>2013-03-15T16:43:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3683474965.html</dc:source>
+<dc:title><![CDATA[referral agent (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T16:43:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3681848074.html">
+<title><![CDATA[Linux Nginx admin (remote)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3681848074.html</link>
+<description><![CDATA[I have small server setup/admin tasks periodically that could use help from someone who knows Linux (centOS) and Nginx. Some tasks in the future may involve mySQL and PHP as well. Please send your background and hourly rate. Thanks.]]></description>
+<dc:date>2013-03-14T20:57:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3681848074.html</dc:source>
+<dc:title><![CDATA[Linux Nginx admin (remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T20:57:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3677495612.html">
+<title><![CDATA[WordPress theme to Tumblr Theme]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3677495612.html</link>
+<description><![CDATA[Need to get a wordpress theme converted to tumblr. 
+must have experience making tumblr themes. 
+html, css, js]]></description>
+<dc:date>2013-03-12T20:51:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3677495612.html</dc:source>
+<dc:title><![CDATA[WordPress theme to Tumblr Theme]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:51:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3677150031.html">
+<title><![CDATA[E-Commerce Template modification (Pittsburgh - South Hills)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3677150031.html</link>
+<description><![CDATA[We're a business in need of a LOCAL developer. Freelancers welcome. 
+Template details: Prestashop or Magento e-commerce template. We need a download option added and some other modifications. I'll can email over the template number/link. 
+Software Re [...]]]></description>
+<dc:date>2013-03-12T18:05:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3677150031.html</dc:source>
+<dc:title><![CDATA[E-Commerce Template modification (Pittsburgh - South Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T18:05:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3672298076.html">
+<title><![CDATA[WordPress Install]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3672298076.html</link>
+<description><![CDATA[Need a wordpress template installed with some minor changes as well.. Need it completed asap! Will respond to all. 
+Thank you]]></description>
+<dc:date>2013-03-10T16:52:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3672298076.html</dc:source>
+<dc:title><![CDATA[WordPress Install]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T16:52:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3666523305.html">
+<title><![CDATA[Website developer needed]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3666523305.html</link>
+<description><![CDATA[A start-up online business is in need of a web developer. Keeping to a strict budget is high priority. A developer in the Pittsburgh area is a plus. The only CMS I'm familiar with is Joomla, but I'm open to suggestions based on your experience. 
+Furt [...]]]></description>
+<dc:date>2013-03-07T22:25:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3666523305.html</dc:source>
+<dc:title><![CDATA[Website developer needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T22:25:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3663918935.html">
+<title><![CDATA[Jquery and wordpress help]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3663918935.html</link>
+<description><![CDATA[hello, 
+I have a few projects I need help with. 
+I am looking for someone with Jquery and wordpress plug ins development knowledge. 
+please reply with sample of your work and compensation requirements. 
+thanks ]]></description>
+<dc:date>2013-03-06T19:17:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3663918935.html</dc:source>
+<dc:title><![CDATA[Jquery and wordpress help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T19:17:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3662125855.html">
+<title><![CDATA[Video Game Programmer Needed (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3662125855.html</link>
+<description><![CDATA[I have been working on a video game concept for several years. I have finally reached a point where I would need a video game programmer to complete a short playable demo. Coding skills can be minimal, but extraordinary coding abilities are definitel [...]]]></description>
+<dc:date>2013-03-06T01:08:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3662125855.html</dc:source>
+<dc:title><![CDATA[Video Game Programmer Needed (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T01:08:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3660930577.html">
+<title><![CDATA[Testers Needed for Coder-Focused Website (Downtown)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3660930577.html</link>
+<description><![CDATA[Hello! We are a PGH tech startup working on a new product. As we get ready to put our site out there for the world to see, we would like to get a few people to come in to test it for us and give us their feedback. Our site focuses on coders and the p [...]]]></description>
+<dc:date>2013-03-05T14:41:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3660930577.html</dc:source>
+<dc:title><![CDATA[Testers Needed for Coder-Focused Website (Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:41:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3660127995.html">
+<title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3660127995.html</link>
+<description><![CDATA[Amazing Opportunity! We are looking for Mobile Game App Developers to help with new app development. Experience with iOS & Android development a must. Part-Time, subcontract. Payment will be in shares of the revenue of the game, On-Going, for the rig [...]]]></description>
+<dc:date>2013-03-05T09:19:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3660127995.html</dc:source>
+<dc:title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T09:19:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3654445817.html">
+<title><![CDATA[App Development Team members needed (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3654445817.html</link>
+<description><![CDATA[My two partners and I run a established marketing company which has operations in 4 states. We currently are in the energy industry but are looking to expand our horizons, using our knowledge of sales and marketing to help us in a different industry. [...]]]></description>
+<dc:date>2013-03-02T15:21:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3654445817.html</dc:source>
+<dc:title><![CDATA[App Development Team members needed (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T15:21:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3653358433.html">
+<title><![CDATA[Web designer needed (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3653358433.html</link>
+<description><![CDATA[I am looking for a good web designer who is veritable, reliable and creative. We have different projects lined up, and are in need of a web designer to create the designs for these projects. 
+You must: 
+not be a company 
+be from the greater Pittsburg [...]]]></description>
+<dc:date>2013-03-02T03:27:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3653358433.html</dc:source>
+<dc:title><![CDATA[Web designer needed (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T03:27:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3652757764.html">
+<title><![CDATA[Web Designer wanted for non-profit start up website (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3652757764.html</link>
+<description><![CDATA[I'm looking for a web designer to assist in designing a site that will support people who work with children who have mental disabilities. This would be a good job for college students looking to build a resume, recent grads looking for extra work an [...]]]></description>
+<dc:date>2013-03-01T19:03:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3652757764.html</dc:source>
+<dc:title><![CDATA[Web Designer wanted for non-profit start up website (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T19:03:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3651983989.html">
+<title><![CDATA[Are You An SEO Genius? (Western PA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3651983989.html</link>
+<description><![CDATA[Can you gain multiple results on page 1 for a long tail phase (a video doesn't count)? 
+We are looking for a partner who doesn't have to or want to worry about art, video or content creation. We have that and all the hard costs already covered. 
+Your [...]]]></description>
+<dc:date>2013-03-01T13:39:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3651983989.html</dc:source>
+<dc:title><![CDATA[Are You An SEO Genius? (Western PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T13:39:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3643893613.html">
+<title><![CDATA[Business Plan  (Pittsburgh, PA )]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3643893613.html</link>
+<description><![CDATA[I am looking for a person to write a business plan for me. I must have this done asap. I'm willing to pay 100.00 dollars. You can bring it to me personally. I am trying to get a loan and need this done. I need to get this done this week. the bank has [...]]]></description>
+<dc:date>2013-03-01T08:38:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3643893613.html</dc:source>
+<dc:title><![CDATA[Business Plan  (Pittsburgh, PA )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T08:38:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3650988148.html">
+<title><![CDATA[Digital 3d Modeling Tutor Wanted for Blender Program (Oakland)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3650988148.html</link>
+<description><![CDATA[I would like to have a tutor help me learn how to use the Blender program on a newer Mac computer, to modify a 3d digital human model I purchased recently, to get me started with the basics of blender and 3D modeling in general, such as how to hollow [...]]]></description>
+<dc:date>2013-03-01T00:56:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3650988148.html</dc:source>
+<dc:title><![CDATA[Digital 3d Modeling Tutor Wanted for Blender Program (Oakland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T00:56:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3647639901.html">
+<title><![CDATA[Javascript/HTML/CSS/Wordpress?]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3647639901.html</link>
+<description><![CDATA[I am a consultant, developer and designer working primarily in Wordpress. 
+I often encounter javascript coding issues which I'd like to be able to get resolved fast. 
+I have a couple of large projects this year and the opportunity to make a significa [...]]]></description>
+<dc:date>2013-02-27T15:04:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3647639901.html</dc:source>
+<dc:title><![CDATA[Javascript/HTML/CSS/Wordpress?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T15:04:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3646550208.html">
+<title><![CDATA[apple gurus (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3646550208.html</link>
+<description><![CDATA[Do you know where to take a 5 year old apple laptop that is filled up. It came with 30Gigs of space, we haven't used it much, but we think with all the software updates, it became completely full so it's slow. 
+I just need it to be able to use garage [...]]]></description>
+<dc:date>2013-02-27T04:31:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3646550208.html</dc:source>
+<dc:title><![CDATA[apple gurus (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T04:31:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3645163485.html">
+<title><![CDATA[Facebook Expertise Needed (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3645163485.html</link>
+<description><![CDATA[I tried to merge my business page and personal profile page. I've tried what Facebook said, but I only go so far and get afraid. I don't want to lose all of my friends on my personal page. 
+My business page is on Facebook as Burgh Man My personal pag [...]]]></description>
+<dc:date>2013-02-26T14:19:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3645163485.html</dc:source>
+<dc:title><![CDATA[Facebook Expertise Needed (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T14:19:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3643174075.html">
+<title><![CDATA[Wireless Field Technicians (Pittsburgh Market)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3643174075.html</link>
+<description><![CDATA[Looking for Wireless Field Technicians in the greater Pittsburgh market. 
+Candidates will be completing break/fix and quality assurance work at various cellular sites throughout the area. 
+Candidates must be flexible to work all shifts and must have  [...]]]></description>
+<dc:date>2013-02-25T16:58:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3643174075.html</dc:source>
+<dc:title><![CDATA[Wireless Field Technicians (Pittsburgh Market)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:58:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3636281224.html">
+<title><![CDATA[Web Developer (Internship) (Mt. Lebanon, PA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3636281224.html</link>
+<description><![CDATA[Footloose boutique located in the Galleria in Mt. Lebanon is looking for someone to assist and maintain our store in all social media strategy and management. We are looking for an intern to help maintain our new ecommerene website as well. 
+This opp [...]]]></description>
+<dc:date>2013-02-22T15:01:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3636281224.html</dc:source>
+<dc:title><![CDATA[Web Developer (Internship) (Mt. Lebanon, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T15:01:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3635918493.html">
+<title><![CDATA[Connect Directv Connection Kit To Internet (Greensburg)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3635918493.html</link>
+<description><![CDATA[After hours of following every instruction/advice online for connecting a Directv Wireless Connection Kit to my 22-100 receiver, I'm now hoping to find someone with professional installation experience to assist me. I really cannot afford $50 for Dir [...]]]></description>
+<dc:date>2013-02-22T12:46:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3635918493.html</dc:source>
+<dc:title><![CDATA[Connect Directv Connection Kit To Internet (Greensburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T12:46:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3633570149.html">
+<title><![CDATA[Mobile Technician needed (Greater Pittsburgh Area)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3633570149.html</link>
+<description><![CDATA[On-Site Tech needed. (Greater Baltimore Area) 
+*****NOTICE****** 
+IF YOU RESPONDED TO THIS ADD IN THE PAST 2 MONTHS, PLEASE RESUBMIT AS WE DISCOVERED N ERROR IN OUR EMAIL SETTINGS AND DID NOT RECEIVE YOUR RESUME - THANK YOU 
+*****NOTICE****** 
+IMMEDI [...]]]></description>
+<dc:date>2013-02-21T12:48:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3633570149.html</dc:source>
+<dc:title><![CDATA[Mobile Technician needed (Greater Pittsburgh Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T12:48:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3633144495.html">
+<title><![CDATA[Documentation Project (Pittsburgh Area)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3633144495.html</link>
+<description><![CDATA[We are looking for someone to create a documentation management platform. Can be MS Office based or some other stand alone system. 
+Need a solution that contains a Spreadheet or Database containing custom fields for recording client information. This [...]]]></description>
+<dc:date>2013-02-21T09:58:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3633144495.html</dc:source>
+<dc:title><![CDATA[Documentation Project (Pittsburgh Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T09:58:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3631305104.html">
+<title><![CDATA[Web Developer / PHP Developer (Pittsburgh, PA)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3631305104.html</link>
+<description><![CDATA[Location: Pittsburgh, PA 
+Job Type: 6 month + contract 
+My direct client is looking for a consultant to join their web development team responsible for developing projects on their entire life-cycle. 
+Skills: 
+- 5 years of PHP experience 
+- Knowledge [...]]]></description>
+<dc:date>2013-02-20T13:41:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3631305104.html</dc:source>
+<dc:title><![CDATA[Web Developer / PHP Developer (Pittsburgh, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T13:41:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3610642196.html">
+<title><![CDATA[Business Plan (Pittsburgh, Pa)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3610642196.html</link>
+<description><![CDATA[I am looking for a person to write a business plan for me. I must have this done asap. I'm willing to pay 100.00 dollars. You can bring it to me personally. I am trying to get a loan and need this done. ]]></description>
+<dc:date>2013-02-16T18:32:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3610642196.html</dc:source>
+<dc:title><![CDATA[Business Plan (Pittsburgh, Pa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T18:32:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3620788559.html">
+<title><![CDATA[Howitcouldbedifferent.org - developers, researchers, & others wanted (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3620788559.html</link>
+<description><![CDATA[Hello! 
+Howitcouldbedifferent.org is a website where one can easily see, share, and suggest ideas for improvement in one place. The site can be thought of as a "Wikipedia for ideas" or a "democratic TED" that features both ideas from the world (TED,  [...]]]></description>
+<dc:date>2013-02-16T01:51:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3620788559.html</dc:source>
+<dc:title><![CDATA[Howitcouldbedifferent.org - developers, researchers, & others wanted (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T01:51:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3614582054.html">
+<title><![CDATA[Social Media & YouTube Volunteers Needed (Pittsburgh / from home)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3614582054.html</link>
+<description><![CDATA[Hey everybody! 
+We are looking for volunteers who have experience in or are interested in gaining experience in social media strategy and management. This includes Facebook, Twitter, and YouTube -- any film and editing experience would be extremely h [...]]]></description>
+<dc:date>2013-02-13T11:49:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3614582054.html</dc:source>
+<dc:title><![CDATA[Social Media & YouTube Volunteers Needed (Pittsburgh / from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:49:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3614567415.html">
+<title><![CDATA[Google Sites Volunteer Needed (Pittsburgh / from home)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3614567415.html</link>
+<description><![CDATA[Hey there! 
+We are looking for a volunteer with Google Sites experience, or an interest in gaining Google Sites experience, to help us with a nonprofit's website. After an initial meeting to discuss the project, you would be able to work entirely on  [...]]]></description>
+<dc:date>2013-02-13T11:43:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3614567415.html</dc:source>
+<dc:title><![CDATA[Google Sites Volunteer Needed (Pittsburgh / from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:43:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3610754994.html">
+<title><![CDATA[pinball repair man (south hills )]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3610754994.html</link>
+<description><![CDATA[Im looking for someone who can fix my pinball machine it worked till i moved it and the top part that keeps the score and stuff is out its the lost world and i think something came loose whenever we moved it..im not going to get in to to much for rep [...]]]></description>
+<dc:date>2013-02-11T19:00:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3610754994.html</dc:source>
+<dc:title><![CDATA[pinball repair man (south hills )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T19:00:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3609883045.html">
+<title><![CDATA[Wordpress Volunteer Needed (Pittsburgh / from home)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3609883045.html</link>
+<description><![CDATA[Hey there! 
+We are looking for volunteers with Wordpress experience to help us with a nonprofit's website. After an initial meeting to discuss the project, you would be able to work entirely on your own schedule and from the location of your choice.  [...]]]></description>
+<dc:date>2013-02-11T13:28:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3609883045.html</dc:source>
+<dc:title><![CDATA[Wordpress Volunteer Needed (Pittsburgh / from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:28:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3608032385.html">
+<title><![CDATA[Anybody wanna make a game? (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3608032385.html</link>
+<description><![CDATA[I'm trying to get a few folks together who want to make a video game. I'm a writer by trade and have written out several treatments. The most manageable of which I had envisioned as a point and click adventure in the vein of Myst but set in a medieva [...]]]></description>
+<dc:date>2013-02-10T17:01:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3608032385.html</dc:source>
+<dc:title><![CDATA[Anybody wanna make a game? (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T17:01:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3599574863.html">
+<title><![CDATA[Need help with a php script we purchased from codecanyon.net (pittsburgh-tri-state)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3599574863.html</link>
+<description><![CDATA[Plus, we have some other projects that need work on. ]]></description>
+<dc:date>2013-02-09T01:58:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3599574863.html</dc:source>
+<dc:title><![CDATA[Need help with a php script we purchased from codecanyon.net (pittsburgh-tri-state)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T01:58:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://pittsburgh.craigslist.org/cpg/3600440613.html">
+<title><![CDATA[Looking for a Software Engineer (Pittsburgh)]]></title>
+<link>http://pittsburgh.craigslist.org/cpg/3600440613.html</link>
+<description><![CDATA[I am looking for a software engineer to help me build a service platform to aid freelancers and their clients more easily communicate with each other. I am currently looking for an engineer to aid me while I attend to business and sales. Currently I' [...]]]></description>
+<dc:date>2013-02-07T11:40:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://pittsburgh.craigslist.org/cpg/3600440613.html</dc:source>
+<dc:title><![CDATA[Looking for a Software Engineer (Pittsburgh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T11:40:22-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

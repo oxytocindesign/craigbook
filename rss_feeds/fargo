@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://fargo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in fargo / moorhead</title>
+<link>http://fargo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://fargo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in fargo / moorhead</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:02-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3682265030.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3698140600.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3689679707.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3681158621.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3665860666.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3666701327.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3648699177.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3604098481.html" />
+  <rdf:li rdf:resource="http://fargo.craigslist.org/cpg/3603703037.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://fargo.craigslist.org/cpg/3682265030.html">
+<title><![CDATA[Awesome Opportunity to make Extra Money from Home! (Fargo/Moorhead)]]></title>
+<link>http://fargo.craigslist.org/cpg/3682265030.html</link>
+<description><![CDATA[$20 hr for any person who has good work ethic! This is a work from home position. This is not at all a "hard sell" and you can realistically make $100-$200 per day in this independent contractor position. WE PAY DAILY. After a few months you will mak [...]]]></description>
+<dc:date>2013-03-23T02:32:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3682265030.html</dc:source>
+<dc:title><![CDATA[Awesome Opportunity to make Extra Money from Home! (Fargo/Moorhead)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T02:32:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3698140600.html">
+<title><![CDATA[Remote development help (Anywhere)]]></title>
+<link>http://fargo.craigslist.org/cpg/3698140600.html</link>
+<description><![CDATA[I need assistance with several web development projects. 
+Seeking competitive pricing, reliability and quality work. Can offer flexible work as you need it. 
+PHP, CSS necessary. Some CMS knowledge, particularly Drupal would be good. 
+Design skills a  [...]]]></description>
+<dc:date>2013-03-22T19:40:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3698140600.html</dc:source>
+<dc:title><![CDATA[Remote development help (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T19:40:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3689679707.html">
+<title><![CDATA[can you fix electronics? (F/M Area)]]></title>
+<link>http://fargo.craigslist.org/cpg/3689679707.html</link>
+<description><![CDATA[if you can fix any or all Apple/Android products... 
+call us at: 7zero1three4seven1two8two, or 
+respond to this ad...]]></description>
+<dc:date>2013-03-18T17:30:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3689679707.html</dc:source>
+<dc:title><![CDATA[can you fix electronics? (F/M Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T17:30:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3681158621.html">
+<title><![CDATA[instantwatcher.com  thenowwhereman.com (Detroit Lakes)]]></title>
+<link>http://fargo.craigslist.org/cpg/3681158621.html</link>
+<description><![CDATA[I will pay you to setup one of the above. Reason is to enhance my Netflix movie choice. 218-849-6407]]></description>
+<dc:date>2013-03-14T14:13:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3681158621.html</dc:source>
+<dc:title><![CDATA[instantwatcher.com  thenowwhereman.com (Detroit Lakes)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:13:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3665860666.html">
+<title><![CDATA[part time online]]></title>
+<link>http://fargo.craigslist.org/cpg/3665860666.html</link>
+<description><![CDATA[This is a no cost, no obligation opportunity to work with online trafficking. click the link below to get started today! 
+http://visitors2cash.com/ref.php?refId=57924]]></description>
+<dc:date>2013-03-10T00:24:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3665860666.html</dc:source>
+<dc:title><![CDATA[part time online]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T00:24:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3666701327.html">
+<title><![CDATA[Looking For Adult WebSite To Be Built (Fargo)]]></title>
+<link>http://fargo.craigslist.org/cpg/3666701327.html</link>
+<description><![CDATA[Looking for an adult website to be built that is able to have live Feed and pay pal there is more to it but those two points are the major must haves!! thank you and looking forward to working with you ~* &lt;3 *~]]></description>
+<dc:date>2013-03-07T23:52:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3666701327.html</dc:source>
+<dc:title><![CDATA[Looking For Adult WebSite To Be Built (Fargo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T23:52:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3648699177.html">
+<title><![CDATA[EE Circuit Nerd needed (Fargo)]]></title>
+<link>http://fargo.craigslist.org/cpg/3648699177.html</link>
+<description><![CDATA[Lowdown: 
+I have a small Electrical Engineering project, it should be pretty easy, even a student can probably handle it, however, I am not an EE person, so its wicked complex for me. 
+Requirements: 
+Knowledge of how to design a circuit 
+Access to so [...]]]></description>
+<dc:date>2013-02-27T23:07:03-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3648699177.html</dc:source>
+<dc:title><![CDATA[EE Circuit Nerd needed (Fargo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T23:07:03-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3604098481.html">
+<title><![CDATA[Remote development help (Anywhere)]]></title>
+<link>http://fargo.craigslist.org/cpg/3604098481.html</link>
+<description><![CDATA[I need assistance with several web development projects. 
+Seeking competitive pricing, reliability and quality work. Can offer flexible work as you need it. 
+PHP, CSS necessary. Some CMS knowledge, particularly Drupal would be good. 
+Please state you [...]]]></description>
+<dc:date>2013-02-08T19:10:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3604098481.html</dc:source>
+<dc:title><![CDATA[Remote development help (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T19:10:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://fargo.craigslist.org/cpg/3603703037.html">
+<title><![CDATA[Help weth ad on ebay (Fargo)]]></title>
+<link>http://fargo.craigslist.org/cpg/3603703037.html</link>
+<description><![CDATA[Any budy want to help me put a couple cars on ebay, includes taking pitchers etc? I cant figure it out! Will pay $20.00 for the help. Call Darold 1-701-306-8208 oe email]]></description>
+<dc:date>2013-02-08T16:04:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fargo.craigslist.org/cpg/3603703037.html</dc:source>
+<dc:title><![CDATA[Help weth ad on ebay (Fargo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T16:04:33-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

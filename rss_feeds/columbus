@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://columbus.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in columbus</title>
+<link>http://columbus.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://columbus.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in columbus</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:17-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3701034341.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3698837739.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3698751594.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3638927386.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3693429908.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3693065743.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3689900404.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3689720451.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3689291792.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3688789424.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3686475939.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3685970998.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3685959723.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3685954667.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3683897243.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3681874716.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3680774734.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3680209634.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3675416326.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3673751490.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3673185838.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3670560766.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3668868370.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3666404179.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3665416164.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3662898765.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3662827204.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3643211982.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3659651326.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3645412657.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3658130415.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3657983807.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3591802686.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3648414314.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3645770776.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3644885969.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3644019702.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3643178479.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3641952152.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3641509533.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3640292977.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3639139006.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3635801311.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3633432909.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3633356135.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3631639362.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3630767182.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3614539367.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3598809844.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3544951066.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3609344920.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3608466373.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3607598770.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3607524404.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3606164776.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3597582930.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3536284902.html" />
+  <rdf:li rdf:resource="http://columbus.craigslist.org/cpg/3600152577.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://columbus.craigslist.org/cpg/3701034341.html">
+<title><![CDATA[Web Designer - Start Monday (Polaris)]]></title>
+<link>http://columbus.craigslist.org/cpg/3701034341.html</link>
+<description><![CDATA[Basic Web Designer needed - Start full time Monday! 
+Email with your experience & contract information. 
+Thanks]]></description>
+<dc:date>2013-03-24T14:11:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3701034341.html</dc:source>
+<dc:title><![CDATA[Web Designer - Start Monday (Polaris)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:11:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3698837739.html">
+<title><![CDATA[Social engine help (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3698837739.html</link>
+<description><![CDATA[Hello, 
+I'm looking for someone who is very knowledgeable with the social networking platform social engine. I'm looking into starting a social network with this platform but have quite a few questions about it first. If anyone is willing to help wit [...]]]></description>
+<dc:date>2013-03-23T10:28:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3698837739.html</dc:source>
+<dc:title><![CDATA[Social engine help (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:28:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3698751594.html">
+<title><![CDATA[Server Installation (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3698751594.html</link>
+<description><![CDATA[National Technology Services Company headquartered in Columbus, OH requires an exceptional Network Systems Support Engineer to assist us with server swaps and installations at our customer locations throughout the Columbus Regional area. This is a te [...]]]></description>
+<dc:date>2013-03-23T09:33:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3698751594.html</dc:source>
+<dc:title><![CDATA[Server Installation (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:33:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3638927386.html">
+<title><![CDATA[Social Media and Writing Project for Columbus College Students ]]></title>
+<link>http://columbus.craigslist.org/cpg/3638927386.html</link>
+<description><![CDATA[We are looking for a few Columbus college students for a short term writing and social media (Facebook, Twitter, etc.) project. You do not need to work from our office. If you work for a college newspaper, organization, club, fraternity or sorority o [...]]]></description>
+<dc:date>2013-03-21T19:26:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3638927386.html</dc:source>
+<dc:title><![CDATA[Social Media and Writing Project for Columbus College Students ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T19:26:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3693429908.html">
+<title><![CDATA[~~Windows/Network/Web Admin Wanted~~ (Grandview)]]></title>
+<link>http://columbus.craigslist.org/cpg/3693429908.html</link>
+<description><![CDATA[Payex, an established company located in Grandview, has an immediate need for a part time, 1099 Contract (not employed) Windows/Network/Web Administrator. We're looking for someone that would be available on an as needed basis, which could range betw [...]]]></description>
+<dc:date>2013-03-20T14:44:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3693429908.html</dc:source>
+<dc:title><![CDATA[~~Windows/Network/Web Admin Wanted~~ (Grandview)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:44:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3693065743.html">
+<title><![CDATA[I need a Shopify expert/Web developer and or designer (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3693065743.html</link>
+<description><![CDATA[I have a Shopify site that is currently not live. I bought a template from Shopify that I would like to make some tweaks/revisions to. I have a clothing line and will initially have about 10 different shirts to add on the site. I am looking for someo [...]]]></description>
+<dc:date>2013-03-20T12:12:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3693065743.html</dc:source>
+<dc:title><![CDATA[I need a Shopify expert/Web developer and or designer (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:12:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3689900404.html">
+<title><![CDATA[AWESOMENESS JOB EVER (United States)]]></title>
+<link>http://columbus.craigslist.org/cpg/3689900404.html</link>
+<description><![CDATA[want to make money online from the comfort of ur own home ur own hours and everything then i have the job for u !! http://www.cashcrate.com/4135748 go to sight posted and earn ur 1st dallor MUST BE ATLEAST 13 FOR THIS JOB OPPUTUNITY questions text 41 [...]]]></description>
+<dc:date>2013-03-18T20:27:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3689900404.html</dc:source>
+<dc:title><![CDATA[AWESOMENESS JOB EVER (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T20:27:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3689720451.html">
+<title><![CDATA[1981 eagle bus mechanic (reynoldsburg ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3689720451.html</link>
+<description><![CDATA[im looking for some one that no the wireing on a 6v71 eagle bus 1981 i have most of the digram how the wiring is when the bus was built thats all i need doint need no mechanic work on motor just wiring 216 640 3766]]></description>
+<dc:date>2013-03-18T18:50:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3689720451.html</dc:source>
+<dc:title><![CDATA[1981 eagle bus mechanic (reynoldsburg ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T18:50:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3689291792.html">
+<title><![CDATA[looking for someone to do a online geometry class  (columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3689291792.html</link>
+<description><![CDATA[hi, i am looking for someone to do an online geometry course which is due on april 4th if interested email me or text me at 6147078902]]></description>
+<dc:date>2013-03-18T15:35:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3689291792.html</dc:source>
+<dc:title><![CDATA[looking for someone to do a online geometry class  (columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:35:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3688789424.html">
+<title><![CDATA[Online Management System Design (Reynoldsburg)]]></title>
+<link>http://columbus.craigslist.org/cpg/3688789424.html</link>
+<description><![CDATA[I have an existing online database to manage work order tickets and service scheduling. Need someone to develop some enhancements in ASP which include better work flow and add reporting. This is a relative small job. However, will retain ongoing basi [...]]]></description>
+<dc:date>2013-03-18T12:18:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3688789424.html</dc:source>
+<dc:title><![CDATA[Online Management System Design (Reynoldsburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:18:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3686475939.html">
+<title><![CDATA[E Book Designs (North Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3686475939.html</link>
+<description><![CDATA[We are seeking an experienced designer to assist taking our small publishing company to the future with converting our files to epub, mobi files for use with e readers. 
+We are working with a national distributor, however, we must submit e files that [...]]]></description>
+<dc:date>2013-03-17T08:53:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3686475939.html</dc:source>
+<dc:title><![CDATA[E Book Designs (North Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T08:53:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3685970998.html">
+<title><![CDATA[Google Adwords API iPad Custom App (Remote or Worthington)]]></title>
+<link>http://columbus.craigslist.org/cpg/3685970998.html</link>
+<description><![CDATA[Need to build Google Adwords API custom iPad app in next 5 weeks. More details upon meeting to review project. Ownership/assignment of source code and NDA reqd. ]]></description>
+<dc:date>2013-03-16T21:22:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3685970998.html</dc:source>
+<dc:title><![CDATA[Google Adwords API iPad Custom App (Remote or Worthington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:22:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3685959723.html">
+<title><![CDATA[Create Google API Custom Report (Remote/worthington)]]></title>
+<link>http://columbus.craigslist.org/cpg/3685959723.html</link>
+<description><![CDATA[Need custom report pulling Google Adwords, Custom Search API and Webmaster API data into one report. 
+Details upon meeting in person. Ownership of source code & NDA reqd. ]]></description>
+<dc:date>2013-03-16T21:14:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3685959723.html</dc:source>
+<dc:title><![CDATA[Create Google API Custom Report (Remote/worthington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:14:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3685954667.html">
+<title><![CDATA[SVN, Maven, Eclipse & Java set up version control, branches (Remote or in person)]]></title>
+<link>http://columbus.craigslist.org/cpg/3685954667.html</link>
+<description><![CDATA[Have three contractors who programmed in Java 1.5, and last Java dev did not maintain SVN. Need experienced Java dev who has had to do documentation, use and set up Maven, Eclipse, SVN and work with either cloud based repositories. Must have MySQL DB [...]]]></description>
+<dc:date>2013-03-16T21:10:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3685954667.html</dc:source>
+<dc:title><![CDATA[SVN, Maven, Eclipse & Java set up version control, branches (Remote or in person)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T21:10:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3683897243.html">
+<title><![CDATA[Photoshop educator needed  (Dayton, OH)]]></title>
+<link>http://columbus.craigslist.org/cpg/3683897243.html</link>
+<description><![CDATA[Looking for somebody to give Photoshop lessons to my kids. My kids are home schooled so I have time during the day. Would like to use Teamviewer or some other sort of desktop sharing program to interface with. Not sure if somebody out there has the p [...]]]></description>
+<dc:date>2013-03-15T20:23:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3683897243.html</dc:source>
+<dc:title><![CDATA[Photoshop educator needed  (Dayton, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T20:23:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3681874716.html">
+<title><![CDATA[Cisco 3750 With Erased Flash (East)]]></title>
+<link>http://columbus.craigslist.org/cpg/3681874716.html</link>
+<description><![CDATA[I have a Cisco 3750 that had the "erase flash" comand preformed on it. Any one know how to reload it or pull the tar file out? I'm running hyper terminal on an old 3.11 machine and it escapes me how to do this. 
+Oh, I have two 3750's connected with a [...]]]></description>
+<dc:date>2013-03-14T21:14:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3681874716.html</dc:source>
+<dc:title><![CDATA[Cisco 3750 With Erased Flash (East)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T21:14:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3680774734.html">
+<title><![CDATA[$100 A Day In 3 Simple Steps (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3680774734.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-14T12:34:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3680774734.html</dc:source>
+<dc:title><![CDATA[$100 A Day In 3 Simple Steps (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T12:34:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3680209634.html">
+<title><![CDATA[help me sell my items on ebay (columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3680209634.html</link>
+<description><![CDATA[looking for someone with an ebay account to help me sell my items, I have bunch of stuff to get rid off and I buy to resell. Reply if interested]]></description>
+<dc:date>2013-03-14T05:09:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3680209634.html</dc:source>
+<dc:title><![CDATA[help me sell my items on ebay (columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T05:09:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3675416326.html">
+<title><![CDATA[Android app developer (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3675416326.html</link>
+<description><![CDATA[I have a project/ Startup in the woks but i need a local Android app developer who will partner in this project. 
+The App is almost done as far as development is concerned. I need a local developer in-case of maintenance and updates (ie Bugs, etc). T [...]]]></description>
+<dc:date>2013-03-11T23:31:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3675416326.html</dc:source>
+<dc:title><![CDATA[Android app developer (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:31:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3673751490.html">
+<title><![CDATA[Printer Repair Columbus (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3673751490.html</link>
+<description><![CDATA[Repair Printronix printer install part. We have a customer in the Columbus area who need to have their printer fixed. We are a 22 year old company out of Cincinnati looking for coverage in the Columbus area. More calls in the area if you are qualifie [...]]]></description>
+<dc:date>2013-03-11T11:35:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3673751490.html</dc:source>
+<dc:title><![CDATA[Printer Repair Columbus (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T11:35:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3673185838.html">
+<title><![CDATA[hiring website sales associates comissions (central ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3673185838.html</link>
+<description><![CDATA[I need help with a new website venture I am putting together and am asking for frequent wesite testers/users entry level and higher. Compensation fluctuates according to experince and time put in. The more time you put in the more you will make, I wi [...]]]></description>
+<dc:date>2013-03-11T02:18:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3673185838.html</dc:source>
+<dc:title><![CDATA[hiring website sales associates comissions (central ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T02:18:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3670560766.html">
+<title><![CDATA[1 Day Printer Deployment Project (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3670560766.html</link>
+<description><![CDATA[Our client is looking for a Drupa Developer with extensive working knowledge in PHP and Drupal 6 & 7. This would be an ON-SITE gig. The working environment is fun and fast-paced. Must be able to accurately es click here for the application enter your [...]]]></description>
+<dc:date>2013-03-09T18:12:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3670560766.html</dc:source>
+<dc:title><![CDATA[1 Day Printer Deployment Project (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T18:12:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3668868370.html">
+<title><![CDATA[Looking for computer tech for repair laptop computer at shop (columbus, ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3668868370.html</link>
+<description><![CDATA[We have a repair laptop shop are looking for tech guy to run the shop, email me resume if interesting. 
+If you know how to repair iphone, ipad and ipod is a plus. ]]></description>
+<dc:date>2013-03-08T23:02:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3668868370.html</dc:source>
+<dc:title><![CDATA[Looking for computer tech for repair laptop computer at shop (columbus, ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T23:02:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3666404179.html">
+<title><![CDATA[Software Developer/Business Partner needed (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3666404179.html</link>
+<description><![CDATA[Software expert needed for small Biz project. I have a idea but don't know how or where to make it 
+But I know with the right person we can make a top selling product all I need is a smart person. 
+*MUST live in Columbus 
+**Must be willing to sign a  [...]]]></description>
+<dc:date>2013-03-07T21:10:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3666404179.html</dc:source>
+<dc:title><![CDATA[Software Developer/Business Partner needed (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T21:10:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3665416164.html">
+<title><![CDATA[Customer Loyalty App iphone android (columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3665416164.html</link>
+<description><![CDATA[Can you help build a mobile loyalty program/app similar to loyaltree or getperka? .. I am a graphic designer and marketer, looking for someone who can do the iphone / android coding. Local businesses in every major city has a need for this kind of se [...]]]></description>
+<dc:date>2013-03-07T13:46:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3665416164.html</dc:source>
+<dc:title><![CDATA[Customer Loyalty App iphone android (columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T13:46:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3662898765.html">
+<title><![CDATA[Office Space Trade for Website work (POLARIS)]]></title>
+<link>http://columbus.craigslist.org/cpg/3662898765.html</link>
+<description><![CDATA[I have space for up to 4 workstations in a beautiful location near the Polaris mall. 
+You will also have access to a conference/media projection room. 
+Want to trade for ongoing e-commerce website help. 
+Must be good in PHP/SQL ]]></description>
+<dc:date>2013-03-06T12:22:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3662898765.html</dc:source>
+<dc:title><![CDATA[Office Space Trade for Website work (POLARIS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T12:22:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3662827204.html">
+<title><![CDATA[Raspberry Pi programmer wanted (Galloway)]]></title>
+<link>http://columbus.craigslist.org/cpg/3662827204.html</link>
+<description><![CDATA[I am looking for some one to program a Raspberry Pi, or equivalent processor approved by me, for a specific application. The application involves reading input signals from devices, making mathematical calculations, and displaying in a format defined [...]]]></description>
+<dc:date>2013-03-06T11:56:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3662827204.html</dc:source>
+<dc:title><![CDATA[Raspberry Pi programmer wanted (Galloway)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T11:56:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3643211982.html">
+<title><![CDATA[Can anyone "clone" a website? (Gahanna)]]></title>
+<link>http://columbus.craigslist.org/cpg/3643211982.html</link>
+<description><![CDATA[I am looking for someone who has experience in cloning a website and making changes on it to make it personalized for my business instead of the one it shows currently.]]></description>
+<dc:date>2013-03-05T12:36:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3643211982.html</dc:source>
+<dc:title><![CDATA[Can anyone "clone" a website? (Gahanna)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T12:36:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3659651326.html">
+<title><![CDATA[Need An E-Commerce Page ASAP (Bellefontaine Ohio )]]></title>
+<link>http://columbus.craigslist.org/cpg/3659651326.html</link>
+<description><![CDATA[Very small start up in need of help getting an E-commerce page up and running. Need to be able to process and pay for orders within the site as well as have multiple pages for products and descriptions. Only qualified persons with references for thei [...]]]></description>
+<dc:date>2013-03-04T23:15:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3659651326.html</dc:source>
+<dc:title><![CDATA[Need An E-Commerce Page ASAP (Bellefontaine Ohio )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T23:15:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3645412657.html">
+<title><![CDATA[adobe air expert (central Ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3645412657.html</link>
+<description><![CDATA[Hello, 
+I am in need of an expert level adobe air developer. Knowledge in c++ and c# a plus.]]></description>
+<dc:date>2013-03-04T17:28:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3645412657.html</dc:source>
+<dc:title><![CDATA[adobe air expert (central Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T17:28:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3658130415.html">
+<title><![CDATA[CAD design for 3D Print (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3658130415.html</link>
+<description><![CDATA[For purposes of prototyping a small plastic object, I would like some help with the digital design aspect. I can provide a hand sketch up with dimensions. The object is pretty basic, with very little detail. I would also request a standard non disclo [...]]]></description>
+<dc:date>2013-03-04T11:57:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3658130415.html</dc:source>
+<dc:title><![CDATA[CAD design for 3D Print (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T11:57:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3657983807.html">
+<title><![CDATA[PhP Coder Needed (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3657983807.html</link>
+<description><![CDATA[PHP coder needed in central Ohio area - preferably Columbus - willing to trade time for time - ( barter ) - I am a commercial photographer - 35 years experience - need an experienced coder to customize an existing web site - have run this add before  [...]]]></description>
+<dc:date>2013-03-04T11:02:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3657983807.html</dc:source>
+<dc:title><![CDATA[PhP Coder Needed (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T11:02:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3591802686.html">
+<title><![CDATA[ FusionPro VDP Creator (Polaris)]]></title>
+<link>http://columbus.craigslist.org/cpg/3591802686.html</link>
+<description><![CDATA[Need a web person with experience with the software: FusionPro VDP Creator 
+Email with your experience level to this posting.]]></description>
+<dc:date>2013-02-27T21:22:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3591802686.html</dc:source>
+<dc:title><![CDATA[ FusionPro VDP Creator (Polaris)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T21:22:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3648414314.html">
+<title><![CDATA[Want to develop an android/iphone game (43023)]]></title>
+<link>http://columbus.craigslist.org/cpg/3648414314.html</link>
+<description><![CDATA[I have a great idea for a mobile game! Want to help me develop it?]]></description>
+<dc:date>2013-02-27T20:54:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3648414314.html</dc:source>
+<dc:title><![CDATA[Want to develop an android/iphone game (43023)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T20:54:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3645770776.html">
+<title><![CDATA[Cisco Network Administrator  (Columbus, OH)]]></title>
+<link>http://columbus.craigslist.org/cpg/3645770776.html</link>
+<description><![CDATA[Our client is looking for a Network Administrator to join their team on a permanent basis. 
+Our client is looking for a CCNA or CCNP or CCIE who is very hands on. The Network Admin will be responsible for all routers and switches as well as all netwo [...]]]></description>
+<dc:date>2013-02-26T18:20:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3645770776.html</dc:source>
+<dc:title><![CDATA[Cisco Network Administrator  (Columbus, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T18:20:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3644885969.html">
+<title><![CDATA[download wi games on my computer modum hooked to my wii for good price (columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3644885969.html</link>
+<description><![CDATA[Wanted someone to download tons of games on my computer moduasapm thing but its hooked to my wii we just had 600 games on it and the accidently got erased and my kids want there games back asap ]]></description>
+<dc:date>2013-02-26T12:38:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3644885969.html</dc:source>
+<dc:title><![CDATA[download wi games on my computer modum hooked to my wii for good price (columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:38:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3644019702.html">
+<title><![CDATA[need a software developer/programmer asap... (columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3644019702.html</link>
+<description><![CDATA[Computer software developer/programmer needed asap for a confidential project... This can be a big break for someone in this field. Will need to sign a confidentiality/no compete/privacy agreement. Contact us @574 222 4020 for immediate meeting!]]></description>
+<dc:date>2013-02-26T00:44:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3644019702.html</dc:source>
+<dc:title><![CDATA[need a software developer/programmer asap... (columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T00:44:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3643178479.html">
+<title><![CDATA[Web Designer Wanted (North Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3643178479.html</link>
+<description><![CDATA[We are a very small time business out of our home looking for someone who is interested in designing a website for us. We aren't interested in the paint by number free websites that are being offered. If you are someone who is looking to grow with us [...]]]></description>
+<dc:date>2013-02-25T17:00:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3643178479.html</dc:source>
+<dc:title><![CDATA[Web Designer Wanted (North Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:00:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3641952152.html">
+<title><![CDATA[Partners For Home Based Business (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3641952152.html</link>
+<description><![CDATA[Can you operate a computer? 
+Can you answer emails? 
+Can you manage list? 
+If so please visit http://121marketingpros.com 
+You will instantly become my partner in this lucrative internet business.]]></description>
+<dc:date>2013-02-25T08:55:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3641952152.html</dc:source>
+<dc:title><![CDATA[Partners For Home Based Business (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T08:55:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3641509533.html">
+<title><![CDATA[Graphic Designers Needed for Template Design (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3641509533.html</link>
+<description><![CDATA[I currently manage a small team of graphic/web designers for a new company that provides an affordable option for small/medium businesses to purchase a website, seo/sem, and marketing plan. The designers I'm looking for will be responsible for design [...]]]></description>
+<dc:date>2013-02-24T23:08:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3641509533.html</dc:source>
+<dc:title><![CDATA[Graphic Designers Needed for Template Design (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T23:08:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3640292977.html">
+<title><![CDATA[App development & web work (Lewis Center)]]></title>
+<link>http://columbus.craigslist.org/cpg/3640292977.html</link>
+<description><![CDATA[Our company ReadingResource.net is looking for a local guru to develop our APP design for Ipad and Iphone. 
+This is a great opportunity to earn continuous income with our company. If you are good we have a lot of projects for you including updating o [...]]]></description>
+<dc:date>2013-02-24T12:40:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3640292977.html</dc:source>
+<dc:title><![CDATA[App development & web work (Lewis Center)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T12:40:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3639139006.html">
+<title><![CDATA[Need exp web designer for ecommerce site!]]></title>
+<link>http://columbus.craigslist.org/cpg/3639139006.html</link>
+<description><![CDATA[I am starting a small cash advance/payday loan business and really need someone with experience to help me build the site. I want design to be simplistic but must be able to set up credit card acceptance and bank acct info accurately. Pay is negotiab [...]]]></description>
+<dc:date>2013-02-23T19:11:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3639139006.html</dc:source>
+<dc:title><![CDATA[Need exp web designer for ecommerce site!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T19:11:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3635801311.html">
+<title><![CDATA[I am looking for a Web designer-Shopify expert (Columbus, Ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3635801311.html</link>
+<description><![CDATA[I have a Shopify site that is currently not live. I bought a template from Shopify that I would like to make some tweaks/revisions to. I have a clothing line and will initially have about 12 different shirts to add on the site which will all be on th [...]]]></description>
+<dc:date>2013-02-22T12:03:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3635801311.html</dc:source>
+<dc:title><![CDATA[I am looking for a Web designer-Shopify expert (Columbus, Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T12:03:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3633432909.html">
+<title><![CDATA[experienced with WPAs (victorian village)]]></title>
+<link>http://columbus.craigslist.org/cpg/3633432909.html</link>
+<description><![CDATA[Looking for someone to help me with small project dealing with WPAs...must have experience with internet connections and passwords. Preferably someone with possession of a Live Cd. 
+Willing to pay in cash...email me for more details. ]]></description>
+<dc:date>2013-02-21T11:58:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3633432909.html</dc:source>
+<dc:title><![CDATA[experienced with WPAs (victorian village)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:58:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3633356135.html">
+<title><![CDATA[HGTV home design software tutor (coffe shop???)]]></title>
+<link>http://columbus.craigslist.org/cpg/3633356135.html</link>
+<description><![CDATA[I need help learning this 3d software. I've use 3 before this one and nothing has been this difficult. I need a hands on tutor to help me master this home design software. I am willing to pay $25 an hr and my schedule is very flexible. Must know this [...]]]></description>
+<dc:date>2013-02-21T11:29:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3633356135.html</dc:source>
+<dc:title><![CDATA[HGTV home design software tutor (coffe shop???)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:29:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3631639362.html">
+<title><![CDATA[Contract PC tech (travel assignment) (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3631639362.html</link>
+<description><![CDATA[Need techs tonight for work in Charleston, VA. Part of a PC deployment team. Work will start at midnight. Travel time will be paid, and accommodations are available. 
+Please send resume for immediate consideration.]]></description>
+<dc:date>2013-02-20T15:42:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3631639362.html</dc:source>
+<dc:title><![CDATA[Contract PC tech (travel assignment) (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T15:42:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3630767182.html">
+<title><![CDATA[Having trouble with ASUS Computer (Columbus, or anywhere remotely)]]></title>
+<link>http://columbus.craigslist.org/cpg/3630767182.html</link>
+<description><![CDATA[I'm having some trouble with my ASUS computer. It did some weird and interesting things yesterday and now won't boot up past the startup server. If anyone can email me some advice on this, I'd be grateful. If you're local to Columbus and believe you  [...]]]></description>
+<dc:date>2013-02-20T10:25:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3630767182.html</dc:source>
+<dc:title><![CDATA[Having trouble with ASUS Computer (Columbus, or anywhere remotely)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T10:25:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3614539367.html">
+<title><![CDATA[Help with PPC campaign | must be a professional.  (Ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3614539367.html</link>
+<description><![CDATA[I need help with my PPC campaign. I'm looking for a professional who is willing to make a deal to show there abilities. I'm offering 50% of all my business profits for 2 months if you setup and run my Adwords campaign. Starting with $600 a month budg [...]]]></description>
+<dc:date>2013-02-13T11:33:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3614539367.html</dc:source>
+<dc:title><![CDATA[Help with PPC campaign | must be a professional.  (Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T11:33:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3598809844.html">
+<title><![CDATA[iOs and Android Programmers READ THIS!!! (Beverly Hills)]]></title>
+<link>http://columbus.craigslist.org/cpg/3598809844.html</link>
+<description><![CDATA[***iOs and Android Programmers READ THIS!!! 
+Mobile Programmers PLEASE READ CAREFULLY BEFORE RESPONDING 
+THIS IS A HUGE EXCITING OPPORTUNITY! -- We are seeking two independent programmers. We are a small team of successful entrepreneurs with an excit [...]]]></description>
+<dc:date>2013-02-12T11:36:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3598809844.html</dc:source>
+<dc:title><![CDATA[iOs and Android Programmers READ THIS!!! (Beverly Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T11:36:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3544951066.html">
+<title><![CDATA[php web2print programer (central ohio)]]></title>
+<link>http://columbus.craigslist.org/cpg/3544951066.html</link>
+<description><![CDATA[I want to build a simple web2print template website and sell the technology to printers, graphic designers, corporations with in-house print shops. 
+Are you a programer who has W2P experience? 
+Email this post with your experience level. 
+Thanks!]]></description>
+<dc:date>2013-02-11T20:49:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3544951066.html</dc:source>
+<dc:title><![CDATA[php web2print programer (central ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T20:49:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3609344920.html">
+<title><![CDATA[Need A New Webpage! (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3609344920.html</link>
+<description><![CDATA[I am looking for someone to possibly trade services with me. I am in need of a NEW webpage... (check out the existing one here: www.empire-coaching.com) 
+On this page you will see the services I offer. I am willing to provide FREE Leadership Training [...]]]></description>
+<dc:date>2013-02-11T10:12:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3609344920.html</dc:source>
+<dc:title><![CDATA[Need A New Webpage! (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T10:12:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3608466373.html">
+<title><![CDATA[Cannon Copier Service (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3608466373.html</link>
+<description><![CDATA[I have a Cannon copier purchased used. I need some one to service it. The document feeder needs to be adjusted, also need to know work some of the basic features and get fax TX/RX reports]]></description>
+<dc:date>2013-02-10T20:42:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3608466373.html</dc:source>
+<dc:title><![CDATA[Cannon Copier Service (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T20:42:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3607598770.html">
+<title><![CDATA[Are You Ready For A Business Breakthrough? (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3607598770.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-10T13:51:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3607598770.html</dc:source>
+<dc:title><![CDATA[Are You Ready For A Business Breakthrough? (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T13:51:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3607524404.html">
+<title><![CDATA[Buying Facebook Fan Page  (Columbus)]]></title>
+<link>http://columbus.craigslist.org/cpg/3607524404.html</link>
+<description><![CDATA[I am interested in buying a Facebook fan page or group with several thousand+ "likes" or "fans". The topic of the page can vary greatly. Pay is competitive.]]></description>
+<dc:date>2013-02-10T13:19:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3607524404.html</dc:source>
+<dc:title><![CDATA[Buying Facebook Fan Page  (Columbus)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T13:19:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3606164776.html">
+<title><![CDATA[Adwords assisitance needed]]></title>
+<link>http://columbus.craigslist.org/cpg/3606164776.html</link>
+<description><![CDATA[Hello I need some Adwords information from a professional. Please contact if your interested in running a campaign. Must be experienced. ]]></description>
+<dc:date>2013-02-09T18:40:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3606164776.html</dc:source>
+<dc:title><![CDATA[Adwords assisitance needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T18:40:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3597582930.html">
+<title><![CDATA[I have a ipod touch 4th gen that needs the speaker put back on (Canal Winchester )]]></title>
+<link>http://columbus.craigslist.org/cpg/3597582930.html</link>
+<description><![CDATA[I have a ipod touch 4th gen that needs the speaker put back on and a new back case let me know how much! thanks! the screen already off]]></description>
+<dc:date>2013-02-09T08:43:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3597582930.html</dc:source>
+<dc:title><![CDATA[I have a ipod touch 4th gen that needs the speaker put back on (Canal Winchester )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T08:43:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3536284902.html">
+<title><![CDATA[Database administrator]]></title>
+<link>http://columbus.craigslist.org/cpg/3536284902.html</link>
+<description><![CDATA[Need a database administrator for website back-end. 
+Requires high level knowledge of MySQL, Perl and 
+VMWare. 
+Salesforce.com experience a plus, but not necessary. 
+For more tech jobs, see 
+http://www.SOHO-Gazette.com/techjobs.htm ]]></description>
+<dc:date>2013-02-08T20:33:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3536284902.html</dc:source>
+<dc:title><![CDATA[Database administrator]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T20:33:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbus.craigslist.org/cpg/3600152577.html">
+<title><![CDATA[@@ Looking for Quick Books / Accounting Help for my Business @@ (Dublin)]]></title>
+<link>http://columbus.craigslist.org/cpg/3600152577.html</link>
+<description><![CDATA[Hi 
+We run a small business (computer and Real estate related) . We are looking for a person with Accounting knoledge and Quick Books experiance to enter 2012 Receipts into Quick books software. This job is flexible and can be worked duing weekends o [...]]]></description>
+<dc:date>2013-02-07T09:35:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbus.craigslist.org/cpg/3600152577.html</dc:source>
+<dc:title><![CDATA[@@ Looking for Quick Books / Accounting Help for my Business @@ (Dublin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T09:35:15-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://chattanooga.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in chattanooga</title>
+<link>http://chattanooga.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://chattanooga.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in chattanooga</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:07-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3681397760.html" />
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3661143679.html" />
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3659930339.html" />
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3655462010.html" />
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3625458796.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3681397760.html">
+<title><![CDATA[Electronics Engineer needed ASAP (Ringgold)]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3681397760.html</link>
+<description><![CDATA[I am looking for an electronics engineer or student that can build a simple device based on a set of blue prints. I am looking to pay based on performance and this is a very unique opportunity to make lots of money. If you feel you are qualified enou [...]]]></description>
+<dc:date>2013-03-14T17:00:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3681397760.html</dc:source>
+<dc:title><![CDATA[Electronics Engineer needed ASAP (Ringgold)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T17:00:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3661143679.html">
+<title><![CDATA[Data Entry/Clerical (chattanooga )]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3661143679.html</link>
+<description><![CDATA[We are looking for someone who can provide administrative and clerical support at our Athens, GA office. The tasks include but are not limited to, organizing and inputting customer orders, researching product costs, inputting information in excel and [...]]]></description>
+<dc:date>2013-03-05T16:04:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3661143679.html</dc:source>
+<dc:title><![CDATA[Data Entry/Clerical (chattanooga )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T16:04:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3659930339.html">
+<title><![CDATA[Computer Repair Needed (Dayton)]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3659930339.html</link>
+<description><![CDATA[Tired of my computer dragging and need someone to clean it up and get rid of anyvirus it may have. Paid a company here in Dayton to fix it once and they only did one little thing for 80, Ridiculous. Know anyone that is a geek/computer wiz would love  [...]]]></description>
+<dc:date>2013-03-05T05:48:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3659930339.html</dc:source>
+<dc:title><![CDATA[Computer Repair Needed (Dayton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T05:48:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3655462010.html">
+<title><![CDATA[Website - Anti Fracking (Chattanooga)]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3655462010.html</link>
+<description><![CDATA[Hello, 
+We the people involved in an effort to ban hydraulic fracturing in the Chattanooga area are calling for help! If you are interested in keeping your fresh water fresh, you too should be concerned. Please take a moment to look up the dangers of [...]]]></description>
+<dc:date>2013-03-03T02:51:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3655462010.html</dc:source>
+<dc:title><![CDATA[Website - Anti Fracking (Chattanooga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T02:51:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3625458796.html">
+<title><![CDATA[Administrative Assistant - Telecommute (Chattanooga, TN)]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3625458796.html</link>
+<description><![CDATA[Chattanooga - 
+I need an individual locally who can help complete small business projects. For example, right now I need someone to verify addresses and contact names via phone for several hundred businesses. There is no selling involved, simply veri [...]]]></description>
+<dc:date>2013-02-18T08:28:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3625458796.html</dc:source>
+<dc:title><![CDATA[Administrative Assistant - Telecommute (Chattanooga, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T08:28:04-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

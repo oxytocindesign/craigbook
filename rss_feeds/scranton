@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://scranton.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in scranton / wilkes-barre</title>
+<link>http://scranton.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://scranton.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in scranton / wilkes-barre</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://scranton.craigslist.org/cpg/3675093373.html" />
+  <rdf:li rdf:resource="http://scranton.craigslist.org/cpg/3628878138.html" />
+  <rdf:li rdf:resource="http://scranton.craigslist.org/cpg/3615033903.html" />
+  <rdf:li rdf:resource="http://scranton.craigslist.org/cpg/3613501069.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://scranton.craigslist.org/cpg/3675093373.html">
+<title><![CDATA[Your Job Search Ends Here! (scranton)]]></title>
+<link>http://scranton.craigslist.org/cpg/3675093373.html</link>
+<description><![CDATA[This part time position is great for anyone with available time and some computer literacy.. We´ll train you on exactly how to complete the assingments and expect you to complete in a timely manner as well.. Being that it´s somewhat data entry, simpl [...]]]></description>
+<dc:date>2013-03-11T20:26:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://scranton.craigslist.org/cpg/3675093373.html</dc:source>
+<dc:title><![CDATA[Your Job Search Ends Here! (scranton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:26:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://scranton.craigslist.org/cpg/3628878138.html">
+<title><![CDATA[Apply with Us Today]]></title>
+<link>http://scranton.craigslist.org/cpg/3628878138.html</link>
+<description><![CDATA[We have immediate openings for simple assignments that don't require much time to be completed online. The type of person we're looking for will be reliable and punctual and all training is provided to that person. Being that it's somewhat data entry [...]]]></description>
+<dc:date>2013-02-19T14:15:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://scranton.craigslist.org/cpg/3628878138.html</dc:source>
+<dc:title><![CDATA[Apply with Us Today]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T14:15:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://scranton.craigslist.org/cpg/3615033903.html">
+<title><![CDATA[Don't Miss Out While we Have Openings!]]></title>
+<link>http://scranton.craigslist.org/cpg/3615033903.html</link>
+<description><![CDATA[Part time position available for simple computer work needing to be completed as need.. We'll train you on exactly how to complete the assignments and expect you to complete in a timely manner as well. Will need to complete tasks according to the spe [...]]]></description>
+<dc:date>2013-02-13T14:36:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://scranton.craigslist.org/cpg/3615033903.html</dc:source>
+<dc:title><![CDATA[Don't Miss Out While we Have Openings!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T14:36:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://scranton.craigslist.org/cpg/3613501069.html">
+<title><![CDATA[Easy Work for Great Pay (scranton)]]></title>
+<link>http://scranton.craigslist.org/cpg/3613501069.html</link>
+<description><![CDATA[This part time position is great for anyone with available time and some computer literacy.. We´ll train you on exactly how to complete the need to complete tasks according to the specified instructions given within a certain time frame that will be  [...]]]></description>
+<dc:date>2013-02-12T20:58:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://scranton.craigslist.org/cpg/3613501069.html</dc:source>
+<dc:title><![CDATA[Easy Work for Great Pay (scranton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T20:58:51-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

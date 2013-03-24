@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://augusta.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in augusta</title>
+<link>http://augusta.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://augusta.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in augusta</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:34:57-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3692405009.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3639227659.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3663336344.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3649113964.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3649052770.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3648967120.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3644489177.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3632112953.html" />
+  <rdf:li rdf:resource="http://augusta.craigslist.org/cpg/3554562474.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://augusta.craigslist.org/cpg/3692405009.html">
+<title><![CDATA[Aim a satellite dish (Augusta, Ga.)]]></title>
+<link>http://augusta.craigslist.org/cpg/3692405009.html</link>
+<description><![CDATA[person to help aim two satellite dish's.... one small...one 10footer, aim for Gal 19 
+location downtown Augusta.... flat price, fair price get job. 
+send price & phone #]]></description>
+<dc:date>2013-03-20T01:18:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3692405009.html</dc:source>
+<dc:title><![CDATA[Aim a satellite dish (Augusta, Ga.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T01:18:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3639227659.html">
+<title><![CDATA[Agents Wanted]]></title>
+<link>http://augusta.craigslist.org/cpg/3639227659.html</link>
+<description><![CDATA[obama care cause a demand for health insurance and we are look for people with insurance and without insurance licenses. Start working with us selling insurance at http://obamacareagents.com/page/newagent]]></description>
+<dc:date>2013-03-12T23:09:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3639227659.html</dc:source>
+<dc:title><![CDATA[Agents Wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T23:09:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3663336344.html">
+<title><![CDATA[web designer]]></title>
+<link>http://augusta.craigslist.org/cpg/3663336344.html</link>
+<description><![CDATA[I am looking for a web designer to work with me to build my site. MUST be local in Augusta GA.]]></description>
+<dc:date>2013-03-06T15:05:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3663336344.html</dc:source>
+<dc:title><![CDATA[web designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T15:05:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3649113964.html">
+<title><![CDATA[Photographer Needed (Augusta, GA )]]></title>
+<link>http://augusta.craigslist.org/cpg/3649113964.html</link>
+<description><![CDATA[Photographer needed for start up magazine. We are seeking a photographer who is wanting to expand their portfolio and learn the ins and out of magazine photography. Please respond with your website or link to your portfolio. 
+Looking forward to heari [...]]]></description>
+<dc:date>2013-02-28T09:21:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3649113964.html</dc:source>
+<dc:title><![CDATA[Photographer Needed (Augusta, GA )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T09:21:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3649052770.html">
+<title><![CDATA[Start-up magazine seeking intern to hires (Augusta GA )]]></title>
+<link>http://augusta.craigslist.org/cpg/3649052770.html</link>
+<description><![CDATA[Atlanta based magazine is moving to Augusta. We are seeking interns to fill the following positions. These positions are intern to hire 60 days as an intern then transition to a paying position. 
+Available positions: 
+Fashion Designer 
+Photographer 
+ [...]]]></description>
+<dc:date>2013-02-28T08:40:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3649052770.html</dc:source>
+<dc:title><![CDATA[Start-up magazine seeking intern to hires (Augusta GA )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T08:40:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3648967120.html">
+<title><![CDATA[I need a small macro developed (west augusta)]]></title>
+<link>http://augusta.craigslist.org/cpg/3648967120.html</link>
+<description><![CDATA[I need a small macro developed for an online casino game that i play often. If you're capable of developing macros then I'm willing to pay you $300 upon the proper completion of my macro. ]]></description>
+<dc:date>2013-02-28T07:13:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3648967120.html</dc:source>
+<dc:title><![CDATA[I need a small macro developed (west augusta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T07:13:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3644489177.html">
+<title><![CDATA[Help Desk (Augusta, GA)]]></title>
+<link>http://augusta.craigslist.org/cpg/3644489177.html</link>
+<description><![CDATA[Our client is seeking Helpdesk oriented candidates in Augusta, Georgia (GA) to support the internal hiring managers with the role-out of a new HR Interface. 
+Job Responsibilities: Candidates will be proactively working with managers to provide suppor [...]]]></description>
+<dc:date>2013-02-26T10:01:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3644489177.html</dc:source>
+<dc:title><![CDATA[Help Desk (Augusta, GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T10:01:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3632112953.html">
+<title><![CDATA[Customer Support/Human Resource Help Desk (Augusta, GA)]]></title>
+<link>http://augusta.craigslist.org/cpg/3632112953.html</link>
+<description><![CDATA[Extremely Urgent Position 
+Looking for an extremely professional candidate that has: 
+- 1 year of call center experience 
+-Proficient with MS Office 
+-computer savvy 
+-willing to work hard and extremely friendly]]></description>
+<dc:date>2013-02-20T18:58:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3632112953.html</dc:source>
+<dc:title><![CDATA[Customer Support/Human Resource Help Desk (Augusta, GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T18:58:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://augusta.craigslist.org/cpg/3554562474.html">
+<title><![CDATA[International American Football (Charleston, SC)]]></title>
+<link>http://augusta.craigslist.org/cpg/3554562474.html</link>
+<description><![CDATA[Charleston Man-of-War is the first ever U.S. International Football Team. We challenge teams from all of the world in American Football. Our first game will be against a Chinese Americn Football Team. 
+We are looking for the the right people or compa [...]]]></description>
+<dc:date>2013-02-12T16:40:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://augusta.craigslist.org/cpg/3554562474.html</dc:source>
+<dc:title><![CDATA[International American Football (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:40:22-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

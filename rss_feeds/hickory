@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://hickory.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in hickory / lenoir</title>
+<link>http://hickory.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://hickory.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in hickory / lenoir</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:02-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://hickory.craigslist.org/cpg/3607102105.html" />
+  <rdf:li rdf:resource="http://hickory.craigslist.org/cpg/3600012829.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://hickory.craigslist.org/cpg/3607102105.html">
+<title><![CDATA[MANAGER (HICKORY / LENOIR)]]></title>
+<link>http://hickory.craigslist.org/cpg/3607102105.html</link>
+<description><![CDATA[FREE INTERNET BUSINESS OPPORTUNITY 
+Work at home on the Internet. Free quick courses show you how. We supply Free Training to start your business. There is No Cost to you. Start part time and Make Money in your spare time. You will be a part of the w [...]]]></description>
+<dc:date>2013-02-10T09:44:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hickory.craigslist.org/cpg/3607102105.html</dc:source>
+<dc:title><![CDATA[MANAGER (HICKORY / LENOIR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T09:44:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hickory.craigslist.org/cpg/3600012829.html">
+<title><![CDATA[Web help needed..$ (Morganton, NC)]]></title>
+<link>http://hickory.craigslist.org/cpg/3600012829.html</link>
+<description><![CDATA[I am looking for someone fairly local to assist with a small business website..student is ok..this is on "as needed basis" and can work around your schedule. 
+We are considering a webtemplate ..however would prefer to have some assistance..age not im [...]]]></description>
+<dc:date>2013-02-07T07:58:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hickory.craigslist.org/cpg/3600012829.html</dc:source>
+<dc:title><![CDATA[Web help needed..$ (Morganton, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T07:58:11-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

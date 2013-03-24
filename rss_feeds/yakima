@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://yakima.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in yakima</title>
+<link>http://yakima.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://yakima.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in yakima</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:11-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yakima.craigslist.org/cpg/3676730599.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://yakima.craigslist.org/cpg/3676730599.html">
+<title><![CDATA[T1/DSLTechnician  (Yakima)]]></title>
+<link>http://yakima.craigslist.org/cpg/3676730599.html</link>
+<description><![CDATA[We are looking for technicians to perform field installations in the Yakima area. We provide subcontract work to independent technicians and smaller companies. -The installations involve the tech installing onsite CPE (ie: T1, DSL, VoIP) and performi [...]]]></description>
+<dc:date>2013-03-12T12:13:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://yakima.craigslist.org/cpg/3676730599.html</dc:source>
+<dc:title><![CDATA[T1/DSLTechnician  (Yakima)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T12:13:23-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

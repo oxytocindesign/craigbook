@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://odessa.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in odessa / midland</title>
+<link>http://odessa.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://odessa.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in odessa / midland</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:37:00-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://odessa.craigslist.org/cpg/3699004874.html" />
+  <rdf:li rdf:resource="http://odessa.craigslist.org/cpg/3691031953.html" />
+  <rdf:li rdf:resource="http://odessa.craigslist.org/cpg/3658416964.html" />
+  <rdf:li rdf:resource="http://odessa.craigslist.org/cpg/3656970088.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://odessa.craigslist.org/cpg/3699004874.html">
+<title><![CDATA[Computer Repair (Odessa)]]></title>
+<link>http://odessa.craigslist.org/cpg/3699004874.html</link>
+<description><![CDATA[Call 973 280 9105]]></description>
+<dc:date>2013-03-23T10:54:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://odessa.craigslist.org/cpg/3699004874.html</dc:source>
+<dc:title><![CDATA[Computer Repair (Odessa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:54:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://odessa.craigslist.org/cpg/3691031953.html">
+<title><![CDATA[Growing IT company in need of motivated technicians!  (Odessa)]]></title>
+<link>http://odessa.craigslist.org/cpg/3691031953.html</link>
+<description><![CDATA[I am looking for techs who can do the following types of jobs: 
+- Network installation and troubleshooting 
+- Cabling (cat 5, cat 6, fiber optic) 
+- Printer troubleshooting / repair 
+- Computer repair 
+- POS troubleshooting 
+- T1 and T3 lines 
+- Swit [...]]]></description>
+<dc:date>2013-03-19T11:48:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://odessa.craigslist.org/cpg/3691031953.html</dc:source>
+<dc:title><![CDATA[Growing IT company in need of motivated technicians!  (Odessa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:48:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://odessa.craigslist.org/cpg/3658416964.html">
+<title><![CDATA[Repair DirecTV D11 receiver (Big Spring)]]></title>
+<link>http://odessa.craigslist.org/cpg/3658416964.html</link>
+<description><![CDATA[I have several DirecTV D11 receivers that fail to power up. They are on my commercial system. There are several videos on you tube that detail how to make the repairs. There are a few resistors that need to be changed. I have the skill to change them [...]]]></description>
+<dc:date>2013-03-04T12:41:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://odessa.craigslist.org/cpg/3658416964.html</dc:source>
+<dc:title><![CDATA[Repair DirecTV D11 receiver (Big Spring)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T12:41:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://odessa.craigslist.org/cpg/3656970088.html">
+<title><![CDATA[Online marketing FB/twitter (Odessa/Midland)]]></title>
+<link>http://odessa.craigslist.org/cpg/3656970088.html</link>
+<description><![CDATA[This is a part-time/work-from-anywhere position with set weekly pay or contract pay. 
+I am looking for an individual to run a Facebook/twitter online marketing campaign. 
+Like 1-2 posts a day, and communicate with me every now and then. 
+Please have  [...]]]></description>
+<dc:date>2013-03-03T18:57:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://odessa.craigslist.org/cpg/3656970088.html</dc:source>
+<dc:title><![CDATA[Online marketing FB/twitter (Odessa/Midland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T18:57:29-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

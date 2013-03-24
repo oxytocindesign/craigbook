@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://flint.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in flint</title>
+<link>http://flint.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://flint.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in flint</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:58-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3647193377.html" />
+  <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3690604818.html" />
+  <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3669248264.html" />
+  <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3618707034.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://flint.craigslist.org/cpg/3647193377.html">
+<title><![CDATA[Connecting wifi  (Grand Blanc)]]></title>
+<link>http://flint.craigslist.org/cpg/3647193377.html</link>
+<description><![CDATA[I live in a complex and I see lots of wireless connections and I cant connect to them. Can someone help? ]]></description>
+<dc:date>2013-03-22T17:34:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flint.craigslist.org/cpg/3647193377.html</dc:source>
+<dc:title><![CDATA[Connecting wifi  (Grand Blanc)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:34:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://flint.craigslist.org/cpg/3690604818.html">
+<title><![CDATA[Looking for iOS developer (Flint)]]></title>
+<link>http://flint.craigslist.org/cpg/3690604818.html</link>
+<description><![CDATA[Looking for a hungry iOS/web capable developer to join a small startup food ordering application. Team already includes a graphic designer, digital marketing specialist, and business operations/strategic planning specialist. 
+Are seeking to make a te [...]]]></description>
+<dc:date>2013-03-19T09:27:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flint.craigslist.org/cpg/3690604818.html</dc:source>
+<dc:title><![CDATA[Looking for iOS developer (Flint)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:27:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://flint.craigslist.org/cpg/3669248264.html">
+<title><![CDATA[Sharepoint Help (Flint )]]></title>
+<link>http://flint.craigslist.org/cpg/3669248264.html</link>
+<description><![CDATA[I am trying to set up a Sharepoint site for my business, and have the basics down, but need help making sure things are set up properly. I also need tutoring in SP so I can better understand how to use its more advanced features. I need help ASAP. ]]></description>
+<dc:date>2013-03-09T08:03:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flint.craigslist.org/cpg/3669248264.html</dc:source>
+<dc:title><![CDATA[Sharepoint Help (Flint )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T08:03:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://flint.craigslist.org/cpg/3618707034.html">
+<title><![CDATA[Computer Tech Needed  (Livingston County)]]></title>
+<link>http://flint.craigslist.org/cpg/3618707034.html</link>
+<description><![CDATA[Are you an approachable PC Support Technician with a positive attitude? 
+Our company is looking for a full-time PC Support Technician to work in a fast-growing, fast-paced computer store in Hartland. 
+PC Support Tech must possess strong communication [...]]]></description>
+<dc:date>2013-02-15T08:09:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flint.craigslist.org/cpg/3618707034.html</dc:source>
+<dc:title><![CDATA[Computer Tech Needed  (Livingston County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T08:09:26-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

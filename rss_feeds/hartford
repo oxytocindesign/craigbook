@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://hartford.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in hartford</title>
+<link>http://hartford.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://hartford.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in hartford</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3697222130.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3683920666.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3691640753.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3690854288.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3688442883.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3687920808.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3686118629.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3684672005.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3621244413.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3682881610.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3681908417.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3670637543.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3667901333.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3660879252.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3660406862.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3658177425.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3653391063.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3587424127.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3633183201.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3628337964.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3627132127.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3624525049.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3584486960.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3584488664.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3621715293.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3618085507.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3613467716.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3613082151.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3541828472.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3607518782.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3600566438.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://hartford.craigslist.org/cpg/3697222130.html">
+<title><![CDATA[Need Website for my Startup Biz (Hartford Area)]]></title>
+<link>http://hartford.craigslist.org/cpg/3697222130.html</link>
+<description><![CDATA[I'm trying to get a specialized jewelry company/business website going. I know my web presence is going to set the tone for my business/company and I have a vague idea how I want to present myself, the business, etc. I already have my logo and name a [...]]]></description>
+<dc:date>2013-03-22T12:56:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3697222130.html</dc:source>
+<dc:title><![CDATA[Need Website for my Startup Biz (Hartford Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:56:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3683920666.html">
+<title><![CDATA[need help on my wordpress & FTP (Enfield)]]></title>
+<link>http://hartford.craigslist.org/cpg/3683920666.html</link>
+<description><![CDATA[Please be from Enfield or a surrounding town. I don't need a professional email I just need you to sit down with me and bring this understanding down to my level. 
+Im hoping someone would be so kind to sit down with me and help me arrange some things [...]]]></description>
+<dc:date>2013-03-20T09:18:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3683920666.html</dc:source>
+<dc:title><![CDATA[need help on my wordpress & FTP (Enfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T09:18:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3691640753.html">
+<title><![CDATA[Make a video game! (Manchester)]]></title>
+<link>http://hartford.craigslist.org/cpg/3691640753.html</link>
+<description><![CDATA[Looking for someone with mild software engineering/video game programming skills to help me in the design of a video game proposal. I have the ideas and contacts but I don't have the computer/coding know how. Initially no pay, this is just a project  [...]]]></description>
+<dc:date>2013-03-19T17:10:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3691640753.html</dc:source>
+<dc:title><![CDATA[Make a video game! (Manchester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:10:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3690854288.html">
+<title><![CDATA[Seeking website developer]]></title>
+<link>http://hartford.craigslist.org/cpg/3690854288.html</link>
+<description><![CDATA[I am starting up a relatively new business concept in the sports related field. I am looking for someone who is creative to develop a website for the business. I believe the site will be simple to medium complexity. I am a former professional athlete [...]]]></description>
+<dc:date>2013-03-19T11:35:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3690854288.html</dc:source>
+<dc:title><![CDATA[Seeking website developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:35:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3688442883.html">
+<title><![CDATA[Web Site Designer Wanted (Anywhere)]]></title>
+<link>http://hartford.craigslist.org/cpg/3688442883.html</link>
+<description><![CDATA[Looking for an experienced web designer with experience with PHP, Joomla, Drupal, etc. & databases such as MySql or a DB plug-in. We need one master web site created that will consist of 5 pages, double column with a stock photo on each page, with a  [...]]]></description>
+<dc:date>2013-03-18T09:42:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3688442883.html</dc:source>
+<dc:title><![CDATA[Web Site Designer Wanted (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T09:42:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3687920808.html">
+<title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3687920808.html</link>
+<description><![CDATA[Ride the Mobile Marketing Wave -- Everyone Else Is! 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-17T22:45:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3687920808.html</dc:source>
+<dc:title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T22:45:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3686118629.html">
+<title><![CDATA[Sell mobile marketing services to local businesses in your community (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3686118629.html</link>
+<description><![CDATA[Text Message Marketing is Taking Over the World 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-16T23:24:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3686118629.html</dc:source>
+<dc:title><![CDATA[Sell mobile marketing services to local businesses in your community (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T23:24:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3684672005.html">
+<title><![CDATA[Web Designer Needed - LOCAL (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3684672005.html</link>
+<description><![CDATA[I'm looking for someone LOCAL to design a professional / corporate looking website. What I'm NOT looking for is a basic cheesy site that anybody can whip together. I'd like to work with an experienced professional freelance web designer. I'm in the p [...]]]></description>
+<dc:date>2013-03-16T10:22:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3684672005.html</dc:source>
+<dc:title><![CDATA[Web Designer Needed - LOCAL (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:22:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3621244413.html">
+<title><![CDATA[---TEACH ME TO BUY &SELL NOTES  (ct)]]></title>
+<link>http://hartford.craigslist.org/cpg/3621244413.html</link>
+<description><![CDATA[Hi, I am looking for a mentor to help me to buy and sell notes. And I am open to many situations for compensation. Looking to structure deals and learn how to do proper due diligence. 
+I look forward to working with you. 
+Thank you for your time. ]]></description>
+<dc:date>2013-03-16T09:25:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3621244413.html</dc:source>
+<dc:title><![CDATA[---TEACH ME TO BUY &SELL NOTES  (ct)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T09:25:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3682881610.html">
+<title><![CDATA[Need a Professional Human Genetics Opinion (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3682881610.html</link>
+<description><![CDATA[I want someone who has a lot of experience with human genetics. I need your professional opinion about something. 
+Don't worry, it's nothing to do with my health. It's for a research project I'm doing. 
+So, please tell me your experience in human gen [...]]]></description>
+<dc:date>2013-03-15T12:26:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3682881610.html</dc:source>
+<dc:title><![CDATA[Need a Professional Human Genetics Opinion (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:26:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3681908417.html">
+<title><![CDATA[Need a Partner with Senior Web Developer Experience]]></title>
+<link>http://hartford.craigslist.org/cpg/3681908417.html</link>
+<description><![CDATA[We are a team of 3 looking for a fourth partner in developing a social media \ image management site. We've already secured the domain and begun some programming. We have a front-end guy but are looking for someone who can assist with the PHP and MyS [...]]]></description>
+<dc:date>2013-03-14T21:35:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3681908417.html</dc:source>
+<dc:title><![CDATA[Need a Partner with Senior Web Developer Experience]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T21:35:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3670637543.html">
+<title><![CDATA[Cell Phone Company Expansion (Connecticut)]]></title>
+<link>http://hartford.craigslist.org/cpg/3670637543.html</link>
+<description><![CDATA[If you want more out of life than just paycheck to paycheck then this is your chance. 10 people needed immediately to help in the expansion of Brand new 4g service provider! Call 7043090954 for more details!]]></description>
+<dc:date>2013-03-12T14:34:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3670637543.html</dc:source>
+<dc:title><![CDATA[Cell Phone Company Expansion (Connecticut)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T14:34:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3667901333.html">
+<title><![CDATA[Seeking On Call Tech Support with Flexible Scheduling (Hartford CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3667901333.html</link>
+<description><![CDATA[Seeking On Call Tech Support with Flexible Scheduling 
+Small company looking for On Call tech support. Flexible scheduling is ok, but we are looking for 
+someone who is a network admin with a flexible schedule who can do this on the side. 
+We are loo [...]]]></description>
+<dc:date>2013-03-08T14:52:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3667901333.html</dc:source>
+<dc:title><![CDATA[Seeking On Call Tech Support with Flexible Scheduling (Hartford CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T14:52:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3660879252.html">
+<title><![CDATA[CCTV (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3660879252.html</link>
+<description><![CDATA[Must have ability to run and terminate RCA, Siamese, and Cat5. 
+Knowledge of DVR's, IP cams, install and troubleshoot necessary. 
+Some equipment needed. ]]></description>
+<dc:date>2013-03-05T14:22:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3660879252.html</dc:source>
+<dc:title><![CDATA[CCTV (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:22:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3660406862.html">
+<title><![CDATA[Looking To Put Together A Team]]></title>
+<link>http://hartford.craigslist.org/cpg/3660406862.html</link>
+<description><![CDATA[I am seeking individuals to be part of a creation team to engineer a ground breaking product. I am seeking individuals knowledgeable in software development, hardware development and electrical engineering, all computer oriented. This is what I belie [...]]]></description>
+<dc:date>2013-03-05T11:25:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3660406862.html</dc:source>
+<dc:title><![CDATA[Looking To Put Together A Team]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T11:25:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3658177425.html">
+<title><![CDATA[ seo  campaign (ct)]]></title>
+<link>http://hartford.craigslist.org/cpg/3658177425.html</link>
+<description><![CDATA[i am looking for some work on my seo campaign. this will be an ongoing position please contact me as soon as possible i would like to get moveing on this as soon as we can 
+scott]]></description>
+<dc:date>2013-03-04T12:14:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3658177425.html</dc:source>
+<dc:title><![CDATA[ seo  campaign (ct)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T12:14:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3653391063.html">
+<title><![CDATA[Person experienced in AFFILIATE MARKETING programs for consultation]]></title>
+<link>http://hartford.craigslist.org/cpg/3653391063.html</link>
+<description><![CDATA[We are a consumer goods licensing company with a bit of downtime on our hands as partnerships with both manufacturers and retailers are a bit slow right now. 
+So as a way of augmenting revenue, we are looking into a number of AFFILIATE COMMISSION pro [...]]]></description>
+<dc:date>2013-03-02T04:32:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3653391063.html</dc:source>
+<dc:title><![CDATA[Person experienced in AFFILIATE MARKETING programs for consultation]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T04:32:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3587424127.html">
+<title><![CDATA[Web Site Designer-PHP & MYSQL (Anywhere in U.S.)]]></title>
+<link>http://hartford.craigslist.org/cpg/3587424127.html</link>
+<description><![CDATA[Seeking an experienced web designer with experience with PHP & MySql. We need a full CMS created for an existing 9-page (PHP) web site. You will then create two mirror image copies of this same web site for our two other offices. At a later date a My [...]]]></description>
+<dc:date>2013-02-21T18:32:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3587424127.html</dc:source>
+<dc:title><![CDATA[Web Site Designer-PHP & MYSQL (Anywhere in U.S.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T18:32:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3633183201.html">
+<title><![CDATA[Business in mobil app industry (anywhere)]]></title>
+<link>http://hartford.craigslist.org/cpg/3633183201.html</link>
+<description><![CDATA[This is a brand new opportunity to start your own business and profit from the lucrative mobil app industry. This is not app development, so you need no experience there. But if you want to find out how you can profit in the app world, send an email  [...]]]></description>
+<dc:date>2013-02-21T10:17:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3633183201.html</dc:source>
+<dc:title><![CDATA[Business in mobil app industry (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T10:17:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3628337964.html">
+<title><![CDATA[Windows Assembly Language (Hartford, CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3628337964.html</link>
+<description><![CDATA[I'm a security researcher who has a general understanding of 32bit Windows Assembly language code. I've disassembled a piece of malware and need help answering some questions. Please let me know if you can help and expected compensation. 
+Thanks]]></description>
+<dc:date>2013-02-19T11:05:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3628337964.html</dc:source>
+<dc:title><![CDATA[Windows Assembly Language (Hartford, CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:05:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3627132127.html">
+<title><![CDATA[CNC ROUTER TUTOR (Plainville Ct)]]></title>
+<link>http://hartford.craigslist.org/cpg/3627132127.html</link>
+<description><![CDATA[Need someone with a working knowledge of Vcarve Pro and EMC2 software to tutor shop owner in operation of new CNC Router .I have a thorough understanding of Graphics programs and used Data Cad for a time in a working environment. Steering me through  [...]]]></description>
+<dc:date>2013-02-18T19:21:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3627132127.html</dc:source>
+<dc:title><![CDATA[CNC ROUTER TUTOR (Plainville Ct)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T19:21:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3624525049.html">
+<title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3624525049.html</link>
+<description><![CDATA[we pay you for browsing eBay $10-100 per complete job 
+we give you an assignment on eBay, you complete it and get paid anywhere from $10-100 
+Requirements: 
+Active ebay account with a minimum feedback of 5 
+Skype account, Skype can be downloaded for  [...]]]></description>
+<dc:date>2013-02-17T18:20:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3624525049.html</dc:source>
+<dc:title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T18:20:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3584486960.html">
+<title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3584486960.html</link>
+<description><![CDATA[we pay you for browsing eBay $10-100 per complete job 
+we give you an assignment on eBay, you complete it and get paid anywhere from $10-100 
+Requirements: 
+Active ebay account with a minimum feedback of 5 
+Skype account, Skype can be downloaded for  [...]]]></description>
+<dc:date>2013-02-17T13:57:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3584486960.html</dc:source>
+<dc:title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T13:57:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3584488664.html">
+<title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3584488664.html</link>
+<description><![CDATA[we pay you for browsing eBay $10-100 per complete job 
+we give you an assignment on eBay, you complete it and get paid anywhere from $10-100 
+Requirements: 
+Active ebay account with a minimum feedback of 5 
+Skype account, Skype can be downloaded for  [...]]]></description>
+<dc:date>2013-02-17T13:50:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3584488664.html</dc:source>
+<dc:title><![CDATA[we pay you for browsing eBay $10-100 per complete job (CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T13:50:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3621715293.html">
+<title><![CDATA[In search of a business partner (Greater Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3621715293.html</link>
+<description><![CDATA[I am a Workforce Development Professional in search of a web developer that is interested in partnering with me based on an idea / business plan. There is a significant need for my idea in the non-profit arena across the country. With unemployment ra [...]]]></description>
+<dc:date>2013-02-16T13:19:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3621715293.html</dc:source>
+<dc:title><![CDATA[In search of a business partner (Greater Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T13:19:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3618085507.html">
+<title><![CDATA[Mobile Text Marketing is Here To Stay (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3618085507.html</link>
+<description><![CDATA[Get Your Customers In-Store MORE with Mobile Text Marketing 
+http://www.smsmasterminds.com ]]></description>
+<dc:date>2013-02-14T20:16:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3618085507.html</dc:source>
+<dc:title><![CDATA[Mobile Text Marketing is Here To Stay (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T20:16:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3613467716.html">
+<title><![CDATA[Need computer people to sell new product (online)]]></title>
+<link>http://hartford.craigslist.org/cpg/3613467716.html</link>
+<description><![CDATA[Looking for some computer guys to sell a new online backup product. 
+You will be paid per sign up that you get. You will make alot of money per sign up. 
+Please be serious and ready to get rolling. Email me asap. ]]></description>
+<dc:date>2013-02-12T20:41:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3613467716.html</dc:source>
+<dc:title><![CDATA[Need computer people to sell new product (online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T20:41:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3613082151.html">
+<title><![CDATA[Wordpress Help (CT)]]></title>
+<link>http://hartford.craigslist.org/cpg/3613082151.html</link>
+<description><![CDATA[Looking for a wordpress person to help with occasional site updates. Major site is built, don't have time/knowledge to do all I need for my small business. ]]></description>
+<dc:date>2013-02-12T17:42:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3613082151.html</dc:source>
+<dc:title><![CDATA[Wordpress Help (CT)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T17:42:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3541828472.html">
+<title><![CDATA[Contract Android Developer Needed (New England)]]></title>
+<link>http://hartford.craigslist.org/cpg/3541828472.html</link>
+<description><![CDATA[With your help, our app will improve the lives of its users by enhancing their ability to communicate messages, sales pitches, presentations, etc., through a secure, collaboration-centric service. 
+The initial version of the app is fully spec'd out a [...]]]></description>
+<dc:date>2013-02-11T18:25:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3541828472.html</dc:source>
+<dc:title><![CDATA[Contract Android Developer Needed (New England)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T18:25:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3607518782.html">
+<title><![CDATA[Flexible Scheduling - On Call Tech Support Needed (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3607518782.html</link>
+<description><![CDATA[On Call Tech Support Needed- Flexible Scheduling 
+Small company looking for On Call tech support. Flexible scheduling is ok, but we are looking for 
+someone who is a network admin with a flexible schedule who can do this on the side. 
+We are looking  [...]]]></description>
+<dc:date>2013-02-10T13:16:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3607518782.html</dc:source>
+<dc:title><![CDATA[Flexible Scheduling - On Call Tech Support Needed (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T13:16:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3600566438.html">
+<title><![CDATA[Contract PC Tech (Glastonbury)]]></title>
+<link>http://hartford.craigslist.org/cpg/3600566438.html</link>
+<description><![CDATA[Contract PC Tech opening in Glastonbury on Feb. 12 at 9 a.m. Work will include installing a server cage. Will disconnect and reconnect server(s). Must have a drill. 
+Other work may be available, too. Must be able to pass a criminal background check.  [...]]]></description>
+<dc:date>2013-02-07T12:27:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3600566438.html</dc:source>
+<dc:title><![CDATA[Contract PC Tech (Glastonbury)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T12:27:45-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://montgomery.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in montgomery</title>
+<link>http://montgomery.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://montgomery.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in montgomery</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:29:53-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3679274241.html" />
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3674981500.html" />
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3608330709.html" />
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3644954338.html" />
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3638115626.html" />
+  <rdf:li rdf:resource="http://montgomery.craigslist.org/cpg/3625474097.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3679274241.html">
+<title><![CDATA[PC Tech (Montgomery)]]></title>
+<link>http://montgomery.craigslist.org/cpg/3679274241.html</link>
+<description><![CDATA[Part-time contract work available Monday morning for a computer tech to install a computer and provide data transfer. Must have a hard drive of 40GB or better. Future work may be available, too. 
+Please send your resume for immediate consideration.]]></description>
+<dc:date>2013-03-13T16:01:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3679274241.html</dc:source>
+<dc:title><![CDATA[PC Tech (Montgomery)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T16:01:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3674981500.html">
+<title><![CDATA[Multiple $200 a week]]></title>
+<link>http://montgomery.craigslist.org/cpg/3674981500.html</link>
+<description><![CDATA[JOIN US AND HELP US GET MORE CLIENTS 
+&gt;&gt; COMMISSION BASED SALES 
+NO HARD SALES / EMAIL AND PHONE SALES 
+INCOMING CALLS ONLY ? NO COLD CALLING 
+DIRECT DEPOSIT AVAILABLE $$$ 
+NO EXPERIENCE NECESSARY/ WILL TRAIN 
+IF INTERESTED &gt;&gt; RESPOND VIA [...]]]></description>
+<dc:date>2013-03-11T18:33:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3674981500.html</dc:source>
+<dc:title><![CDATA[Multiple $200 a week]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T18:33:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3608330709.html">
+<title><![CDATA[Are you looking for an easy way to supplement your income?]]></title>
+<link>http://montgomery.craigslist.org/cpg/3608330709.html</link>
+<description><![CDATA[No experience needed. . .free training provided.]]></description>
+<dc:date>2013-02-26T21:17:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3608330709.html</dc:source>
+<dc:title><![CDATA[Are you looking for an easy way to supplement your income?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T21:17:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3644954338.html">
+<title><![CDATA[Flood Writers Needed (Mobile, AL)]]></title>
+<link>http://montgomery.craigslist.org/cpg/3644954338.html</link>
+<description><![CDATA[Flood Writers needed immediately. 
+Writers must have at least three years flood and SIMSOL experience. 
+Will be able to write reports from home. 
+Looking for field adjusters and writers. 
+Please forward resume with response. ]]></description>
+<dc:date>2013-02-26T12:03:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3644954338.html</dc:source>
+<dc:title><![CDATA[Flood Writers Needed (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:03:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3638115626.html">
+<title><![CDATA[Christian startup needs techies (Montgomery, AL)]]></title>
+<link>http://montgomery.craigslist.org/cpg/3638115626.html</link>
+<description><![CDATA[chrch.us is looking for Christ-centered techies, geeks, nerds, gurus, systems architects, designers, and anyone else who wants to help build a God-sized vision. Right now this vision is simply an idea to connect Christ-followers across the globe to d [...]]]></description>
+<dc:date>2013-02-23T11:00:23-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3638115626.html</dc:source>
+<dc:title><![CDATA[Christian startup needs techies (Montgomery, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T11:00:23-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://montgomery.craigslist.org/cpg/3625474097.html">
+<title><![CDATA[App-Web-DB-Developer (Montgomery)]]></title>
+<link>http://montgomery.craigslist.org/cpg/3625474097.html</link>
+<description><![CDATA[I'm looking for a unique App/Website/Database/Developer to work on my App/Web projects on a part-time or as needed project basis. These projects are Mobile specific but I have several Mobile App platforms that will allow quick creation of Apps but wi [...]]]></description>
+<dc:date>2013-02-18T07:39:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://montgomery.craigslist.org/cpg/3625474097.html</dc:source>
+<dc:title><![CDATA[App-Web-DB-Developer (Montgomery)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T07:39:58-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://corvallis.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in corvallis/albany</title>
+<link>http://corvallis.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://corvallis.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in corvallis/albany</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:04-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://corvallis.craigslist.org/cpg/3669565026.html" />
+  <rdf:li rdf:resource="http://corvallis.craigslist.org/cpg/3645010835.html" />
+  <rdf:li rdf:resource="http://corvallis.craigslist.org/cpg/3628520237.html" />
+  <rdf:li rdf:resource="http://corvallis.craigslist.org/cpg/3616233121.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://corvallis.craigslist.org/cpg/3669565026.html">
+<title><![CDATA[Simple CAD Figures Needed (Corvallis/Salem)]]></title>
+<link>http://corvallis.craigslist.org/cpg/3669565026.html</link>
+<description><![CDATA[We need a few isometric wire-frame-like figures whipped up this week for a provisional patent application. You, or someone you know, must be an engineering or design student who would appreciate good hourly cash for a little spare time this week. We  [...]]]></description>
+<dc:date>2013-03-09T08:09:00-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://corvallis.craigslist.org/cpg/3669565026.html</dc:source>
+<dc:title><![CDATA[Simple CAD Figures Needed (Corvallis/Salem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T08:09:00-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://corvallis.craigslist.org/cpg/3645010835.html">
+<title><![CDATA[$200 for Excel macro THIS week]]></title>
+<link>http://corvallis.craigslist.org/cpg/3645010835.html</link>
+<description><![CDATA[Need somebody expert in Excel or Visual Basic to write a complex macro (about 25 steps) that will copy paste data among several worksheets in various ways. Will pay $200 if it works accurately in Excel 2007 and you run my data through it 5-10 times.  [...]]]></description>
+<dc:date>2013-02-26T10:23:59-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://corvallis.craigslist.org/cpg/3645010835.html</dc:source>
+<dc:title><![CDATA[$200 for Excel macro THIS week]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T10:23:59-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://corvallis.craigslist.org/cpg/3628520237.html">
+<title><![CDATA[Potential to be part of something new and creative (Portland area)]]></title>
+<link>http://corvallis.craigslist.org/cpg/3628520237.html</link>
+<description><![CDATA[Looking for individuals who are interested in collaborating and brainstorming on a potential business idea related to creating educational android/apple app games. I am looking for creative individuals who have computer PROGRAMMING, computer GRAPHICS [...]]]></description>
+<dc:date>2013-02-19T09:11:02-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://corvallis.craigslist.org/cpg/3628520237.html</dc:source>
+<dc:title><![CDATA[Potential to be part of something new and creative (Portland area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T09:11:02-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://corvallis.craigslist.org/cpg/3616233121.html">
+<title><![CDATA[Electro Mechanical Maintenance (Corvallis area)]]></title>
+<link>http://corvallis.craigslist.org/cpg/3616233121.html</link>
+<description><![CDATA[I need some occasional maintenance work done on electro-mechanical systems. This consists of taking a unit apart, using screwdrivers and Allen hex wrenches, installing a replacement part and then performing the required re-assembly. Tools are provide [...]]]></description>
+<dc:date>2013-02-13T21:52:43-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://corvallis.craigslist.org/cpg/3616233121.html</dc:source>
+<dc:title><![CDATA[Electro Mechanical Maintenance (Corvallis area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T21:52:43-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

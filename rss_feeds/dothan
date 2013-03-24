@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://dothan.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in dothan, AL</title>
+<link>http://dothan.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://dothan.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in dothan, AL</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:34:54-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3646846095.html" />
+  <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3638467657.html" />
+  <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3631523624.html" />
+  <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3537378241.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://dothan.craigslist.org/cpg/3646846095.html">
+<title><![CDATA[It's not easy making money online . . .  (home)]]></title>
+<link>http://dothan.craigslist.org/cpg/3646846095.html</link>
+<description><![CDATA[But it can be done. It's absolutely free to get started. If you're serious about making money online and are willing to put in the effort, this is where you start http://www.wealthyaffiliate.com?a_aid=754c4130]]></description>
+<dc:date>2013-03-13T12:48:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dothan.craigslist.org/cpg/3646846095.html</dc:source>
+<dc:title><![CDATA[It's not easy making money online . . .  (home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T12:48:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://dothan.craigslist.org/cpg/3638467657.html">
+<title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></title>
+<link>http://dothan.craigslist.org/cpg/3638467657.html</link>
+<description><![CDATA[Easy to do! Work at home! 
+Basic computer, internet & admin skills a plus! 
+Check out this explanation at www.missybackes.ws. - No obligation! ]]></description>
+<dc:date>2013-02-23T14:13:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dothan.craigslist.org/cpg/3638467657.html</dc:source>
+<dc:title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T14:13:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dothan.craigslist.org/cpg/3631523624.html">
+<title><![CDATA[Great Potential (Any)]]></title>
+<link>http://dothan.craigslist.org/cpg/3631523624.html</link>
+<description><![CDATA[Please check out my facebook page for more info. Got a huge project and need a few great minds on board! 
+facebook.com/jobquestlive]]></description>
+<dc:date>2013-02-20T14:59:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dothan.craigslist.org/cpg/3631523624.html</dc:source>
+<dc:title><![CDATA[Great Potential (Any)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T14:59:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dothan.craigslist.org/cpg/3537378241.html">
+<title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></title>
+<link>http://dothan.craigslist.org/cpg/3537378241.html</link>
+<description><![CDATA[Easy to do! Work at home! 
+Basic computer, internet & admin skills a plus! 
+Check out this explanation at www.missyworksinpjs.com - No obligation! ]]></description>
+<dc:date>2013-02-07T14:55:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dothan.craigslist.org/cpg/3537378241.html</dc:source>
+<dc:title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T14:55:25-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

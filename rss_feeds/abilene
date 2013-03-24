@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://abilene.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in abilene</title>
+<link>http://abilene.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://abilene.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in abilene</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:07-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://abilene.craigslist.org/cpg/3691004111.html" />
+  <rdf:li rdf:resource="http://abilene.craigslist.org/cpg/3677296884.html" />
+  <rdf:li rdf:resource="http://abilene.craigslist.org/cpg/3681660666.html" />
+  <rdf:li rdf:resource="http://abilene.craigslist.org/cpg/3679472023.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://abilene.craigslist.org/cpg/3691004111.html">
+<title><![CDATA[Growing IT Company Looking for Motivated Technicians (Abilene)]]></title>
+<link>http://abilene.craigslist.org/cpg/3691004111.html</link>
+<description><![CDATA[I am looking for techs who can do the following types of jobs: 
+- Network installation and troubleshooting 
+- Cabling (cat 5, cat 6, fiber optic) 
+- Printer troubleshooting / repair 
+- Computer repair 
+- POS troubleshooting 
+- T1 and T3 lines 
+- Swit [...]]]></description>
+<dc:date>2013-03-19T11:37:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://abilene.craigslist.org/cpg/3691004111.html</dc:source>
+<dc:title><![CDATA[Growing IT Company Looking for Motivated Technicians (Abilene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:37:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://abilene.craigslist.org/cpg/3677296884.html">
+<title><![CDATA[Sharepoint Person to provide classes (Around Texas)]]></title>
+<link>http://abilene.craigslist.org/cpg/3677296884.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-15T12:04:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://abilene.craigslist.org/cpg/3677296884.html</dc:source>
+<dc:title><![CDATA[Sharepoint Person to provide classes (Around Texas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:04:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://abilene.craigslist.org/cpg/3681660666.html">
+<title><![CDATA[Electronics Connection Help Needed (Tye)]]></title>
+<link>http://abilene.craigslist.org/cpg/3681660666.html</link>
+<description><![CDATA[I am in need of someone to connect a Jadoo or Roku box and get my router to connect to other computers wireless. I am located in Tye. Please send me your name and number and an estimate of your cost. Michelle 325-691-185zero]]></description>
+<dc:date>2013-03-14T18:10:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://abilene.craigslist.org/cpg/3681660666.html</dc:source>
+<dc:title><![CDATA[Electronics Connection Help Needed (Tye)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:10:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://abilene.craigslist.org/cpg/3679472023.html">
+<title><![CDATA[Marketing Company looking for a Local Partner (Abilene)]]></title>
+<link>http://abilene.craigslist.org/cpg/3679472023.html</link>
+<description><![CDATA[Marketing Company looking for a Local Partner 
+You would be helping on establishing clients and rapport in regards to Website Design, Social Media, Search Engine Optimization, Local Search, Content Marketing, and Much More 
+We have the ability to ful [...]]]></description>
+<dc:date>2013-03-13T17:39:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://abilene.craigslist.org/cpg/3679472023.html</dc:source>
+<dc:title><![CDATA[Marketing Company looking for a Local Partner (Abilene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T17:39:00-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

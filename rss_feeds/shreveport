@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://shreveport.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in shreveport</title>
+<link>http://shreveport.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://shreveport.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in shreveport</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:58-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://shreveport.craigslist.org/cpg/3687001241.html" />
+  <rdf:li rdf:resource="http://shreveport.craigslist.org/cpg/3625215064.html" />
+  <rdf:li rdf:resource="http://shreveport.craigslist.org/cpg/3550140300.html" />
+  <rdf:li rdf:resource="http://shreveport.craigslist.org/cpg/3611116282.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://shreveport.craigslist.org/cpg/3687001241.html">
+<title><![CDATA[Onsite technical Support]]></title>
+<link>http://shreveport.craigslist.org/cpg/3687001241.html</link>
+<description><![CDATA[If youre looking for PC/Telecom/Network opportunities in your area, sign up as a independant technican and start recieving work orders. 
+https://www.fieldnation.com/a/500f0bca257e8]]></description>
+<dc:date>2013-03-17T13:06:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://shreveport.craigslist.org/cpg/3687001241.html</dc:source>
+<dc:title><![CDATA[Onsite technical Support]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:06:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://shreveport.craigslist.org/cpg/3625215064.html">
+<title><![CDATA[Part Time Work At Home (Shreveport)]]></title>
+<link>http://shreveport.craigslist.org/cpg/3625215064.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-18T01:01:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://shreveport.craigslist.org/cpg/3625215064.html</dc:source>
+<dc:title><![CDATA[Part Time Work At Home (Shreveport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T01:01:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://shreveport.craigslist.org/cpg/3550140300.html">
+<title><![CDATA[Earn Full Time or Part Time with Computer (Ark LA TX)]]></title>
+<link>http://shreveport.craigslist.org/cpg/3550140300.html</link>
+<description><![CDATA[You can earn a Full Time or Part Time Income on eBay. See Picture ( not clickable) 
+Send email for information. Had $13,000 in Sales in just December. ]]></description>
+<dc:date>2013-02-12T20:43:07-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://shreveport.craigslist.org/cpg/3550140300.html</dc:source>
+<dc:title><![CDATA[Earn Full Time or Part Time with Computer (Ark LA TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T20:43:07-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://shreveport.craigslist.org/cpg/3611116282.html">
+<title><![CDATA[Need a MAC guru for tutor this week (Shreveport)]]></title>
+<link>http://shreveport.craigslist.org/cpg/3611116282.html</link>
+<description><![CDATA[Looking MAC Guru to help me utilize my PowerBook, iPad2 and iPhone5 together better as well as tricks for managing windows in the PowerBook. I'm just here this week so please Contact me ASAP.student okay. $30 an hour]]></description>
+<dc:date>2013-02-11T21:04:17-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://shreveport.craigslist.org/cpg/3611116282.html</dc:source>
+<dc:title><![CDATA[Need a MAC guru for tutor this week (Shreveport)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T21:04:17-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

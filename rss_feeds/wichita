@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://wichita.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in wichita</title>
+<link>http://wichita.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://wichita.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in wichita</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:37:12-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3662974403.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3684156068.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3684166594.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3690876210.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3688611758.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3687751403.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3623029307.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3677496151.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3676341514.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3673975387.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3655897058.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3634416262.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3634131543.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3628499175.html" />
+  <rdf:li rdf:resource="http://wichita.craigslist.org/cpg/3619159072.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://wichita.craigslist.org/cpg/3662974403.html">
+<title><![CDATA[gold refiner]]></title>
+<link>http://wichita.craigslist.org/cpg/3662974403.html</link>
+<description><![CDATA[Looking for a local gold refiner to separate gold plating from metal materials (mainly copper). must have your own set up (lab/glassware). If you know what your doing and have safe practices then this could lead to alot of work. If interested please  [...]]]></description>
+<dc:date>2013-03-24T11:30:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3662974403.html</dc:source>
+<dc:title><![CDATA[gold refiner]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:30:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3684156068.html">
+<title><![CDATA[computer savvy person]]></title>
+<link>http://wichita.craigslist.org/cpg/3684156068.html</link>
+<description><![CDATA[looking for a male or female that has a good amount of knowledge of computers. A college student would be preferred! We are a paranormal investigation team here in Wichita, Kansas. The interested candidate will be taking our evidence collected and do [...]]]></description>
+<dc:date>2013-03-23T20:45:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3684156068.html</dc:source>
+<dc:title><![CDATA[computer savvy person]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:45:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3684166594.html">
+<title><![CDATA[case manager (Wichita, Ks)]]></title>
+<link>http://wichita.craigslist.org/cpg/3684166594.html</link>
+<description><![CDATA[Local paranormal investigation team is looking for an individual that is out going and comfortable with cold contacting places for us to investigate. A college student is preferred but will consider all inquiries. You can do this from home or where e [...]]]></description>
+<dc:date>2013-03-23T20:44:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3684166594.html</dc:source>
+<dc:title><![CDATA[case manager (Wichita, Ks)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:44:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3690876210.html">
+<title><![CDATA[JOBS (USA)]]></title>
+<link>http://wichita.craigslist.org/cpg/3690876210.html</link>
+<description><![CDATA[http://www.weneedamoderateparty.com/home.html]]></description>
+<dc:date>2013-03-19T10:44:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3690876210.html</dc:source>
+<dc:title><![CDATA[JOBS (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:44:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3688611758.html">
+<title><![CDATA[EASY MONEY (USA)]]></title>
+<link>http://wichita.craigslist.org/cpg/3688611758.html</link>
+<description><![CDATA[http://visitors2cash.com/ref.php?refId=74745]]></description>
+<dc:date>2013-03-18T10:05:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3688611758.html</dc:source>
+<dc:title><![CDATA[EASY MONEY (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:05:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3687751403.html">
+<title><![CDATA[Someone needed to assist or run a new niche e-commerce website (Wichita, KS)]]></title>
+<link>http://wichita.craigslist.org/cpg/3687751403.html</link>
+<description><![CDATA[I'm looking for someone local to Wichita who wants to assist/run a brand new e-commerce flash sale website. Its a niche site with great growth potential. 
+You must be self- starter, motivated, ambitious, and honest. ]]></description>
+<dc:date>2013-03-17T19:50:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3687751403.html</dc:source>
+<dc:title><![CDATA[Someone needed to assist or run a new niche e-commerce website (Wichita, KS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T19:50:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3623029307.html">
+<title><![CDATA[It's not easy to make money online  (work from home)]]></title>
+<link>http://wichita.craigslist.org/cpg/3623029307.html</link>
+<description><![CDATA[But it can be done. It's absolutely free to get started. If you're serious about making money online and are willing to put in the effort, this is where you start http://www.wealthyaffiliate.com?a_aid=754c4130]]></description>
+<dc:date>2013-03-13T11:47:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3623029307.html</dc:source>
+<dc:title><![CDATA[It's not easy to make money online  (work from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:47:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3677496151.html">
+<title><![CDATA[P/T Position (wichita)]]></title>
+<link>http://wichita.craigslist.org/cpg/3677496151.html</link>
+<description><![CDATA[Part time position available for simple computer work needing to be completed as needed.. No prior experience needed as we´ll instruct you on how to have tasks completed.. Being that it´s somewhat data entry, simply being able to transfer information [...]]]></description>
+<dc:date>2013-03-12T19:52:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3677496151.html</dc:source>
+<dc:title><![CDATA[P/T Position (wichita)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T19:52:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3676341514.html">
+<title><![CDATA[eBay'ers... (Wichita)]]></title>
+<link>http://wichita.craigslist.org/cpg/3676341514.html</link>
+<description><![CDATA[For those who replied to the eBay help needed ad, please supply your email address. When I hit reply to your inquiries, the emails are bouncing. 
+Thank you!]]></description>
+<dc:date>2013-03-12T11:46:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3676341514.html</dc:source>
+<dc:title><![CDATA[eBay'ers... (Wichita)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T11:46:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3673975387.html">
+<title><![CDATA[Need experienced eBay'er (Wichita)]]></title>
+<link>http://wichita.craigslist.org/cpg/3673975387.html</link>
+<description><![CDATA[We are looking for an experienced eBay seller to move several hundred used items. These are small, easily shipped (most will fit in a 6x6x6 box. In the past we have averaged about $25/item. We would like to have someone list and ship the items. Commi [...]]]></description>
+<dc:date>2013-03-11T11:57:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3673975387.html</dc:source>
+<dc:title><![CDATA[Need experienced eBay'er (Wichita)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T11:57:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3655897058.html">
+<title><![CDATA[Suplement your income Working online, $150 Per shift (WICHITA)]]></title>
+<link>http://wichita.craigslist.org/cpg/3655897058.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-03T10:14:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3655897058.html</dc:source>
+<dc:title><![CDATA[Suplement your income Working online, $150 Per shift (WICHITA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T10:14:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3634416262.html">
+<title><![CDATA[Start Work Today (wichita)]]></title>
+<link>http://wichita.craigslist.org/cpg/3634416262.html</link>
+<description><![CDATA[Part time position available for simple computer work needing to be completed as needed.. The type of person we´re looking for will be reliable and punctual and all training is provided to that person.. As long as you can read, understand and follow  [...]]]></description>
+<dc:date>2013-02-21T17:22:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3634416262.html</dc:source>
+<dc:title><![CDATA[Start Work Today (wichita)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T17:22:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3634131543.html">
+<title><![CDATA[Butler/Cowley Accounting Student Needed (Wichita)]]></title>
+<link>http://wichita.craigslist.org/cpg/3634131543.html</link>
+<description><![CDATA[We have a part-time position ideally suited to a student pursuing accountancy with some experience in Quickbooks. If interested, please reply asap indicating hours of availability and experience with Quickbooks.]]></description>
+<dc:date>2013-02-21T15:20:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3634131543.html</dc:source>
+<dc:title><![CDATA[Butler/Cowley Accounting Student Needed (Wichita)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T15:20:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3628499175.html">
+<title><![CDATA[Barcode/Quickbooks]]></title>
+<link>http://wichita.craigslist.org/cpg/3628499175.html</link>
+<description><![CDATA[I am looking for someone who is very knowledgeable in setting up programs for Quick books and Barcoding. ]]></description>
+<dc:date>2013-02-19T11:03:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3628499175.html</dc:source>
+<dc:title><![CDATA[Barcode/Quickbooks]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:03:38-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://wichita.craigslist.org/cpg/3619159072.html">
+<title><![CDATA[Web based programming project (Wichita, KS)]]></title>
+<link>http://wichita.craigslist.org/cpg/3619159072.html</link>
+<description><![CDATA[I need some web based programming help, I don't know how complicated it could be but would like to discuss. Email or text me at 316-304-4970 if interested.]]></description>
+<dc:date>2013-02-15T10:58:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wichita.craigslist.org/cpg/3619159072.html</dc:source>
+<dc:title><![CDATA[Web based programming project (Wichita, KS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T10:58:22-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

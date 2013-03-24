@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://fredericksburg.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in fredericksburg</title>
+<link>http://fredericksburg.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://fredericksburg.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in fredericksburg</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:13-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3695035588.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3653111598.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3673074575.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3670909200.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3668016618.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3664364252.html" />
+  <rdf:li rdf:resource="http://fredericksburg.craigslist.org/cpg/3634164742.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3695035588.html">
+<title><![CDATA[EASIEST JOB EVER (VA)]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3695035588.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-21T11:19:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3695035588.html</dc:source>
+<dc:title><![CDATA[EASIEST JOB EVER (VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:19:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3653111598.html">
+<title><![CDATA[Work at Home Consultants-NEEDED]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3653111598.html</link>
+<description><![CDATA[Own your own candle business for only $4.99 a month, get your first month for only 99 cents! Earn 40% on all your sales or shop for yourself with a 40% discount. 
+We offer several different candle lines, soy soap, tart chunks, room & travel sprays, o [...]]]></description>
+<dc:date>2013-03-19T22:50:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3653111598.html</dc:source>
+<dc:title><![CDATA[Work at Home Consultants-NEEDED]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:50:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3673074575.html">
+<title><![CDATA[immediate openings]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3673074575.html</link>
+<description><![CDATA[Sales reps needed.... 
+No experience necessary. .. 
+Free training. .. 
+Reply with Resume, number and best time to call...]]></description>
+<dc:date>2013-03-11T00:16:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3673074575.html</dc:source>
+<dc:title><![CDATA[immediate openings]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T00:16:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3670909200.html">
+<title><![CDATA[Work from home  (Dale City )]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3670909200.html</link>
+<description><![CDATA[I have a great way to work from home. Im a mom of two children and iwork for this great company that makes it so i can stay home and make money. Its a brand New company that just started a year ago. Its a great new diet plus vitamins that can change  [...]]]></description>
+<dc:date>2013-03-09T21:39:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3670909200.html</dc:source>
+<dc:title><![CDATA[Work from home  (Dale City )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T21:39:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3668016618.html">
+<title><![CDATA[Need immediately]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3668016618.html</link>
+<description><![CDATA[Start working with us todayNo Experience Required, Will Trainreply with name, number and best time to call]]></description>
+<dc:date>2013-03-08T15:39:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3668016618.html</dc:source>
+<dc:title><![CDATA[Need immediately]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T15:39:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3664364252.html">
+<title><![CDATA[hiring now ]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3664364252.html</link>
+<description><![CDATA[10 positions left. Representatives needed now.Training is available. We are looking to hire the sharpest people. Must work well with others as well others and independently. Please send us your resume. A recuiter will contact you with futher informat [...]]]></description>
+<dc:date>2013-03-06T23:54:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3664364252.html</dc:source>
+<dc:title><![CDATA[hiring now ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T23:54:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://fredericksburg.craigslist.org/cpg/3634164742.html">
+<title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></title>
+<link>http://fredericksburg.craigslist.org/cpg/3634164742.html</link>
+<description><![CDATA[Our client located in Washington D.C. is looking for a talented Web Developer (Ruby, Rails, JavaScript, jQuery) to join their high energy, innovative team. This programmer will be joining a large scale e-commerce project and will be creating Ruby on  [...]]]></description>
+<dc:date>2013-02-21T16:33:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fredericksburg.craigslist.org/cpg/3634164742.html</dc:source>
+<dc:title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:33:49-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

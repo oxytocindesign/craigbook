@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://vancouver.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in vancouver, BC</title>
+<link>http://vancouver.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://vancouver.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in vancouver, BC</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:37:36-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3695224806.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3701382033.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3701308093.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3699897728.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3699438639.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/pml/cpg/3677398295.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rch/cpg/3698383136.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3691316448.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3691337043.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3697402587.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3687250267.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3697275374.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/pml/cpg/3691758553.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3689517744.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3696153714.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3695784352.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3695398520.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3690074397.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3695211452.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3694390651.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3693941118.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3693883720.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3692358341.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3691533700.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3691127011.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3690319195.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3689042035.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3688067102.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3686226756.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3685745061.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3685741556.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3685154797.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3684143342.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3683042688.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3658537888.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3682222749.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3681770631.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3681657742.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3681451145.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3680968521.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3680938316.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3680191690.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3679311742.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3678653187.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3674934467.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3674760236.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3673119818.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/nvn/cpg/3672454164.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3622998058.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/nvn/cpg/3671147715.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3670723366.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3668514153.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3667474191.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3666799313.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3651043473.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3666730755.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3666035259.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3663917915.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3663764066.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3663691948.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rch/cpg/3663686852.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3663582057.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3662149661.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3662133604.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3661082148.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3659809649.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3659171870.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3658653047.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3658058114.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3657197740.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3655485826.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3652507816.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/nvn/cpg/3652227251.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3649784916.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3646581151.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3646502429.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3645834696.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3643725428.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3642080313.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3638681010.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3634707597.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3634632774.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3633804259.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3632658343.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3628461519.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3627765022.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3627693335.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3626690848.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3626332950.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3624418433.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3623595557.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rch/cpg/3614047890.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3622630635.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3619957426.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/bnc/cpg/3619537375.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3617381894.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3615796039.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3615505795.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/rds/cpg/3615257770.html" />
+  <rdf:li rdf:resource="http://vancouver.en.craigslist.ca/van/cpg/3614771873.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3695224806.html">
+<title><![CDATA[Looking for an Internet Marketing Specialist !!!  (Where ever you have internet!!!)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3695224806.html</link>
+<description><![CDATA[I Have a business that needs someone to help market online throughout usa and canada - worldwide!!! 
+Looking for someone that has online marketing knowhow... you can live anywhere -i live in newwest/burnaby...]]></description>
+<dc:date>2013-03-24T17:24:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3695224806.html</dc:source>
+<dc:title><![CDATA[Looking for an Internet Marketing Specialist !!!  (Where ever you have internet!!!)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:24:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3701382033.html">
+<title><![CDATA[Selling items on Ebay for me (Main and Broadway)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3701382033.html</link>
+<description><![CDATA[My desire is to sell a great deal of my designer clothes and other miscellaneous items on Ebay. What would be required is the applicant do the following: 
+-Take pictures of the clothing and goods. 
+-Use those pictures and create posting for the items [...]]]></description>
+<dc:date>2013-03-24T14:12:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3701382033.html</dc:source>
+<dc:title><![CDATA[Selling items on Ebay for me (Main and Broadway)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:12:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3701308093.html">
+<title><![CDATA[C# programmer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3701308093.html</link>
+<description><![CDATA[I have a program that I have decompiled into 98% usable C# code. I have no experience with C# code and I need experienced eyes to help create a usable project file 
+If you have any experience with C#, please contact me. 
+Please reply to this posting  [...]]]></description>
+<dc:date>2013-03-24T13:32:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3701308093.html</dc:source>
+<dc:title><![CDATA[C# programmer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:32:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3699897728.html">
+<title><![CDATA[Local business seeking student for Graphic Design/PR/HR/Social Media.. (Downtown/Gastown)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3699897728.html</link>
+<description><![CDATA[We are a small business that offers many services centred around skin health during the day, and monthly art events and parties in the evening. We are interested in taking on a student who can learn from our establishment and staff, but who can also  [...]]]></description>
+<dc:date>2013-03-23T16:30:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3699897728.html</dc:source>
+<dc:title><![CDATA[Local business seeking student for Graphic Design/PR/HR/Social Media.. (Downtown/Gastown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:30:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3699438639.html">
+<title><![CDATA[Web design and logo design needed (Lower Mainland)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3699438639.html</link>
+<description><![CDATA[A little about us, 
+We are a family run company that is growing rapidly. We specialize in building restaurants but are not limited to commercial work. The first website we need built focuses on restaurant construction in Vancouver and if all goes wel [...]]]></description>
+<dc:date>2013-03-23T12:15:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3699438639.html</dc:source>
+<dc:title><![CDATA[Web design and logo design needed (Lower Mainland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:15:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/pml/cpg/3677398295.html">
+<title><![CDATA[Looking for an apprentice for electronics repair (Maple Ridge)]]></title>
+<link>http://vancouver.en.craigslist.ca/pml/cpg/3677398295.html</link>
+<description><![CDATA[I run a successful home business fixing just about everything electronics related. Mostly computers, cellphones and video game consoles but not limited to. I am very busy almost everyday and finding myself starting to venture into new projects and bu [...]]]></description>
+<dc:date>2013-03-23T10:05:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/pml/cpg/3677398295.html</dc:source>
+<dc:title><![CDATA[Looking for an apprentice for electronics repair (Maple Ridge)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:05:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rch/cpg/3698383136.html">
+<title><![CDATA[My hard drive crashed (Richmond)]]></title>
+<link>http://vancouver.en.craigslist.ca/rch/cpg/3698383136.html</link>
+<description><![CDATA[My compaq laptop has error message replace hard drive 1 and I need some help. Right now every time I restart it has an error message display. I have many pictures and videos of my newborn son and would like to recover the files. I also would like my  [...]]]></description>
+<dc:date>2013-03-22T20:54:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rch/cpg/3698383136.html</dc:source>
+<dc:title><![CDATA[My hard drive crashed (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T20:54:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3691316448.html">
+<title><![CDATA[Analytics/Wordpress/SEO (Vancouver Downtown)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3691316448.html</link>
+<description><![CDATA[You must be in Vancouver. This is an onsite job for 2 days a week. 
+Job Duties: 
+Wordpress Guru 
+• Developing landing pages for SEO and SEM campaigns 
+A/B Variant testing 
+• Implementing meta tags, basic HTML5 coding 
+• Manage Google Webmaster tools  [...]]]></description>
+<dc:date>2013-03-22T17:48:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3691316448.html</dc:source>
+<dc:title><![CDATA[Analytics/Wordpress/SEO (Vancouver Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:48:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3691337043.html">
+<title><![CDATA[Coder/Analytics  (Vancouver Downtown)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3691337043.html</link>
+<description><![CDATA[You must be in Vancouver. This is an onsite job for 2 days a week. Could develop into more. 
+Job Duties: 
+Wordpress Guru 
+• Developing landing pages for SEO and SEM campaigns 
+A/B Variant testing 
+• Implementing meta tags, basic HTML5 coding 
+• Manag [...]]]></description>
+<dc:date>2013-03-22T17:47:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3691337043.html</dc:source>
+<dc:title><![CDATA[Coder/Analytics  (Vancouver Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:47:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3697402587.html">
+<title><![CDATA[WANTED:  Experienced and Talented Android (and/or iOS) App Developer (Downtown Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3697402587.html</link>
+<description><![CDATA[My company is working on a social meet-up application and is in need of a talented developer like yourself! This is a crowded space but also a very misunderstood and poorly executed one -- I feel my company will be able to change this BUT we need you [...]]]></description>
+<dc:date>2013-03-22T11:14:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3697402587.html</dc:source>
+<dc:title><![CDATA[WANTED:  Experienced and Talented Android (and/or iOS) App Developer (Downtown Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:14:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3687250267.html">
+<title><![CDATA[Need Social Web site guy genius (Surrey)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3687250267.html</link>
+<description><![CDATA[Looking a real computer nerd that can increase social media someone like a hacker style genius. 
+Need asap. 
+604-653-9966]]></description>
+<dc:date>2013-03-22T10:20:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3687250267.html</dc:source>
+<dc:title><![CDATA[Need Social Web site guy genius (Surrey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:20:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3697275374.html">
+<title><![CDATA[Need powershell programmer for excel work (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3697275374.html</link>
+<description><![CDATA[I need someone strong in powershell to do some coding with excel sheets. I do not want VBA coders, I want it done in powershell. I have multiple excel sheets I want merged into one]]></description>
+<dc:date>2013-03-22T10:19:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3697275374.html</dc:source>
+<dc:title><![CDATA[Need powershell programmer for excel work (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:19:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/pml/cpg/3691758553.html">
+<title><![CDATA[Seeking Web Site Tutor!? ((Port Coquitlam))]]></title>
+<link>http://vancouver.en.craigslist.ca/pml/cpg/3691758553.html</link>
+<description><![CDATA[Hi so I'm planning on starting my own website and I'm looking for a professional web designer with Strong attention to details and with enough knowledge to teach me how to create websites and teach me to manage and work them along with other website  [...]]]></description>
+<dc:date>2013-03-22T02:10:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/pml/cpg/3691758553.html</dc:source>
+<dc:title><![CDATA[Seeking Web Site Tutor!? ((Port Coquitlam))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T02:10:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3689517744.html">
+<title><![CDATA[Pro-bono Graphic Designer and Web Designer (Lower Mainland)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3689517744.html</link>
+<description><![CDATA[I am seeking both a Graphic Designer as well as a Web Designer that can work Pro Bono for my wholesale business. 
+I am a start up and rather than starting with a business loan, I am exploring the option to do trades. 
+My product is being developed an [...]]]></description>
+<dc:date>2013-03-21T22:27:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3689517744.html</dc:source>
+<dc:title><![CDATA[Pro-bono Graphic Designer and Web Designer (Lower Mainland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T22:27:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3696153714.html">
+<title><![CDATA[PHP - MySQL upgrader required (Yaletown)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3696153714.html</link>
+<description><![CDATA[I have a dedicated offsite Windows server running Joomla and Wordpress websites all on old PHP and MySQL. I need to install the latest versions of Joomla and Wordpress, requiring latest PHP/MySQL and I need some "genius" who is proficient in such thi [...]]]></description>
+<dc:date>2013-03-21T17:22:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3696153714.html</dc:source>
+<dc:title><![CDATA[PHP - MySQL upgrader required (Yaletown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:22:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3695784352.html">
+<title><![CDATA[Indexhibit Delveloper (Anywhere)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3695784352.html</link>
+<description><![CDATA[I am looking for a web developer that has used INDEXHIBIT ( http://www.indexhibit.org/ ). I am looking to hire someone to build me 2 indexhibit sites similar to this one: http://www.koxvold.com/ 
+there will be a home page, a few galleries and a conta [...]]]></description>
+<dc:date>2013-03-21T13:54:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3695784352.html</dc:source>
+<dc:title><![CDATA[Indexhibit Delveloper (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T13:54:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3695398520.html">
+<title><![CDATA[Website Redesign  (Burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3695398520.html</link>
+<description><![CDATA[We are a not-for-profit organization looking for somebody to help redesign our website. 
+Applicants must be familiar with and have experience using Drupal. 
+Please apply with a copy of your resume to the email above. 
+Compensation as well as further  [...]]]></description>
+<dc:date>2013-03-21T10:57:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3695398520.html</dc:source>
+<dc:title><![CDATA[Website Redesign  (Burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:57:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3690074397.html">
+<title><![CDATA[keyboard replacement on HP DV7 (New Westminster)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3690074397.html</link>
+<description><![CDATA[I posted earlier about a spilled drink on my laptop. 
+It seems to have come back to life, but the keyboard had issues. 
+Using a USB keyboard for now, but probably just needs a keyboard replacement now. 
+Is there a repair shop that can do this? Would  [...]]]></description>
+<dc:date>2013-03-21T09:49:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3690074397.html</dc:source>
+<dc:title><![CDATA[keyboard replacement on HP DV7 (New Westminster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:49:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3695211452.html">
+<title><![CDATA[Need network expert (remote from Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3695211452.html</link>
+<description><![CDATA[Need a network expert to teach me some, beyond basics, and help set up a network to access my worksites remotely. Our business is in a remote area and uses satellite internet, and has a wireless and wired network with routers servers, phone systems,  [...]]]></description>
+<dc:date>2013-03-21T09:36:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3695211452.html</dc:source>
+<dc:title><![CDATA[Need network expert (remote from Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:36:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3694390651.html">
+<title><![CDATA[need someone to install autostart for my van  (north burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3694390651.html</link>
+<description><![CDATA[I already have the compustar auto start if anyone knows how to install it please give me a call. 604 3761717]]></description>
+<dc:date>2013-03-20T20:30:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3694390651.html</dc:source>
+<dc:title><![CDATA[need someone to install autostart for my van  (north burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:30:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3693941118.html">
+<title><![CDATA[Cisco Router - 1841 config (South Burbnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3693941118.html</link>
+<description><![CDATA[I need help re-configuring a router to the changing needs of our organization. 
+If you have extensive Cisco IOS knowledge and can quickly configure a router for SSL VPN access. A few NAT rules should be applied as well.]]></description>
+<dc:date>2013-03-20T15:46:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3693941118.html</dc:source>
+<dc:title><![CDATA[Cisco Router - 1841 config (South Burbnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:46:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3693883720.html">
+<title><![CDATA[Short-term positions available (South Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3693883720.html</link>
+<description><![CDATA[Looking for some short-term employment? We have established relationships with many companies that are looking to hire qualified employees. We will use these connections to help you find a short-term position. E-mail us to find out how to get started [...]]]></description>
+<dc:date>2013-03-20T15:15:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3693883720.html</dc:source>
+<dc:title><![CDATA[Short-term positions available (South Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:15:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3692358341.html">
+<title><![CDATA[WEB ADVERTISERS WANTED cash payed daily INCLUDE YOUR TEL T647 703 7317 (VANCOUVER)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3692358341.html</link>
+<description><![CDATA[WEB ADVERTISERS WANTED cash payed daily INCLUDE YOUR TELEPHONE NUMBER T647 703 7317 
+GOTOCASHGIFTPALDOTCOM]]></description>
+<dc:date>2013-03-19T21:28:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3692358341.html</dc:source>
+<dc:title><![CDATA[WEB ADVERTISERS WANTED cash payed daily INCLUDE YOUR TEL T647 703 7317 (VANCOUVER)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:28:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3691533700.html">
+<title><![CDATA[Powershell programer for excel work (Burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3691533700.html</link>
+<description><![CDATA[I need someone strong in powershell to do some coding with excel sheets. I do not want VBA coders, I want it done in powershell. I have multiple excel sheets I want merged into one.]]></description>
+<dc:date>2013-03-19T13:21:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3691533700.html</dc:source>
+<dc:title><![CDATA[Powershell programer for excel work (Burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:21:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3691127011.html">
+<title><![CDATA[Looking for accountant for 2012 taxes (US & Canadian) (Kitsilano)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3691127011.html</link>
+<description><![CDATA[I'm looking for a professional accountant who can file both my US & Canadian taxes for 2012. 
+I'm a US citizen living in Vancouver on a work permit. My taxes will mostly entail: 
+-T4 & W2 
+-Stock market accounts (etrade, scottrade, tdamerica) 
+-Stude [...]]]></description>
+<dc:date>2013-03-19T10:28:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3691127011.html</dc:source>
+<dc:title><![CDATA[Looking for accountant for 2012 taxes (US & Canadian) (Kitsilano)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:28:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3690319195.html">
+<title><![CDATA[Linux Help Wiki Needs Content Contributions!]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3690319195.html</link>
+<description><![CDATA[I recently created a Linux wiki in the hopes of creating a centralized, largely distro independent, resource for Linux users of various skill levels. The site is brand new and is in serious need of contributions of all kinds, tutorials, user friend m [...]]]></description>
+<dc:date>2013-03-18T22:40:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3690319195.html</dc:source>
+<dc:title><![CDATA[Linux Help Wiki Needs Content Contributions!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T22:40:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3689042035.html">
+<title><![CDATA[Filemaker Developer Wanted (Burnaby / Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3689042035.html</link>
+<description><![CDATA[We are looking for a filemaker developer who can create a basic asset / inventory database for our company. We need to track equipment as it gets signed out to the employees, and the ability to create reports.... The usual CRM/ERP stuff. The above re [...]]]></description>
+<dc:date>2013-03-18T10:56:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3689042035.html</dc:source>
+<dc:title><![CDATA[Filemaker Developer Wanted (Burnaby / Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:56:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3688067102.html">
+<title><![CDATA[Drupal help (Surrey)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3688067102.html</link>
+<description><![CDATA[Trying to learn drupal and having issue with field collection/computed field modules and also template.php ]]></description>
+<dc:date>2013-03-17T21:53:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3688067102.html</dc:source>
+<dc:title><![CDATA[Drupal help (Surrey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T21:53:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3686226756.html">
+<title><![CDATA[Looking for someone able to find abuser on ASK.FM (Langley)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3686226756.html</link>
+<description><![CDATA[My child was abused on-line when she innocently joined an anonymous question and answer website. Within a day of joining, she was told to kill herself, among other things, on a website called "ASK.FM". This person feels like they are in control becau [...]]]></description>
+<dc:date>2013-03-16T22:23:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3686226756.html</dc:source>
+<dc:title><![CDATA[Looking for someone able to find abuser on ASK.FM (Langley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T22:23:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3685745061.html">
+<title><![CDATA[Web Site and Social Media Specialist (BC)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3685745061.html</link>
+<description><![CDATA[Anyone interested in responsible government in BC who knows social media and can put up a fairly uncomplicated web site please respond. ]]></description>
+<dc:date>2013-03-16T15:54:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3685745061.html</dc:source>
+<dc:title><![CDATA[Web Site and Social Media Specialist (BC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:54:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3685741556.html">
+<title><![CDATA[WebCam Custom Feature C#.Net (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3685741556.html</link>
+<description><![CDATA[Seeking a contractor to create a secondary feature for a USB webcam to add the ability to broadcast streaming video to a private port. Might need to send a networking command to the router to open the port. Must be written in C#.Net 2010. ]]></description>
+<dc:date>2013-03-16T15:52:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3685741556.html</dc:source>
+<dc:title><![CDATA[WebCam Custom Feature C#.Net (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:52:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3685154797.html">
+<title><![CDATA[BOOKEEPER (LANGLEY)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3685154797.html</link>
+<description><![CDATA[we are a smal1 business seeking a bookkeeper with simply accounting experience. 
+Duties will include: 
+Coding and entering payment receipts using simply accounting 
+Filling paperwork 
+Bank reconciliations 
+Tax Preperation 
+If interested please e-mail [...]]]></description>
+<dc:date>2013-03-16T11:03:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3685154797.html</dc:source>
+<dc:title><![CDATA[BOOKEEPER (LANGLEY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T11:03:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3684143342.html">
+<title><![CDATA[Need help with Unity 3d prime[31] in-app purchase plugin (greater vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3684143342.html</link>
+<description><![CDATA[Hi, I've just purchased prime[31] plugin for Unity3d and have no idea how to use it or even set it up, I need some help with it up. 
+What I need is just the ability to buy in-app purchase that will save a string to player prefs... PlayerPrefs.SetStri [...]]]></description>
+<dc:date>2013-03-15T20:19:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3684143342.html</dc:source>
+<dc:title><![CDATA[Need help with Unity 3d prime[31] in-app purchase plugin (greater vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T20:19:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3683042688.html">
+<title><![CDATA["Out of the World" Talented & Experienced Graphic Designer]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3683042688.html</link>
+<description><![CDATA[Hello graphic designers! 
+Boy do I have an opportunity for you. I head a company that's all about messing with the status quo. If you're about doing things your way and never shying away from a challenge then you need to get involved! I love dreamers [...]]]></description>
+<dc:date>2013-03-15T10:34:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3683042688.html</dc:source>
+<dc:title><![CDATA["Out of the World" Talented & Experienced Graphic Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:34:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3658537888.html">
+<title><![CDATA[need body code reader (surrey)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3658537888.html</link>
+<description><![CDATA[i have a 2008 f250 superduty, my airbag sensor is light is on, so i need a autobody electric code reader, completely different from a obdII code reader. my diesel mechanic has tried to read the code but doesnt come up, he told me to go to a autobody  [...]]]></description>
+<dc:date>2013-03-15T10:32:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3658537888.html</dc:source>
+<dc:title><![CDATA[need body code reader (surrey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:32:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3682222749.html">
+<title><![CDATA["Out of the World" Talented & Experienced Graphic Designer]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3682222749.html</link>
+<description><![CDATA[Hello graphic designers! 
+Boy do I have an opportunity for you. I head a company that's all about messing with the status quo. If you're about doing things your way and never shying away from a challenge then you need to get involved! I love dreamers [...]]]></description>
+<dc:date>2013-03-14T23:06:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3682222749.html</dc:source>
+<dc:title><![CDATA["Out of the World" Talented & Experienced Graphic Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T23:06:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3681770631.html">
+<title><![CDATA[WEB ADVERTISERS WANTED CASH PAYED DAILY MUST HAVE PC 6477037317 (VANCOUVER)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3681770631.html</link>
+<description><![CDATA[EXCELLENT CASH PAYED DAILY 
+AVAILABLE NOW 
+WEB ADVERTISERS WANTED 
+NOVICE*SKILLED*PRO 
+MUST HAVE PC ACCESS AND VALID EMAIL 
+RESPOND BY TEXT AND EMAIL ONLY 
+647 703 7317]]></description>
+<dc:date>2013-03-14T17:10:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3681770631.html</dc:source>
+<dc:title><![CDATA[WEB ADVERTISERS WANTED CASH PAYED DAILY MUST HAVE PC 6477037317 (VANCOUVER)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T17:10:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3681657742.html">
+<title><![CDATA[HTML5 Web / Game Developers - Contract (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3681657742.html</link>
+<description><![CDATA[Hi, We are currently building a social casino app for facebook in HTML5 and need to add someone to help us build out our different game properties. 
+If you are a game designer, HTML5 game programmer and need a contract project... please contact us. 
+ [...]]]></description>
+<dc:date>2013-03-14T16:09:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3681657742.html</dc:source>
+<dc:title><![CDATA[HTML5 Web / Game Developers - Contract (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:09:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3681451145.html">
+<title><![CDATA[webmaster / computer techs (Surrey/Langley)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3681451145.html</link>
+<description><![CDATA[GameRAGE Pro Shop & Online Solutions 
+We are a small group of friends turning into an online business with plans to lease a store and sell our services to the community in the near future. Our focus group is the gaming community. We have a partnershi [...]]]></description>
+<dc:date>2013-03-14T14:26:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3681451145.html</dc:source>
+<dc:title><![CDATA[webmaster / computer techs (Surrey/Langley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:26:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3680968521.html">
+<title><![CDATA[Powershell coding for excel (Burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3680968521.html</link>
+<description><![CDATA[I have multiple spreadsheets that I need merged into one. 
+Contact me for more info]]></description>
+<dc:date>2013-03-14T10:54:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3680968521.html</dc:source>
+<dc:title><![CDATA[Powershell coding for excel (Burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:54:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3680938316.html">
+<title><![CDATA[ASP.NET Programmer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3680938316.html</link>
+<description><![CDATA[We are looking for someone who can manage a web application we wrote for a client several years ago. The application likely requires some updates to bring it up to newer .NET frameworks, and has some bugs that need to be resolved. The original writer [...]]]></description>
+<dc:date>2013-03-14T10:42:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3680938316.html</dc:source>
+<dc:title><![CDATA[ASP.NET Programmer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:42:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3680191690.html">
+<title><![CDATA[Building an internet marketing team.  (Online.)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3680191690.html</link>
+<description><![CDATA[Looking for those skilled in blogging, innovative marketing styles, SEO, content management or social media advertising. Must be internet savvy and be order to follow instructions. 
+Very strong communication skills please. 
+You will be compensated ge [...]]]></description>
+<dc:date>2013-03-14T01:21:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3680191690.html</dc:source>
+<dc:title><![CDATA[Building an internet marketing team.  (Online.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T01:21:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3679311742.html">
+<title><![CDATA[Plz FIX my Samsung Laptop AC/connection (Vancouver &amp; regions)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3679311742.html</link>
+<description><![CDATA[My A/C connection on my laptop is broken. It overheats within seconds. It needs to be replaced. It seems like its connected to the mother board, so replacing the AC plug alone would be ideal. 
+Can you resauder a new A/C connector on the PC? Or replac [...]]]></description>
+<dc:date>2013-03-13T14:18:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3679311742.html</dc:source>
+<dc:title><![CDATA[Plz FIX my Samsung Laptop AC/connection (Vancouver &amp; regions)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T14:18:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3678653187.html">
+<title><![CDATA[Online Marketer ASAP (Your Home)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3678653187.html</link>
+<description><![CDATA[Looking for someone to help find clients for my new business. Commissions are $500 per client enrolled. Please PM me for more information. ]]></description>
+<dc:date>2013-03-13T09:46:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3678653187.html</dc:source>
+<dc:title><![CDATA[Online Marketer ASAP (Your Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:46:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3674934467.html">
+<title><![CDATA[Company of Heroes 2 Playtesting (Yaletown)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3674934467.html</link>
+<description><![CDATA[Relic Entertainment is looking for Company of Heroes 2 playtesters to help give feedback! (Playtesting is not bug testing- playtesting is where we watch people play and answer questions to gauge the game's difficulty levels.) 
+Do you have experience  [...]]]></description>
+<dc:date>2013-03-11T16:11:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3674934467.html</dc:source>
+<dc:title><![CDATA[Company of Heroes 2 Playtesting (Yaletown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T16:11:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3674760236.html">
+<title><![CDATA[unlock/root tmobile hotspot 4g (vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3674760236.html</link>
+<description><![CDATA[i have a tmobile hotspot 4g device that i need rooted/unlocked to work with other sim cards. lets meet at 682 broadway (starbucks)]]></description>
+<dc:date>2013-03-11T14:53:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3674760236.html</dc:source>
+<dc:title><![CDATA[unlock/root tmobile hotspot 4g (vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T14:53:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3673119818.html">
+<title><![CDATA[tutor needed for windows 8 ms word 2013 (kitsilano)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3673119818.html</link>
+<description><![CDATA[Have a new laptop and need someone to come and teach me basics of windows 8 for email and ms word 2013 basic letters. I am used to XP and 2003 word. I am confused with these new systems. 
+Thanks,]]></description>
+<dc:date>2013-03-10T21:58:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3673119818.html</dc:source>
+<dc:title><![CDATA[tutor needed for windows 8 ms word 2013 (kitsilano)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:58:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/nvn/cpg/3672454164.html">
+<title><![CDATA[Job offer: fix Iphone 4S screen for 40$ (North/West Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/nvn/cpg/3672454164.html</link>
+<description><![CDATA[Hello, 
+I am looking for someone to fix my iPhone 4S screen for 40$. It's only shattered on the front right hand corner. 
+I need it done before Friday, march 15th, so please contact me as soon as possible by email(alexia-facebook@hotmail.com). ]]></description>
+<dc:date>2013-03-10T15:07:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/nvn/cpg/3672454164.html</dc:source>
+<dc:title><![CDATA[Job offer: fix Iphone 4S screen for 40$ (North/West Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T15:07:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3622998058.html">
+<title><![CDATA[content/blog/link loading (from home)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3622998058.html</link>
+<description><![CDATA[I have been in the process of getting several sites up and running. I understand word press and all of the sites are word press. I am just overwhelmed and I need help. I need small blog articles, links uploaded, as well as site maintenance and templa [...]]]></description>
+<dc:date>2013-03-10T11:06:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3622998058.html</dc:source>
+<dc:title><![CDATA[content/blog/link loading (from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T11:06:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/nvn/cpg/3671147715.html">
+<title><![CDATA[Root my ANDROID phone - MTK6577 (North Vancouver / Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/nvn/cpg/3671147715.html</link>
+<description><![CDATA[I have a Chinese n7100 clone. I need it rooted. 
+Let me know if you can do it, what you charge and where you're located. 
+This is the exact phone. 
+http://www.aliexpress.com/item/5-3-inch-Feiyang-7100-Phone-MTK6577-Dual-Core-1GB-RAM-4GB-ROM-WCDMA-3G- [...]]]></description>
+<dc:date>2013-03-09T22:05:56-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/nvn/cpg/3671147715.html</dc:source>
+<dc:title><![CDATA[Root my ANDROID phone - MTK6577 (North Vancouver / Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T22:05:56-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3670723366.html">
+<title><![CDATA[Looking for Local Android Developer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3670723366.html</link>
+<description><![CDATA[We are a company looking for a contractor to help us create an android app for a restaurant that has these specs: 
+-push notification 
+-Coupon slider view 
+-Table view 
+-asynchronous network requests 
+-sqlite 
+-photogallery 
+Required Skills and Exper [...]]]></description>
+<dc:date>2013-03-09T16:41:22-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3670723366.html</dc:source>
+<dc:title><![CDATA[Looking for Local Android Developer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T16:41:22-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3668514153.html">
+<title><![CDATA[CGI artist required (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3668514153.html</link>
+<description><![CDATA[Highly experienced Computer Generated Image CGI artist required to create short video to demonstrate innovative mechanical process. Must be willing to sign non-disclosure agreement. Must reside on Greater Vancouver area. Sorry no telecommuting possib [...]]]></description>
+<dc:date>2013-03-08T16:21:24-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3668514153.html</dc:source>
+<dc:title><![CDATA[CGI artist required (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T16:21:24-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3667474191.html">
+<title><![CDATA[**New Media Entrepreneur looking for Mentoring-PARTNER for online biz  (New West/Queens Park)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3667474191.html</link>
+<description><![CDATA[New Media Entrepreneur looking for a Mentoring-PARTNER to help set up a new online business model for Amazon. 
+Once the initial work is set in place this will then become a residual based business. 
+I'm looking for preferably a computer / Internet ba [...]]]></description>
+<dc:date>2013-03-08T09:12:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3667474191.html</dc:source>
+<dc:title><![CDATA[**New Media Entrepreneur looking for Mentoring-PARTNER for online biz  (New West/Queens Park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T09:12:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3666799313.html">
+<title><![CDATA[Need graphics and logos for website  (Lower mainland)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3666799313.html</link>
+<description><![CDATA[Hi I'm looking for logos and graphics for my website. Give me an email with attached links to your previous work and I will get back to you as soon as possible! 
+Cheers! ]]></description>
+<dc:date>2013-03-08T00:08:41-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3666799313.html</dc:source>
+<dc:title><![CDATA[Need graphics and logos for website  (Lower mainland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T00:08:41-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3651043473.html">
+<title><![CDATA[Coding ninja wanted  (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3651043473.html</link>
+<description><![CDATA[Hi, 
+I'm looking for someone to help me with some coding work. I've got too much on my work plate at the moment and need to hire someone dependable. Local, small company, more information about the projects if we think you might be the right fit (tha [...]]]></description>
+<dc:date>2013-03-07T23:13:27-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3651043473.html</dc:source>
+<dc:title><![CDATA[Coding ninja wanted  (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T23:13:27-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3666730755.html">
+<title><![CDATA[Repair Car Dvd player (Scott Road)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3666730755.html</link>
+<description><![CDATA[Please tell me your price and your experience.]]></description>
+<dc:date>2013-03-07T22:26:04-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3666730755.html</dc:source>
+<dc:title><![CDATA[Repair Car Dvd player (Scott Road)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T22:26:04-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3666035259.html">
+<title><![CDATA[Drupal programmer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3666035259.html</link>
+<description><![CDATA[Looking for very competent and experienced Drupal programmer to create and/or modify our existing Drupal back-end for a mobile & public touch-screen project. We're centrally located in Vancouver, (specialized in touch-interactive marketing) and prefe [...]]]></description>
+<dc:date>2013-03-07T15:01:20-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3666035259.html</dc:source>
+<dc:title><![CDATA[Drupal programmer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T15:01:20-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3663917915.html">
+<title><![CDATA[Student for Excel survey analysis + tutoring (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3663917915.html</link>
+<description><![CDATA[I need a student who's an expert on using Excel for survey analysis - you may be a grad. student. The data exists, in spreadsheet form. You are very comfortable with the dilemmas of turning open-ending questions into coding, with formulas for frequen [...]]]></description>
+<dc:date>2013-03-06T16:16:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3663917915.html</dc:source>
+<dc:title><![CDATA[Student for Excel survey analysis + tutoring (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T16:16:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3663764066.html">
+<title><![CDATA[Need programmer for API work (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3663764066.html</link>
+<description><![CDATA[Looking for competent programmer to help streamline an online client information intake form, so that it takes the data entered right into a server-side client-records management program. The software publisher has an API with which to customize such [...]]]></description>
+<dc:date>2013-03-06T15:02:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3663764066.html</dc:source>
+<dc:title><![CDATA[Need programmer for API work (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T15:02:51-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3663691948.html">
+<title><![CDATA[Small logo design project for graphic designer]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3663691948.html</link>
+<description><![CDATA[Start up company looking for a logo for the company website. Good project for student or someone wanting to build up their portfolio ]]></description>
+<dc:date>2013-03-06T14:30:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3663691948.html</dc:source>
+<dc:title><![CDATA[Small logo design project for graphic designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:30:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rch/cpg/3663686852.html">
+<title><![CDATA[Need a student for help with iPad and iCloud (Brighouse)]]></title>
+<link>http://vancouver.en.craigslist.ca/rch/cpg/3663686852.html</link>
+<description><![CDATA[Hi I would like to hire a student in Richmond to help me with my iPad, laptop and photo files. Nothing that will be too complicated for you but I will need ongoing help 
+With these things. 
+Please let me know your experience and hourly rate? 
+Thanks]]></description>
+<dc:date>2013-03-06T14:28:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rch/cpg/3663686852.html</dc:source>
+<dc:title><![CDATA[Need a student for help with iPad and iCloud (Brighouse)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:28:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3663582057.html">
+<title><![CDATA[New Digital Media Project (Various Computer Gigs) (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3663582057.html</link>
+<description><![CDATA[Hi, my name's Robert Privett. I am producing a new radio show about the tech industry and entrepreneurial culture in Vancouver. 
+The show will cover local tech news, events and include interviews with influential mentors, professors and business owne [...]]]></description>
+<dc:date>2013-03-06T13:43:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3663582057.html</dc:source>
+<dc:title><![CDATA[New Digital Media Project (Various Computer Gigs) (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T13:43:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3662149661.html">
+<title><![CDATA[Need programmer for interactive art installation (Emily Carr University)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3662149661.html</link>
+<description><![CDATA[Hello all, 
+I am a graduate student at Emily Carr University and I am in need of a programmer, ideally a student, with experience with softwares as Arduino, Max/Msp or Pure Data. I am working on an interactive installation where participants will tri [...]]]></description>
+<dc:date>2013-03-05T22:37:25-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3662149661.html</dc:source>
+<dc:title><![CDATA[Need programmer for interactive art installation (Emily Carr University)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T22:37:25-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3662133604.html">
+<title><![CDATA[mp4 files causing me problems (metro van)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3662133604.html</link>
+<description><![CDATA[I require the services of a video media expert. Someone who can work with slightly damaged files and bring them back from the dead. 
+This gig is going to be virtual. Using dropbox and other methods for file transfer, I'll send the file. You will fix  [...]]]></description>
+<dc:date>2013-03-05T22:17:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3662133604.html</dc:source>
+<dc:title><![CDATA[mp4 files causing me problems (metro van)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T22:17:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3661082148.html">
+<title><![CDATA[AUTOCAD 3D PROJECT (STADIUM)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3661082148.html</link>
+<description><![CDATA[I need someone to do an Autocad"3D" Project for me 
+I promise to pay!! 
+It has to be done by FRIDAY 15 I only have 10 days! 
+MUST CALL 
+778 865 6743 Plz contact me ASAP! I think is not too much 
+Ir must be AUTOCAD 3D, not other softhware tnx ]]></description>
+<dc:date>2013-03-05T12:39:42-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3661082148.html</dc:source>
+<dc:title><![CDATA[AUTOCAD 3D PROJECT (STADIUM)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T12:39:42-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3659809649.html">
+<title><![CDATA[Looking for Local Android Developer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3659809649.html</link>
+<description><![CDATA[We are a startup company looking for a contractor to help us create an android app for a restaurant that has these functionalities: 
+-push notification 
+-Coupon slider view 
+-Table view 
+-asynchronous network requests 
+-sqlite 
+-photogallery 
+Require [...]]]></description>
+<dc:date>2013-03-04T22:48:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3659809649.html</dc:source>
+<dc:title><![CDATA[Looking for Local Android Developer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T22:48:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3659171870.html">
+<title><![CDATA[Word Press, CSS, Web Guru (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3659171870.html</link>
+<description><![CDATA[Hi I am a web designer and have an overflow of projects. Looking for a reliable and fast wordpress & css guru to add to my team! 
+Please send me some sample links, your prices / hourly or per project (general idea is good) and hopefully we can work t [...]]]></description>
+<dc:date>2013-03-04T15:48:16-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3659171870.html</dc:source>
+<dc:title><![CDATA[Word Press, CSS, Web Guru (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T15:48:16-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3658653047.html">
+<title><![CDATA[Electrical Engineer (Lower Mainland)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3658653047.html</link>
+<description><![CDATA[Position available for an out of the box thinking Electrical Engineer who has interest in or experience with power take off specifically to do with coil & magnet - axial flux generators and variants there of. Position would be project by project. 
+Fo [...]]]></description>
+<dc:date>2013-03-04T12:08:06-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3658653047.html</dc:source>
+<dc:title><![CDATA[Electrical Engineer (Lower Mainland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T12:08:06-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3658058114.html">
+<title><![CDATA[Professional Animator / Rigger (Vancity)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3658058114.html</link>
+<description><![CDATA[Our company is seeking a professional animator that has at least 2 years of animation production experience in Maya and rigging. You must be exceptional! 
+This is a one month contract, it pays 4k and we need you to start ASAP. 
+Please reply with a de [...]]]></description>
+<dc:date>2013-03-04T08:31:21-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3658058114.html</dc:source>
+<dc:title><![CDATA[Professional Animator / Rigger (Vancity)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:31:21-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3657197740.html">
+<title><![CDATA[Digital Artist Needed]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3657197740.html</link>
+<description><![CDATA[Are you good at drawing people, buildings, and zombies? Would you like to see some of your art published in books, on t-shirts, and mugs? I need a computer artist to create a few pictures for a book. There would be no remuneration for the actual art  [...]]]></description>
+<dc:date>2013-03-03T19:15:54-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3657197740.html</dc:source>
+<dc:title><![CDATA[Digital Artist Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T19:15:54-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3655485826.html">
+<title><![CDATA[blue screen ,need to be fix , (vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3655485826.html</link>
+<description><![CDATA[Hi 
+my laptop got blue screen ,it have been stoped now .everything seems good ,exept i need some information back . 
+please leave your number ,thanks ]]></description>
+<dc:date>2013-03-03T00:37:03-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3655485826.html</dc:source>
+<dc:title><![CDATA[blue screen ,need to be fix , (vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T00:37:03-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3652507816.html">
+<title><![CDATA[Looking for a Indexhibit Web Developer  (Vancouver/Langley)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3652507816.html</link>
+<description><![CDATA[Hello, 
+I am looking to hire someone to help me build a photography site. I will most likely be using the template: http://www.indexhibit.org/ but will need a hand creating it. I am able to design the site and provide .psd files but need you to do an [...]]]></description>
+<dc:date>2013-03-01T14:09:03-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3652507816.html</dc:source>
+<dc:title><![CDATA[Looking for a Indexhibit Web Developer  (Vancouver/Langley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T14:09:03-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/nvn/cpg/3652227251.html">
+<title><![CDATA[Motivated, experienced, ambitious mobile developing Rockstar (North Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/nvn/cpg/3652227251.html</link>
+<description><![CDATA[We are looking to partner with an individual with 
+web and mobile development experience. 
+We have some very exciting projects waiting for you. 
+Please contact with your portfolio and why you would make a good partner. 
+We are outgoing, fun, creative [...]]]></description>
+<dc:date>2013-03-01T12:13:44-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/nvn/cpg/3652227251.html</dc:source>
+<dc:title><![CDATA[Motivated, experienced, ambitious mobile developing Rockstar (North Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T12:13:44-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3649784916.html">
+<title><![CDATA[Web Designer Needed]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3649784916.html</link>
+<description><![CDATA[I need someone to make a wordpress site similar to this: www.freshlyeducatedmen.com, the only difference is I want people to be able to submit articles on the site, the articles must not be posted until I approve. Can this be done, how much will it c [...]]]></description>
+<dc:date>2013-02-28T11:09:41-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3649784916.html</dc:source>
+<dc:title><![CDATA[Web Designer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:09:41-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3646581151.html">
+<title><![CDATA[Talent programmer (Surrey)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3646581151.html</link>
+<description><![CDATA[I have designed Math software in R, but unable to convert in .exe file. I need computer hand who can translate my work into any other language that can be converted into .exe file for marketing. 
+Please contact 
+604 786 8235 
+kshattryindra@gmail.com]]></description>
+<dc:date>2013-02-27T02:46:58-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3646581151.html</dc:source>
+<dc:title><![CDATA[Talent programmer (Surrey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T02:46:58-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3646502429.html">
+<title><![CDATA[need video mobile app made]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3646502429.html</link>
+<description><![CDATA[Looking to create a video mobile app. 
+37 videos in total. All in mp4 format. 
+I can provide graphics for app as long as you can give me the templates i need. 
+Contact me through email - provide your rate and estimate time needed. 
+Thanks]]></description>
+<dc:date>2013-02-27T00:00:33-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3646502429.html</dc:source>
+<dc:title><![CDATA[need video mobile app made]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T00:00:33-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3645834696.html">
+<title><![CDATA[ESL Students for iPhone Application Focus Group (Kitsilano)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3645834696.html</link>
+<description><![CDATA[REQUIRE: 15 ESL students currently enrolled in English School for iPhone app focus group. 
+Must be: 
+- Ages 18 to 30 years old 
+- ELSA level 4 
+- Prior iPhone/iPod Touch knowledge required (very comfortable using device) 
+- Currently enrolled in Engl [...]]]></description>
+<dc:date>2013-02-26T15:49:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3645834696.html</dc:source>
+<dc:title><![CDATA[ESL Students for iPhone Application Focus Group (Kitsilano)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T15:49:30-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3643725428.html">
+<title><![CDATA[graphic designer (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3643725428.html</link>
+<description><![CDATA[I am a game developer, I am looking for a graphic designer to work together developing 2D games for mobiles. 
+This is a non-pay job to start, but we'll share 50/50. 
+I'll be doing all the code and anything else I can help with. 
+Please put "Mobile De [...]]]></description>
+<dc:date>2013-02-25T18:15:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3643725428.html</dc:source>
+<dc:title><![CDATA[graphic designer (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T18:15:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3642080313.html">
+<title><![CDATA[Looking for Website Builder (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3642080313.html</link>
+<description><![CDATA[Looking for someone to build a sports marketing website. When responding please show links of previous work. This is an ongoing project with no projected end date.]]></description>
+<dc:date>2013-02-25T07:05:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3642080313.html</dc:source>
+<dc:title><![CDATA[Looking for Website Builder (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T07:05:30-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3638681010.html">
+<title><![CDATA[  Bookkeeping (Vancouver, BC)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3638681010.html</link>
+<description><![CDATA[Temporary position available immediately for a person proficient in Excel. Approximately 8 hours work for now and then contract work later on. 
+Must have experience working with Excel and feel very comfortable using this program. ]]></description>
+<dc:date>2013-02-23T12:37:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3638681010.html</dc:source>
+<dc:title><![CDATA[  Bookkeeping (Vancouver, BC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T12:37:51-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3634707597.html">
+<title><![CDATA[Article Paraphraser]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3634707597.html</link>
+<description><![CDATA[I am currently building a website and need someone to copy my competitors articles and put them in their own words. 
+Wordpress skills needed.]]></description>
+<dc:date>2013-02-21T17:46:43-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3634707597.html</dc:source>
+<dc:title><![CDATA[Article Paraphraser]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T17:46:43-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3634632774.html">
+<title><![CDATA[Corona Programmer Needed (Kitsilano)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3634632774.html</link>
+<description><![CDATA[I am an independent game developer with a project that has been in development for roughly one year. It is currently at the final stages of design and prototyping, and is poised to begin final coding. I have been working with one main programmer up t [...]]]></description>
+<dc:date>2013-02-21T17:07:01-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3634632774.html</dc:source>
+<dc:title><![CDATA[Corona Programmer Needed (Kitsilano)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T17:07:01-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3633804259.html">
+<title><![CDATA[Brochure/Advertising Material (Anywhere)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3633804259.html</link>
+<description><![CDATA[I need a fourfold brochure and some flyers/small pamphlets. 
+The fourfold will be quite photo intensive with minimal text. The small pamphlet will be really easy, almost all text I think. But that could change if I like what happens with the fourfold [...]]]></description>
+<dc:date>2013-02-21T11:15:06-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3633804259.html</dc:source>
+<dc:title><![CDATA[Brochure/Advertising Material (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:15:06-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3632658343.html">
+<title><![CDATA[need a tech who can fix diode laser hair removal machine (burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3632658343.html</link>
+<description><![CDATA[we have diode laser hair removal machine professional. not working. need a person who can fix it]]></description>
+<dc:date>2013-02-20T21:27:37-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3632658343.html</dc:source>
+<dc:title><![CDATA[need a tech who can fix diode laser hair removal machine (burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T21:27:37-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3628461519.html">
+<title><![CDATA[Adroid Programmer Required (Metro Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3628461519.html</link>
+<description><![CDATA[We are an upstart company moving into the world of custom video streaming, service to client. We're looking for an Anroid programmer with experience in video streaming, RTSP, H.264, H.264AVC, H.265, custom interfaces, graphic creation, and user exper [...]]]></description>
+<dc:date>2013-02-19T08:50:19-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3628461519.html</dc:source>
+<dc:title><![CDATA[Adroid Programmer Required (Metro Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T08:50:19-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3627765022.html">
+<title><![CDATA[Student/amateur 2D game artist wanted]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3627765022.html</link>
+<description><![CDATA[Need student/amateur 2D game artist to compose about ten 800 x 480 (pixel) war game pictures. Please email me your rate if you are interested. 
+Compensation: $10-$15/hour, negotiable]]></description>
+<dc:date>2013-02-18T23:15:07-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3627765022.html</dc:source>
+<dc:title><![CDATA[Student/amateur 2D game artist wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T23:15:07-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3627693335.html">
+<title><![CDATA[i will pay someone for photoshop work (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3627693335.html</link>
+<description><![CDATA[i am looking for someone to do a photoshop work for me 
+very simple and easy and i will pay! 
+get back to me 
+if its a good job i will hire for more projects 
+message me with information and i will let u know what i want done ]]></description>
+<dc:date>2013-02-18T21:52:55-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3627693335.html</dc:source>
+<dc:title><![CDATA[i will pay someone for photoshop work (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T21:52:55-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3626690848.html">
+<title><![CDATA[Looking for iOS/Android Developer]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3626690848.html</link>
+<description><![CDATA[I have a few ideas for app's for a market that's currently not being serviced. What I bring is funds to start up the venture, ideas and some programming knowledge. What I need is someone to polish those ideas into workable code. NDA required, compens [...]]]></description>
+<dc:date>2013-02-18T13:24:12-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3626690848.html</dc:source>
+<dc:title><![CDATA[Looking for iOS/Android Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:24:12-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3626332950.html">
+<title><![CDATA[Looking for experienced designers and technical folks in Vancouver (Metro Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3626332950.html</link>
+<description><![CDATA[Hello, 
+We are a start-up company based in Vancouver looking to build here and expand. We're looking to hire experienced designers and technical professionals to help develop front and back end services, particularly for a new website. This project c [...]]]></description>
+<dc:date>2013-02-18T11:18:26-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3626332950.html</dc:source>
+<dc:title><![CDATA[Looking for experienced designers and technical folks in Vancouver (Metro Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T11:18:26-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3624418433.html">
+<title><![CDATA[re: re: Active directory and Domain Server set up  (bby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3624418433.html</link>
+<description><![CDATA[lol!! thanks for the good laughs guys who wrote it. had a great laugh! I saw this too and just about fell over my chair. Lets not diminish what we do and charge guys. BTW if you hire someone for $25/hr for this job it's gonna cost a lot more than $10 [...]]]></description>
+<dc:date>2013-02-17T14:29:02-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3624418433.html</dc:source>
+<dc:title><![CDATA[re: re: Active directory and Domain Server set up  (bby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T14:29:02-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3623595557.html">
+<title><![CDATA[Website Maintenance/Social Network (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3623595557.html</link>
+<description><![CDATA[Looking for help in a website design/maintenance and social network.]]></description>
+<dc:date>2013-02-17T08:22:12-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3623595557.html</dc:source>
+<dc:title><![CDATA[Website Maintenance/Social Network (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T08:22:12-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rch/cpg/3614047890.html">
+<title><![CDATA[Need help for cell phone hardware mod (soldering required) (Richmond)]]></title>
+<link>http://vancouver.en.craigslist.ca/rch/cpg/3614047890.html</link>
+<description><![CDATA[Hi there, thanks for your interest. 
+I have a Motorola Photon Q 4G cell phone that need an expert to perform a sim card mod. For more information, please check the link below. 
+http://forum.xda-developers.com/showthread.php?t=1929143 
+http://forum.xd [...]]]></description>
+<dc:date>2013-02-17T06:31:15-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rch/cpg/3614047890.html</dc:source>
+<dc:title><![CDATA[Need help for cell phone hardware mod (soldering required) (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T06:31:15-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3622630635.html">
+<title><![CDATA[Sketch up help (vancouver )]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3622630635.html</link>
+<description><![CDATA[I am looking for someone to help me with Sketchup homework--i can pay you --to be determined , thank you! ]]></description>
+<dc:date>2013-02-16T17:01:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3622630635.html</dc:source>
+<dc:title><![CDATA[Sketch up help (vancouver )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T17:01:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3619957426.html">
+<title><![CDATA[re:re: Active directory and Domain Server set up]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3619957426.html</link>
+<description><![CDATA[$75 for the whole project [sosad] 
+8 to10 hr seems too long [sosad] 
+The billable hours shall be around 5 to 6 hours, and $100 to $125 per hr (cash). If you want invoice, make it $200 per. ]]></description>
+<dc:date>2013-02-15T14:09:46-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3619957426.html</dc:source>
+<dc:title><![CDATA[re:re: Active directory and Domain Server set up]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T14:09:46-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/bnc/cpg/3619537375.html">
+<title><![CDATA[re: Active directory and Domain Server set up (Burnaby)]]></title>
+<link>http://vancouver.en.craigslist.ca/bnc/cpg/3619537375.html</link>
+<description><![CDATA[I know my way around servers. I charge $125/hour and would be happy to help. You can expect that this job will take between 8 and 10 hours, so you'll want to budget $1000. I am happy to give a discount because of the number of hours involved, so I'd  [...]]]></description>
+<dc:date>2013-02-15T11:21:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/bnc/cpg/3619537375.html</dc:source>
+<dc:title><![CDATA[re: Active directory and Domain Server set up (Burnaby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T11:21:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3617381894.html">
+<title><![CDATA[Looking for website usability testers (Downtown Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3617381894.html</link>
+<description><![CDATA[We're building a website focused on sharing knowledge by way of experiences, and want to get some user feedback on the flow and general usability of it. We're looking for people to come into our office for about 30 minutes to look at a few screens an [...]]]></description>
+<dc:date>2013-02-14T11:47:10-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3617381894.html</dc:source>
+<dc:title><![CDATA[Looking for website usability testers (Downtown Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T11:47:10-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3615796039.html">
+<title><![CDATA[JOOMLA developer (anywhere)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3615796039.html</link>
+<description><![CDATA[Hello, 
+I need someone who knows Joomla very well. I have a site and want to make it look better and be more interactive. 
+Please contact me if you are the right person.]]></description>
+<dc:date>2013-02-13T17:03:38-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3615796039.html</dc:source>
+<dc:title><![CDATA[JOOMLA developer (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T17:03:38-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3615505795.html">
+<title><![CDATA[Web Designer [student] (Vancouver)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3615505795.html</link>
+<description><![CDATA[Small business requires the services of a web designer for a new project. We will provide office space for the ideal candidate and financial compensation for the project [to be agreed]. The office is on W. Broadway and close to downtown. All replies  [...]]]></description>
+<dc:date>2013-02-13T14:47:30-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3615505795.html</dc:source>
+<dc:title><![CDATA[Web Designer [student] (Vancouver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T14:47:30-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/rds/cpg/3615257770.html">
+<title><![CDATA[Sell stuff on ebay for me (Surrey)]]></title>
+<link>http://vancouver.en.craigslist.ca/rds/cpg/3615257770.html</link>
+<description><![CDATA[I have 7 or 8 different items I would like someone to put on ebay for me. Most of the items cost 20-50 dollars. So after taxes, shipping, and ebay fees, there should be atleast $120 profit left over (if they all sell) that we would split. So if you h [...]]]></description>
+<dc:date>2013-02-13T13:04:07-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/rds/cpg/3615257770.html</dc:source>
+<dc:title><![CDATA[Sell stuff on ebay for me (Surrey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:04:07-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://vancouver.en.craigslist.ca/van/cpg/3614771873.html">
+<title><![CDATA[Looking for SEO? Need my website to be seen!! (kits)]]></title>
+<link>http://vancouver.en.craigslist.ca/van/cpg/3614771873.html</link>
+<description><![CDATA[Hey guys, i am a local entrepreneur who has started a business dealing with mens clothing. I have a website, but am having trouble getting traffic and sales. I need someone who can help me get my site seen. I am on a small budget, but we can work som [...]]]></description>
+<dc:date>2013-02-13T09:59:53-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://vancouver.en.craigslist.ca/van/cpg/3614771873.html</dc:source>
+<dc:title><![CDATA[Looking for SEO? Need my website to be seen!! (kits)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T09:59:53-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

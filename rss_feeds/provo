@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://provo.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in provo / orem</title>
+<link>http://provo.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://provo.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in provo / orem</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:40:09-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3701992121.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3697563332.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3696496455.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3689520640.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3660986868.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3652359988.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3591851784.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3651909065.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3629145423.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3619864943.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3601647211.html" />
+  <rdf:li rdf:resource="http://provo.craigslist.org/cpg/3605266380.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://provo.craigslist.org/cpg/3701992121.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://provo.craigslist.org/cpg/3701992121.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T21:59:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3701992121.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:59:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3697563332.html">
+<title><![CDATA[Need Occasional Help With Unmanaged Server]]></title>
+<link>http://provo.craigslist.org/cpg/3697563332.html</link>
+<description><![CDATA[I use an unmanaged server with Atlantic.net to host a couple of simple Wordpress sites and to run my email accounts through. Occasionally I have to deal with simple server tasks using the WHM panel. I need to find someone that is skilled in managing  [...]]]></description>
+<dc:date>2013-03-22T13:28:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3697563332.html</dc:source>
+<dc:title><![CDATA[Need Occasional Help With Unmanaged Server]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:28:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3696496455.html">
+<title><![CDATA[Need a sales guy]]></title>
+<link>http://provo.craigslist.org/cpg/3696496455.html</link>
+<description><![CDATA[I'm looking for someone that can sell opportunities. 
+If you can sale a product that costs $25 and willing to make 100% commissions. 
+Email me! I have a business opportunity for you! ]]></description>
+<dc:date>2013-03-21T23:05:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3696496455.html</dc:source>
+<dc:title><![CDATA[Need a sales guy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T23:05:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3689520640.html">
+<title><![CDATA[multi week contract for code igniter job (Lehi)]]></title>
+<link>http://provo.craigslist.org/cpg/3689520640.html</link>
+<description><![CDATA[I started working on a website that I basically scraped from a garbage templating company using wget. I threw it into Code igniter framework and need someone to finish the job. 
+Here are the things you will need to do: 
+-lots of refactoring to take e [...]]]></description>
+<dc:date>2013-03-18T15:14:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3689520640.html</dc:source>
+<dc:title><![CDATA[multi week contract for code igniter job (Lehi)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:14:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3660986868.html">
+<title><![CDATA[Customer Service Rep - Work from Anywhere- Cell Phone Needed (Work From Home)]]></title>
+<link>http://provo.craigslist.org/cpg/3660986868.html</link>
+<description><![CDATA[Female customer service representative needed for small cleaning company. 
+Must be a must be able to answer phone between 9 o'clock a.m. to 9 o'clock p.m. 
+Must have a Pay Pal account or bank account for faster payment. 
+Check by mail available. 
+3-5 [...]]]></description>
+<dc:date>2013-03-13T14:28:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3660986868.html</dc:source>
+<dc:title><![CDATA[Customer Service Rep - Work from Anywhere- Cell Phone Needed (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T14:28:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3652359988.html">
+<title><![CDATA[PHONE & ELECTRONICS STORE (OREM)]]></title>
+<link>http://provo.craigslist.org/cpg/3652359988.html</link>
+<description><![CDATA[THIS POSTING IS FOR A PART TIME AND POTENTIAL FULL TIME POSITION PLEASE READ THE AD BEFORE CONTACTING ME 
+I have a small Phone and Electronics store in Orem, we sell online as well as right at the store, the primary products started as Cellular Phone [...]]]></description>
+<dc:date>2013-03-04T08:45:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3652359988.html</dc:source>
+<dc:title><![CDATA[PHONE & ELECTRONICS STORE (OREM)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:45:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3591851784.html">
+<title><![CDATA[Side Income]]></title>
+<link>http://provo.craigslist.org/cpg/3591851784.html</link>
+<description><![CDATA[Side Income 
+$45/65 day 
+We need people who can complete simple 
+computer tasks. 
+Save time by working a gig from home. 
+Email when you can start along with your name 
+for more information ]]></description>
+<dc:date>2013-03-03T00:47:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3591851784.html</dc:source>
+<dc:title><![CDATA[Side Income]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T00:47:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3651909065.html">
+<title><![CDATA[work from your computer a generate a healthy income (anywhere)]]></title>
+<link>http://provo.craigslist.org/cpg/3651909065.html</link>
+<description><![CDATA[Free info. Get on board with a company that helps you every step of the way. Earn the income that you Dream of. Reply if interested.]]></description>
+<dc:date>2013-03-01T11:11:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3651909065.html</dc:source>
+<dc:title><![CDATA[work from your computer a generate a healthy income (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T11:11:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3629145423.html">
+<title><![CDATA[Tech Support Lead (American Fork)]]></title>
+<link>http://provo.craigslist.org/cpg/3629145423.html</link>
+<description><![CDATA[We are seeking Linux Systems Monitoring Lead to guide a team and assist in system monitoring, incident resolution, and data center operations. This group monitors about 1000 servers, supporting over 7 million connected customers. 
+Must be proficient  [...]]]></description>
+<dc:date>2013-02-19T13:51:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3629145423.html</dc:source>
+<dc:title><![CDATA[Tech Support Lead (American Fork)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T13:51:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3619864943.html">
+<title><![CDATA[Computer Data Entry  (Provo)]]></title>
+<link>http://provo.craigslist.org/cpg/3619864943.html</link>
+<description><![CDATA[I need someone to help with data entry tomorrow, Feb 16. You will need to work from my office in Provo, between Noon and 4 pm. 
+If you have experience with Microsoft Office programs and you are motivated, I'd like to hear from you. Email me info abou [...]]]></description>
+<dc:date>2013-02-15T14:31:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3619864943.html</dc:source>
+<dc:title><![CDATA[Computer Data Entry  (Provo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T14:31:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3601647211.html">
+<title><![CDATA[Joomla/Virtuemart Guru Needed (Orem)]]></title>
+<link>http://provo.craigslist.org/cpg/3601647211.html</link>
+<description><![CDATA[I need someone who is very experienced in Joomla and/or Virtuemart to help me revamped my website and its shopping cart. I need someone who is knowledgeable enough about both applications to actually change coding within the apps to alter looks and f [...]]]></description>
+<dc:date>2013-02-11T16:55:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3601647211.html</dc:source>
+<dc:title><![CDATA[Joomla/Virtuemart Guru Needed (Orem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T16:55:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://provo.craigslist.org/cpg/3605266380.html">
+<title><![CDATA[Cash for Referrals (anywhere)]]></title>
+<link>http://provo.craigslist.org/cpg/3605266380.html</link>
+<description><![CDATA[I run a photo restoration website. I am offering you 25% of the profit of each job I do that has your referral code entered at the time it is ordered. The average job is about $30, but I commonly get jobs over $100. All you have to do is refer people [...]]]></description>
+<dc:date>2013-02-09T10:20:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://provo.craigslist.org/cpg/3605266380.html</dc:source>
+<dc:title><![CDATA[Cash for Referrals (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T10:20:09-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

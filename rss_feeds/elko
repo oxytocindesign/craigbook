@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://elko.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in elko</title>
+<link>http://elko.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://elko.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in elko</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:25:00-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://elko.craigslist.org/cpg/3674229290.html" />
+  <rdf:li rdf:resource="http://elko.craigslist.org/cpg/3623909763.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://elko.craigslist.org/cpg/3674229290.html">
+<title><![CDATA[Freedom Club Challenge  ($1275)]]></title>
+<link>http://elko.craigslist.org/cpg/3674229290.html</link>
+<description><![CDATA[• Get Your Current Bills Paid By Vitel 
+• Refer 3 and Earn $1000 Weekly 
+• Take The Freedom Club Challenge 
+• Up to $1275 Monthly in Additional Bonuses 
+• 
+• www.viteloverview.com ]]></description>
+<dc:date>2013-03-11T12:27:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://elko.craigslist.org/cpg/3674229290.html</dc:source>
+<dc:title><![CDATA[Freedom Club Challenge  ($1275)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T12:27:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://elko.craigslist.org/cpg/3623909763.html">
+<title><![CDATA[IT Technicians and TV Repair  Technicians Needed]]></title>
+<link>http://elko.craigslist.org/cpg/3623909763.html</link>
+<description><![CDATA[Must have the ability to Install, configure, troubleshoot and maintain PC systems or TVs. 
+Including; desktops, laptops, peripherals and infrastructure components, I. e. modems and cables. 
+Transportation is required. 
+SEND YOUR RESUME TO THE FOLLOWI [...]]]></description>
+<dc:date>2013-02-17T11:41:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://elko.craigslist.org/cpg/3623909763.html</dc:source>
+<dc:title><![CDATA[IT Technicians and TV Repair  Technicians Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T11:41:56-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'teenitalic';
+    src: url('teen_italic-webfont.eot');
+    src: url('teen_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('teen_italic-webfont.woff') format('woff'),
+         url('teen_italic-webfont.ttf') format('truetype'),
+         url('teen_italic-webfont.svg#teenitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'teenbold';
+    src: url('teen_bold-webfont.eot');
+    src: url('teen_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('teen_bold-webfont.woff') format('woff'),
+         url('teen_bold-webfont.ttf') format('truetype'),
+         url('teen_bold-webfont.svg#teenbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'teenregular';
+    src: url('teen-webfont.eot');
+    src: url('teen-webfont.eot?#iefix') format('embedded-opentype'),
+         url('teen-webfont.woff') format('woff'),
+         url('teen-webfont.ttf') format('truetype'),
+         url('teen-webfont.svg#teenregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+/* div container containing the form  */
+#searchContainer {
+    margin:auto;
+	min-width: 91%;
+	max-width: 91%;
+	min-height: 101%;
+	background-color:#bef56e;
+}
+ 
+/* Style the search input field. */
+#field {
+    float:left; 
+    width: 75%;
+
+    height:75px; 
+    line-height:27px;
+    text-indent:10px; 
+    font-family:arial, sans-serif; 
+    font-size:1em; 
+    color:#333; 
+    background: #fff; 
+    /*border:solid 1px #d9d9d9; 
+    border-top:solid 1px #c0c0c0;*/ 
+	
+	margin-left: 0px;
+}
+ 
+
+p.bold {
+word-wrap:break-word;
+font-family:"teenbold";
+text-align:center;
+
+}
+
+p.regular {
+word-wrap:break-word;
+font-family:"teenregular";
+text-align:center;
+
+}
+
+
+table
+{
+table-layout:fixed;
+}
+
+/* Syle the search button. Settings of line-height, font-size, text-indent used to hide submit value in IE */
+#submit {
+	float: right;
+	margin:0px; 
+	padding: 0px;   
+	cursor:pointer; 
+    min-width:25%;
+	
+    height: 75px; 
+    line-height:0; 
+    font-size:0; 
+    text-indent:-999px;
+    color: transparent;  
+    background: url(ico-search.png) no-repeat #0092bc center; 
+    border: 1px solid #3079ED; 
+ 
+}
+/* Style the search button hover state */
+#submit:hover {
+    background: url(ico-search.png) no-repeat center #12a3cd; 
+    border: 1px solid #2F5BB7;
+}
+/* Clear floats */
+.fclear {clear:both}

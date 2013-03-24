@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://monroe.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in monroe, LA</title>
+<link>http://monroe.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://monroe.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in monroe, LA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:58-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://monroe.craigslist.org/cpg/3688724317.html" />
+  <rdf:li rdf:resource="http://monroe.craigslist.org/cpg/3681811033.html" />
+  <rdf:li rdf:resource="http://monroe.craigslist.org/cpg/3652296011.html" />
+  <rdf:li rdf:resource="http://monroe.craigslist.org/cpg/3612046318.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://monroe.craigslist.org/cpg/3688724317.html">
+<title><![CDATA[Looking for a P/T IT Tech (Monroe)]]></title>
+<link>http://monroe.craigslist.org/cpg/3688724317.html</link>
+<description><![CDATA[We are looking for a tech that is a jack of many, not necessarily a master of none though. 
+We have a number of short termed opportunities available which range from computer/printer repair and installation, Network troubleshooting and installations, [...]]]></description>
+<dc:date>2013-03-21T13:19:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monroe.craigslist.org/cpg/3688724317.html</dc:source>
+<dc:title><![CDATA[Looking for a P/T IT Tech (Monroe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T13:19:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://monroe.craigslist.org/cpg/3681811033.html">
+<title><![CDATA[Dreamweaver Web Design (Quitman, LA)]]></title>
+<link>http://monroe.craigslist.org/cpg/3681811033.html</link>
+<description><![CDATA[Medium-sized church in Jackson Parish seeks help with new website. A template has been purchased to be used with Dreamweaver - but, it is hard coding which our current webmaster does not have much experience with. If you're interested, please reply d [...]]]></description>
+<dc:date>2013-03-14T19:34:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monroe.craigslist.org/cpg/3681811033.html</dc:source>
+<dc:title><![CDATA[Dreamweaver Web Design (Quitman, LA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T19:34:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://monroe.craigslist.org/cpg/3652296011.html">
+<title><![CDATA[Wanted: Tech Installer  (Monroe)]]></title>
+<link>http://monroe.craigslist.org/cpg/3652296011.html</link>
+<description><![CDATA[We are looking for a tech installer to work with retail displays in a big box store. The pay rate is $60 per site and the installation should not take more than an hour. 
+If interested, please reply with your name, email, phone number and location. 
+ [...]]]></description>
+<dc:date>2013-03-01T14:41:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monroe.craigslist.org/cpg/3652296011.html</dc:source>
+<dc:title><![CDATA[Wanted: Tech Installer  (Monroe)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T14:41:22-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://monroe.craigslist.org/cpg/3612046318.html">
+<title><![CDATA[Need an extra income?]]></title>
+<link>http://monroe.craigslist.org/cpg/3612046318.html</link>
+<description><![CDATA[Anybody looking to get paid on your network ?? NO SALES, NO PRODUCT, NO DOOR TO DOOR, 100% ONLINE. If you can get on Facebook you can make money $$$ for more details contact me asap. This will be the most fun you ever had making money $$$$ 
+http://ww [...]]]></description>
+<dc:date>2013-02-12T10:19:14-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://monroe.craigslist.org/cpg/3612046318.html</dc:source>
+<dc:title><![CDATA[Need an extra income?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T10:19:14-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

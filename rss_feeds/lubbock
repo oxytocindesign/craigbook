@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lubbock.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lubbock</title>
+<link>http://lubbock.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lubbock.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lubbock</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:09-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3701996085.html" />
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3687968546.html" />
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3639443219.html" />
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3630211523.html" />
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3614979143.html" />
+  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3600596132.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3701996085.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://lubbock.craigslist.org/cpg/3701996085.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:03:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3701996085.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:03:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3687968546.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://lubbock.craigslist.org/cpg/3687968546.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T22:54:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3687968546.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:54:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3639443219.html">
+<title><![CDATA[I need a password $$$ (lubbock)]]></title>
+<link>http://lubbock.craigslist.org/cpg/3639443219.html</link>
+<description><![CDATA[I need a password and am paying cash. I won't ask you any details about yourself. We will meet publicly. Once password is shown to work I will give you cash for your efforts. 
+SERIOUS PERSONS ONLY.]]></description>
+<dc:date>2013-02-23T21:25:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3639443219.html</dc:source>
+<dc:title><![CDATA[I need a password $$$ (lubbock)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T21:25:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3630211523.html">
+<title><![CDATA[RE - Professional, Custom Logo...]]></title>
+<link>http://lubbock.craigslist.org/cpg/3630211523.html</link>
+<description><![CDATA[Do not trust this person / company to design a logo for you... Any real graphic designer knows that logos are not designed in Photoshop. To the poster of this ad, please learn how to use Illustrator or some other form of Vector based software before  [...]]]></description>
+<dc:date>2013-02-19T23:49:16-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3630211523.html</dc:source>
+<dc:title><![CDATA[RE - Professional, Custom Logo...]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T23:49:16-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3614979143.html">
+<title><![CDATA[Professional, Custom Logo Design only $79.99]]></title>
+<link>http://lubbock.craigslist.org/cpg/3614979143.html</link>
+<description><![CDATA[Professional Logo Design for Just $79.99!!!!! 
+Our team of professional designers will create a nice logo design for your Business, Website, Blog or Header with 2 different options to choose from. We will make a very professional, nice looking art wo [...]]]></description>
+<dc:date>2013-02-13T13:16:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3614979143.html</dc:source>
+<dc:title><![CDATA[Professional, Custom Logo Design only $79.99]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:16:29-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://lubbock.craigslist.org/cpg/3600596132.html">
+<title><![CDATA[Short Term Assistant]]></title>
+<link>http://lubbock.craigslist.org/cpg/3600596132.html</link>
+<description><![CDATA[I need someone who is diligent and can help me with finding a new tenant to have take over my apartment lease. Message me if you're interested in the job for more details on pay etc. ]]></description>
+<dc:date>2013-02-07T11:38:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lubbock.craigslist.org/cpg/3600596132.html</dc:source>
+<dc:title><![CDATA[Short Term Assistant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T11:38:58-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

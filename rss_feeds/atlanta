@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://atlanta.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in atlanta</title>
+<link>http://atlanta.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://atlanta.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in atlanta</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:36:28-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3701993278.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3701757107.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3683477020.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3671323721.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3664726296.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691981284.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3701666533.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3701534234.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3701349486.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3637194275.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3701082093.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700758056.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3681781594.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/sat/cpg/3695323044.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700552741.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700552149.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700499378.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700499046.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700451125.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3700271471.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3699928404.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3699876225.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3699563406.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3688158344.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3685375900.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3669996497.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/eat/cpg/3699124923.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3698962353.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3698957272.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3698905348.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3698897861.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693424142.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3694695411.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3690437154.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3697990391.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3660162447.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693314108.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3697230319.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3697047442.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3696976415.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3696902775.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3696842289.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3696748839.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3688400615.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3696022938.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3695965933.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3695762239.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3676376924.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3695222492.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3695157544.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3695003016.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3694843523.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3648491650.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3694657011.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3694656898.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/wat/cpg/3693983247.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3693750458.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3693742102.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693658397.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693635578.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/sat/cpg/3693463668.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693140427.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693102471.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3693097018.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3692407136.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3692264109.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3692252745.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3692129677.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/eat/cpg/3691768558.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691742548.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691717866.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691599925.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3691489479.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3691299056.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691150991.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3691119372.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3690853760.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3690808437.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3690690722.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3690512086.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3690347309.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3689944433.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689929958.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689460841.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3678254238.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3649701716.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3682807257.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689185837.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689174136.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689147586.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689089930.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3689084912.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3689014530.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3688985296.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3688785121.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3688758622.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3688679252.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3688647001.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/atl/cpg/3672384837.html" />
+  <rdf:li rdf:resource="http://atlanta.craigslist.org/nat/cpg/3642207427.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3701993278.html">
+<title><![CDATA[Get Paid To Blog]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3701993278.html</link>
+<description><![CDATA[I am brining 4 more people into my team teaching them how to blog about whatever they desire and get paid a passive income monthly! 
+Serious Motivated People ONLY. 
+Email Me: empoweredmitch@gmail.com 
+Look forward to talking to you soon!]]></description>
+<dc:date>2013-03-25T00:00:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3701993278.html</dc:source>
+<dc:title><![CDATA[Get Paid To Blog]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T00:00:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3701757107.html">
+<title><![CDATA[&gt;&gt;&gt; Struggling With Online Income??? &lt;&lt;&lt; (national / international)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3701757107.html</link>
+<description><![CDATA[After years and years of trying to find an online income source that produces a dependable executive level income. I found it. Don't let the simplicity put you off, Not MLM! 
+http://online.gbatl.com]]></description>
+<dc:date>2013-03-24T20:56:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3701757107.html</dc:source>
+<dc:title><![CDATA[&gt;&gt;&gt; Struggling With Online Income??? &lt;&lt;&lt; (national / international)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:56:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3683477020.html">
+<title><![CDATA[Digital Marketing Expert Needed (Woodstock)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3683477020.html</link>
+<description><![CDATA[We are looking to hire a web designer/graphics expert with SEO and Social Media skills to help our marketing efforts. The ideal candidate will have additional skills including the following: 
+1. Email marketing (Drip Campaigns, sales funnels, automat [...]]]></description>
+<dc:date>2013-03-24T20:28:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3683477020.html</dc:source>
+<dc:title><![CDATA[Digital Marketing Expert Needed (Woodstock)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:28:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3671323721.html">
+<title><![CDATA[WORDPRESS WEBSITE NEEDED (METRO ATLANTA)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3671323721.html</link>
+<description><![CDATA[IF YOU DO NOT LIVE IN METRO ATLANTA, PLEASE DO NOT REPLY. 
+We need a directory style website using Wordpress CMS. We need an expert in Wordpress coding, design and processes. We have a "Membership" style website whereby our visitors can complete a me [...]]]></description>
+<dc:date>2013-03-24T20:28:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3671323721.html</dc:source>
+<dc:title><![CDATA[WORDPRESS WEBSITE NEEDED (METRO ATLANTA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:28:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3664726296.html">
+<title><![CDATA[Wordpress EXPERT Needed for Web Design  (Metro Atlanta ONLY)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3664726296.html</link>
+<description><![CDATA[PLEASE READ THIS ENTIRE PAGE BEFORE YOU REPLY. IF YOU DO NOT LIVE IN METRO ATLANTA, PLEASE DO NOT REPLY. 
+We are interested in redesigning our directory style website using Wordpress this time. We need an expert in Wordpress coding, design and proces [...]]]></description>
+<dc:date>2013-03-24T20:28:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3664726296.html</dc:source>
+<dc:title><![CDATA[Wordpress EXPERT Needed for Web Design  (Metro Atlanta ONLY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:28:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691981284.html">
+<title><![CDATA[Healthcare Boom!! (nationwide)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691981284.html</link>
+<description><![CDATA[In 2014 the Healthcare Reform act will take place meaning if you don't have health insurance you will be taxed for it and double taxed in 2015. In 2014 the Healthcare Reform act will take place meaning if you don't have health insurance you will be t [...]]]></description>
+<dc:date>2013-03-24T20:24:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691981284.html</dc:source>
+<dc:title><![CDATA[Healthcare Boom!! (nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:24:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3701666533.html">
+<title><![CDATA[Need iMac Specialist (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3701666533.html</link>
+<description><![CDATA[In need of an iMac Specialist to install an internal airport card and get me connected to a hotspot. I have an iMac g5 without isight cam 17" and I have the part already. I need someone familiar and an expert in installing the card I know it not diff [...]]]></description>
+<dc:date>2013-03-24T19:59:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3701666533.html</dc:source>
+<dc:title><![CDATA[Need iMac Specialist (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:59:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3701534234.html">
+<title><![CDATA[Need Wordpress Site Designed  (Atlanta Ga)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3701534234.html</link>
+<description><![CDATA[Need Wordpress site designed for different services template is already purchased and inquiries can send example work in reply i do graphics just need a web designer to put together my vision i would do it but don't have the time. ]]></description>
+<dc:date>2013-03-24T18:39:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3701534234.html</dc:source>
+<dc:title><![CDATA[Need Wordpress Site Designed  (Atlanta Ga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:39:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3701349486.html">
+<title><![CDATA[I Need a Web Site Designer!  Meal Delivery (Please be local to Atlanta!)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3701349486.html</link>
+<description><![CDATA[Hello Web Designers! 
+I would only like a local web designer - no overseas, or out of state! 
+What I'm looking for: fitness meal delivery website 
+Pages: few pages with contact form 
+Compensation: $250 
+How long would this take for you to complete? 
+ [...]]]></description>
+<dc:date>2013-03-24T16:54:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3701349486.html</dc:source>
+<dc:title><![CDATA[I Need a Web Site Designer!  Meal Delivery (Please be local to Atlanta!)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T16:54:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3637194275.html">
+<title><![CDATA[graphic designer needed (Atlanta area )]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3637194275.html</link>
+<description><![CDATA[Do you love Photoshop? Can you do just about anything with it? If you can, then we need you. What we need are people to create logos, banners and other graphic related stuff on a full time basis. 
+Pay and hours are up to you, were looking for full ti [...]]]></description>
+<dc:date>2013-03-24T15:49:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3637194275.html</dc:source>
+<dc:title><![CDATA[graphic designer needed (Atlanta area )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:49:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3701082093.html">
+<title><![CDATA[&gt;&gt; Can you Director -A- Commercial&lt;&lt; ??  Interns Needed !   (Gwinnett - Cobb- Fulton)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3701082093.html</link>
+<description><![CDATA[&gt;&gt;&gt;&gt; CAN YOU WRITE OR DIRECT A COMMERCIAL SCRIPT.....&lt;&lt;&lt;&lt; ? WE NEED 2 INTERNS... TO 
+TO .........ASSIST US IN OUR REAL ESTATE COMMERCIAL FOR A 30 SECOND SPOTS... .....GWINNETT, COBB, FULTON/ 
+VIDEO SHOOTINGS WILL TAKE PLACE ON [...]]]></description>
+<dc:date>2013-03-24T14:35:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3701082093.html</dc:source>
+<dc:title><![CDATA[&gt;&gt; Can you Director -A- Commercial&lt;&lt; ??  Interns Needed !   (Gwinnett - Cobb- Fulton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:35:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700758056.html">
+<title><![CDATA[WORK FROM HOME/CSR (ATLANTA,GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700758056.html</link>
+<description><![CDATA[Wanna work from the comforts of your home? Need a part time or full time position that gives you the flexibility you need? 
+Minimal positions available!! Don't hesitate!! If you can surf the web and copy,paste, and post this job is for you working wi [...]]]></description>
+<dc:date>2013-03-24T11:46:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700758056.html</dc:source>
+<dc:title><![CDATA[WORK FROM HOME/CSR (ATLANTA,GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:46:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3681781594.html">
+<title><![CDATA[Design an International Football Website (Charleston, sc)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3681781594.html</link>
+<description><![CDATA[Charleston Man-of-War is the first U.S. Independent international Football Team. Our first game is against the Beijing Guardians of China. We are the first Football Team supported by the U.S. Government via the State Department. We are building a new [...]]]></description>
+<dc:date>2013-03-24T10:31:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3681781594.html</dc:source>
+<dc:title><![CDATA[Design an International Football Website (Charleston, sc)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:31:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/sat/cpg/3695323044.html">
+<title><![CDATA[Earn Money Online Starting Today ]]></title>
+<link>http://atlanta.craigslist.org/sat/cpg/3695323044.html</link>
+<description><![CDATA[Visit the link: http://www.partnerwithpaul.com/go/32646 
+scroll down to the bottom. 
+enter your name. 
+enter your email address. 
+get $20 AUTOMATIC. 
+adidas jordan nike gucci LV raybans snapbacks tattoos hundreds aupreme diamond supply yeezy tru reli [...]]]></description>
+<dc:date>2013-03-24T10:08:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/sat/cpg/3695323044.html</dc:source>
+<dc:title><![CDATA[Earn Money Online Starting Today ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:08:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700552741.html">
+<title><![CDATA[NEW SOCIAL NETWORK WEBSITE- TESTERS NEEDED (ATLANTA- Remote from Home)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700552741.html</link>
+<description><![CDATA[We are looking for a maximum of 20 Intern/Beta testers from around the United States to participate with testing the functionality and design of our website. 
+Our company is a Social Networking website that allows people to Safely and Easily connect  [...]]]></description>
+<dc:date>2013-03-24T09:24:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700552741.html</dc:source>
+<dc:title><![CDATA[NEW SOCIAL NETWORK WEBSITE- TESTERS NEEDED (ATLANTA- Remote from Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:24:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700552149.html">
+<title><![CDATA[NEW SOCIAL NETWORK WEBSITE- TESTERS NEEDED (ATLANTA- Remote from Home)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700552149.html</link>
+<description><![CDATA[We are looking for a maximum of 20 Intern/Beta testers from around the United States to participate with testing the functionality and design of our website. 
+Our company is a Social Networking website that allows people to Safely and Easily connect  [...]]]></description>
+<dc:date>2013-03-24T09:24:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700552149.html</dc:source>
+<dc:title><![CDATA[NEW SOCIAL NETWORK WEBSITE- TESTERS NEEDED (ATLANTA- Remote from Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:24:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700499378.html">
+<title><![CDATA[Cash Paid Everyday. . .100% Inbound Calls! (All over)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700499378.html</link>
+<description><![CDATA[feel free to txt or call 404-514-5078]]></description>
+<dc:date>2013-03-24T08:27:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700499378.html</dc:source>
+<dc:title><![CDATA[Cash Paid Everyday. . .100% Inbound Calls! (All over)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T08:27:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700499046.html">
+<title><![CDATA[Account Reps (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700499046.html</link>
+<description><![CDATA[People friendly 
+Speak with conviction 
+Effective Listener 
+Willing to put the Customer First 
+Entry Level or Experienced 
+Customer Service 
+Collections 
+Positions open immediately 
+There may be a processing fee depending on Company you are assigned  [...]]]></description>
+<dc:date>2013-03-24T08:26:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700499046.html</dc:source>
+<dc:title><![CDATA[Account Reps (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T08:26:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700451125.html">
+<title><![CDATA[Business Website (Online)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700451125.html</link>
+<description><![CDATA[Hi everyone! 
+I own a small web and graphic design business that builds websites for small businesses and organizations. 
+Feel free to view my website here, www.484designs.com - I hope to hear from you all soon! ]]></description>
+<dc:date>2013-03-24T07:03:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700451125.html</dc:source>
+<dc:title><![CDATA[Business Website (Online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T07:03:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3700271471.html">
+<title><![CDATA[Design Simple Site Using Template (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3700271471.html</link>
+<description><![CDATA[Looking to have a site built off an JPEG image. 
+You'll just need to add disclaimer text (which I'll supply) at the bottom and an email submit form. 
+Similar to the following link (To Be Used As A Reference, DO NOT SUBMIT YOUR INFO). 
+I have the imag [...]]]></description>
+<dc:date>2013-03-24T00:47:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3700271471.html</dc:source>
+<dc:title><![CDATA[Design Simple Site Using Template (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T00:47:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3699928404.html">
+<title><![CDATA[I NEED A CREATIVE WEB DESIGNER! (nationwide)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3699928404.html</link>
+<description><![CDATA[WEB DESIGNER NEEDED FOR A SIMPLE EDIT FOR AN OPEN CART FASHION SITE.AND A FLASH FACEBOOK TEMPLATE I NEED THIS DONE ASAP.IF THE JOB IS GOOD ILL GIVE YOU ALL MY WORK.. I HAVE OTHER SITES AND ALWAYS NEED YOUR HELP. 
+i want it up and running next week. i [...]]]></description>
+<dc:date>2013-03-23T19:51:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3699928404.html</dc:source>
+<dc:title><![CDATA[I NEED A CREATIVE WEB DESIGNER! (nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:51:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3699876225.html">
+<title><![CDATA[Need Wordpress\Web Design PROFESSIONAL (Atlanta\surrounding areas)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3699876225.html</link>
+<description><![CDATA[Do you have experience with web design\wordpress? I am a former digital journalism student looking to start a new up and coming music\fashion based website for the city of Atlanta. This has been a long term dream of mine that I am finally looking to  [...]]]></description>
+<dc:date>2013-03-23T19:16:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3699876225.html</dc:source>
+<dc:title><![CDATA[Need Wordpress\Web Design PROFESSIONAL (Atlanta\surrounding areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:16:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3699563406.html">
+<title><![CDATA[I will pay $50 if you can put my business on bing.com (Roswell, Georgia)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3699563406.html</link>
+<description><![CDATA[If you can put my local business on the 1st page of local bing.com for my type of business and teach me how you did it, I will pay you $50. I am sure it must be easy but I just dont know to do it. I will pay you for your expertise]]></description>
+<dc:date>2013-03-23T16:17:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3699563406.html</dc:source>
+<dc:title><![CDATA[I will pay $50 if you can put my business on bing.com (Roswell, Georgia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:17:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3688158344.html">
+<title><![CDATA[$$$ Cash Paid Daily $$$$$$ (404  981-JUNK)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3688158344.html</link>
+<description><![CDATA[******** WE PAY THE MOST IN THE CITY FOR USED TIRES IN GOOD CONDITION *********************** 
+WE BUY FACTORY AND AFTERMARKET WHEELS 
+We BUY USED TIRES 18 inches and UP! Must be able to inflate tire!!! 
+*************PICK UP AVAILABLE ################ [...]]]></description>
+<dc:date>2013-03-23T15:08:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3688158344.html</dc:source>
+<dc:title><![CDATA[$$$ Cash Paid Daily $$$$$$ (404  981-JUNK)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:08:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3685375900.html">
+<title><![CDATA[Bird Dog]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3685375900.html</link>
+<description><![CDATA[Real estate investment company is hiring property finders 
+$500 BONUS for every property we buy 
+do you have any experience?]]></description>
+<dc:date>2013-03-23T14:51:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3685375900.html</dc:source>
+<dc:title><![CDATA[Bird Dog]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:51:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3669996497.html">
+<title><![CDATA[V A For Lead Generation]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3669996497.html</link>
+<description><![CDATA[V A For Lead Generation 
+Real Estate Investment company is hiring a V A 
+Please reply with experience/qualifications on computer, lead generation & in real estate. 
+$500 BONUS for closed leads ]]></description>
+<dc:date>2013-03-23T13:06:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3669996497.html</dc:source>
+<dc:title><![CDATA[V A For Lead Generation]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:06:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/eat/cpg/3699124923.html">
+<title><![CDATA[sample (sample)]]></title>
+<link>http://atlanta.craigslist.org/eat/cpg/3699124923.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-23T12:50:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/eat/cpg/3699124923.html</dc:source>
+<dc:title><![CDATA[sample (sample)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:50:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3698962353.html">
+<title><![CDATA[WHy can't I find a decent ad placer (anywhere)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3698962353.html</link>
+<description><![CDATA[I am looking for someone to do my CL ads for me. 
+Pleased don't contact me if: 
+you dont know what ghosting is 
+you don't know the ins and outs of posting on CL 
+I need 10 ads 3 times per week and will $1 per ad. 
+I need someone who already works fro [...]]]></description>
+<dc:date>2013-03-23T11:33:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3698962353.html</dc:source>
+<dc:title><![CDATA[WHy can't I find a decent ad placer (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:33:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3698957272.html">
+<title><![CDATA[Seeking Social Media Expert (Marietta GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3698957272.html</link>
+<description><![CDATA[We are a busy salon seeking an individual to come into the salon Tues-Sat to post deals on-line. You must have a laptop computer and be familiar with social media including craigslist. Please email your resume. We will get back to you within 48 hours [...]]]></description>
+<dc:date>2013-03-23T11:31:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3698957272.html</dc:source>
+<dc:title><![CDATA[Seeking Social Media Expert (Marietta GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:31:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3698905348.html">
+<title><![CDATA[Viral Blogger as Second Income (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3698905348.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-23T11:05:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3698905348.html</dc:source>
+<dc:title><![CDATA[Viral Blogger as Second Income (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:05:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3698897861.html">
+<title><![CDATA[Need 8 People Looking for 2nd Income! (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3698897861.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-23T11:01:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3698897861.html</dc:source>
+<dc:title><![CDATA[Need 8 People Looking for 2nd Income! (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:01:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693424142.html">
+<title><![CDATA[ INTERNET MARKETING (Acworth)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693424142.html</link>
+<description><![CDATA[Short term with an excellent opportunity to make good money. four zero four three one nine zero four six two. Amalgamated Prerogatives and Company.]]></description>
+<dc:date>2013-03-23T09:36:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693424142.html</dc:source>
+<dc:title><![CDATA[ INTERNET MARKETING (Acworth)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:36:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3694695411.html">
+<title><![CDATA[INTERNET MARKETING (Marietta)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3694695411.html</link>
+<description><![CDATA[You demonstrate that you are excellent at what you do and you make a lot of money. It is that simple. No one else has the very much needed by many service. Boris at 404-319-0462]]></description>
+<dc:date>2013-03-23T08:15:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3694695411.html</dc:source>
+<dc:title><![CDATA[INTERNET MARKETING (Marietta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:15:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3690437154.html">
+<title><![CDATA[I T Market Rep.ground floor (atl)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3690437154.html</link>
+<description><![CDATA[in house I T guy 
+small service biz. 
+Join our team , share profit 
+min. 8 years or collage intern. 
+Call t J 
+770-896-9852]]></description>
+<dc:date>2013-03-23T06:17:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3690437154.html</dc:source>
+<dc:title><![CDATA[I T Market Rep.ground floor (atl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T06:17:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3697990391.html">
+<title><![CDATA[Fix WP Plugin Error Tonight (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3697990391.html</link>
+<description><![CDATA[Got nothing to do tonight? Well make some money by fixing a plugin error I have. 
+Check out the following URL, you'll see a video floating over a template with a dog. 
+http://globaltechmarketing.org/video-frame-pro-demo/ 
+See the black space around i [...]]]></description>
+<dc:date>2013-03-22T19:07:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3697990391.html</dc:source>
+<dc:title><![CDATA[Fix WP Plugin Error Tonight (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T19:07:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3660162447.html">
+<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3660162447.html</link>
+<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
+-Data Network Cabling Installation 
+-Telephone Wiring & Cabling Installation 
+-Cabling Design & Implemen [...]]]></description>
+<dc:date>2013-03-22T15:13:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3660162447.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:13:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693314108.html">
+<title><![CDATA[,.,.,.,.,.VIRTUAL DJ PRO FULL SOFTWARE  installation/././././ @80 !!!! (call me 404-789-7674)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693314108.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-22T14:38:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693314108.html</dc:source>
+<dc:title><![CDATA[,.,.,.,.,.VIRTUAL DJ PRO FULL SOFTWARE  installation/././././ @80 !!!! (call me 404-789-7674)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T14:38:03-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3697230319.html">
+<title><![CDATA[Earn $160-$400 A Day Part Time Today!]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3697230319.html</link>
+<description><![CDATA[Sales Experience Not Necessary! If you can follow simple instructions, this 86 year old company with a stellar service combined with an automated lead generation is the answer to your prayers! Watch this webinar replay for details: www.mca.successful [...]]]></description>
+<dc:date>2013-03-22T13:00:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3697230319.html</dc:source>
+<dc:title><![CDATA[Earn $160-$400 A Day Part Time Today!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:00:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3697047442.html">
+<title><![CDATA[Medical Eligibility Specialist (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3697047442.html</link>
+<description><![CDATA[Tasks include: 
+Complete Long-term Disability Forms 
+System updates to participant status codes 
+Run reports and calculations 
+Provide reports/spreadsheets to the Disability vendors 
+Assist with phone support for participant calls and vendor calls 
+F [...]]]></description>
+<dc:date>2013-03-22T11:41:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3697047442.html</dc:source>
+<dc:title><![CDATA[Medical Eligibility Specialist (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:41:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3696976415.html">
+<title><![CDATA[Website Redesign (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3696976415.html</link>
+<description><![CDATA[I am looking for a web designer to fully redesign our company website. (www.camaster.com). 
+I am looking for a web designer to take a look and review our current website and also review our requirements for the new website. Then, I would like for you [...]]]></description>
+<dc:date>2013-03-22T11:09:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3696976415.html</dc:source>
+<dc:title><![CDATA[Website Redesign (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:09:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3696902775.html">
+<title><![CDATA[Search 200,000 job postings]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3696902775.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-22T10:33:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3696902775.html</dc:source>
+<dc:title><![CDATA[Search 200,000 job postings]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:33:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3696842289.html">
+<title><![CDATA[Website Developer (All Georgia)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3696842289.html</link>
+<description><![CDATA[Looking for experienced Website developer. MUST have experience in the real estate industry. RE associations, Brokers and Agent web sites. 
+You would be an independent contractor working from home and paid per job and pay your own taxes. Steady incom [...]]]></description>
+<dc:date>2013-03-22T10:01:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3696842289.html</dc:source>
+<dc:title><![CDATA[Website Developer (All Georgia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:01:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3696748839.html">
+<title><![CDATA[SOFTWARE SPECIALIST (JAVASCRIPT)  (ATLANTA )]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3696748839.html</link>
+<description><![CDATA[Do you like to fix software problems? Do you like finding the bugs in the code? Do you have 2 - 5 years experience in Javascript development or support? If yes to these questions then I have a temporary job for you in a dynamic technology environment [...]]]></description>
+<dc:date>2013-03-22T08:56:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3696748839.html</dc:source>
+<dc:title><![CDATA[SOFTWARE SPECIALIST (JAVASCRIPT)  (ATLANTA )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:56:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3688400615.html">
+<title><![CDATA[Website Design - Please read carefully (Midtown)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3688400615.html</link>
+<description><![CDATA[Looking for a strong website designer with good graphics skills to build me a website. Here is what I am looking for: 
+Are you on time and professional? If you tell me you will deliver by Monday, do you communicate properly in the event that you cann [...]]]></description>
+<dc:date>2013-03-21T20:31:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3688400615.html</dc:source>
+<dc:title><![CDATA[Website Design - Please read carefully (Midtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T20:31:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3696022938.html">
+<title><![CDATA[Bookkeeper Office Assistant Counter Help (Cartersville)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3696022938.html</link>
+<description><![CDATA[We are a cell phone repair shop that is looking for a female that knows quickbooks accounting, filing, and can get more hours if they wanted to fill in counter & display work. The key to this position is Quickbooks Accounting experience a must to hel [...]]]></description>
+<dc:date>2013-03-21T19:02:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3696022938.html</dc:source>
+<dc:title><![CDATA[Bookkeeper Office Assistant Counter Help (Cartersville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T19:02:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3695965933.html">
+<title><![CDATA[internship to help complete website (east atl)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3695965933.html</link>
+<description><![CDATA[looking for someone that's energetic, thinks outside the box and has a passion for fashion and or electronics. We are an emerging ecommerce company that's looking forward to blowing up in the Fashion and electronic industry. WE NEED YOU TO COMPLETE T [...]]]></description>
+<dc:date>2013-03-21T18:30:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3695965933.html</dc:source>
+<dc:title><![CDATA[internship to help complete website (east atl)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T18:30:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3695762239.html">
+<title><![CDATA[Need an App  (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3695762239.html</link>
+<description><![CDATA[Hello! I'm in post production on a pilot for a very edgy and original tv show. I would like to create an app game for the central character. This app may have a similar appeal as Angry Birds! And we will be pitching the tv pilot to various networks,  [...]]]></description>
+<dc:date>2013-03-21T16:43:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3695762239.html</dc:source>
+<dc:title><![CDATA[Need an App  (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T16:43:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3676376924.html">
+<title><![CDATA[Front End Developer (Marietta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3676376924.html</link>
+<description><![CDATA[Growing Website Development and Marketing Company seeks a talented Front End Developer (HTML & CSS) looking to join a creative team. Applicant must be LOCAL, responsive and responsible. Position is contract to perm. If you are interested, please send [...]]]></description>
+<dc:date>2013-03-21T14:38:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3676376924.html</dc:source>
+<dc:title><![CDATA[Front End Developer (Marietta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:38:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3695222492.html">
+<title><![CDATA[Successful Entrepreneurs seeks Web Designer for Long-Term Partnership  (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3695222492.html</link>
+<description><![CDATA[Entrepreneur with successful track record seeks qualified Web Designer who resides in the Atlanta area for long-term partnership. We are willing to award you a "equity" position in our a Limited Liability Corporation along with the option of joining  [...]]]></description>
+<dc:date>2013-03-21T12:41:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3695222492.html</dc:source>
+<dc:title><![CDATA[Successful Entrepreneurs seeks Web Designer for Long-Term Partnership  (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:41:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3695157544.html">
+<title><![CDATA[PHP Web Developer Needed (Duluth, GA)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3695157544.html</link>
+<description><![CDATA[I am freelance PHP web developer and have taken on too much work. All my jobs are typically custom PHP applications and sometimes involve some design work (HTML / CSS from PSD). I would like to hire someone on a contractor basis to help me get caught [...]]]></description>
+<dc:date>2013-03-21T12:13:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3695157544.html</dc:source>
+<dc:title><![CDATA[PHP Web Developer Needed (Duluth, GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:13:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3695003016.html">
+<title><![CDATA[Tech support specialist (Hwy 9 and Hammond Drive)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3695003016.html</link>
+<description><![CDATA[Full time Level 1 and 2 Helpdesk / IT Support Tech. 
+Looking for an accomplished tech support person to support the corporate office and 50 retail locations in Georgia. 
+Must have a minimum of two years of experience working desk side support. 
+Windo [...]]]></description>
+<dc:date>2013-03-21T11:04:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3695003016.html</dc:source>
+<dc:title><![CDATA[Tech support specialist (Hwy 9 and Hammond Drive)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:04:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3694843523.html">
+<title><![CDATA[Webdesigner/Graphic Designer Needed! (Griffin GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3694843523.html</link>
+<description><![CDATA[I run a online business webdesign/graphic designs. I have made it come out pretty good. Im looking for a good minded person to work with. I love this business and looking to expand this huge. I have released this a few times and its just over whelmin [...]]]></description>
+<dc:date>2013-03-21T09:39:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3694843523.html</dc:source>
+<dc:title><![CDATA[Webdesigner/Graphic Designer Needed! (Griffin GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:39:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3648491650.html">
+<title><![CDATA[Need help with C# Programming Language need tutoring prefer in person ( Stone Mountain)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3648491650.html</link>
+<description><![CDATA[I am a technical student in need of some help in C3 programing language and syntax, I have tried and tried.. have spent many nights on youtube.. Just looking for someone to help point me in the right direction i dont want to fail this class. My teach [...]]]></description>
+<dc:date>2013-03-21T07:06:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3648491650.html</dc:source>
+<dc:title><![CDATA[Need help with C# Programming Language need tutoring prefer in person ( Stone Mountain)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T07:06:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3694657011.html">
+<title><![CDATA[Looking to Hire 8 Internet Sales Professional (All Area)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3694657011.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-21T06:13:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3694657011.html</dc:source>
+<dc:title><![CDATA[Looking to Hire 8 Internet Sales Professional (All Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T06:13:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3694656898.html">
+<title><![CDATA[Need UI Designer for Mobile Interface]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3694656898.html</link>
+<description><![CDATA[I am looking for an experienced UI designer to handle designing a few mockups for a mobile site which we will be launching soon. 
+I need someone who is familiar with Apple's HID and would prefer them to be as local as possible, but that isn't 100% ne [...]]]></description>
+<dc:date>2013-03-21T06:13:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3694656898.html</dc:source>
+<dc:title><![CDATA[Need UI Designer for Mobile Interface]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T06:13:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/wat/cpg/3693983247.html">
+<title><![CDATA[Freelance IT Field Tech (Lithia Springs)]]></title>
+<link>http://atlanta.craigslist.org/wat/cpg/3693983247.html</link>
+<description><![CDATA[Looking for Freelance IT Field Tech with experience in the following: 
+-Basic network installation 
+-Workstation setup 
+-Technical Support Services 
+-Basic hardware installations (i.e. Hard Drives, Memory, Rack-mounting, etc) 
+All on a service call b [...]]]></description>
+<dc:date>2013-03-20T19:09:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/wat/cpg/3693983247.html</dc:source>
+<dc:title><![CDATA[Freelance IT Field Tech (Lithia Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T19:09:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3693750458.html">
+<title><![CDATA[Technical Project Manager (Software Development) (Local Atlanta Area)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3693750458.html</link>
+<description><![CDATA[VenU (www.ven-u.com) is looking for a talented project manager with strong communication skills to manage software development projects. You will work closely with project managers, clients and developers to ensure technical specifications are commun [...]]]></description>
+<dc:date>2013-03-20T17:09:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3693750458.html</dc:source>
+<dc:title><![CDATA[Technical Project Manager (Software Development) (Local Atlanta Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:09:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3693742102.html">
+<title><![CDATA[Long-term Contract: PHP Pgrm - 10yr Old Company - Remote (Eastern U.S.)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3693742102.html</link>
+<description><![CDATA[VenU (www.ven-u.com) is a fast growing eLearning solution provider to major corporations. We are looking for a talented and reliable
+programmer with extensive experience in PHP/MySQL, CSS, HTML, SVN, and CMS systems. Related experience developing
+eCo [...]]]></description>
+<dc:date>2013-03-20T17:05:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3693742102.html</dc:source>
+<dc:title><![CDATA[Long-term Contract: PHP Pgrm - 10yr Old Company - Remote (Eastern U.S.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:05:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693658397.html">
+<title><![CDATA[Seeking Versed Titanium Developer (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693658397.html</link>
+<description><![CDATA[Hey, 
+I'm a local mobile developer who has some work for a solid Titanium developer. Initially I'll meet with you just as an intro but after that, you can complete the work from wherever you want. I have mobile work that I need to dish off. 
+Respond  [...]]]></description>
+<dc:date>2013-03-20T16:27:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693658397.html</dc:source>
+<dc:title><![CDATA[Seeking Versed Titanium Developer (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:27:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693635578.html">
+<title><![CDATA[GRAPHIC DESIGNER NEEDED (ATLANTA AND ALL OVER METRO)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693635578.html</link>
+<description><![CDATA[Small graphics company seeking graphic designer who needs extra work and is willing to work on an as needed basis. 
+pay $25.00 EMAIL TO ceceharris76@yahoo.com]]></description>
+<dc:date>2013-03-20T16:17:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693635578.html</dc:source>
+<dc:title><![CDATA[GRAPHIC DESIGNER NEEDED (ATLANTA AND ALL OVER METRO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:17:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/sat/cpg/3693463668.html">
+<title><![CDATA[Bilingual Helpdesk agent needed for Full Time contract position (Peachtree City, Ga)]]></title>
+<link>http://atlanta.craigslist.org/sat/cpg/3693463668.html</link>
+<description><![CDATA[We are a 3rd party IT service provider looking for a bilingual helpdesk agent for one of our clients located in Peachtree City, GA. This must be a person that speaks both English and Spanish. 
+The process requires several steps and the final decision [...]]]></description>
+<dc:date>2013-03-20T14:59:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/sat/cpg/3693463668.html</dc:source>
+<dc:title><![CDATA[Bilingual Helpdesk agent needed for Full Time contract position (Peachtree City, Ga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:59:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693140427.html">
+<title><![CDATA[developer to join start-up ]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693140427.html</link>
+<description><![CDATA[We are attempting to create a one-stop shop for gamers. We want to build the ultimate social networking app that will connect the gaming community. Ever thought about being in a Social Media Start-Up in the world of Gaming? 
+If so. . .. . .. . .. . . [...]]]></description>
+<dc:date>2013-03-20T12:43:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693140427.html</dc:source>
+<dc:title><![CDATA[developer to join start-up ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:43:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693102471.html">
+<title><![CDATA[Creative Studio Seeks Accounting Help!  (Midtown, Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693102471.html</link>
+<description><![CDATA[Small, creative studio just west of Georgia Tech is seeking a permanent/part-time Quickbooks savant to help us with A/R, A/P, payroll, as well as the dozens of other tasks that wind up in the front office. Must be willing to help us plan and forecast [...]]]></description>
+<dc:date>2013-03-20T12:27:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693102471.html</dc:source>
+<dc:title><![CDATA[Creative Studio Seeks Accounting Help!  (Midtown, Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:27:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3693097018.html">
+<title><![CDATA[Creative Studios Seek Accounting Help!  (Midtown )]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3693097018.html</link>
+<description><![CDATA[Small, creative studio just west of Georgia Tech is seeking a permanent/part-time Quickbooks savant to help us with A/R, A/P, payroll, as well as the dozens of other tasks that wind up in the front office. Must be willing to help us plan and forecast [...]]]></description>
+<dc:date>2013-03-20T12:25:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3693097018.html</dc:source>
+<dc:title><![CDATA[Creative Studios Seek Accounting Help!  (Midtown )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:25:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3692407136.html">
+<title><![CDATA[Looking for a &gt;&gt;LOCAL&lt;&lt; web/UI designer and/or programmer (Atlanta/Decatur)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3692407136.html</link>
+<description><![CDATA[Looking for local human beings that are interested in building a long term relationship 
+as I get 1-2 projects a month and would like to take on more. 
+Your gender, race and sexual preference is not an issue. Being local is and I do have a slight age [...]]]></description>
+<dc:date>2013-03-20T01:21:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3692407136.html</dc:source>
+<dc:title><![CDATA[Looking for a &gt;&gt;LOCAL&lt;&lt; web/UI designer and/or programmer (Atlanta/Decatur)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T01:21:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3692264109.html">
+<title><![CDATA[Web Designer needed  (Any Where)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3692264109.html</link>
+<description><![CDATA[Apparel Company In need of web development. Site will include home, about, store, blog..etc. Submitter must have an online portfolio for viewing. send quotes aswell.]]></description>
+<dc:date>2013-03-19T23:05:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3692264109.html</dc:source>
+<dc:title><![CDATA[Web Designer needed  (Any Where)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T23:05:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3692252745.html">
+<title><![CDATA[Supplement Your Income (from home)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3692252745.html</link>
+<description><![CDATA[Discover multiple ways to make a reasonable supplemental income from home in your spare time. 
+Check it out! www.getsomegreen.weebly.com]]></description>
+<dc:date>2013-03-19T22:56:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3692252745.html</dc:source>
+<dc:title><![CDATA[Supplement Your Income (from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:56:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3692129677.html">
+<title><![CDATA[Computer Tech Needed (Atlanta, GA (downtown))]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3692129677.html</link>
+<description><![CDATA[Computer Technician Needed 
+Atlanta, GA (Downtown) 
+March 22nd 
+We need someone to diagnose problems with two PCs on location of a touring performing arts competition (downtown Atlanta). Both run Windows 7 and are custom built servers. Both have been [...]]]></description>
+<dc:date>2013-03-19T21:31:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3692129677.html</dc:source>
+<dc:title><![CDATA[Computer Tech Needed (Atlanta, GA (downtown))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:31:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/eat/cpg/3691768558.html">
+<title><![CDATA[Want a 6 figure income?? $$$$ ((Lithonia))]]></title>
+<link>http://atlanta.craigslist.org/eat/cpg/3691768558.html</link>
+<description><![CDATA[Looking for business minded people who are eager to earn a SIX ***FIGURE ****INCOME. All you need is a minimum credit score of 720 and never have to put money down! And You Must Want To Be Your Own Boss and Must be comfortable training others Must Ha [...]]]></description>
+<dc:date>2013-03-19T18:11:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/eat/cpg/3691768558.html</dc:source>
+<dc:title><![CDATA[Want a 6 figure income?? $$$$ ((Lithonia))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T18:11:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691742548.html">
+<title><![CDATA[LOOKING FOR MONEYMAKERS]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691742548.html</link>
+<description><![CDATA[REAL MONEY 
+NO B.S. 
+STRONG MINDED PEOPLE WHO KNOW HOW RUFF LIKE CAN GET 
+IF YOU WANT TO GET YOUR GRIND ON THEN E-MAIL ME 
+I CAN GET YOU CASH 
+REMEMBER WHERE THERE IS A WILL ...THERE IS A WAY. 
+billofsteel89@gmail.com. 
+CASH FLOW]]></description>
+<dc:date>2013-03-19T17:58:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691742548.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR MONEYMAKERS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:58:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691717866.html">
+<title><![CDATA[Health Insurance boom (nationwide)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691717866.html</link>
+<description><![CDATA[In 2014 the Healthcare Reform act will take place meaning if you don't have health insurance you will be taxed for it and double taxed in 2015. Write now 46 million Americans don't have insurance, wouldn't you love to be part of a new company that ca [...]]]></description>
+<dc:date>2013-03-19T17:46:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691717866.html</dc:source>
+<dc:title><![CDATA[Health Insurance boom (nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:46:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691599925.html">
+<title><![CDATA[Artiist needs a web page  (atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691599925.html</link>
+<description><![CDATA[Female artist needs a web page done. Im looking to add a store to purchase my products and etc.. Not able to pay much but looking to pay.. Send links to ones you've created and your price..]]></description>
+<dc:date>2013-03-19T16:51:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691599925.html</dc:source>
+<dc:title><![CDATA[Artiist needs a web page  (atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:51:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3691489479.html">
+<title><![CDATA[Technical Project Manager (Software Development) (Local Atlanta Area)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3691489479.html</link>
+<description><![CDATA[VenU (www.ven-u.com) is looking for an experienced Project Manager with strong technical and communication skills to manage software development projects. You will work closely with clients and developers to ensure technical specifications are commun [...]]]></description>
+<dc:date>2013-03-19T16:01:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3691489479.html</dc:source>
+<dc:title><![CDATA[Technical Project Manager (Software Development) (Local Atlanta Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:01:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3691299056.html">
+<title><![CDATA[Printfits Media Looking for Web and Video Interns (Dunwoody)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3691299056.html</link>
+<description><![CDATA[The Printfits Media Internship Program provides students with a hands-on experience. We show them how a start-up is run, the daily tasks that go into managing a web and video production business, and have them help out with brainstorming, necessary o [...]]]></description>
+<dc:date>2013-03-19T14:39:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3691299056.html</dc:source>
+<dc:title><![CDATA[Printfits Media Looking for Web and Video Interns (Dunwoody)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:39:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691150991.html">
+<title><![CDATA[iPad Word Game Multiplayer (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691150991.html</link>
+<description><![CDATA[***** Please download the free app prior to applying - want to make sure you understand the functionality of the app**** 
+Need a developer to upgrade our existing word game app "All Words Up" to have multiplayer features. The app is similar to Bejewe [...]]]></description>
+<dc:date>2013-03-19T13:38:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691150991.html</dc:source>
+<dc:title><![CDATA[iPad Word Game Multiplayer (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:38:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3691119372.html">
+<title><![CDATA[Yellow Mustang Lead List]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3691119372.html</link>
+<description><![CDATA[I need to get names and phone numbers of owners of Yellow Ford Mustangs. If you have the capabilities of getting this information form the web or social media, I need to speak with you. We are in need of several other lead lists that you might be abl [...]]]></description>
+<dc:date>2013-03-19T13:24:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3691119372.html</dc:source>
+<dc:title><![CDATA[Yellow Mustang Lead List]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:24:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3690853760.html">
+<title><![CDATA[Landing Page Design (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3690853760.html</link>
+<description><![CDATA[We are looking for someone to create a landing page we are going to use for ppc. The design needs to be clean and focused on getting customers to call a phone number. Please send some examples as well as turn around time for something like this. Look [...]]]></description>
+<dc:date>2013-03-19T11:35:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3690853760.html</dc:source>
+<dc:title><![CDATA[Landing Page Design (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:35:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3690808437.html">
+<title><![CDATA[Magento Ecommerce Store Help (Johns Creek)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3690808437.html</link>
+<description><![CDATA[I need to hire a local (Atlanta metro) Magento consultant. I have two Magento website that I need completed. I also work with an automation service to upload products to the website. This is currently not working due to code issue. If you think you c [...]]]></description>
+<dc:date>2013-03-19T11:15:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3690808437.html</dc:source>
+<dc:title><![CDATA[Magento Ecommerce Store Help (Johns Creek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:15:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3690690722.html">
+<title><![CDATA[ This Opportunity = 100% Commissions! (Georgia)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3690690722.html</link>
+<description><![CDATA[Success Waiting For You - 
+You Can Genuinely Receive $100's 
+Every DAY. 
+Follow Our Simple, Proven System 
+To Your Success. 
+YOU GET PAID DAILY! 
+http://emailprocessingbusiness.webs.com/]]></description>
+<dc:date>2013-03-19T10:18:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3690690722.html</dc:source>
+<dc:title><![CDATA[ This Opportunity = 100% Commissions! (Georgia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:18:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3690512086.html">
+<title><![CDATA[Professional IT recruiter (Alpharetta)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3690512086.html</link>
+<description><![CDATA[Professional IT Recruiter (Alpharetta) 
+Due to our incredible growth, Universal Business Solutions LLC is currently looking for a talented IT Recruiter for our Alpharetta office. 
+We are looking for someone who has ideally a minimum of 2 years of IT  [...]]]></description>
+<dc:date>2013-03-19T08:07:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3690512086.html</dc:source>
+<dc:title><![CDATA[Professional IT recruiter (Alpharetta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T08:07:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3690347309.html">
+<title><![CDATA[Only 10 Lucky Ladies !!! (Atlanta,Ga)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3690347309.html</link>
+<description><![CDATA[Adult industry company in Atlanta,Ga is looking for those special ladies 
+that wants to get in to the Adult entertainment business, or just, is in need of some 
+extra cash. Full-time and Part-time work Available. 
+We only have 10 spots available,so i [...]]]></description>
+<dc:date>2013-03-19T02:19:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3690347309.html</dc:source>
+<dc:title><![CDATA[Only 10 Lucky Ladies !!! (Atlanta,Ga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T02:19:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3689944433.html">
+<title><![CDATA[MVC 3/4 css/jquery]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3689944433.html</link>
+<description><![CDATA[Need some (remote) UI work done. No C# required. This is UI only on an MVC 4 site. 
+Please do not respond unless you have the following: 
+Asp.net MVC 3 or 4 (html and style stuff, not code behind) 
+html 
+css 
+jquery 
+team foundation server (you MUST  [...]]]></description>
+<dc:date>2013-03-18T20:51:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3689944433.html</dc:source>
+<dc:title><![CDATA[MVC 3/4 css/jquery]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T20:51:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689929958.html">
+<title><![CDATA[Glam geeks wanted]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689929958.html</link>
+<description><![CDATA[Work from home 
+Be your own boss 
+Make 45% commission 
+Earn bonuses trips and more 
+Get paid to party! 
+Come check out the opportunity now. 
+This month only special DAISY kit only $89. 
+would love to have you spring into spring with me!! 
+www.cloud9p [...]]]></description>
+<dc:date>2013-03-18T20:43:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689929958.html</dc:source>
+<dc:title><![CDATA[Glam geeks wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T20:43:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689460841.html">
+<title><![CDATA[Selling Jewelry Online (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689460841.html</link>
+<description><![CDATA[You Have Nothing To Lose, Only Gain In This Business! 
+Online Jewelry Store 
+* A Social Networking Online Job 
+* Free Website 
+* No inventory 
+* Create your own unique name for your jewelry store online 
+* Make 25% Commission From Each Sale 
+* Make 1 [...]]]></description>
+<dc:date>2013-03-18T16:47:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689460841.html</dc:source>
+<dc:title><![CDATA[Selling Jewelry Online (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T16:47:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3678254238.html">
+<title><![CDATA[Dispatcher/CSR Wanted (South Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3678254238.html</link>
+<description><![CDATA[The Nation's Largest Restaurant Marketing and Delivery Service "GoWaiter.com" is currently seeking a 
+Dispatcher/CSR in the South Atlanta area. 
+As a dispatcher/CSR, you will be responsible for supervising and dispatching delivery drivers, 
+communica [...]]]></description>
+<dc:date>2013-03-18T16:45:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3678254238.html</dc:source>
+<dc:title><![CDATA[Dispatcher/CSR Wanted (South Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T16:45:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3649701716.html">
+<title><![CDATA[Joomla expert programmer needed PT (your place &amp; sometimes mine in Vinings)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3649701716.html</link>
+<description><![CDATA[NEED LOCAL PERSON - NO FOREIGN HELP FOR THIS GIG, IN GA ONLY 
+Need a joomla expert to help w/ my webistes. I currently do this myself, but need help a few hours weekly. You can do much from your place, but I'd also like some help in person to help me [...]]]></description>
+<dc:date>2013-03-18T15:41:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3649701716.html</dc:source>
+<dc:title><![CDATA[Joomla expert programmer needed PT (your place &amp; sometimes mine in Vinings)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:41:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3682807257.html">
+<title><![CDATA[Level 1 Helpdesk Technicians who will support field technicians (Alpharetta GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3682807257.html</link>
+<description><![CDATA[We are looking for Level 1 Helpdesk Technicians who will support field technicians on a new AT&T dealer store deployment. 
+We will have technicians in the field deploying new displays in Dealer stores for the year and the will be calling into the hel [...]]]></description>
+<dc:date>2013-03-18T15:12:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3682807257.html</dc:source>
+<dc:title><![CDATA[Level 1 Helpdesk Technicians who will support field technicians (Alpharetta GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:12:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689185837.html">
+<title><![CDATA[Get Paid to Have Fun !!! (Atlanta,Ga)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689185837.html</link>
+<description><![CDATA[Adult industry company in Atlanta,Ga looking for those special ladies 
+that has wanted to get in to the business or, just needs some 
+extra cash. Full-time and Part-time work Available. 
+What we need from you: 
+Contact info, 3 pictures 
+We are lookin [...]]]></description>
+<dc:date>2013-03-18T14:52:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689185837.html</dc:source>
+<dc:title><![CDATA[Get Paid to Have Fun !!! (Atlanta,Ga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:52:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689174136.html">
+<title><![CDATA[Work From Home Commission Opportunity (Atlanta, GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689174136.html</link>
+<description><![CDATA[We're a software development firm with offices in Georgia and Virginia. We work locally and nationally. 
+We're offering a commission to anyone that refers customers. 
+We offer the following services: 
+Web/Software Development 
+Project Management 
+Web [...]]]></description>
+<dc:date>2013-03-18T14:47:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689174136.html</dc:source>
+<dc:title><![CDATA[Work From Home Commission Opportunity (Atlanta, GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:47:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689147586.html">
+<title><![CDATA[Web Site - 5 page  (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689147586.html</link>
+<description><![CDATA[Need to get a 5-6 page text site setup for a non-profit. The site will be upgraded in about 2-3 months. 
+This is a informational only site with text information. ]]></description>
+<dc:date>2013-03-18T14:37:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689147586.html</dc:source>
+<dc:title><![CDATA[Web Site - 5 page  (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:37:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689089930.html">
+<title><![CDATA[Customer Service positions available Immediately  (ATLANTA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689089930.html</link>
+<description><![CDATA[F/T P/T Sales/Customer Service Positions 
+You can do this. No hype, legitimate work at home setting your own schedule. 
+We are rated as one of the top programs online. 
+Earn 20 an hour or more completing simple transactions. 
+Immediate openings with  [...]]]></description>
+<dc:date>2013-03-18T14:14:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689089930.html</dc:source>
+<dc:title><![CDATA[Customer Service positions available Immediately  (ATLANTA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:14:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3689084912.html">
+<title><![CDATA[Web Designer / Developer Needed (Duluth)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3689084912.html</link>
+<description><![CDATA[Marketing company needs person familiar with Basic Web Design and development principles to do database updates, minor CSS/HTML edits, but more importantly minor PHP edits. 
+Familiarity with version control (SVN) is required and a general familiarity [...]]]></description>
+<dc:date>2013-03-18T14:12:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3689084912.html</dc:source>
+<dc:title><![CDATA[Web Designer / Developer Needed (Duluth)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T14:12:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3689014530.html">
+<title><![CDATA[I need someone who can make a Wix website for me (Gwinnett)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3689014530.html</link>
+<description><![CDATA[I have a website, but it's not what I want. 
+Wix has these free templates, and I'm good with using one of those, but I have very limited time, and zero experience using their system. 
+It seems easy enough, but I'd rather hire someone who has some exp [...]]]></description>
+<dc:date>2013-03-18T13:45:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3689014530.html</dc:source>
+<dc:title><![CDATA[I need someone who can make a Wix website for me (Gwinnett)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T13:45:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3688985296.html">
+<title><![CDATA[Hiring Taekwondo instructor (Lawrenceville GA)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3688985296.html</link>
+<description><![CDATA[Heo's Martial Arts is Hiring.Taekwondo Assistan Instructor 5 to 6 days a week. For more information please email 
+at: heosworldclass@hotmail.com .Experience required ]]></description>
+<dc:date>2013-03-18T13:33:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3688985296.html</dc:source>
+<dc:title><![CDATA[Hiring Taekwondo instructor (Lawrenceville GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T13:33:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3688785121.html">
+<title><![CDATA[Virtual Assistance (Atlanta GA)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3688785121.html</link>
+<description><![CDATA[Looking for a part time virtual assistance with good customer service experience. Opportunity to make good money working less than 5 hours a week from your own home. 
+If you are interested call 678-905-0490 immediately. 
+Limited time offer...]]></description>
+<dc:date>2013-03-18T12:16:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3688785121.html</dc:source>
+<dc:title><![CDATA[Virtual Assistance (Atlanta GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:16:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3688758622.html">
+<title><![CDATA[Freelance web developer (CUMMING, GA)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3688758622.html</link>
+<description><![CDATA[I need a responsible freelance web developer/coder to work on several websites I have in development, as well as eblasts and other web projects I have coming up. 
+Must have an eye for layout and design and must be able to meet in person to go over pr [...]]]></description>
+<dc:date>2013-03-18T12:06:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3688758622.html</dc:source>
+<dc:title><![CDATA[Freelance web developer (CUMMING, GA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:06:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3688679252.html">
+<title><![CDATA[Web site Designer Needed (Brookhaven)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3688679252.html</link>
+<description><![CDATA[Web site Designer- Management Needed 
+We are a defunk entertainment business looking to re-enter the market beginning with the updating our website. The tasks we need done are very simplistic. We do have a budget and look forward to a long term busin [...]]]></description>
+<dc:date>2013-03-18T11:33:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3688679252.html</dc:source>
+<dc:title><![CDATA[Web site Designer Needed (Brookhaven)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:33:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3688647001.html">
+<title><![CDATA[Web site Designer Needed (Atlanta)]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3688647001.html</link>
+<description><![CDATA[Web site Designer- Management Needed 
+We are a defunk entertainment business looking to re-enter the market beginning with the updating our website. The tasks we need done are very simplistic. We do have a budget and look forward to a long term busin [...]]]></description>
+<dc:date>2013-03-18T11:20:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3688647001.html</dc:source>
+<dc:title><![CDATA[Web site Designer Needed (Atlanta)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:20:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/atl/cpg/3672384837.html">
+<title><![CDATA[Info. Technology Sales Rep. ]]></title>
+<link>http://atlanta.craigslist.org/atl/cpg/3672384837.html</link>
+<description><![CDATA[Essential Responsibilities: 
+Develop and maintain sales and marketing plan for assigned territory. 
+Develop and maintain opportunity pipeline that drives sales activities, ensuring that revenue goals are exceeded. 
+Disciplined and accurate reporting  [...]]]></description>
+<dc:date>2013-03-18T10:44:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/atl/cpg/3672384837.html</dc:source>
+<dc:title><![CDATA[Info. Technology Sales Rep. ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:44:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://atlanta.craigslist.org/nat/cpg/3642207427.html">
+<title><![CDATA[Part-time/hourly Network/Systems engineer (Northside)]]></title>
+<link>http://atlanta.craigslist.org/nat/cpg/3642207427.html</link>
+<description><![CDATA[Windows Server and desktop OS, Mac experience a must. 
+SonicWALL, Managed Services (Remote Monitoring and Management) experience preferred. 
+Client-facing position where you will support multiple networks both on site and remotely, all clients on Nor [...]]]></description>
+<dc:date>2013-03-18T10:01:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://atlanta.craigslist.org/nat/cpg/3642207427.html</dc:source>
+<dc:title><![CDATA[Part-time/hourly Network/Systems engineer (Northside)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:01:04-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

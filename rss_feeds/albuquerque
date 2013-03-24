@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://albuquerque.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in albuquerque</title>
+<link>http://albuquerque.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://albuquerque.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in albuquerque</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:34:02-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3678278616.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3691009042.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3687847363.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3681737482.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3684386413.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3684161320.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3682121606.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3671498561.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3670836617.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3670016621.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3669595629.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3668752671.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3664996002.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3652190669.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3650974754.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3641655171.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3640184073.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3632789879.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3626284515.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3600883412.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3678278616.html">
+<title><![CDATA[NEED TALENTED PROGRAMMING PARTNER FOR NEW CLASSIFIED SERVICE  (ABQ- SANTA FE)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3678278616.html</link>
+<description><![CDATA[A talented Programming Partner is needed for a new Service being developed for Classified for the 
+Newspaper Industry. 
+Most papers are now operating at a Loss, our Model can increase revenue in a signfificant way. 
+If you might like to look at a Spe [...]]]></description>
+<dc:date>2013-03-21T14:15:07-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3678278616.html</dc:source>
+<dc:title><![CDATA[NEED TALENTED PROGRAMMING PARTNER FOR NEW CLASSIFIED SERVICE  (ABQ- SANTA FE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:15:07-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3691009042.html">
+<title><![CDATA[Landing Page Needed for client (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3691009042.html</link>
+<description><![CDATA[Landing page design needed for client's ad campaign that connects digital advertising campaign and client's website. Needs to integrate reporting from landing page. Please email to send examples of work and request more info.]]></description>
+<dc:date>2013-03-19T10:39:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3691009042.html</dc:source>
+<dc:title><![CDATA[Landing Page Needed for client (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:39:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3687847363.html">
+<title><![CDATA[Trabajo a Tiempo Completo o Parcial (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3687847363.html</link>
+<description><![CDATA[Trabaja Usted ? 
+Esta conforme con lo que le pagan ? 
+Si la respuesta es NO, 
+tenemos la solucion a su problema. 
+Si la respuesta es SI, 
+buena suerte continue lo que esta haciendo Año tras Año. 
+Potencial de ganancia entre $300 a $3000 de acuerdo a  [...]]]></description>
+<dc:date>2013-03-17T19:53:14-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3687847363.html</dc:source>
+<dc:title><![CDATA[Trabajo a Tiempo Completo o Parcial (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T19:53:14-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3681737482.html">
+<title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3681737482.html</link>
+<description><![CDATA[Sell Engagement Marketing to Local Businesses in your Area 
+http://www.smsmasterminds.com]]></description>
+<dc:date>2013-03-16T20:22:53-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3681737482.html</dc:source>
+<dc:title><![CDATA[Boost your OWN Economy, Selling Engagement Marketing (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T20:22:53-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3684386413.html">
+<title><![CDATA[Re: Marketing opportunity in mobil app industry]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3684386413.html</link>
+<description><![CDATA[This is a scam. If they ask for any money, it's always a scam. Don't bite.]]></description>
+<dc:date>2013-03-16T02:15:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3684386413.html</dc:source>
+<dc:title><![CDATA[Re: Marketing opportunity in mobil app industry]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T02:15:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3684161320.html">
+<title><![CDATA[Need Software Programmer Using Excel in MS Basic (Rio Rancho)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3684161320.html</link>
+<description><![CDATA[Seeking an experienced Software Programmer who can update an existing 2010 Excel Spreadsheet Template that uses Microsoft Basic language to produce multiple reports via the same script to produce MS word reports from the Excel Data. Negotiable $ fee  [...]]]></description>
+<dc:date>2013-03-15T21:34:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3684161320.html</dc:source>
+<dc:title><![CDATA[Need Software Programmer Using Excel in MS Basic (Rio Rancho)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T21:34:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3682121606.html">
+<title><![CDATA[Part Time Zend PHP website support (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3682121606.html</link>
+<description><![CDATA[Zend php developer for part time assistance - preferably in Albuquerque. Please reply by email.]]></description>
+<dc:date>2013-03-14T22:15:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3682121606.html</dc:source>
+<dc:title><![CDATA[Part Time Zend PHP website support (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T22:15:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3671498561.html">
+<title><![CDATA[record/ edit racquetball tournament (let u know later)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3671498561.html</link>
+<description><![CDATA[I need someone to record matches in a racquetball tournament/ 
+YOU MUST HAVE VERY GOOD EQUIPMENT / and computer editing skills 
+msg me bk with your name and number and a sample of a project you have completed .]]></description>
+<dc:date>2013-03-10T08:26:23-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3671498561.html</dc:source>
+<dc:title><![CDATA[record/ edit racquetball tournament (let u know later)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T08:26:23-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3670836617.html">
+<title><![CDATA[word press assistance (abq)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3670836617.html</link>
+<description><![CDATA[I need someone to help me set up a word press site I have the site domain all just need someone to help get it up and working correctly. ]]></description>
+<dc:date>2013-03-09T18:50:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3670836617.html</dc:source>
+<dc:title><![CDATA[word press assistance (abq)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T18:50:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3670016621.html">
+<title><![CDATA[Word Press DESIGNER  (COLORADO)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3670016621.html</link>
+<description><![CDATA[Word Press DESIGNER 
+Start-up biz with a Word Press E-Commerce Site (BLANCO template) looking for a reputable website designer to work in the capacity of an independent contractor and to give our newly build WP site a "facelift". 
+This Facelift needs [...]]]></description>
+<dc:date>2013-03-09T12:11:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3670016621.html</dc:source>
+<dc:title><![CDATA[Word Press DESIGNER  (COLORADO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T12:11:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3669595629.html">
+<title><![CDATA[Vehicle Electrical Wiring  (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3669595629.html</link>
+<description><![CDATA[Working on a 1978 Ford Bronco, and having a problem with the electrical system. 
+Problem / Issue: 
+When I turn the key to start the vehicle, it will not engage the starter. (Remember it's spring loaded) 
+When I let the key relax, the starter will eng [...]]]></description>
+<dc:date>2013-03-09T09:22:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3669595629.html</dc:source>
+<dc:title><![CDATA[Vehicle Electrical Wiring  (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T09:22:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3668752671.html">
+<title><![CDATA[Editing?  (belen/los lunas)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3668752671.html</link>
+<description><![CDATA[Hey there I wanted to start up a new youtube channel and I wanted some help editing my videos. I have a small knowledge of editing but i dont have the required tools and would struggle with it a bit. You would have to be willing to do this for free.  [...]]]></description>
+<dc:date>2013-03-08T19:38:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3668752671.html</dc:source>
+<dc:title><![CDATA[Editing?  (belen/los lunas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T19:38:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3664996002.html">
+<title><![CDATA['Rails' Tutor]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3664996002.html</link>
+<description><![CDATA[Looking for someone to get me through the learning curve as quickly as possible. ]]></description>
+<dc:date>2013-03-07T09:02:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3664996002.html</dc:source>
+<dc:title><![CDATA['Rails' Tutor]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T09:02:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3652190669.html">
+<title><![CDATA[CSS and General Tech Skills with Solid Graphics and Marketing Sense (anywhere)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3652190669.html</link>
+<description><![CDATA[Hello, 
+Im looking for help on an ongoing basis with general marketing tasks. 
+Tasks include: 
+-Site updates 
+-Emailing and tracking 
+-Affiliate program mgmnt 
+-Data gathering via scraping (technology does not need to be built, just targeted) 
+This i [...]]]></description>
+<dc:date>2013-03-01T12:59:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3652190669.html</dc:source>
+<dc:title><![CDATA[CSS and General Tech Skills with Solid Graphics and Marketing Sense (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T12:59:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3650974754.html">
+<title><![CDATA[occupy Underground needs YOU! (Downtown)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3650974754.html</link>
+<description><![CDATA[We here at oU are looking for individuals with web design experience to join our team. We are a passionate group of friends who have come together to help showcase underground scenes from around the globe. Art, literature, music, and anything that br [...]]]></description>
+<dc:date>2013-02-28T22:42:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3650974754.html</dc:source>
+<dc:title><![CDATA[occupy Underground needs YOU! (Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T22:42:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3641655171.html">
+<title><![CDATA[Google Spread Sheet Formula  (Edgewood New Mexico)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3641655171.html</link>
+<description><![CDATA[Seeking someone familiar with Google Spreadsheet to perform the following task 
+* Financial snap shots of different departments 
+* Spread sheet formulas to auto calculate balance totals. 
+* Will require charts and graphs to be created 
+Additional inf [...]]]></description>
+<dc:date>2013-02-24T23:33:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3641655171.html</dc:source>
+<dc:title><![CDATA[Google Spread Sheet Formula  (Edgewood New Mexico)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T23:33:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3640184073.html">
+<title><![CDATA[Data input for Ebay store (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3640184073.html</link>
+<description><![CDATA[I am looking for a high integrity, temporary, part-time data-entry person to help me enter inventory into my Ebay store. Wage depends on experience. Please send resume with three references. I will be reviewing and interviewing for an early March sta [...]]]></description>
+<dc:date>2013-02-24T09:49:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3640184073.html</dc:source>
+<dc:title><![CDATA[Data input for Ebay store (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T09:49:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3632789879.html">
+<title><![CDATA[One day only, need social media page (Taylor ranch)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3632789879.html</link>
+<description><![CDATA[I have been treated unethically by a mortgage company. I want a list of my communication with them made with dates and what their not being honest gained them financially and LOST me. I want to post on social media. I don't know how to do this. Can p [...]]]></description>
+<dc:date>2013-02-21T01:19:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3632789879.html</dc:source>
+<dc:title><![CDATA[One day only, need social media page (Taylor ranch)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T01:19:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3626284515.html">
+<title><![CDATA[Need college student or other to help me with WordPress site (Albuquerque)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3626284515.html</link>
+<description><![CDATA[I have a WordPress site and need help learning how to keep it up and other things, but operating on a tight budget. Really need someone who is savvy in WordPress, interested in teaching me and willing to help. 
+Thanks!]]></description>
+<dc:date>2013-02-18T12:01:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3626284515.html</dc:source>
+<dc:title><![CDATA[Need college student or other to help me with WordPress site (Albuquerque)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T12:01:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3600883412.html">
+<title><![CDATA[Seeking WordPress Ninja  (Albuquerque Area )]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3600883412.html</link>
+<description><![CDATA[I have a hosted WordPress site for a small business that I need help with.. It is already established at GoDaddy but I don't have time to work on it.. I know what I want, just no time for the learning curve.. this could turn into an ongoing project f [...]]]></description>
+<dc:date>2013-02-07T12:25:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3600883412.html</dc:source>
+<dc:title><![CDATA[Seeking WordPress Ninja  (Albuquerque Area )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T12:25:46-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

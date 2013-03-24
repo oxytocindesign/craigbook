@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://denver.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in denver</title>
+<link>http://denver.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://denver.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in denver</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:34:56-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3689732295.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3689743777.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3701862334.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3701744913.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3701448601.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3701431002.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3701277831.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3700791487.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3676915580.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3700282020.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3699964841.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3698505316.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3698366512.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3698112648.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3698052767.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697829033.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697718044.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697646085.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697318458.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697138975.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697104662.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697064559.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3697012484.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3696512687.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3696190020.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695835498.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695513369.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3648514831.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3680798210.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695459870.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695388855.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695386424.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695229466.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3695017939.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3694985190.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3694577782.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3636523803.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3693963384.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3693945488.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3693424804.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3693053855.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3692365706.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3692201051.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3691312692.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3690869681.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3690519650.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3689890143.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3678985836.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3689291473.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3689132449.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3688112148.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3687662978.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3687138451.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3686664747.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3686663766.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3686659127.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3685298969.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3684883882.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3683489577.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3682829980.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3681540661.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3681361688.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3680709815.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3677651165.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3676251838.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3675550484.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3674134522.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3672081083.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3670585546.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3670553922.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3670080579.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3669176632.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3666481804.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3665922498.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3665199595.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3600708946.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3601224312.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3664367275.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3663817390.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3663469041.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3663382454.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3615617818.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3660814611.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3659098240.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3658926592.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3658529319.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3658167409.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3657882182.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3657824002.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3657359509.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3657143213.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3657113133.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3656761527.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3655905813.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3654706138.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3654036526.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3653578078.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3653269318.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3653231447.html" />
+  <rdf:li rdf:resource="http://denver.craigslist.org/cpg/3653137031.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://denver.craigslist.org/cpg/3689732295.html">
+<title><![CDATA[eBay Help]]></title>
+<link>http://denver.craigslist.org/cpg/3689732295.html</link>
+<description><![CDATA[eBay Help 
+Looking for help listing on eBay/ Thanks ]]></description>
+<dc:date>2013-03-24T23:05:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3689732295.html</dc:source>
+<dc:title><![CDATA[eBay Help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:05:18-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3689743777.html">
+<title><![CDATA[eBay Help]]></title>
+<link>http://denver.craigslist.org/cpg/3689743777.html</link>
+<description><![CDATA[eBay Help 
+Looking for help listing on eBay/ Thanks ]]></description>
+<dc:date>2013-03-24T23:05:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3689743777.html</dc:source>
+<dc:title><![CDATA[eBay Help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:05:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3701862334.html">
+<title><![CDATA[Volunteers Need-Potential 4 Paying Gigs (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3701862334.html</link>
+<description><![CDATA[We are a non-profit animal rescue in need of volunteers. We need individuals who are creative and can help us with some projects we are doing. You can see our company bio on our website at www.denverdf.org 
+We need: 
+Writers 
+Artists 
+Fundraisers 
+Bu [...]]]></description>
+<dc:date>2013-03-24T20:09:12-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3701862334.html</dc:source>
+<dc:title><![CDATA[Volunteers Need-Potential 4 Paying Gigs (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:09:12-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3701744913.html">
+<title><![CDATA[Honest Up-Beat Personel Wanted! (CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3701744913.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T18:48:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3701744913.html</dc:source>
+<dc:title><![CDATA[Honest Up-Beat Personel Wanted! (CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:48:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3701448601.html">
+<title><![CDATA[PDF ebook TO Kindle Format]]></title>
+<link>http://denver.craigslist.org/cpg/3701448601.html</link>
+<description><![CDATA[Hi there! 
+I am looking for someone to format my ebook to a Kindle format. We have a very well designed PDF product right now, and need to transcribe this (design wise) as well as we can.... 
+Please have experience doing this - I am looking to transf [...]]]></description>
+<dc:date>2013-03-24T15:49:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3701448601.html</dc:source>
+<dc:title><![CDATA[PDF ebook TO Kindle Format]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:49:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3701431002.html">
+<title><![CDATA[Build my Profile on MFC (Arvada)]]></title>
+<link>http://denver.craigslist.org/cpg/3701431002.html</link>
+<description><![CDATA[Hi, I recently became a webcam model and need someone that knows what they're doing to help me out with my myfreecams profile. I need assistance with putting video links that are password protected along with pictures that are also password protected [...]]]></description>
+<dc:date>2013-03-24T15:39:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3701431002.html</dc:source>
+<dc:title><![CDATA[Build my Profile on MFC (Arvada)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:39:52-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3701277831.html">
+<title><![CDATA[Fair-Minded Staff Needed For Great Openings- (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3701277831.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T14:16:28-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3701277831.html</dc:source>
+<dc:title><![CDATA[Fair-Minded Staff Needed For Great Openings- (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:16:28-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3700791487.html">
+<title><![CDATA[Transfer  Backup Tape Data to USB Thumb Drive (Highlands Ranch)]]></title>
+<link>http://denver.craigslist.org/cpg/3700791487.html</link>
+<description><![CDATA[I have 78 old Colorado Memory Systems brand 120MB DOS and Windows data backup tapes that I want transferred to a USB thumb drive. I have the external tape drive unit but not the card or cables that go inside the old PC computer. The unit is called a  [...]]]></description>
+<dc:date>2013-03-24T10:05:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3700791487.html</dc:source>
+<dc:title><![CDATA[Transfer  Backup Tape Data to USB Thumb Drive (Highlands Ranch)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:05:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3676915580.html">
+<title><![CDATA[Office Assistant | Intern (Parker, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3676915580.html</link>
+<description><![CDATA[Who we are: 
+We are a colorado based creative team. We build websites, design colateral, provide SEO, etc. 
+Our Services: 
+web site design - we do that. 
+web site development - we do that. 
+content strategy and seo - we do that too. 
+online marketing [...]]]></description>
+<dc:date>2013-03-24T09:21:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3676915580.html</dc:source>
+<dc:title><![CDATA[Office Assistant | Intern (Parker, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:21:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3700282020.html">
+<title><![CDATA[Web designer]]></title>
+<link>http://denver.craigslist.org/cpg/3700282020.html</link>
+<description><![CDATA[Seeking web designer for pretty simple web site. Just a few pages, with a PayPal link. To promote a media project. Negotiable but throw me your best quote]]></description>
+<dc:date>2013-03-23T23:00:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3700282020.html</dc:source>
+<dc:title><![CDATA[Web designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T23:00:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3699964841.html">
+<title><![CDATA[Lifestyle Magazine Hiring Creative  (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3699964841.html</link>
+<description><![CDATA[Looking for people that are in the know to come work with us... for more details please email us.... 
+www.ageclass.com]]></description>
+<dc:date>2013-03-23T18:16:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3699964841.html</dc:source>
+<dc:title><![CDATA[Lifestyle Magazine Hiring Creative  (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:16:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3698505316.html">
+<title><![CDATA[database application needed (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3698505316.html</link>
+<description><![CDATA[i need customer management database and application to control 
+adding editing customer, points(reward program)management, reseting points function, 
+email me estimate, not the hourly total. 
+thank you]]></description>
+<dc:date>2013-03-23T00:33:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3698505316.html</dc:source>
+<dc:title><![CDATA[database application needed (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T00:33:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3698366512.html">
+<title><![CDATA[Consultant help w/iPhoto (Broomfield)]]></title>
+<link>http://denver.craigslist.org/cpg/3698366512.html</link>
+<description><![CDATA[MAC iphoto and imovie training/help needed for current and upcoming projects. Could lead to more. 
+Can you communicate well enough to explain answers and how-to's for my questions? 
+Do you know the ins and outs of iPhoto? Photo management: help me to [...]]]></description>
+<dc:date>2013-03-22T21:37:59-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3698366512.html</dc:source>
+<dc:title><![CDATA[Consultant help w/iPhoto (Broomfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:37:59-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3698112648.html">
+<title><![CDATA[google calendar (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3698112648.html</link>
+<description><![CDATA[my google calendar is all effed up i am trying to run several calendars at once and it is not working well i need someone proficient with google to come in adn set it up for me and link to apple stuff ]]></description>
+<dc:date>2013-03-22T18:22:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3698112648.html</dc:source>
+<dc:title><![CDATA[google calendar (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T18:22:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3698052767.html">
+<title><![CDATA[Need a part-time analyst (Near Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3698052767.html</link>
+<description><![CDATA[We're an internet company that needs a part-time (which could lead to full-time position) analyst who can help crunch some of our data. Ideally, we'd like a math or physics student or recent graduate who wants to make some extra cash in fun, flexible [...]]]></description>
+<dc:date>2013-03-22T17:44:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3698052767.html</dc:source>
+<dc:title><![CDATA[Need a part-time analyst (Near Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:44:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697829033.html">
+<title><![CDATA[***IT Techs Needed for 3-Week Win7 Deployment/Migration Project***  (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3697829033.html</link>
+<description><![CDATA[Seeking IT Technicians for a WIN 7 Deployment/Migration Project. Techs must have 3-5years of experience deploying, servicing, and supporting PCs, Laptops, and other computing components. Experience with Lotus Notes is a plus. 
+Start Date: ASAP - Targ [...]]]></description>
+<dc:date>2013-03-22T15:38:21-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697829033.html</dc:source>
+<dc:title><![CDATA[***IT Techs Needed for 3-Week Win7 Deployment/Migration Project***  (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:38:21-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697718044.html">
+<title><![CDATA[Organic food buying cooperative looking for Ruby on Rails developer (Park Hill)]]></title>
+<link>http://denver.craigslist.org/cpg/3697718044.html</link>
+<description><![CDATA[We're starting a new cooperative market in Park Hill (near 35th and Colorado Blvd) and one of our first goals is to setup a food buying club to enable folks to order fresh organic locally-grown produce, bulk pantry items, eggs & dairy. 
+We are fortun [...]]]></description>
+<dc:date>2013-03-22T14:42:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697718044.html</dc:source>
+<dc:title><![CDATA[Organic food buying cooperative looking for Ruby on Rails developer (Park Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T14:42:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697646085.html">
+<title><![CDATA[Need help setting up feedburner for my podcast (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3697646085.html</link>
+<description><![CDATA[I have a podcast with seven episodes on my website (thesaturatedlife.com), but I'm not sure how to get accurate download and subscription information. So I am looking for someone who knows how to work with feedburner (though I am open to other option [...]]]></description>
+<dc:date>2013-03-22T14:07:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697646085.html</dc:source>
+<dc:title><![CDATA[Need help setting up feedburner for my podcast (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T14:07:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697318458.html">
+<title><![CDATA[Magento Expert (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3697318458.html</link>
+<description><![CDATA[We are looking for a Magento expert to assist us on a project with the following: 
+Installing, Customizing, and Developing Extensions 
+Configuration (Must know Magento inside and out) 
+PSD to Magento Theme 
+We are looking for someone to work with us  [...]]]></description>
+<dc:date>2013-03-22T11:37:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697318458.html</dc:source>
+<dc:title><![CDATA[Magento Expert (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:37:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697138975.html">
+<title><![CDATA[Marketing Expert Needed (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3697138975.html</link>
+<description><![CDATA[If you have experience in marketing and advertising we are looking for qualified sales reps for our online firm. 
+Please reply to this ad with your info and we will get back to you in a timely manner. 
+Thank you. ]]></description>
+<dc:date>2013-03-22T10:21:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697138975.html</dc:source>
+<dc:title><![CDATA[Marketing Expert Needed (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:21:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697104662.html">
+<title><![CDATA[Tutor: SQL Server 2012 (Denver Area)]]></title>
+<link>http://denver.craigslist.org/cpg/3697104662.html</link>
+<description><![CDATA[Do you like teaching? Are you versed in T-SQL? 
+We can meet for two hours, about once per week. I will bring some practice questions for the MCSA/MSCE. 
+The big one for me now is comparing four SQL statements and determining which query will produce  [...]]]></description>
+<dc:date>2013-03-22T10:06:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697104662.html</dc:source>
+<dc:title><![CDATA[Tutor: SQL Server 2012 (Denver Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:06:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697064559.html">
+<title><![CDATA[PLC programmer needed]]></title>
+<link>http://denver.craigslist.org/cpg/3697064559.html</link>
+<description><![CDATA[For some minor program changes on Unitronics PLC]]></description>
+<dc:date>2013-03-22T09:49:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697064559.html</dc:source>
+<dc:title><![CDATA[PLC programmer needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:49:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3697012484.html">
+<title><![CDATA[Graphic Designer (Centennial)]]></title>
+<link>http://denver.craigslist.org/cpg/3697012484.html</link>
+<description><![CDATA[Small financial company looking for a talented and creative designer who can help us design print and web materials. Looking for someone who has experience designing professional financial marketing materials. If you have this experience and past wor [...]]]></description>
+<dc:date>2013-03-22T09:26:12-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3697012484.html</dc:source>
+<dc:title><![CDATA[Graphic Designer (Centennial)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:26:12-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3696512687.html">
+<title><![CDATA[Looking for someone to implement Shopping Cart on website (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3696512687.html</link>
+<description><![CDATA[Hi, We are a startup live music production company and we are looking to put a shopping cart on our site via our Paypal Manager. Please let us know if you are interested and some examples of your work. We are a small growing company so please keep th [...]]]></description>
+<dc:date>2013-03-21T23:27:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3696512687.html</dc:source>
+<dc:title><![CDATA[Looking for someone to implement Shopping Cart on website (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T23:27:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3696190020.html">
+<title><![CDATA[I'm looking for someone to give me lessons/social media savvy (LAKEWOOD)]]></title>
+<link>http://denver.craigslist.org/cpg/3696190020.html</link>
+<description><![CDATA[I am seeking someone in The Lakewood area only to give me some social media lessons in my office. I have a tight budget so it would have to be a reasonable rate as I also have a non profit. Looking for a couple of hours to start with. I need someone  [...]]]></description>
+<dc:date>2013-03-21T18:45:06-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3696190020.html</dc:source>
+<dc:title><![CDATA[I'm looking for someone to give me lessons/social media savvy (LAKEWOOD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T18:45:06-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695835498.html">
+<title><![CDATA[Need a website (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3695835498.html</link>
+<description><![CDATA[I run a small business out of a home office that has recently been growing. I need to start branding and getting my info out there. I need a logo, website, business cards, the works. I have all of these now but the are extremely crude and not consist [...]]]></description>
+<dc:date>2013-03-21T15:20:28-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695835498.html</dc:source>
+<dc:title><![CDATA[Need a website (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T15:20:28-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695513369.html">
+<title><![CDATA[PDF to Word Converter for Mac (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3695513369.html</link>
+<description><![CDATA[Does anyone out there know where I can find a "FREE Converter" on line that is reliable? 
+Your help is greatly appreciated...]]></description>
+<dc:date>2013-03-21T12:48:16-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695513369.html</dc:source>
+<dc:title><![CDATA[PDF to Word Converter for Mac (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:48:16-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3648514831.html">
+<title><![CDATA[=== Freelance Web Designer Needed (LOCAL only) === (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3648514831.html</link>
+<description><![CDATA[We are Infinity Marketing Group and we are looking for a Website Designer Freelancer to sell and project manage all of the website design requests we get. You DON'T need to do any coding! We have a TON of referrals and leads of people and businesses  [...]]]></description>
+<dc:date>2013-03-21T12:46:25-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3648514831.html</dc:source>
+<dc:title><![CDATA[=== Freelance Web Designer Needed (LOCAL only) === (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:46:25-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3680798210.html">
+<title><![CDATA[=== LOCAL Freelance SEO/Social Media expert needed === (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3680798210.html</link>
+<description><![CDATA[We're Infinity Marketing Group and we're looking for an SEO and/or Social Media Freelancer to sell and project manage all of the SEO/Social Media requests we get in. You do NOT need to do any of the actual work. We outsource the work. We just need so [...]]]></description>
+<dc:date>2013-03-21T12:46:14-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3680798210.html</dc:source>
+<dc:title><![CDATA[=== LOCAL Freelance SEO/Social Media expert needed === (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:46:14-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695459870.html">
+<title><![CDATA[Developer .NET/ASP Visual Studio (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3695459870.html</link>
+<description><![CDATA[Job Title: Associate to Senior .Net/ASP Web Programmer 
+Job Location: Local Denver Area ONLY - we are doing Agile development on a reasonably large project and we meet frequently face-to-face. 
+Job Description: 
+Looking for self starter to work on a  [...]]]></description>
+<dc:date>2013-03-21T12:24:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695459870.html</dc:source>
+<dc:title><![CDATA[Developer .NET/ASP Visual Studio (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:24:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695388855.html">
+<title><![CDATA[Fix IE and mobile display of our wordpress theme (denver, co)]]></title>
+<link>http://denver.craigslist.org/cpg/3695388855.html</link>
+<description><![CDATA[We are using "Whitelight" theme by WooThemes on our site WorldCannabisWeek.com. 
+Right now, the site looks like crap on IE and mobile browsers, even though Whitelight is supposed to be a responsive, mobile-ready theme. 
+We need someone who can clean  [...]]]></description>
+<dc:date>2013-03-21T11:53:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695388855.html</dc:source>
+<dc:title><![CDATA[Fix IE and mobile display of our wordpress theme (denver, co)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:53:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695386424.html">
+<title><![CDATA[iOS App - Help Needed with In App Purchases (Boulder)]]></title>
+<link>http://denver.craigslist.org/cpg/3695386424.html</link>
+<description><![CDATA[Hello, 
+I'm looking for help with my iOS PhoneGap project. I just can't get In App Purchases to work. 
+Willing to pay hourly rate. Email me and I will send back my phone number. 
+Help needed ASAP!]]></description>
+<dc:date>2013-03-21T11:52:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695386424.html</dc:source>
+<dc:title><![CDATA[iOS App - Help Needed with In App Purchases (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T11:52:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695229466.html">
+<title><![CDATA[Sales Support/Receptionist Position (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3695229466.html</link>
+<description><![CDATA[Sales Support/Receptionist Position 
+Stable growing Denver based home improvement and Service Company looking for a motivated individual to join our team. The preferred candidate would be an excellent communicator, self-motivated, outgoing, professio [...]]]></description>
+<dc:date>2013-03-21T10:44:20-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695229466.html</dc:source>
+<dc:title><![CDATA[Sales Support/Receptionist Position (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:44:20-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3695017939.html">
+<title><![CDATA[Data Center - Network Person (Denver-Longmont)]]></title>
+<link>http://denver.craigslist.org/cpg/3695017939.html</link>
+<description><![CDATA[I am looking for someone that is familiar with Ubuntu, using it as the basis for multi-site and multi-socket use web servers with set-up for Samba server and a LAMP stack. This person should have experience with virtual box, hardening a box, and good [...]]]></description>
+<dc:date>2013-03-21T09:11:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3695017939.html</dc:source>
+<dc:title><![CDATA[Data Center - Network Person (Denver-Longmont)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:11:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3694985190.html">
+<title><![CDATA[Email Designer (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3694985190.html</link>
+<description><![CDATA[Looking for someone to design HTML emails for an email campaign. 
+Ongoing work! 
+Send resume with links to samples of your work to 
+bernice@mainstreetleasing.net ]]></description>
+<dc:date>2013-03-21T08:55:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3694985190.html</dc:source>
+<dc:title><![CDATA[Email Designer (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T08:55:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3694577782.html">
+<title><![CDATA[Need tutor FAST to help me learn Rent Manager software (Central Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3694577782.html</link>
+<description><![CDATA[Hi, 
+I'm launching a small property management company and have decided to use Rent Manager as my property management software. Need help getting up to speed fast. I've been using Yardi, so understand the basics, just not the specifics of Rent Manage [...]]]></description>
+<dc:date>2013-03-21T01:07:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3694577782.html</dc:source>
+<dc:title><![CDATA[Need tutor FAST to help me learn Rent Manager software (Central Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T01:07:35-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3636523803.html">
+<title><![CDATA[Smartphone Technician (South Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3636523803.html</link>
+<description><![CDATA[SMARTPHONE TECHNICIAN (South Denver) 
+JOB: SMARTPHONE TECHNICIAN 
+TITLE Smartphone Technician Specialist 
+LOCATION South Denver, Colorado 
+COMPENSATION $11.25/hour; Reviews every 6 months 
+JOB DETAILS Here's your chance to join the dynamic, fast pace [...]]]></description>
+<dc:date>2013-03-20T23:34:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3636523803.html</dc:source>
+<dc:title><![CDATA[Smartphone Technician (South Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T23:34:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3693963384.html">
+<title><![CDATA[Unity3d developer (Longmont/Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3693963384.html</link>
+<description><![CDATA[I am looking for someone that has experience doing development in Unity3D, flash experience, and can code in AS2 and AS3. Not all of these are necessary but they are ideal, additional experience with LAMP Stack applications is a plus.]]></description>
+<dc:date>2013-03-20T16:58:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3693963384.html</dc:source>
+<dc:title><![CDATA[Unity3d developer (Longmont/Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:58:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3693945488.html">
+<title><![CDATA[Need web designer/developer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3693945488.html</link>
+<description><![CDATA[Hi 
+I need a LOCAL web designer/developer to finish out a website that appears to be about 70/80% finished. I need someone that knows MySQL, php, and also has a good eye for design. Need to meet so we can sign a Non Disclosure Agreement and then I ca [...]]]></description>
+<dc:date>2013-03-20T16:48:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3693945488.html</dc:source>
+<dc:title><![CDATA[Need web designer/developer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:48:35-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3693424804.html">
+<title><![CDATA[Tradeshow: Temp IT / Marketing Help (Denver Convention Center)]]></title>
+<link>http://denver.craigslist.org/cpg/3693424804.html</link>
+<description><![CDATA[iAppSys Inc is looking for Tradeshow help to assist in passing out t-shirts and sharing the value of working with iAppSys to support our clients IT needs. 
+Candidates must have college level and/or equivalent technical degree. Must be outgoing, energ [...]]]></description>
+<dc:date>2013-03-20T12:42:45-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3693424804.html</dc:source>
+<dc:title><![CDATA[Tradeshow: Temp IT / Marketing Help (Denver Convention Center)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:42:45-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3693053855.html">
+<title><![CDATA[CSS, Wordpress, PHP Developer (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3693053855.html</link>
+<description><![CDATA[Hello, 
+We are a professional company with many clients that's been in the technology and marketing arena since the beginning of the Internet. We are built on integrity and honesty in the relationships with our customers and team members. We do what  [...]]]></description>
+<dc:date>2013-03-20T10:07:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3693053855.html</dc:source>
+<dc:title><![CDATA[CSS, Wordpress, PHP Developer (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:07:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3692365706.html">
+<title><![CDATA[Re: Re: Handyman Website Wanted (Denver) (Funny Farm)]]></title>
+<link>http://denver.craigslist.org/cpg/3692365706.html</link>
+<description><![CDATA[Yes, some people are just stupid, thinking anyone will work their butt off for a lousy $100. 
+http://denver.craigslist.org/cpg/3691696594.html 
+Chances of getting struck by lightning are better than the chances of finding decent work under Computer G [...]]]></description>
+<dc:date>2013-03-19T22:35:17-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3692365706.html</dc:source>
+<dc:title><![CDATA[Re: Re: Handyman Website Wanted (Denver) (Funny Farm)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:35:17-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3692201051.html">
+<title><![CDATA[Desktop/Server Support Specialist (Denver Metro)]]></title>
+<link>http://denver.craigslist.org/cpg/3692201051.html</link>
+<description><![CDATA[30 hours/week hourly desktop and server support work for small IT outsource firm. Office from home and visit client sites to assist with hardware, software, network setup. Assist clients as needed. Must be proficient in MSExchange, AD, Windows Server [...]]]></description>
+<dc:date>2013-03-19T20:18:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3692201051.html</dc:source>
+<dc:title><![CDATA[Desktop/Server Support Specialist (Denver Metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:18:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3691312692.html">
+<title><![CDATA[Multiplayer iPhone Word App]]></title>
+<link>http://denver.craigslist.org/cpg/3691312692.html</link>
+<description><![CDATA[***** Please download the free app prior to applying - want you to understand the functionality of the app**** 
+Need a developer to upgrade our existing word game app "All Words Up" to have multiplayer features. The app is similar to Bejeweled & Bogg [...]]]></description>
+<dc:date>2013-03-19T12:45:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3691312692.html</dc:source>
+<dc:title><![CDATA[Multiplayer iPhone Word App]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:45:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3690869681.html">
+<title><![CDATA[Facebook App Developer Needed (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3690869681.html</link>
+<description><![CDATA[I need someone to help me develop a very simple, yet brilliant idea I have for an social media app. A non-disclosure form would need to be signed before I share my intellectual property with you. I am willing to pay a flat rate AS WELL AS share a por [...]]]></description>
+<dc:date>2013-03-19T09:41:57-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3690869681.html</dc:source>
+<dc:title><![CDATA[Facebook App Developer Needed (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:41:57-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3690519650.html">
+<title><![CDATA[Need a basic App/ Web Developer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3690519650.html</link>
+<description><![CDATA[I have two separate projects that I am currently working on, so there is potential to get in on the start-up of both projects. One of the projects is in the late phase of web development and almost ready to be launched but could most likely use some  [...]]]></description>
+<dc:date>2013-03-19T06:16:14-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3690519650.html</dc:source>
+<dc:title><![CDATA[Need a basic App/ Web Developer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T06:16:14-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3689890143.html">
+<title><![CDATA[Looking for designer for bike blog/ website (advanced) (Cap hill)]]></title>
+<link>http://denver.craigslist.org/cpg/3689890143.html</link>
+<description><![CDATA[Must love psychedelics.]]></description>
+<dc:date>2013-03-18T18:21:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3689890143.html</dc:source>
+<dc:title><![CDATA[Looking for designer for bike blog/ website (advanced) (Cap hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T18:21:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3678985836.html">
+<title><![CDATA[Bilingual part time Admin (East Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3678985836.html</link>
+<description><![CDATA[Reply your anonymous craigslist address will appear here 
+Posted: 2013-03-13, 7:19AM MDT 
+Bilingual pt time Admin (Denver) 
+1540 S. Holly St 
+Looking for a bilingual High School grad. Must type and know 10-key. This position is very part time. 2-3 da [...]]]></description>
+<dc:date>2013-03-18T17:55:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3678985836.html</dc:source>
+<dc:title><![CDATA[Bilingual part time Admin (East Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T17:55:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3689291473.html">
+<title><![CDATA[API-VPN Expert Needed (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3689291473.html</link>
+<description><![CDATA[We are in need of a contractor who can build us the interface we need for our Web Based platform. This interface will need to incorporate a CustomVPN with our platform or "Comodo Unite" with our platform. (Or a similar open source solution) Our platf [...]]]></description>
+<dc:date>2013-03-18T13:35:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3689291473.html</dc:source>
+<dc:title><![CDATA[API-VPN Expert Needed (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T13:35:38-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3689132449.html">
+<title><![CDATA[Network Maintenance tech (Greater Denver area)]]></title>
+<link>http://denver.craigslist.org/cpg/3689132449.html</link>
+<description><![CDATA[We have some Cisco routers to be installed in the next few weeks. They are already configured but it may be necessary to modify the existing configuration, while working with telephone tech support. It may be necessary to repair the crimp ends of som [...]]]></description>
+<dc:date>2013-03-18T12:31:00-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3689132449.html</dc:source>
+<dc:title><![CDATA[Network Maintenance tech (Greater Denver area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:31:00-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3688112148.html">
+<title><![CDATA[Product Promoter/Affiliate (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3688112148.html</link>
+<description><![CDATA[Hello, hope your morning/noon/evening/midnight is going good. This is a gig for someone that can promote digital products online. 
+This is how it works: 
+I give you links to products with a specific ID just for you. You go ahead and post these links  [...]]]></description>
+<dc:date>2013-03-17T23:47:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3688112148.html</dc:source>
+<dc:title><![CDATA[Product Promoter/Affiliate (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T23:47:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3687662978.html">
+<title><![CDATA[Logo (n.w. boulder)]]></title>
+<link>http://denver.craigslist.org/cpg/3687662978.html</link>
+<description><![CDATA[Trade fine art or garden/landscape design or 
+week at my mexican palapa for logo design. 
+Please send any samples of logo designs if you're interested..... 
+I put 300.00 down but we can talk!]]></description>
+<dc:date>2013-03-17T17:56:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3687662978.html</dc:source>
+<dc:title><![CDATA[Logo (n.w. boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:56:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3687138451.html">
+<title><![CDATA[TYPING CLERK/RUNNER (BRIGHTON) (BRIGHTON)]]></title>
+<link>http://denver.craigslist.org/cpg/3687138451.html</link>
+<description><![CDATA[TYPING CLERK/RUNNER (BRIGHTON) 
+Looking for an individual who must live in the Brighton area. Must be available Mon-Fri with reliable vehicle with insurance. Must be able to type, have good communication skills, can resolve and research issues, work  [...]]]></description>
+<dc:date>2013-03-17T13:11:45-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3687138451.html</dc:source>
+<dc:title><![CDATA[TYPING CLERK/RUNNER (BRIGHTON) (BRIGHTON)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T13:11:45-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3686664747.html">
+<title><![CDATA[crowd funding help (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3686664747.html</link>
+<description><![CDATA[Artist/writer seeking help to create a crowd source funding for a couple of creative projects. ]]></description>
+<dc:date>2013-03-17T09:16:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3686664747.html</dc:source>
+<dc:title><![CDATA[crowd funding help (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:16:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3686663766.html">
+<title><![CDATA[Virtual Call Center]]></title>
+<link>http://denver.craigslist.org/cpg/3686663766.html</link>
+<description><![CDATA[Looking for people with sales and phone experience for outbound call campaign. Will pay an hourly wage plus incentives starting at $12 hr. Must have a computer with high speed internet access. Work environment must be noise free, no kids running arou [...]]]></description>
+<dc:date>2013-03-17T09:16:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3686663766.html</dc:source>
+<dc:title><![CDATA[Virtual Call Center]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:16:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3686659127.html">
+<title><![CDATA[I need a custom volusion website built (Lakewood )]]></title>
+<link>http://denver.craigslist.org/cpg/3686659127.html</link>
+<description><![CDATA[I need a talented artistic web designer to help me with my volusion custom website. You must be local and know the volusion platform. Please email some examples of your work but the look I am after is similar to www.sunandski.com I look forward to fi [...]]]></description>
+<dc:date>2013-03-17T09:13:25-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3686659127.html</dc:source>
+<dc:title><![CDATA[I need a custom volusion website built (Lakewood )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:13:25-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3685298969.html">
+<title><![CDATA[Back-end Developer Needed (Local)]]></title>
+<link>http://denver.craigslist.org/cpg/3685298969.html</link>
+<description><![CDATA[I am a front-end developer looking for a developer to assist me with creating the back-end/functionality of a website. Looking to create a dating site but will be rather basic to get started, it is more the way they functionality of which ads display [...]]]></description>
+<dc:date>2013-03-16T13:07:12-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3685298969.html</dc:source>
+<dc:title><![CDATA[Back-end Developer Needed (Local)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T13:07:12-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3684883882.html">
+<title><![CDATA[scanning help needed (denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3684883882.html</link>
+<description><![CDATA[I need someone with a decent scanner to help me scan some old books I have for a school project. I would need you to bring your scanner to my home where my library is. This will probably take a couple of sessions of a couple of hours each time.]]></description>
+<dc:date>2013-03-16T10:06:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3684883882.html</dc:source>
+<dc:title><![CDATA[scanning help needed (denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:06:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3683489577.html">
+<title><![CDATA[Drupal website support needed (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3683489577.html</link>
+<description><![CDATA[Small event management business needs help maintaining and updating drupal website. The site works well, but we'd like to tweak the look to better capture our events and artists. Anticipated work includes installing some new modules, plus minor html  [...]]]></description>
+<dc:date>2013-03-15T14:50:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3683489577.html</dc:source>
+<dc:title><![CDATA[Drupal website support needed (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T14:50:22-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3682829980.html">
+<title><![CDATA[Seeking App Developer]]></title>
+<link>http://denver.craigslist.org/cpg/3682829980.html</link>
+<description><![CDATA[I am seeking an app developer who is familiar with the wordpress API for a short term project. Please email your resume, examples of apps you have designed and your hourly rate. ]]></description>
+<dc:date>2013-03-15T10:05:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3682829980.html</dc:source>
+<dc:title><![CDATA[Seeking App Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T10:05:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3681540661.html">
+<title><![CDATA[Temporary fulltime inside sales (Denver 80231)]]></title>
+<link>http://denver.craigslist.org/cpg/3681540661.html</link>
+<description><![CDATA[INSIDE SALES. 
+Temporary fulltime positions available immediately. 
+Monday through Friday 10:00 AM to 6:00 PM 
+Quality leads provided. Excellent location. 
+$12.00 to $15.00 a hour 
+We currently looking for (4) qualified candidates who are goal driven [...]]]></description>
+<dc:date>2013-03-14T16:09:59-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3681540661.html</dc:source>
+<dc:title><![CDATA[Temporary fulltime inside sales (Denver 80231)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T16:09:59-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3681361688.html">
+<title><![CDATA[SEO / Search Marketing Assistant - Part time (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3681361688.html</link>
+<description><![CDATA[Small marketing agency seeks part time assistant to assist with research and outreach activities centered around organic search. 
+Applicants should have experience in: 
+Keyword Research 
+Excel Spreadsheet Manipulation 
+Basic Link Building 
+Guest Blog [...]]]></description>
+<dc:date>2013-03-14T14:43:39-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3681361688.html</dc:source>
+<dc:title><![CDATA[SEO / Search Marketing Assistant - Part time (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T14:43:39-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3680709815.html">
+<title><![CDATA[Web design-Jack of all trades  (Englewood)]]></title>
+<link>http://denver.craigslist.org/cpg/3680709815.html</link>
+<description><![CDATA[Small start up looking for a web-design person to help build websites and marketing items. Adobe Suite, HTML and code experience preferred. Smaller projects to start with opportunity to grow. Respond with resume and contact information. ]]></description>
+<dc:date>2013-03-14T10:06:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3680709815.html</dc:source>
+<dc:title><![CDATA[Web design-Jack of all trades  (Englewood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T10:06:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3677651165.html">
+<title><![CDATA[Web Programmer/Developer Needed ASAP (Denver/Colorado Springs)]]></title>
+<link>http://denver.craigslist.org/cpg/3677651165.html</link>
+<description><![CDATA[Looking for talented and motivated Web Programmer/Developer to develop new site. 
+HTML, PHP, CSS, CSS3, JavaScript, Ruby 
+Site will involve audio, database, ability to create user profiles, upload audio files, stream music, sell downloads, and more.  [...]]]></description>
+<dc:date>2013-03-12T20:24:24-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3677651165.html</dc:source>
+<dc:title><![CDATA[Web Programmer/Developer Needed ASAP (Denver/Colorado Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:24:24-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3676251838.html">
+<title><![CDATA[Assistant Wanted (your home)]]></title>
+<link>http://denver.craigslist.org/cpg/3676251838.html</link>
+<description><![CDATA[Assistant for approx. 10 hours a week (90% on computer from your home) 
+Requirements: 
+Proficient in social media marketing and monitoring 
+Interested in the topics of entrepreneurship, startups, fundraising 
+Good English grammar 
+Experience in onlin [...]]]></description>
+<dc:date>2013-03-12T10:12:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3676251838.html</dc:source>
+<dc:title><![CDATA[Assistant Wanted (your home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:12:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3675550484.html">
+<title><![CDATA[HTML Website Needed 400$ (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3675550484.html</link>
+<description><![CDATA[I need a crisp and professional website built using wordpress that will be able to host videos, custom mp3 player, pictures, links to social media sites with email accounts ect. I prefer a local web designer, but if your extremely good I can make exc [...]]]></description>
+<dc:date>2013-03-11T23:25:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3675550484.html</dc:source>
+<dc:title><![CDATA[HTML Website Needed 400$ (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:25:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3674134522.html">
+<title><![CDATA[Small Company Looking For SEO Consultant]]></title>
+<link>http://denver.craigslist.org/cpg/3674134522.html</link>
+<description><![CDATA[We are a small medical education facility that is looking for a SEO specialist to help guide us in better Page Rank. We have a competitor and we need a breakdown on what they are doing that might be better than our tactics and how we can improve.]]></description>
+<dc:date>2013-03-11T11:53:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3674134522.html</dc:source>
+<dc:title><![CDATA[Small Company Looking For SEO Consultant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T11:53:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3672081083.html">
+<title><![CDATA[INTERNET  MARKETING (DENVER)]]></title>
+<link>http://denver.craigslist.org/cpg/3672081083.html</link>
+<description><![CDATA[Looking for a person,or company that can do internet marketing for online business, would like to offer 10% of gross sales. Looking forward to your reply! Please call Wayne 719-231-3055]]></description>
+<dc:date>2013-03-10T13:11:57-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3672081083.html</dc:source>
+<dc:title><![CDATA[INTERNET  MARKETING (DENVER)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T13:11:57-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3670585546.html">
+<title><![CDATA[Exchange Admin need today]]></title>
+<link>http://denver.craigslist.org/cpg/3670585546.html</link>
+<description><![CDATA[We need someone to look at our exchange 2010 server today remotely. Mail isn't coming in but going out. Send me your info here: wa362130433@yahoo.com]]></description>
+<dc:date>2013-03-09T16:25:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3670585546.html</dc:source>
+<dc:title><![CDATA[Exchange Admin need today]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T16:25:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3670553922.html">
+<title><![CDATA[App maker needed (Nationwide)]]></title>
+<link>http://denver.craigslist.org/cpg/3670553922.html</link>
+<description><![CDATA[I am looking for an intermediate iOS app maker. You must be familiar with splash screens, text input, wireframe, core data, API overheads, twitter Overhead, Facebook Overhead, Localization overhead, etc. Please send any type of credentials, examples, [...]]]></description>
+<dc:date>2013-03-09T16:09:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3670553922.html</dc:source>
+<dc:title><![CDATA[App maker needed (Nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T16:09:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3670080579.html">
+<title><![CDATA[Word Press DEVELOPER/CODER (Denver, CO)]]></title>
+<link>http://denver.craigslist.org/cpg/3670080579.html</link>
+<description><![CDATA[Word Press DEVELOPER / CODER/ WIDGIT 
+Just build Word Press E-Commerce Site looking for a reputable website DEVELOPER to: 
+1. Find and Install a photo upload widget compatible with Blanco WP Template 
+2. After the above is installed. . .you would nee [...]]]></description>
+<dc:date>2013-03-09T12:37:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3670080579.html</dc:source>
+<dc:title><![CDATA[Word Press DEVELOPER/CODER (Denver, CO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T12:37:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3669176632.html">
+<title><![CDATA[Sub-netting tutor (S.E. Aurora )]]></title>
+<link>http://denver.craigslist.org/cpg/3669176632.html</link>
+<description><![CDATA[Ok, i realise this is ridiculous, and quite honestly I am a bit beside myself that it has come to this, that being said I need help. 
+I do not get sub-netting, I suck at arithmetic to begin with but sub-netting sends me into convulsive fits...i hate  [...]]]></description>
+<dc:date>2013-03-09T04:26:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3669176632.html</dc:source>
+<dc:title><![CDATA[Sub-netting tutor (S.E. Aurora )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T04:26:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3666481804.html">
+<title><![CDATA[Word Press Designer/Developer (Denver, CO )]]></title>
+<link>http://denver.craigslist.org/cpg/3666481804.html</link>
+<description><![CDATA[Word Press Designer & Developer 
+Start-up biz w/recently built Word Press E-Commerce Site looking for a reputable website designer/developer in the capacity of an independent Contractor / 1099. 
+To be considered you must: 
+• Be a visionary with passi [...]]]></description>
+<dc:date>2013-03-07T19:58:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3666481804.html</dc:source>
+<dc:title><![CDATA[Word Press Designer/Developer (Denver, CO )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T19:58:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3665922498.html">
+<title><![CDATA[C programmer needed for online tutoring (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3665922498.html</link>
+<description><![CDATA[Hi there! 
+I need someone to help me out with my introduction to programming in C class. Please respond back through email if you know how to program in C. Not C++, C# , or any other coding language. I only need my programs done is simple C. I need h [...]]]></description>
+<dc:date>2013-03-07T15:11:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3665922498.html</dc:source>
+<dc:title><![CDATA[C programmer needed for online tutoring (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T15:11:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3665199595.html">
+<title><![CDATA[Web/UI Designer Wanted (Boulder)]]></title>
+<link>http://denver.craigslist.org/cpg/3665199595.html</link>
+<description><![CDATA[Finance software startup is seeking a web designer to overhaul our website/UI. We've done what we can, but lack anything in our collective being that might be considered "artistic". Required skills include HTML, CSS, and Javascript. Graphics abilitie [...]]]></description>
+<dc:date>2013-03-07T10:22:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3665199595.html</dc:source>
+<dc:title><![CDATA[Web/UI Designer Wanted (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T10:22:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3600708946.html">
+<title><![CDATA[Brilliant Java Developer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3600708946.html</link>
+<description><![CDATA[We are seeking developers to work on the Java-based server that routes information between our Javascript-based clients using HTTP long-polling (comet). We are transitioning to a new server hosted in Jetty using web-sockets with JDBC and a PostGRESQL [...]]]></description>
+<dc:date>2013-03-06T23:51:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3600708946.html</dc:source>
+<dc:title><![CDATA[Brilliant Java Developer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T23:51:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3601224312.html">
+<title><![CDATA[Javascript GWT (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3601224312.html</link>
+<description><![CDATA[We are building a next-generation network platform using Java and Javascript and looking for front-end developers that can work with Google Web Toolkit and Javascript to build a bigger and better program to for our customers. Successful candidates wi [...]]]></description>
+<dc:date>2013-03-06T23:51:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3601224312.html</dc:source>
+<dc:title><![CDATA[Javascript GWT (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T23:51:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3664367275.html">
+<title><![CDATA[Need an EDI tutor. (Denver Metro)]]></title>
+<link>http://denver.craigslist.org/cpg/3664367275.html</link>
+<description><![CDATA[My company is bringing a new product to market and I need to learn the ins-and-outs of EDI order processing. Our customers will be the likes of GNC, Walgreens, Target, King Soopers, etc. I know almost nothing about EDI, but am smarter than the averag [...]]]></description>
+<dc:date>2013-03-06T21:57:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3664367275.html</dc:source>
+<dc:title><![CDATA[Need an EDI tutor. (Denver Metro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T21:57:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3663817390.html">
+<title><![CDATA[Part Time Office Assistant (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3663817390.html</link>
+<description><![CDATA[We are looking to hire a part time office assistant. Must know and understand social media sites and how they work and operate. Please email resume. ]]></description>
+<dc:date>2013-03-06T16:27:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3663817390.html</dc:source>
+<dc:title><![CDATA[Part Time Office Assistant (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T16:27:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3663469041.html">
+<title><![CDATA[Need help with my Facebook (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3663469041.html</link>
+<description><![CDATA[I am a small business owner who does not have time to keep up with the Social Media Marketing for my business. I am looking to hire someone to handle all my social marketing. Can you please email me your resume and your fees and costs and what exactl [...]]]></description>
+<dc:date>2013-03-06T13:57:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3663469041.html</dc:source>
+<dc:title><![CDATA[Need help with my Facebook (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T13:57:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3663382454.html">
+<title><![CDATA[Local Programmer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3663382454.html</link>
+<description><![CDATA[We are looking for help maintaining and adding new features to a newly developed website. We would prefer to hire by the hr or contract. We need somebody that is local so we can meet occasionally and discuss new features. Shares in the business will  [...]]]></description>
+<dc:date>2013-03-06T13:23:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3663382454.html</dc:source>
+<dc:title><![CDATA[Local Programmer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T13:23:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3615617818.html">
+<title><![CDATA[design a web site (Boulder)]]></title>
+<link>http://denver.craigslist.org/cpg/3615617818.html</link>
+<description><![CDATA[I need someone to design our web site. Web site is already developed but need the graphics to look good. 
+Local only. Send you info and some samples of your work. 
+Send a bid also. 
+Thanks]]></description>
+<dc:date>2013-03-06T08:42:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3615617818.html</dc:source>
+<dc:title><![CDATA[design a web site (Boulder)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T08:42:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3660814611.html">
+<title><![CDATA[Looking to hire Hoote Suite Expert (Dever)]]></title>
+<link>http://denver.craigslist.org/cpg/3660814611.html</link>
+<description><![CDATA[We are looking to hire a Hoote Suite Expert to get all of our clients on board not he service and to maintain and update all pages. This is a 1099 position. Please email back your resume if your interested. This is a part time position and looking to [...]]]></description>
+<dc:date>2013-03-05T11:57:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3660814611.html</dc:source>
+<dc:title><![CDATA[Looking to hire Hoote Suite Expert (Dever)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T11:57:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3659098240.html">
+<title><![CDATA[Graphics intern needed for radio website. ]]></title>
+<link>http://denver.craigslist.org/cpg/3659098240.html</link>
+<description><![CDATA[The Modern Dater radio show is in need of a graphics intern for our newly developed website. This new website will replace an already highly traveled URL. This is your chance to have your stuff really shown off and launch your career or business. You [...]]]></description>
+<dc:date>2013-03-04T16:09:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3659098240.html</dc:source>
+<dc:title><![CDATA[Graphics intern needed for radio website. ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:09:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3658926592.html">
+<title><![CDATA[Office Assistant/Data Entry & Other Applications]]></title>
+<link>http://denver.craigslist.org/cpg/3658926592.html</link>
+<description><![CDATA[I am looking for someone who can prepare source data for computer entry by compiling and sorting information; establishing entry priorities. 
+Candidate must processes familiarity with online applications such as microsoft excel, word, and apple progr [...]]]></description>
+<dc:date>2013-03-04T14:55:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3658926592.html</dc:source>
+<dc:title><![CDATA[Office Assistant/Data Entry & Other Applications]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T14:55:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3658529319.html">
+<title><![CDATA[Apache and PHP Help (Remote)]]></title>
+<link>http://denver.craigslist.org/cpg/3658529319.html</link>
+<description><![CDATA[I am looking for an Apache PHP expert to help with a Virtual Private Server hosted at GoDaddy. I need to have the LDAP module installed. Apache version is 2.2.23 and PHP version is 5.3.22. I have tried the built-in tools in WebHostManager and have ha [...]]]></description>
+<dc:date>2013-03-04T12:22:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3658529319.html</dc:source>
+<dc:title><![CDATA[Apache and PHP Help (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T12:22:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3658167409.html">
+<title><![CDATA[Catalog update (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3658167409.html</link>
+<description><![CDATA[Wanted someone willing to update a catalog with prices and images on to a file then upload to a website. Email so we can set up a meeting to discuss work.]]></description>
+<dc:date>2013-03-04T10:11:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3658167409.html</dc:source>
+<dc:title><![CDATA[Catalog update (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T10:11:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3657882182.html">
+<title><![CDATA[Contract Programmer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3657882182.html</link>
+<description><![CDATA[Hello, 
+We are a Denver based interactive marketing agency looking for the right person to add to our team. We are a small but motivated group and our ability to work together well has been a key to our success. 
+This will be a pay per project positi [...]]]></description>
+<dc:date>2013-03-04T08:20:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3657882182.html</dc:source>
+<dc:title><![CDATA[Contract Programmer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:20:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3657824002.html">
+<title><![CDATA[Software engineer looking to partner with a business developer ]]></title>
+<link>http://denver.craigslist.org/cpg/3657824002.html</link>
+<description><![CDATA[I am looking for a business developer to partner with on software development projects. I have the skills to develop the software, I just need someone that can help find the gigs and share the revenue with. If you're someone that has the ability to l [...]]]></description>
+<dc:date>2013-03-04T07:53:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3657824002.html</dc:source>
+<dc:title><![CDATA[Software engineer looking to partner with a business developer ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T07:53:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3657359509.html">
+<title><![CDATA[Wordpress Guru Needed (United States)]]></title>
+<link>http://denver.craigslist.org/cpg/3657359509.html</link>
+<description><![CDATA[International music webzine with daily news on Wordpress site looking for developer that knows about the abundance of plugins. Specific knowledge of advertising/banner plugins required. Plus digital issue needs plugin to download for sale, tied to Pa [...]]]></description>
+<dc:date>2013-03-03T22:24:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3657359509.html</dc:source>
+<dc:title><![CDATA[Wordpress Guru Needed (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T22:24:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3657143213.html">
+<title><![CDATA[Looking for a LOCAL Freelance App (iOS) Developer (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3657143213.html</link>
+<description><![CDATA[We're Infinity Marketing Group and we're looking for an APP (iOS) Freelancer to sell and project manage all of the app development requests we get in. You do NOT need to do any coding! We have an abundance of referrals and leads of people and busines [...]]]></description>
+<dc:date>2013-03-03T19:39:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3657143213.html</dc:source>
+<dc:title><![CDATA[Looking for a LOCAL Freelance App (iOS) Developer (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T19:39:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3657113133.html">
+<title><![CDATA[iPad application development help]]></title>
+<link>http://denver.craigslist.org/cpg/3657113133.html</link>
+<description><![CDATA[I'm a print designer and someone recently asked me to make them an iPad app. I'd like someone to either work with me, as the developer, or show me the programs/skills I need to do it myself. I know some basic knowledge of the whole taking and website [...]]]></description>
+<dc:date>2013-03-03T19:20:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3657113133.html</dc:source>
+<dc:title><![CDATA[iPad application development help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T19:20:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3656761527.html">
+<title><![CDATA[make me a website ]]></title>
+<link>http://denver.craigslist.org/cpg/3656761527.html</link>
+<description><![CDATA[I need somebody to be able to make me a website that is somewhat interactive, I already have the domain name, I'm starting a company and I want you be posted on Craigslist service adds please send at least 1 link of your work as well, that's how much [...]]]></description>
+<dc:date>2013-03-03T16:06:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3656761527.html</dc:source>
+<dc:title><![CDATA[make me a website ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T16:06:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3655905813.html">
+<title><![CDATA[VB.Net Programmer Part-time Contractor  (Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3655905813.html</link>
+<description><![CDATA[VB.Net Programmer Part-time Contractor (Denver Area Locals Only) 
+Thoughtful Logic is looking for an experienced Visual Basic.net programmer to assist us with small fixed-bid projects. This is a 100% remote gig for the right person. Occasional in-per [...]]]></description>
+<dc:date>2013-03-03T09:19:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3655905813.html</dc:source>
+<dc:title><![CDATA[VB.Net Programmer Part-time Contractor  (Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T09:19:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3654706138.html">
+<title><![CDATA[i need a hard drive guy (arvada)]]></title>
+<link>http://denver.craigslist.org/cpg/3654706138.html</link>
+<description><![CDATA[i have 3 harddrives from old desktops. 1 is good. 2 are bad. i dont know which and i dont know why they are bad. all i know is i really need the info off the 2 dead ones. especially the pictures. lemme know what you can do. ]]></description>
+<dc:date>2013-03-02T15:19:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3654706138.html</dc:source>
+<dc:title><![CDATA[i need a hard drive guy (arvada)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T15:19:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3654036526.html">
+<title><![CDATA[Podio Expert Needed (Highlands Ranch)]]></title>
+<link>http://denver.craigslist.org/cpg/3654036526.html</link>
+<description><![CDATA[If you are an expert at Podio and can show examples of businesses you have set up in the past, we need someone to transfer our business from Enterprise Wizard to Podio. 
+You would be creating the following: 
+-overall interface 
+-set up custom apps 
+- [...]]]></description>
+<dc:date>2013-03-02T10:35:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3654036526.html</dc:source>
+<dc:title><![CDATA[Podio Expert Needed (Highlands Ranch)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T10:35:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3653578078.html">
+<title><![CDATA[cell phone help, instruction (Lafayette)]]></title>
+<link>http://denver.craigslist.org/cpg/3653578078.html</link>
+<description><![CDATA[I just got a used myTouch and am totally clueless. I'm 57, run on a 40 watt bulb(not that bright), and would like to confidently search, email, take pics, download music, all the basics. This will be an ongoing process, we can meet at Starbucks or an [...]]]></description>
+<dc:date>2013-03-02T07:00:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3653578078.html</dc:source>
+<dc:title><![CDATA[cell phone help, instruction (Lafayette)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T07:00:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3653269318.html">
+<title><![CDATA[Windows Base Software/Application Help Needed! (Virtual or Onsite)]]></title>
+<link>http://denver.craigslist.org/cpg/3653269318.html</link>
+<description><![CDATA[I'm working on a side project and need help with a windows based software system that allows programming to a 46" LCD monitor. Basically all I'm trying to do is figure out the software where I can upload video and picture files so it will show on the [...]]]></description>
+<dc:date>2013-03-01T23:07:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3653269318.html</dc:source>
+<dc:title><![CDATA[Windows Base Software/Application Help Needed! (Virtual or Onsite)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T23:07:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3653231447.html">
+<title><![CDATA[Wordpress Expert - Training (Downtown Denver)]]></title>
+<link>http://denver.craigslist.org/cpg/3653231447.html</link>
+<description><![CDATA[Looking for a Wordpress expert to help me learn how to customize and work all the functions on my Wordpress blog. I would like to meet at a coffee shop in Downtown Denver for 1 - 2 hours for the training. I will have my laptop and can login to my Wor [...]]]></description>
+<dc:date>2013-03-01T22:22:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3653231447.html</dc:source>
+<dc:title><![CDATA[Wordpress Expert - Training (Downtown Denver)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T22:22:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://denver.craigslist.org/cpg/3653137031.html">
+<title><![CDATA[Know SEO? (Denver )]]></title>
+<link>http://denver.craigslist.org/cpg/3653137031.html</link>
+<description><![CDATA[We are leading online company offering *TOP pay in the industry. Get involved by replying to this post join the revolution!!!]]></description>
+<dc:date>2013-03-01T20:59:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://denver.craigslist.org/cpg/3653137031.html</dc:source>
+<dc:title><![CDATA[Know SEO? (Denver )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T20:59:26-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

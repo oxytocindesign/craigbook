@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lincoln.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lincoln</title>
+<link>http://lincoln.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lincoln.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lincoln</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:25:00-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3674617382.html" />
+  <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3657402538.html" />
+  <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3638457793.html" />
+  <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3632400543.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lincoln.craigslist.org/cpg/3674617382.html">
+<title><![CDATA[Looking to Callaborate with Mobile App Developer (anywhere)]]></title>
+<link>http://lincoln.craigslist.org/cpg/3674617382.html</link>
+<description><![CDATA[Title pretty much says it all. 
+I'm looking to finally get an App out on the Android and Apple Store. 
+I would prefer working with someone who has at least experimented with Apps and it would be even better if they have released something. 
+I'm think [...]]]></description>
+<dc:date>2013-03-11T15:54:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lincoln.craigslist.org/cpg/3674617382.html</dc:source>
+<dc:title><![CDATA[Looking to Callaborate with Mobile App Developer (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T15:54:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lincoln.craigslist.org/cpg/3657402538.html">
+<title><![CDATA[Smartphone App help (Nebraska)]]></title>
+<link>http://lincoln.craigslist.org/cpg/3657402538.html</link>
+<description><![CDATA[I'm in the process of building a new website but before I launch it I would really like a smartphone app to go with. All I can say is it's heavily based on GPS if that helps narrow it down. I might be able to pay but I'd rather do a profit-sharing af [...]]]></description>
+<dc:date>2013-03-04T00:11:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lincoln.craigslist.org/cpg/3657402538.html</dc:source>
+<dc:title><![CDATA[Smartphone App help (Nebraska)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T00:11:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://lincoln.craigslist.org/cpg/3638457793.html">
+<title><![CDATA[Website help! (database-driven, CMS, php, mySQL) (Lincoln)]]></title>
+<link>http://lincoln.craigslist.org/cpg/3638457793.html</link>
+<description><![CDATA[Looking for a very knowledgeable individual to help me create my website. It will be database-driven using a CMS, so obviously knowing PHP, HTML, mySQL. I also have specific ideas for the layout of the website. Compensation is negotiable. Please let  [...]]]></description>
+<dc:date>2013-02-23T13:09:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lincoln.craigslist.org/cpg/3638457793.html</dc:source>
+<dc:title><![CDATA[Website help! (database-driven, CMS, php, mySQL) (Lincoln)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T13:09:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://lincoln.craigslist.org/cpg/3632400543.html">
+<title><![CDATA[I need PHP/MySQL people! (Lincoln)]]></title>
+<link>http://lincoln.craigslist.org/cpg/3632400543.html</link>
+<description><![CDATA[Like the title says, I need part-time PHP/MySQL people. Email me with some examples of what you have made and what you can do.]]></description>
+<dc:date>2013-02-20T20:25:24-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lincoln.craigslist.org/cpg/3632400543.html</dc:source>
+<dc:title><![CDATA[I need PHP/MySQL people! (Lincoln)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T20:25:24-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://fairbanks.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in fairbanks</title>
+<link>http://fairbanks.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://fairbanks.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in fairbanks</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T21:24:55-08:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://fairbanks.craigslist.org/cpg/3610533282.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://fairbanks.craigslist.org/cpg/3610533282.html">
+<title><![CDATA[Contract technician (Fairbanks)]]></title>
+<link>http://fairbanks.craigslist.org/cpg/3610533282.html</link>
+<description><![CDATA[Contract tech needed on Wednesday morning to install a server cage. Must have a drill. Work will include installing the server cage, disconnecting and reconnecting servers. Must be able to pass a criminal background check. 
+Please send your resume.]]></description>
+<dc:date>2013-02-11T13:26:06-09:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fairbanks.craigslist.org/cpg/3610533282.html</dc:source>
+<dc:title><![CDATA[Contract technician (Fairbanks)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:26:06-09:00</dcterms:issued>
+</item>
+</rdf:RDF>

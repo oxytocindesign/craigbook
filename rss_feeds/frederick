@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://frederick.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in frederick</title>
+<link>http://frederick.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://frederick.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in frederick</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:30:21-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3700616098.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3691241300.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3672974149.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3662079304.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3662422187.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3659553833.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3634180379.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3614727646.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3577335117.html" />
+  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3600829543.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://frederick.craigslist.org/cpg/3700616098.html">
+<title><![CDATA[Internet Marketing (from home)]]></title>
+<link>http://frederick.craigslist.org/cpg/3700616098.html</link>
+<description><![CDATA[Looking for motivated individuals to work from home marketing wellness products. You must have a computer with internet access, a phone and a great attitude. www. MakeAndGoGreen. com ]]></description>
+<dc:date>2013-03-24T10:17:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3700616098.html</dc:source>
+<dc:title><![CDATA[Internet Marketing (from home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:17:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3691241300.html">
+<title><![CDATA[3D Maya/Photoshop/After AFX  (MD that can come to Frederick )]]></title>
+<link>http://frederick.craigslist.org/cpg/3691241300.html</link>
+<description><![CDATA[Hi All 
+I am looking for someone to instal MAYA 2013 and Photoshop and After AFX for me. I Working on a project in MD for the next 4 weeks and need the programs before i head back to LA. I will pay 150 to put them on a apple MAC for me. also if you a [...]]]></description>
+<dc:date>2013-03-19T14:15:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3691241300.html</dc:source>
+<dc:title><![CDATA[3D Maya/Photoshop/After AFX  (MD that can come to Frederick )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:15:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3672974149.html">
+<title><![CDATA[Need Data Recovery (Downtown Frederick)]]></title>
+<link>http://frederick.craigslist.org/cpg/3672974149.html</link>
+<description><![CDATA[Thought I'd try here first...I've got two dead computers (one macbook, one hp pavilion dv6) I need data recovered from, preferably onto one new external hard drive (unless the formatting is some insurmountable issue). 
+If you're fairly certain you ca [...]]]></description>
+<dc:date>2013-03-10T22:59:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3672974149.html</dc:source>
+<dc:title><![CDATA[Need Data Recovery (Downtown Frederick)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T22:59:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3662079304.html">
+<title><![CDATA[Workers Needed- $100 cash plus Bonus]]></title>
+<link>http://frederick.craigslist.org/cpg/3662079304.html</link>
+<description><![CDATA[Currently looking for 8 people who can work on sites. Willing to pay $100 plus GUARANTEED BONUS. 
+-Simple Work 
+-Can be done in as little as 3 hours 
+-This is a WORK FROM HOME job 
+If anyone wants to make $100 plus GUARANTEED BONUS today, please call [...]]]></description>
+<dc:date>2013-03-08T15:19:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3662079304.html</dc:source>
+<dc:title><![CDATA[Workers Needed- $100 cash plus Bonus]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T15:19:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3662422187.html">
+<title><![CDATA[VSAT NOC Operator Needed!!! (Gaithersburg, MD)]]></title>
+<link>http://frederick.craigslist.org/cpg/3662422187.html</link>
+<description><![CDATA[Position: VSAT NOC Operator 
+Location: Gaithersburg, MD 
+Duration: Direct Hire, no contract! 
+Working Hours: 
+This position will require shift work to include nights, weekends, and holidays. Team is broken down into two 2-man teams. Each team works e [...]]]></description>
+<dc:date>2013-03-06T08:41:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3662422187.html</dc:source>
+<dc:title><![CDATA[VSAT NOC Operator Needed!!! (Gaithersburg, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T08:41:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3659553833.html">
+<title><![CDATA[Website Development Project]]></title>
+<link>http://frederick.craigslist.org/cpg/3659553833.html</link>
+<description><![CDATA[My firm is currently undertaking a website redesign. Please email me and I will send you our Request for Proposal.]]></description>
+<dc:date>2013-03-04T22:10:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3659553833.html</dc:source>
+<dc:title><![CDATA[Website Development Project]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T22:10:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3634180379.html">
+<title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></title>
+<link>http://frederick.craigslist.org/cpg/3634180379.html</link>
+<description><![CDATA[Our client located in Washington D.C. is looking for a talented Web Developer (Ruby, Rails, JavaScript, jQuery) to join their high energy, innovative team. This programmer will be joining a large scale e-commerce project and will be creating Ruby on  [...]]]></description>
+<dc:date>2013-02-21T16:39:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3634180379.html</dc:source>
+<dc:title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:39:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3614727646.html">
+<title><![CDATA[Short Term PHP Development Project (Germantown, MD)]]></title>
+<link>http://frederick.craigslist.org/cpg/3614727646.html</link>
+<description><![CDATA[Must have proficiency in PHP, Javascript and MS SQL server. 
+Please reply to this posting with your resume, detailed descriptions of past PHP application projects and hourly requirement if interested. 
+Location: Germantown, MD 
+Compensation: TBD 
+Thi [...]]]></description>
+<dc:date>2013-02-13T12:43:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3614727646.html</dc:source>
+<dc:title><![CDATA[Short Term PHP Development Project (Germantown, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T12:43:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3577335117.html">
+<title><![CDATA[Social Media Intern (Frederick Maryland)]]></title>
+<link>http://frederick.craigslist.org/cpg/3577335117.html</link>
+<description><![CDATA[This internship is for graduating seniors and college students with the business. 
+Specific expertise for this internship opportunity is with social media. 
+This internship involves managing the companies Social Media sites such as Facebook, Twitter, [...]]]></description>
+<dc:date>2013-02-09T13:05:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3577335117.html</dc:source>
+<dc:title><![CDATA[Social Media Intern (Frederick Maryland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T13:05:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://frederick.craigslist.org/cpg/3600829543.html">
+<title><![CDATA[iPad / iPhone dev needed (Gaithersburg, MD)]]></title>
+<link>http://frederick.craigslist.org/cpg/3600829543.html</link>
+<description><![CDATA[Am looking for someone to collaborate with on a project to decode data from an FTP site and display on iPad / iPhone. 
+This is a biz opportunity for the right person with iPad/iPhone development talent. 
+email me if you have some time, are a tech gee [...]]]></description>
+<dc:date>2013-02-07T14:05:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://frederick.craigslist.org/cpg/3600829543.html</dc:source>
+<dc:title><![CDATA[iPad / iPhone dev needed (Gaithersburg, MD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T14:05:23-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

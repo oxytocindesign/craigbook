@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://whistler.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in whistler, BC</title>
+<link>http://whistler.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://whistler.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in whistler, BC</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:14-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://whistler.en.craigslist.ca/cpg/3679340975.html" />
+  <rdf:li rdf:resource="http://whistler.en.craigslist.ca/cpg/3677814066.html" />
+  <rdf:li rdf:resource="http://whistler.en.craigslist.ca/cpg/3670532673.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://whistler.en.craigslist.ca/cpg/3679340975.html">
+<title><![CDATA[Guest Blogger (Anywhere)]]></title>
+<link>http://whistler.en.craigslist.ca/cpg/3679340975.html</link>
+<description><![CDATA[I write a blog about social media and am looking for some guest bloggers to submit their articles to be posted. I'm not necessarily looking for writers, so much as marketing or social media experts talking about niche topics in the social world. I wo [...]]]></description>
+<dc:date>2013-03-23T10:11:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://whistler.en.craigslist.ca/cpg/3679340975.html</dc:source>
+<dc:title><![CDATA[Guest Blogger (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:11:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://whistler.en.craigslist.ca/cpg/3677814066.html">
+<title><![CDATA[Can you repair my Laptop Screen (Whistler)]]></title>
+<link>http://whistler.en.craigslist.ca/cpg/3677814066.html</link>
+<description><![CDATA[Looking to get Laptop screen repaired for a Dell Inspiron 6400, only realistic prices please. 
+Thanks.]]></description>
+<dc:date>2013-03-12T21:26:48-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://whistler.en.craigslist.ca/cpg/3677814066.html</dc:source>
+<dc:title><![CDATA[Can you repair my Laptop Screen (Whistler)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:26:48-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://whistler.en.craigslist.ca/cpg/3670532673.html">
+<title><![CDATA[trailer repairs (whistler)]]></title>
+<link>http://whistler.en.craigslist.ca/cpg/3670532673.html</link>
+<description><![CDATA[Looking for some help with a 1965 travelaire trailer. Need help figuring out basic electical (installing deep cycle battery, LED conversion possibly solar panels), some plumping (water connection and sink drainage), possible re-sealing of roof, possi [...]]]></description>
+<dc:date>2013-03-09T14:58:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://whistler.en.craigslist.ca/cpg/3670532673.html</dc:source>
+<dc:title><![CDATA[trailer repairs (whistler)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T14:58:36-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

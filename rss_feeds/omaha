@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://omaha.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in omaha / council bluffs</title>
+<link>http://omaha.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://omaha.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in omaha / council bluffs</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:37:49-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3697625511.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3695550152.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3664245952.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3691737555.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3657156501.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3653155825.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3683059476.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3661770876.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3658791000.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3658585721.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3650116919.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3648543884.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3645636502.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3627696828.html" />
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3615006552.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://omaha.craigslist.org/cpg/3697625511.html">
+<title><![CDATA[Testers needed (Usability test) (Mutual of Omaha Plz, Omaha, NE 68175)]]></title>
+<link>http://omaha.craigslist.org/cpg/3697625511.html</link>
+<description><![CDATA[We need you to test our website so we can know how it works with real people. We're looking for people willing to come to our office on Thursday, April 11th and work through some pre-defined tasks while we watch and take notes. It's fun and we'll pay [...]]]></description>
+<dc:date>2013-03-22T14:57:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3697625511.html</dc:source>
+<dc:title><![CDATA[Testers needed (Usability test) (Mutual of Omaha Plz, Omaha, NE 68175)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T14:57:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3695550152.html">
+<title><![CDATA[Make Some Quick Weekday Cash (Omaha, NE)]]></title>
+<link>http://omaha.craigslist.org/cpg/3695550152.html</link>
+<description><![CDATA[I am looking for some individuals to help me with a project for the website: www.CreditReport.com. 
+This company is responsible for helping people check and understand their credit. A simple sign-up for a 7-day free trial is all that is required. 
+Ea [...]]]></description>
+<dc:date>2013-03-21T14:04:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3695550152.html</dc:source>
+<dc:title><![CDATA[Make Some Quick Weekday Cash (Omaha, NE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:04:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3664245952.html">
+<title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></title>
+<link>http://omaha.craigslist.org/cpg/3664245952.html</link>
+<description><![CDATA[Need part time PC tech. 10-30 hours per week. Reply with resume. ]]></description>
+<dc:date>2013-03-21T07:43:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3664245952.html</dc:source>
+<dc:title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T07:43:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3691737555.html">
+<title><![CDATA[need some typeing done (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3691737555.html</link>
+<description><![CDATA[I have some typeing thats needs to be done on word and i need it done by next thursday. I have some home work that i need typed up there is a fair amount i think, but to somebody who is a good its not much. I will pay for your sevices just need help  [...]]]></description>
+<dc:date>2013-03-19T16:56:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3691737555.html</dc:source>
+<dc:title><![CDATA[need some typeing done (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:56:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3657156501.html">
+<title><![CDATA[Increase Sales Easily Via Customer Smartphones  (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3657156501.html</link>
+<description><![CDATA[Mobile Marketing is Blowing Loyalty Marketers Away 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-17T09:29:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3657156501.html</dc:source>
+<dc:title><![CDATA[Increase Sales Easily Via Customer Smartphones  (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T09:29:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3653155825.html">
+<title><![CDATA[Engagement Marketing WILL be the Next Big Thing (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3653155825.html</link>
+<description><![CDATA[Text Customers with Your Message and Promotions 
+http://anything.smsbestmind.com]]></description>
+<dc:date>2013-03-16T17:33:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3653155825.html</dc:source>
+<dc:title><![CDATA[Engagement Marketing WILL be the Next Big Thing (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T17:33:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3683059476.html">
+<title><![CDATA[Cashier (Nationwide)]]></title>
+<link>http://omaha.craigslist.org/cpg/3683059476.html</link>
+<description><![CDATA[We are a national retail company. We need cashiers nationwide for our new stores. 
+Send your resume and a brief reason why you will make a great addition to our team. List 
+your state in the subject.]]></description>
+<dc:date>2013-03-15T12:41:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3683059476.html</dc:source>
+<dc:title><![CDATA[Cashier (Nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:41:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3661770876.html">
+<title><![CDATA[Excel Visual Basic (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3661770876.html</link>
+<description><![CDATA[Looking for someone to help automate some work in excel. 
+Please email me, and we can work out price and time frame. ]]></description>
+<dc:date>2013-03-05T19:52:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3661770876.html</dc:source>
+<dc:title><![CDATA[Excel Visual Basic (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T19:52:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3658791000.html">
+<title><![CDATA[BLOG / WEB Design and video editing (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3658791000.html</link>
+<description><![CDATA[Looking for someone to revamp my blog and do web page/ squeeze page design on an occasional basis as projects come up. ]]></description>
+<dc:date>2013-03-04T15:01:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3658791000.html</dc:source>
+<dc:title><![CDATA[BLOG / WEB Design and video editing (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T15:01:18-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3658585721.html">
+<title><![CDATA[Excel VBA (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3658585721.html</link>
+<description><![CDATA[I need someone that is extremely good at excel VBA to help automate some work for me. 
+Must be from Omaha area 
+Let me know your availability this week. Would prefer to meet at coffee shop or panera in afternoon/evening early this week. To discuss pr [...]]]></description>
+<dc:date>2013-03-04T13:42:51-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3658585721.html</dc:source>
+<dc:title><![CDATA[Excel VBA (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T13:42:51-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3650116919.html">
+<title><![CDATA[CAT5 Cabling tech needed (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3650116919.html</link>
+<description><![CDATA[Need a cabling tech to wire several small clothing stores with 1 CAT5e cable. This usually takes 1-1.5 hours. 
+Pay is $90 per site and we reimburse for cable used. I also have other work in the Omaha area and know others that do too. 
+Call for detail [...]]]></description>
+<dc:date>2013-02-28T15:26:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3650116919.html</dc:source>
+<dc:title><![CDATA[CAT5 Cabling tech needed (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T15:26:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3648543884.html">
+<title><![CDATA[Full time  (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3648543884.html</link>
+<description><![CDATA[Here is an excellent opportunity. I'm looking for 15-20 individual who want to make at least $500 a day. I've been working for an affiliate making really great money as a part time deal and considering making it my full time gig. 
+Say goodbye to all  [...]]]></description>
+<dc:date>2013-02-27T21:11:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3648543884.html</dc:source>
+<dc:title><![CDATA[Full time  (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T21:11:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3645636502.html">
+<title><![CDATA[Job Posting  Filled/Online Marketing Help (Omaha)]]></title>
+<link>http://omaha.craigslist.org/cpg/3645636502.html</link>
+<description><![CDATA[Need help with my website..........;landing pages, getting traffic,etc............Call or email me if you have experience in this area. 
+Call Pete 402-727-1340 cell 402-215-2436............or respond by email. 
+Thanks for checking this ad on Craigsli [...]]]></description>
+<dc:date>2013-02-26T16:22:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3645636502.html</dc:source>
+<dc:title><![CDATA[Job Posting  Filled/Online Marketing Help (Omaha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T16:22:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3627696828.html">
+<title><![CDATA[Text Message Loyalty Marketing Business For Sale (OMAHA)]]></title>
+<link>http://omaha.craigslist.org/cpg/3627696828.html</link>
+<description><![CDATA[Join Our Network Of Loyalty Marketing Experts]]></description>
+<dc:date>2013-02-18T23:56:24-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3627696828.html</dc:source>
+<dc:title><![CDATA[Text Message Loyalty Marketing Business For Sale (OMAHA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T23:56:24-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://omaha.craigslist.org/cpg/3615006552.html">
+<title><![CDATA[Collaborating Project (Omaha / Council Bluffs)]]></title>
+<link>http://omaha.craigslist.org/cpg/3615006552.html</link>
+<description><![CDATA[Looking to collaborate with a person with Unity3D programing knowledge to develop a game. I am very versed in 3D modeling, texturing, compositing, and design. I also have a basic story scripted out as well as knowledge of basic Unity, but could alway [...]]]></description>
+<dc:date>2013-02-13T13:26:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3615006552.html</dc:source>
+<dc:title><![CDATA[Collaborating Project (Omaha / Council Bluffs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T13:26:36-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

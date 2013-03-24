@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://medford.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in medford-ashland</title>
+<link>http://medford.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://medford.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in medford-ashland</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:04-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://medford.craigslist.org/cpg/3672295412.html" />
+  <rdf:li rdf:resource="http://medford.craigslist.org/cpg/3646677274.html" />
+  <rdf:li rdf:resource="http://medford.craigslist.org/cpg/3631601203.html" />
+  <rdf:li rdf:resource="http://medford.craigslist.org/cpg/3606423990.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://medford.craigslist.org/cpg/3672295412.html">
+<title><![CDATA[Mac Savvy Help: Video & Syncing (downtown Ashland)]]></title>
+<link>http://medford.craigslist.org/cpg/3672295412.html</link>
+<description><![CDATA[Have Mac, iphone, ipad. Need help syncing things up such as address book, calendar. When I try to sync I end up erasing all the addresses that I put in my iphone. 
+Bought a Sony handycam video camera. Need someone to show us how to download footage t [...]]]></description>
+<dc:date>2013-03-10T13:50:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://medford.craigslist.org/cpg/3672295412.html</dc:source>
+<dc:title><![CDATA[Mac Savvy Help: Video & Syncing (downtown Ashland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T13:50:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://medford.craigslist.org/cpg/3646677274.html">
+<title><![CDATA[need help with wordpress (Shady Cove)]]></title>
+<link>http://medford.craigslist.org/cpg/3646677274.html</link>
+<description><![CDATA[I need a skilled tutor who can show me how to set up a web page using wordpress.]]></description>
+<dc:date>2013-02-27T05:03:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://medford.craigslist.org/cpg/3646677274.html</dc:source>
+<dc:title><![CDATA[need help with wordpress (Shady Cove)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T05:03:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://medford.craigslist.org/cpg/3631601203.html">
+<title><![CDATA[Need help with DreamWeaver (Ashland, OR)]]></title>
+<link>http://medford.craigslist.org/cpg/3631601203.html</link>
+<description><![CDATA[Hey, 
+I just built a web site in DreamWeaver. I'm self taught (and I seem to have missed a step). LOL. The site looks beautiful when I use the "Live View" feature, but when I upload it to the server with FTP, it looks wrong. It's like not all the fil [...]]]></description>
+<dc:date>2013-02-20T12:28:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://medford.craigslist.org/cpg/3631601203.html</dc:source>
+<dc:title><![CDATA[Need help with DreamWeaver (Ashland, OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:28:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://medford.craigslist.org/cpg/3606423990.html">
+<title><![CDATA[Social Media Person Needed (Grants Pass)]]></title>
+<link>http://medford.craigslist.org/cpg/3606423990.html</link>
+<description><![CDATA[Hi I am looking for someone who is familiar with all social media and social media bots. I have an etsy shop and website. I need to link everything ie Facebook, Twitter, Pintrest etc.. I am looking at using marketing bots and building traffic to my e [...]]]></description>
+<dc:date>2013-02-09T18:07:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://medford.craigslist.org/cpg/3606423990.html</dc:source>
+<dc:title><![CDATA[Social Media Person Needed (Grants Pass)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T18:07:32-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

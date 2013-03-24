@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lansing.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in lansing</title>
+<link>http://lansing.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lansing.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in lansing</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:58-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lansing.craigslist.org/cpg/3664423253.html" />
+  <rdf:li rdf:resource="http://lansing.craigslist.org/cpg/3654931289.html" />
+  <rdf:li rdf:resource="http://lansing.craigslist.org/cpg/3635979297.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lansing.craigslist.org/cpg/3664423253.html">
+<title><![CDATA[Wordpress site builder  (lansing)]]></title>
+<link>http://lansing.craigslist.org/cpg/3664423253.html</link>
+<description><![CDATA[If you are very skilled with wordpress and know SEO very well. I have a few small but interesting jobs for you. Please be prepared to discuss very specific steps you would take in implementing SEO, and include them in any estimates. 
+Qualified candid [...]]]></description>
+<dc:date>2013-03-24T15:52:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lansing.craigslist.org/cpg/3664423253.html</dc:source>
+<dc:title><![CDATA[Wordpress site builder  (lansing)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:52:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://lansing.craigslist.org/cpg/3654931289.html">
+<title><![CDATA[looking for a blogger for a food site (lansing east lansing)]]></title>
+<link>http://lansing.craigslist.org/cpg/3654931289.html</link>
+<description><![CDATA[I want a blogger wanting to learn about blogging and SEO. The site is up and running and is just in need of writer. once a writer has ben chosen we will monetize the site all the $$ will be yours for the work. This is a learning experiences for some  [...]]]></description>
+<dc:date>2013-03-02T19:19:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lansing.craigslist.org/cpg/3654931289.html</dc:source>
+<dc:title><![CDATA[looking for a blogger for a food site (lansing east lansing)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T19:19:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lansing.craigslist.org/cpg/3635979297.html">
+<title><![CDATA[Fix small part of PHP code, SMALL, SIMPLE project (Lansing, Mi (Or Anywhere))]]></title>
+<link>http://lansing.craigslist.org/cpg/3635979297.html</link>
+<description><![CDATA[We are making a small PHP section on our website to display some inventory. 
+The page is nearly done and working. We are not progreammers, but have managed to get just about everything working so far. 
+The page has 4 dropdown menus, then a "submit" b [...]]]></description>
+<dc:date>2013-02-22T13:08:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lansing.craigslist.org/cpg/3635979297.html</dc:source>
+<dc:title><![CDATA[Fix small part of PHP code, SMALL, SIMPLE project (Lansing, Mi (Or Anywhere))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T13:08:59-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

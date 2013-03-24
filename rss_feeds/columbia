@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://columbia.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in columbia, SC</title>
+<link>http://columbia.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://columbia.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in columbia, SC</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:48-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3649800877.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3687819151.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3685533721.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3616773089.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3673138454.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3652802009.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3651429397.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3615744095.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3644867299.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3643241468.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3642537345.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3636656575.html" />
+  <rdf:li rdf:resource="http://columbia.craigslist.org/cpg/3609847183.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://columbia.craigslist.org/cpg/3649800877.html">
+<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
+<link>http://columbia.craigslist.org/cpg/3649800877.html</link>
+<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
+-Data Network Cabling Installation 
+-Telephone Wiring & Cabling Installation 
+-Cabling Design & Implemen [...]]]></description>
+<dc:date>2013-03-22T15:09:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3649800877.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:09:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3687819151.html">
+<title><![CDATA[Program my truck remote.]]></title>
+<link>http://columbia.craigslist.org/cpg/3687819151.html</link>
+<description><![CDATA[I need someone with the proper equipment to program my remote for my Land Rover. I will ask questions so if you don't know then don't waste my time. Call or text 803-201-3981. ]]></description>
+<dc:date>2013-03-17T21:34:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3687819151.html</dc:source>
+<dc:title><![CDATA[Program my truck remote.]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T21:34:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3685533721.html">
+<title><![CDATA[new camera system needs to be viewable from phone and computer (columbia, sc (bluff road))]]></title>
+<link>http://columbia.craigslist.org/cpg/3685533721.html</link>
+<description><![CDATA[We just bought a new camera system to replace existing one. Cameras are being installed and mounted now. Need someone computer savvy to install on our phones and computer so they can be viewed remotely]]></description>
+<dc:date>2013-03-16T16:59:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3685533721.html</dc:source>
+<dc:title><![CDATA[new camera system needs to be viewable from phone and computer (columbia, sc (bluff road))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T16:59:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3616773089.html">
+<title><![CDATA[Web Design/Programmer (Charleston, SC)]]></title>
+<link>http://columbia.craigslist.org/cpg/3616773089.html</link>
+<description><![CDATA[Charleston Man-of-War is looking for a website manager and lead Programmer to build and manage our website. This person will work with our design team to build out our new website. 
+THIS IS A VOLUNTEER POSITION 
+www.charlestonmanofwar.com 
+This is ti [...]]]></description>
+<dc:date>2013-03-11T17:23:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3616773089.html</dc:source>
+<dc:title><![CDATA[Web Design/Programmer (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T17:23:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3673138454.html">
+<title><![CDATA[Computer/cellphone help (Columbia)]]></title>
+<link>http://columbia.craigslist.org/cpg/3673138454.html</link>
+<description><![CDATA[I need help downloading a cell spyware app to my phone that I can remotely install to target phone. Found many to use but am not confident I can do it on my own on the download side. Will pay for the spyware and will pay you for your time and skill.  [...]]]></description>
+<dc:date>2013-03-11T01:18:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3673138454.html</dc:source>
+<dc:title><![CDATA[Computer/cellphone help (Columbia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T01:18:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3652802009.html">
+<title><![CDATA[Need web site  (columbia)]]></title>
+<link>http://columbia.craigslist.org/cpg/3652802009.html</link>
+<description><![CDATA[I need a website created for my business. 
+Have logo and content. ]]></description>
+<dc:date>2013-03-01T19:26:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3652802009.html</dc:source>
+<dc:title><![CDATA[Need web site  (columbia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T19:26:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3651429397.html">
+<title><![CDATA[need some to install LCD in kindle fire (forest acres)]]></title>
+<link>http://columbia.craigslist.org/cpg/3651429397.html</link>
+<description><![CDATA[need someone to install the LCD screen and digitizer in my Kindle Fire.]]></description>
+<dc:date>2013-03-01T09:54:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3651429397.html</dc:source>
+<dc:title><![CDATA[need some to install LCD in kindle fire (forest acres)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T09:54:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3615744095.html">
+<title><![CDATA[- All Positions Open]]></title>
+<link>http://columbia.craigslist.org/cpg/3615744095.html</link>
+<description><![CDATA[No experience needed. . .free training provided.]]></description>
+<dc:date>2013-02-26T22:13:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3615744095.html</dc:source>
+<dc:title><![CDATA[- All Positions Open]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T22:13:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3644867299.html">
+<title><![CDATA[Need someone with a laser printer]]></title>
+<link>http://columbia.craigslist.org/cpg/3644867299.html</link>
+<description><![CDATA[Need someone with a laser printer to print some documents off and take them to the post office to send off. $40]]></description>
+<dc:date>2013-02-26T12:31:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3644867299.html</dc:source>
+<dc:title><![CDATA[Need someone with a laser printer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:31:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3643241468.html">
+<title><![CDATA[Looking for hacker (Lexington)]]></title>
+<link>http://columbia.craigslist.org/cpg/3643241468.html</link>
+<description><![CDATA[Looking for a computer hacker. Email me what you can do and your pay requirements.]]></description>
+<dc:date>2013-02-25T17:25:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3643241468.html</dc:source>
+<dc:title><![CDATA[Looking for hacker (Lexington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:25:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3642537345.html">
+<title><![CDATA[Someone with a postage meter]]></title>
+<link>http://columbia.craigslist.org/cpg/3642537345.html</link>
+<description><![CDATA[Hi I need something postmarked from columbia and marked with a postage meter, I would send you the envelope I neeed sent out in another envelope and you would just send it out from there. Will pay you a feee]]></description>
+<dc:date>2013-02-25T13:02:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3642537345.html</dc:source>
+<dc:title><![CDATA[Someone with a postage meter]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T13:02:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3636656575.html">
+<title><![CDATA[Part-Time Flexible Hours (Columbia, SC)]]></title>
+<link>http://columbia.craigslist.org/cpg/3636656575.html</link>
+<description><![CDATA[So you're looking for a way to make a little extra money? 
+Are you a retired teacher, current student, entry level business person, seasoned professional or perhaps someone who just simply loves to do things outside of their full time job? 
+Well, we  [...]]]></description>
+<dc:date>2013-02-22T17:30:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3636656575.html</dc:source>
+<dc:title><![CDATA[Part-Time Flexible Hours (Columbia, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T17:30:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://columbia.craigslist.org/cpg/3609847183.html">
+<title><![CDATA[Models, Actresses (Columbia Based)]]></title>
+<link>http://columbia.craigslist.org/cpg/3609847183.html</link>
+<description><![CDATA[Looking for women 18-45 that are wanting to get into modeling and/or acting. We are a start up company and want to find some fresh faces. If interested send photo, name and age and what you aspire to do.]]></description>
+<dc:date>2013-02-11T13:16:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://columbia.craigslist.org/cpg/3609847183.html</dc:source>
+<dc:title><![CDATA[Models, Actresses (Columbia Based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T13:16:23-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

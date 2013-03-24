@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://la.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in los angeles</title>
+<link>http://la.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://la.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in los angeles</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:39:21-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3702073903.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3702059783.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3702058922.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3702029248.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3701939572.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3701886976.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3701851692.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3701803892.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701771479.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3701676712.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3678869687.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3697383720.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701525984.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3650531083.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3701493156.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3701469441.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3701442751.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701392479.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701392050.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701333942.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3701290695.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3701270318.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3657143456.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3683605866.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701194399.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3701192885.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701191821.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3701081019.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3689529661.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3659447774.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3646185960.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700753721.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700582845.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3700531677.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700372062.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700358126.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3700357958.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700311471.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/ant/cpg/3700280260.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3684032046.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3700261694.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3700258423.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3648054190.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3683413621.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3700052813.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699921957.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699812056.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699811893.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3699792874.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699782033.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3699699910.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699642616.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699601861.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699593736.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3639513931.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3679864074.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699471477.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3693976776.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699262820.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3699237337.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699235367.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3699227035.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3693264941.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3699202137.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3693741717.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3693746894.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3635885187.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3687354900.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3678063875.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3682813356.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3685529737.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3698693153.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3679219083.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3698480766.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3698478604.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3698157227.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3660754317.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3697942668.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3697927995.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3697788621.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3697725742.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697712679.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697651125.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sgv/cpg/3697620187.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697501023.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697479249.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3697419998.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697409741.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697395792.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3697152285.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3697101934.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3697096911.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3696951244.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3675045413.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/sfv/cpg/3664918537.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lgb/cpg/3696781370.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3690845802.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/lac/cpg/3696618419.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/wst/cpg/3696583939.html" />
+  <rdf:li rdf:resource="http://losangeles.craigslist.org/ant/cpg/3674965810.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3702073903.html">
+<title><![CDATA[Need a sound engineer to do a simple edit (Los Angeles, CA)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3702073903.html</link>
+<description><![CDATA[Hi! 
+I recently did an interview in 3gp format from a recording of a phone conversation. 
+My voice is plenty loud... The others' voices, are not. They are still there, however. There is no static or overlap. I just need someone to drop my voice a tad [...]]]></description>
+<dc:date>2013-03-24T22:32:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3702073903.html</dc:source>
+<dc:title><![CDATA[Need a sound engineer to do a simple edit (Los Angeles, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:32:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3702059783.html">
+<title><![CDATA[Need Help with Youtube Direct Lite (Westwood)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3702059783.html</link>
+<description><![CDATA[Need help with Youtube Direct Lite to allow visitors to upload videos on my site. What's your hourly rate to help us code this - specifically the "look" of the uploads on the site?]]></description>
+<dc:date>2013-03-24T22:13:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3702059783.html</dc:source>
+<dc:title><![CDATA[Need Help with Youtube Direct Lite (Westwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:13:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3702058922.html">
+<title><![CDATA[Help with PHP/MYSQL to create visitor comments on site (Westwood)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3702058922.html</link>
+<description><![CDATA[If you have experience, or you're a student who can do this, what is your hourly rate to help us code whatever is necessary to create database for visitor comments on a website using MySQL and php?]]></description>
+<dc:date>2013-03-24T22:12:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3702058922.html</dc:source>
+<dc:title><![CDATA[Help with PHP/MYSQL to create visitor comments on site (Westwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:12:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3702029248.html">
+<title><![CDATA[External Hardrive / USB Malfunction  (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3702029248.html</link>
+<description><![CDATA[Hi I am having some some malfunction with my External Samsung Hard Drive. If you can fix it great, if not I only need the data on the hard drive. Please email me if you can do the work and how much. Thanks]]></description>
+<dc:date>2013-03-24T21:37:49-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3702029248.html</dc:source>
+<dc:title><![CDATA[External Hardrive / USB Malfunction  (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:37:49-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3701939572.html">
+<title><![CDATA[Assistant / Office manager (El Segundo (90245))]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3701939572.html</link>
+<description><![CDATA[Assistant / Office Manager needed for 4-5 hours a week on site in small office in El Segundo. 
+This is for a small software development office. 
+Should be familiar with using a Mac, iPhone and iPad, Twitter and Facebook. Office and Excel. 
+You'll be  [...]]]></description>
+<dc:date>2013-03-24T20:10:52-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3701939572.html</dc:source>
+<dc:title><![CDATA[Assistant / Office manager (El Segundo (90245))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:10:52-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3701886976.html">
+<title><![CDATA[Looking for computer technicians]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3701886976.html</link>
+<description><![CDATA[I am looking for computer technicians to register for a website which is like a directory of local computer professionals. 
+If you register on the site you gain free advertising space on the site. 
+https://www.procomport.com/register]]></description>
+<dc:date>2013-03-24T19:28:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3701886976.html</dc:source>
+<dc:title><![CDATA[Looking for computer technicians]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:28:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3701851692.html">
+<title><![CDATA[having a little trouble here (anywhere)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3701851692.html</link>
+<description><![CDATA[can you help me out? got a computer issue that requires a delicate, secret touch. . .hush hush stuff. willing to pay for assistance. ]]></description>
+<dc:date>2013-03-24T19:01:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3701851692.html</dc:source>
+<dc:title><![CDATA[having a little trouble here (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:01:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3701803892.html">
+<title><![CDATA[I need some WordPress training/set-up assistance (on Mac) (Westside Los Angeles only)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3701803892.html</link>
+<description><![CDATA[Please make sure you read this post thoroughly. I will be meticulously looking over possible candidates, and only contacting potential instructors who have the credentials, portfolio, skills and location mentioned. If you are a Pepsi fan, don't respo [...]]]></description>
+<dc:date>2013-03-24T18:27:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3701803892.html</dc:source>
+<dc:title><![CDATA[I need some WordPress training/set-up assistance (on Mac) (Westside Los Angeles only)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:27:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701771479.html">
+<title><![CDATA[LOOKING4SOMEONE THAT CAN WIRE A STEREO & PROGRAM A HOME THEATER MASTER (WEST HOLLYWOOD)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701771479.html</link>
+<description><![CDATA[Had someone try to rewire my stereo and screwed it up and also screwed up my home master custom programmed MX-700 
+So I need someone that know how to do that and can make all the equipment tv/cd/dvd/ and amp to work from the remote control please. 
+W [...]]]></description>
+<dc:date>2013-03-24T18:06:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701771479.html</dc:source>
+<dc:title><![CDATA[LOOKING4SOMEONE THAT CAN WIRE A STEREO & PROGRAM A HOME THEATER MASTER (WEST HOLLYWOOD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:06:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3701676712.html">
+<title><![CDATA[~~IMMEDIATE WORK AVAILABLE ~~]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3701676712.html</link>
+<description><![CDATA[Need motivated workers willing to learn, no experience needed , real easy work...serious people only please... This is no 9 to 5 but it is the way we make a living and you can join us today . I will contact you asap , Thanks!!!]]></description>
+<dc:date>2013-03-24T17:05:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3701676712.html</dc:source>
+<dc:title><![CDATA[~~IMMEDIATE WORK AVAILABLE ~~]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:05:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3678869687.html">
+<title><![CDATA[Student web designer]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3678869687.html</link>
+<description><![CDATA[Looking for a student who has knowledge of html Dreamweaver, flash and action script who can code and put together two sites within three weeks.. Please send your contact info and any designs. 
+All of the images are available and ready.. This pays on [...]]]></description>
+<dc:date>2013-03-24T16:20:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3678869687.html</dc:source>
+<dc:title><![CDATA[Student web designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T16:20:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3697383720.html">
+<title><![CDATA[Affiliate Marketers (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3697383720.html</link>
+<description><![CDATA[I am looking for affiliate marketers... 
+Experienced or beginners... 
+I have an AMAZING affiliate program... 
+If you are interested contact me now!!!]]></description>
+<dc:date>2013-03-24T16:17:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3697383720.html</dc:source>
+<dc:title><![CDATA[Affiliate Marketers (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T16:17:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701525984.html">
+<title><![CDATA[need wordpress theme customized]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701525984.html</link>
+<description><![CDATA[i have a theme on wordpress that i need customized for an entertainment group. need videos posted on the site along with other basic info. send me your experience and a quote asap. ]]></description>
+<dc:date>2013-03-24T15:34:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701525984.html</dc:source>
+<dc:title><![CDATA[need wordpress theme customized]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:34:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3650531083.html">
+<title><![CDATA[Need person with Bento experience (Beverly Hills CA)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3650531083.html</link>
+<description><![CDATA[Need assistance with a computer program named Bento from central Los Angeles CA. 
+Need a lot of experience with Bento. 
+You can call me or tex at 310-975-4055 or E mail me at alain.salmea@gmail.com ]]></description>
+<dc:date>2013-03-24T15:17:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3650531083.html</dc:source>
+<dc:title><![CDATA[Need person with Bento experience (Beverly Hills CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:17:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3701493156.html">
+<title><![CDATA[Hiring Typist For Room & Board Exchange (Brentwood)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3701493156.html</link>
+<description><![CDATA[Hi, I'm hiring a typist for part-time (8-10 hours/wk) in exchange for room & board. I co-own a spacious house in Brentwood that I will share w/ a sectioned off loft area that has a private & remodeled bath. 
+I am a 29 yr. old producer/entrepreneur. 
+ [...]]]></description>
+<dc:date>2013-03-24T15:15:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3701493156.html</dc:source>
+<dc:title><![CDATA[Hiring Typist For Room & Board Exchange (Brentwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:15:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3701469441.html">
+<title><![CDATA[New View Remodel Inc.]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3701469441.html</link>
+<description><![CDATA[We are an energy efficient home improvement company seeking positive, high energy individuals to work in our marketing department. Must have good communication skills and be money motivated. You wont be limited on products because we offer all home i [...]]]></description>
+<dc:date>2013-03-24T15:01:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3701469441.html</dc:source>
+<dc:title><![CDATA[New View Remodel Inc.]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:01:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3701442751.html">
+<title><![CDATA[Web Page Design (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3701442751.html</link>
+<description><![CDATA[So I'm starting up my own business and I've gotten down what I want exactly but I need someone to code and help me out with the little details. 
+Since I'm starting up, I don't have much money so if it was reasonable price it would be nice. 
+Please hi [...]]]></description>
+<dc:date>2013-03-24T14:46:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3701442751.html</dc:source>
+<dc:title><![CDATA[Web Page Design (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:46:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701392479.html">
+<title><![CDATA[Sales Advertising / Marketing Needed Now!!! (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701392479.html</link>
+<description><![CDATA[Sales Advertising / Marketing (Intern-Commission Only) 
+Responsibilities: 
+• Sell Radio Advertising Time Slots 
+• Manage Sales Accounts 
+• Create & Edit Marketing Materials 
+• Collaborate & Create Effective Sales & Marketing Strategies 
+• Social Medi [...]]]></description>
+<dc:date>2013-03-24T14:18:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701392479.html</dc:source>
+<dc:title><![CDATA[Sales Advertising / Marketing Needed Now!!! (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:18:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701392050.html">
+<title><![CDATA[Web & Graphic Designer Interns Wanted Now!!! (Los Angeles/Hollywood)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701392050.html</link>
+<description><![CDATA[Web & Graphic Designer (Intern-Commission Only) 
+Responsibilities: 
+• Creating and Managing the Design of our Website 
+• Creating New and Editing Existing Graphic Designs 
+Requirements: 
+• Business, moral and character Integrity is the MOST important [...]]]></description>
+<dc:date>2013-03-24T14:18:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701392050.html</dc:source>
+<dc:title><![CDATA[Web & Graphic Designer Interns Wanted Now!!! (Los Angeles/Hollywood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T14:18:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701333942.html">
+<title><![CDATA[Website page repair needed (LA)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701333942.html</link>
+<description><![CDATA[I need to fix that page with form - problem - it's not working properly, some issue with recaptcha code or else, it's something simple, Issues: Receiving empty message on e-mail, confirmation page showing something wrong too. See attached pics for de [...]]]></description>
+<dc:date>2013-03-24T13:46:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701333942.html</dc:source>
+<dc:title><![CDATA[Website page repair needed (LA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:46:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3701290695.html">
+<title><![CDATA[Videography barter for web design]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3701290695.html</link>
+<description><![CDATA[I posted before and just want to be clear I am not looking for a cheapy template website. I am a videographer with own gear. Camera package, dollies, crane, steadicam etc. I am looking to barter a pro website for a promotional 3 mn video for your bus [...]]]></description>
+<dc:date>2013-03-24T13:23:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3701290695.html</dc:source>
+<dc:title><![CDATA[Videography barter for web design]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:23:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3701270318.html">
+<title><![CDATA[Customer Support for Website (Van Nuys)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3701270318.html</link>
+<description><![CDATA[We run a website and have reached a point where we 
+could use some extra help. Looking for someone to 
+answer customer calls, reply to emails, and keep track 
+of responses to voice mails and emails. 
+If you are used to browsing the internet and using [...]]]></description>
+<dc:date>2013-03-24T13:12:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3701270318.html</dc:source>
+<dc:title><![CDATA[Customer Support for Website (Van Nuys)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:12:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3657143456.html">
+<title><![CDATA[wordpress guru  (los angeles area)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3657143456.html</link>
+<description><![CDATA[Do you know WordPress? Do you have solid PHP & MYSQL skills? If you do, we need you. 
+We have taken over a series of projects from other web companies and need the extra help in getting these projects completed. 
+This would be full time work. 
+Please [...]]]></description>
+<dc:date>2013-03-24T12:49:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3657143456.html</dc:source>
+<dc:title><![CDATA[wordpress guru  (los angeles area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:49:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3683605866.html">
+<title><![CDATA[marketing designer wanted (Van nuys)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3683605866.html</link>
+<description><![CDATA[Now hiring a responsible and energetic individual who can run a home remodeling center. No experience is necessary. will train. Must have a car. Please stop by at 7701 Sepulveda blvd., van nuys, ca or call Ed (818) 635-8715 any time.]]></description>
+<dc:date>2013-03-24T12:47:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3683605866.html</dc:source>
+<dc:title><![CDATA[marketing designer wanted (Van nuys)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:47:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701194399.html">
+<title><![CDATA[Photoshop or Pages Guru (Silver Lake)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701194399.html</link>
+<description><![CDATA[Hi there -- We are a production company looking for someone who is a guru in either Photoshop or Pages who can lay out our show treatments. You will get them all edited, with all photos, etc. We just need someone to make them pretty and put them in s [...]]]></description>
+<dc:date>2013-03-24T12:32:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701194399.html</dc:source>
+<dc:title><![CDATA[Photoshop or Pages Guru (Silver Lake)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:32:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3701192885.html">
+<title><![CDATA[~13 year old makes 99$ daily~]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3701192885.html</link>
+<description><![CDATA[~13 YEAR OLD MAKES MONEY ONLINE INSTANT PAYMENT EVERDAY~ 
+IF A 13 YEAR OLD CAN DO IT, SO CAN YOU! 
+WANT TO LEARN HOW? STEP-BY-STEP? 
+=&gt; whyworkhard.com/13 ]]></description>
+<dc:date>2013-03-24T12:32:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3701192885.html</dc:source>
+<dc:title><![CDATA[~13 year old makes 99$ daily~]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:32:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701191821.html">
+<title><![CDATA[Hot Babe Seeks Webmaster! Sexy Trade! (Hollywood)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701191821.html</link>
+<description><![CDATA[I seek a webmaster who can professionally design site with audio tracks/donation site. I want it to look pro not a do it yourself. I'm a lot of fun. I wish I could pay but I'm not making much money these days.Thanks for reading. Sorry to insult anyon [...]]]></description>
+<dc:date>2013-03-24T12:31:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701191821.html</dc:source>
+<dc:title><![CDATA[Hot Babe Seeks Webmaster! Sexy Trade! (Hollywood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:31:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3701081019.html">
+<title><![CDATA[need to have year end receipts added - accounting (Los Angele - downtown)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3701081019.html</link>
+<description><![CDATA[accounting (need someone to add up receipts) 
+you pick up the reciepts (downtown los angeles) 
+small business (one person consulting ) 
+tax year 2012 
+receipts are catagorized 
+need someone to add up the receipts to total by category 
+and run a tape  [...]]]></description>
+<dc:date>2013-03-24T11:34:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3701081019.html</dc:source>
+<dc:title><![CDATA[need to have year end receipts added - accounting (Los Angele - downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:34:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3689529661.html">
+<title><![CDATA[accounting (need someone to add up receipts) (downton los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3689529661.html</link>
+<description><![CDATA[tax year 2012 
+receipts are catagorized 
+need someone to add up the receipts to total by category 
+small business 
+please provide your links and fee 
+thx 
+scott]]></description>
+<dc:date>2013-03-24T11:26:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3689529661.html</dc:source>
+<dc:title><![CDATA[accounting (need someone to add up receipts) (downton los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:26:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3659447774.html">
+<title><![CDATA[SEO Link Builder Wanted (remote)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3659447774.html</link>
+<description><![CDATA[SEO Link Builder Wanted 
+Should have white-hat experience for sustainability results 
+please email your skills ]]></description>
+<dc:date>2013-03-24T09:42:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3659447774.html</dc:source>
+<dc:title><![CDATA[SEO Link Builder Wanted (remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:42:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3646185960.html">
+<title><![CDATA[Computer Technician (Santa Monica)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3646185960.html</link>
+<description><![CDATA[We are looking for a part time computer technician in Santa Monica. We are a 24 hour computer repair service the Santa Monica area. College students are encouraged to apply. 
+This position is very flexible; we schedule technician's appointments aroun [...]]]></description>
+<dc:date>2013-03-24T09:35:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3646185960.html</dc:source>
+<dc:title><![CDATA[Computer Technician (Santa Monica)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T09:35:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700753721.html">
+<title><![CDATA[Easy phone Interview, Easy Cash  (Virtual)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700753721.html</link>
+<description><![CDATA[Hello Craigslist, 
+I have a situation. I need someone to sell an 8 to 12 minute phone interview. I have been applying for this customer service/sales position for about 3 times now but this is the step that always gets me. I need this job so I would  [...]]]></description>
+<dc:date>2013-03-24T08:44:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700753721.html</dc:source>
+<dc:title><![CDATA[Easy phone Interview, Easy Cash  (Virtual)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T08:44:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700582845.html">
+<title><![CDATA[looking for whiz (LA/USA)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700582845.html</link>
+<description><![CDATA[looking for social network whiz to up my social media sites and send follow up emails to and publications I sent to]]></description>
+<dc:date>2013-03-24T06:50:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700582845.html</dc:source>
+<dc:title><![CDATA[looking for whiz (LA/USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T06:50:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3700531677.html">
+<title><![CDATA[Integrate Tokbox API with Wordpress (Anywhere)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3700531677.html</link>
+<description><![CDATA[I am looking for a developer to integrate the tokbox api into a Wordpress site. Will use eStore and eMember plug in to control access of conferencing video, which will be used for an online fitness class. People will buy a subscription or class pass  [...]]]></description>
+<dc:date>2013-03-24T06:04:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3700531677.html</dc:source>
+<dc:title><![CDATA[Integrate Tokbox API with Wordpress (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T06:04:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700372062.html">
+<title><![CDATA[Phone Gap for Android (Anywhere)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700372062.html</link>
+<description><![CDATA[I need someone to port an HTML5 tablet app into an Android compatible app that can work offline. The HTML5 web app is done. It just needs to be ported to Android with Phone Gap. Please email work, resume and ball park cost. Looking for fast turn arou [...]]]></description>
+<dc:date>2013-03-24T00:28:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700372062.html</dc:source>
+<dc:title><![CDATA[Phone Gap for Android (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T00:28:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700358126.html">
+<title><![CDATA[WEB DESIGNER/PROGRAMER (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700358126.html</link>
+<description><![CDATA[We are looking for a creative Web Designer/Programer who can create a website for a festival running short film. Below you can find some samples of, to us, appealing sites. 
+We are more than open to your creative input!! 
+SAMPLES: 
+&gt; http://curfew [...]]]></description>
+<dc:date>2013-03-23T23:59:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700358126.html</dc:source>
+<dc:title><![CDATA[WEB DESIGNER/PROGRAMER (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T23:59:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3700357958.html">
+<title><![CDATA[**Need MAGENTO SPECIALIST for DATA UPLOAD, 80 products*** (City of Industry)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3700357958.html</link>
+<description><![CDATA[Need a simple data entry of 80 products and other miscellaneous items for the site. Please reply with a quote. Not looking to spend more than $100.]]></description>
+<dc:date>2013-03-23T23:59:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3700357958.html</dc:source>
+<dc:title><![CDATA[**Need MAGENTO SPECIALIST for DATA UPLOAD, 80 products*** (City of Industry)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T23:59:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700311471.html">
+<title><![CDATA[Seeking PHP/AJAX developers (Anywhere)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700311471.html</link>
+<description><![CDATA[Web production team is seeking two part time developers (internships also available). Skills required: 
+PHP, AJAX, CSS, jQuery, HTML Not required, but ideally you would be located in the Los Angeles area, 
+-Able to work on and offsite 
+-A big thinker [...]]]></description>
+<dc:date>2013-03-23T22:40:24-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700311471.html</dc:source>
+<dc:title><![CDATA[Seeking PHP/AJAX developers (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T22:40:24-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/ant/cpg/3700280260.html">
+<title><![CDATA[Final Cut Pro Paid internship (Lancaster)]]></title>
+<link>http://losangeles.craigslist.org/ant/cpg/3700280260.html</link>
+<description><![CDATA[We need a Final Cut Pro Editing intern for the next couple of weeks. Someone who has learned the basics but needs piratical experience with real projects would be ideal. 
+Work with a multiple Emmy Award winner. I've been a Director of Music Videos fo [...]]]></description>
+<dc:date>2013-03-23T21:58:28-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/ant/cpg/3700280260.html</dc:source>
+<dc:title><![CDATA[Final Cut Pro Paid internship (Lancaster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T21:58:28-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3684032046.html">
+<title><![CDATA[BI-LINGUAL $$ MOTIVATED SALES MANAGER NEEDED!! (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3684032046.html</link>
+<description><![CDATA[We are hiring a new Sales Manager. We are open to interviewing any and all applicants for this position. 
+We are a Wholesale Supply Corporation, supplying Brand Name Apparel and Fashion around the world. 
+This position is commission + base, so as you [...]]]></description>
+<dc:date>2013-03-23T21:54:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3684032046.html</dc:source>
+<dc:title><![CDATA[BI-LINGUAL $$ MOTIVATED SALES MANAGER NEEDED!! (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T21:54:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3700261694.html">
+<title><![CDATA[wanted computer person to help clean up all the crap on it  (san dimas)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3700261694.html</link>
+<description><![CDATA[wanted person to come to my house sunday an d clean up my computer cal me ty 909 374 9909]]></description>
+<dc:date>2013-03-23T21:36:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3700261694.html</dc:source>
+<dc:title><![CDATA[wanted computer person to help clean up all the crap on it  (san dimas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T21:36:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3700258423.html">
+<title><![CDATA[good at internet searches and investigations? (does not matter...)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3700258423.html</link>
+<description><![CDATA[I need to find some specific info online. I don't know where to begin to look for it, or even find it. Need someone who's brilliant at computer/internet investigations. But no hacking, nothing illegal. I just need to find a person whose contact I ver [...]]]></description>
+<dc:date>2013-03-23T21:32:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3700258423.html</dc:source>
+<dc:title><![CDATA[good at internet searches and investigations? (does not matter...)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T21:32:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3648054190.html">
+<title><![CDATA[Experienced Ad sales person needed to generate ad revenues for online (Anywhere)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3648054190.html</link>
+<description><![CDATA[We need experienced internet advertising sales people for display, CPM, CPC, CPA, Advitorials, Affiliate Marketing or whatever way we can monetize our 21 city, 11 year old websites. 
+We come up on Google's first page for many if not most of our artic [...]]]></description>
+<dc:date>2013-03-23T21:08:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3648054190.html</dc:source>
+<dc:title><![CDATA[Experienced Ad sales person needed to generate ad revenues for online (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T21:08:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3683413621.html">
+<title><![CDATA[TECHY ELEMENTARY TUTOR NEEDED ( STUDIO CITY)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3683413621.html</link>
+<description><![CDATA[We are seeking a creative MALE Tutor in Studio City for a gifted 8 year old boy. 
+The ideal candidate will have: 
+* Bachelor's degree or above 
+* Ability to tutor how to create videos and teach simple techniques in a home school setting. 
+* 1-2 years [...]]]></description>
+<dc:date>2013-03-23T20:00:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3683413621.html</dc:source>
+<dc:title><![CDATA[TECHY ELEMENTARY TUTOR NEEDED ( STUDIO CITY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T20:00:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3700052813.html">
+<title><![CDATA[ Graphic Designer /marketing/web (vista)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3700052813.html</link>
+<description><![CDATA[Graphic Designer /marketing (vista) 
+We are a start-up looking for a talented graphic designer who can help us with a Christian clothing line. We are looking for someone who thinks creatively and can be a partner in thinking through new ideas and con [...]]]></description>
+<dc:date>2013-03-23T18:21:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3700052813.html</dc:source>
+<dc:title><![CDATA[ Graphic Designer /marketing/web (vista)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:21:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699921957.html">
+<title><![CDATA[Need help with facebook business page  (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699921957.html</link>
+<description><![CDATA[Hello I need a few things fixed on my facebook business page ( band ) . The corrections would be simple to a tech familiar with this type of page 
+please reply if you are interested and to discuss payment. 
+I will provide a phone number upon reply so [...]]]></description>
+<dc:date>2013-03-23T16:46:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699921957.html</dc:source>
+<dc:title><![CDATA[Need help with facebook business page  (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:46:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699812056.html">
+<title><![CDATA[Excel Flyer Layout (Your Desktop)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699812056.html</link>
+<description><![CDATA[Need someone to layout text, photos and tables in Excel to compose a flyer for real estate/mortgage co-marketing. I can provide PDF samples of desired output. 
+Please respond with your skills, rate and turn time. ]]></description>
+<dc:date>2013-03-23T15:36:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699812056.html</dc:source>
+<dc:title><![CDATA[Excel Flyer Layout (Your Desktop)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:36:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699811893.html">
+<title><![CDATA[Great Opportunity (L.A. Area)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699811893.html</link>
+<description><![CDATA[We are looking for someone who has Geek worthy computer skills to get in on the ground floor of a Global netflicks style company. 
+Needs to know the technical ins and outs of setting up such a company. ]]></description>
+<dc:date>2013-03-23T15:36:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699811893.html</dc:source>
+<dc:title><![CDATA[Great Opportunity (L.A. Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:36:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3699792874.html">
+<title><![CDATA[Need help REVIEWING & RENAMING PHOTOS (Long Beach)]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3699792874.html</link>
+<description><![CDATA[Our company needs short-term help reviewing and renaming photo files for our large project. You will be ensuring photos taken match what we need and renaming to our conventions. We're estimating about 30-40 hours for 1 person, or 15-20 for 2 people.  [...]]]></description>
+<dc:date>2013-03-23T15:24:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3699792874.html</dc:source>
+<dc:title><![CDATA[Need help REVIEWING & RENAMING PHOTOS (Long Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:24:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699782033.html">
+<title><![CDATA[I need to delete myself from the internet (los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699782033.html</link>
+<description><![CDATA[the title says it all, i need somebody that will help me with that. send me an email]]></description>
+<dc:date>2013-03-23T15:18:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699782033.html</dc:source>
+<dc:title><![CDATA[I need to delete myself from the internet (los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:18:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3699699910.html">
+<title><![CDATA[Coder/Developer needed (or Team)]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3699699910.html</link>
+<description><![CDATA[Hiring a person/team to make as below: 
+The application should like the following: http://tr.im/424gp 
+Please download and install the application first and go through the app so you get an idea of the project and send me a short description on how w [...]]]></description>
+<dc:date>2013-03-23T14:30:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3699699910.html</dc:source>
+<dc:title><![CDATA[Coder/Developer needed (or Team)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T14:30:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699642616.html">
+<title><![CDATA[Hiring Typist In Exchange For Room & Board (Brentwood)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699642616.html</link>
+<description><![CDATA[Hi, I'm hiring a typist for part-time (8-10 hours/wk) in exchange for room & board. I co-own a spacious house in Brentwood that I will share w/ a sectioned off loft area that has a private & remodeled bath. 
+I am a 29 yr. old producer/entrepreneur. 
+ [...]]]></description>
+<dc:date>2013-03-23T13:59:09-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699642616.html</dc:source>
+<dc:title><![CDATA[Hiring Typist In Exchange For Room & Board (Brentwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:59:09-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699601861.html">
+<title><![CDATA[ Website Coder or Team Needed]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699601861.html</link>
+<description><![CDATA[I want a team for an application am planning to develop. 
+The application should be an exact clone of - http://2tu.us/6mnh 
+Its a backup software. Before replying to me with a long list of your portfolio, please download and install the application f [...]]]></description>
+<dc:date>2013-03-23T13:37:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699601861.html</dc:source>
+<dc:title><![CDATA[ Website Coder or Team Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:37:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699593736.html">
+<title><![CDATA[Application Developer or Team Needed]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699593736.html</link>
+<description><![CDATA[I want a team for an application am planning to develop. 
+The application should be an exact clone of - http://2tu.us/6mnh 
+Its a backup software. Before replying to me with a long list of your portfolio, please download and install the application f [...]]]></description>
+<dc:date>2013-03-23T13:33:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699593736.html</dc:source>
+<dc:title><![CDATA[Application Developer or Team Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:33:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3639513931.html">
+<title><![CDATA[MANAGEMENT needed for U tube artist with MILLIONS OF HITS]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3639513931.html</link>
+<description><![CDATA[We need Management for a very Different kind of music project. 
+This Artists songs have gone Viral the world over. 
+Serious only. Percentage ONLY Real only.]]></description>
+<dc:date>2013-03-23T13:15:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3639513931.html</dc:source>
+<dc:title><![CDATA[MANAGEMENT needed for U tube artist with MILLIONS OF HITS]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:15:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3679864074.html">
+<title><![CDATA[Help Reformatting 100MB Excel Workbook  (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3679864074.html</link>
+<description><![CDATA[I created a spreadsheet to backtest some stock market data but the file has grown in size exponentially and now I need some help with changing the way it's structured. I have already done quite a bit myself to shrink the size of the file. I've remove [...]]]></description>
+<dc:date>2013-03-23T13:09:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3679864074.html</dc:source>
+<dc:title><![CDATA[Help Reformatting 100MB Excel Workbook  (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T13:09:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699471477.html">
+<title><![CDATA[Looking for Software Developer for a Start Up (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699471477.html</link>
+<description><![CDATA[We are looking for a local software developer to become a partner in our start up company. Individual must be highly motivated and a team player. Our company is created by healthcare professionals and experience with healthcare software is a plus. Ou [...]]]></description>
+<dc:date>2013-03-23T12:31:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699471477.html</dc:source>
+<dc:title><![CDATA[Looking for Software Developer for a Start Up (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:31:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3693976776.html">
+<title><![CDATA[Seeking man or woman to sell my rare books online (you must be in Glendale or nearby)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3693976776.html</link>
+<description><![CDATA[This offer is open to ambitious men or women--it's a genuine opportunity to succeed. 
+I have thousands of volumes of literature, all literary first editions signed 
+by their authors--Vonnegut, Mailer, Atwood, Robert Block, Sue Grafton, etc. 
+I need s [...]]]></description>
+<dc:date>2013-03-23T11:29:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3693976776.html</dc:source>
+<dc:title><![CDATA[Seeking man or woman to sell my rare books online (you must be in Glendale or nearby)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T11:29:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699262820.html">
+<title><![CDATA[DATA ENTRY NEEDED (los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699262820.html</link>
+<description><![CDATA[web site developement needed and data entry needed for a website it is a drop ship site need to up load images and products as well as up date the site also must know about fashion and must be in los angeles and must be reasonable serious callers onl [...]]]></description>
+<dc:date>2013-03-23T10:52:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699262820.html</dc:source>
+<dc:title><![CDATA[DATA ENTRY NEEDED (los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:52:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3699237337.html">
+<title><![CDATA[Hot Babe Seeks Webmaster! Sexy Trade! (Hollywood)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3699237337.html</link>
+<description><![CDATA[I seek a webmaster who can design a site with audio tracks/donation. I really want it to look pro not a do it yourself. I'm a lot of fun and would like to make an arrangement with the right web master. I wish I could pay but I'm not making much money [...]]]></description>
+<dc:date>2013-03-23T10:41:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3699237337.html</dc:source>
+<dc:title><![CDATA[Hot Babe Seeks Webmaster! Sexy Trade! (Hollywood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:41:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699235367.html">
+<title><![CDATA[Microsoft Dynamics setup and configuration  (torrance)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699235367.html</link>
+<description><![CDATA[I need settign up Microsoft Dynamics. my company is a service and retail company. 
+•Installation and setup of Microsoft Server and Outlook Client components. 
+•on-site business requirements definition and CRM functionality mapping and design. 
+• on-s [...]]]></description>
+<dc:date>2013-03-23T10:40:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699235367.html</dc:source>
+<dc:title><![CDATA[Microsoft Dynamics setup and configuration  (torrance)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:40:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3699227035.html">
+<title><![CDATA[Persistant sound problem]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3699227035.html</link>
+<description><![CDATA[I have a 6 core AMD computer that works OK in all respects except for the sound. The motherboard sound failed a while ago. I replaced it with a plug-in sound card, and that worked for a while, then started failing. Several people have looked at this, [...]]]></description>
+<dc:date>2013-03-23T10:36:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3699227035.html</dc:source>
+<dc:title><![CDATA[Persistant sound problem]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:36:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3693264941.html">
+<title><![CDATA[TUTOR WANTED- TEACH ME HOW TO USE(SOFT PLAN) ARCHITECTURAL AUTO CAD (ALL)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3693264941.html</link>
+<description><![CDATA[HELLO 
+MY NAME IS VINCE, I LIVE IN SAN DIMAS, I AM LOOKING FOR SOMEONE 
+WHO CAN TEACH ME HOW TO USE THE SOFT PLAN -ARCHITECTURAL 
+AUTO CAD.. PLEASE CALL TO DISCUSS PAYMENT AND SCHEDULE A 
+MEETING. 
+THANKS, 909 764-4487]]></description>
+<dc:date>2013-03-23T10:26:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3693264941.html</dc:source>
+<dc:title><![CDATA[TUTOR WANTED- TEACH ME HOW TO USE(SOFT PLAN) ARCHITECTURAL AUTO CAD (ALL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:26:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3699202137.html">
+<title><![CDATA[Web programmer with TelAPI experience (southbay)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3699202137.html</link>
+<description><![CDATA[Are you a web programmer with TelAPI experience? I am starting a new website from scratch and need an experienced programmer who has TelAPI experience - someone who knows the in's and out's, how to incorporate code into site, knows the technical proc [...]]]></description>
+<dc:date>2013-03-23T10:25:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3699202137.html</dc:source>
+<dc:title><![CDATA[Web programmer with TelAPI experience (southbay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:25:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3693741717.html">
+<title><![CDATA[Small, online, nonprofit school needs a web-designer for tax-writeoff (West Hills)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3693741717.html</link>
+<description><![CDATA[Sorry, we don't have much money and what I have is service already present (the host and domain). I'd like someone to design our school's website and include audio/video chatroom, blog and donation area if possible. This is nonprofit, so I could offe [...]]]></description>
+<dc:date>2013-03-23T10:17:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3693741717.html</dc:source>
+<dc:title><![CDATA[Small, online, nonprofit school needs a web-designer for tax-writeoff (West Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:17:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3693746894.html">
+<title><![CDATA[Help a nonprofit school web-design and get tax benefit! (West Hills)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3693746894.html</link>
+<description><![CDATA[Sorry, we do not have much money and what I have is the host and domain set. I would like someone to enter our information Nicely into our school's website and include a blog and audio and video chatroom. This is nonprofit, so I could offer you a tax [...]]]></description>
+<dc:date>2013-03-23T10:11:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3693746894.html</dc:source>
+<dc:title><![CDATA[Help a nonprofit school web-design and get tax benefit! (West Hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:11:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3635885187.html">
+<title><![CDATA[QB projects (Surrounding areas)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3635885187.html</link>
+<description><![CDATA[Requirements: 
+-1 yr QB's experience 
+-1 yr. Assistant experience 
+-1 yr. Administrative experience 
+- 50 WPM 
+-organized, reliable 
+-Own transportation and willing to travel to clients (A MUST) 
+Will be contracted out to clients that need a bookkeep [...]]]></description>
+<dc:date>2013-03-23T08:43:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3635885187.html</dc:source>
+<dc:title><![CDATA[QB projects (Surrounding areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:43:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3687354900.html">
+<title><![CDATA[TUTOR WANTED FOR SOFT PLAN (ARCHITECTURAL DESIGN SOFTWARE) (NEAR SAN DIMAS)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3687354900.html</link>
+<description><![CDATA[HELLO , 
+I AM LOOKING FOR A PRIVATE TUTOR TO TEACH ME HOW TO 
+WORK , SOFT PLAN PROGRAM (architectural auto cad) PLEASE CALL ME TO 
+DISCUSS PAYMENT AND ARRANGE A MEETING. 
+VINCE @ 909 764-4487 ]]></description>
+<dc:date>2013-03-23T08:19:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3687354900.html</dc:source>
+<dc:title><![CDATA[TUTOR WANTED FOR SOFT PLAN (ARCHITECTURAL DESIGN SOFTWARE) (NEAR SAN DIMAS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:19:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3678063875.html">
+<title><![CDATA[search on line to help a handy cap (La)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3678063875.html</link>
+<description><![CDATA[Research on line to help a handy cap (La) 
+Help with filing civil case (Los Angeles,Ca.) 
+Help 
+Hellllllllp 
+Helpppppppp, 
+Reply to this post & help me if you can. 
+Need someone to help with finding 1) BMW Electronics failure resulting in fire damage [...]]]></description>
+<dc:date>2013-03-23T08:05:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3678063875.html</dc:source>
+<dc:title><![CDATA[search on line to help a handy cap (La)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:05:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3682813356.html">
+<title><![CDATA[assistant to research and type on ebay (los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3682813356.html</link>
+<description><![CDATA[Looking for somebody to type all the information for each item for ebay and follow up. pay hourly or by piece. if you have experience with uploading and how to sell on ebay it will be better.call Daniel @3238500316]]></description>
+<dc:date>2013-03-23T08:03:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3682813356.html</dc:source>
+<dc:title><![CDATA[assistant to research and type on ebay (los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:03:32-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3685529737.html">
+<title><![CDATA[In Need of Businesses Who Need Marketing]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3685529737.html</link>
+<description><![CDATA[If you are a business owner who needs clients, sales or customers I can help you. Contact me here.]]></description>
+<dc:date>2013-03-23T06:53:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3685529737.html</dc:source>
+<dc:title><![CDATA[In Need of Businesses Who Need Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T06:53:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3698693153.html">
+<title><![CDATA[URGENT ADVERTISING SALES PERSON NEEDED FOR NEW MAGAZINE (LOS ANGELES)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3698693153.html</link>
+<description><![CDATA[We are looking for salespersons who will be required to seek out local and international companies who wish to advertise in our new magazine. This is an exciting opportunity to grow with our company and make an endless stream of money as you build on [...]]]></description>
+<dc:date>2013-03-23T05:45:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3698693153.html</dc:source>
+<dc:title><![CDATA[URGENT ADVERTISING SALES PERSON NEEDED FOR NEW MAGAZINE (LOS ANGELES)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T05:45:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3679219083.html">
+<title><![CDATA[RE: need some one can posting add on ebay & amazon (downtown los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3679219083.html</link>
+<description><![CDATA[if you have experience posting add on ebay and amazon please contact Mr. Kamy at 424-888-4846 
+---------------------------------------------------------------------------------------------------------------------------------- 
+DO NOT WORK FOR MR KAMY [...]]]></description>
+<dc:date>2013-03-22T22:54:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3679219083.html</dc:source>
+<dc:title><![CDATA[RE: need some one can posting add on ebay & amazon (downtown los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:54:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3698480766.html">
+<title><![CDATA[need someone to make an app for us (west la)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3698480766.html</link>
+<description><![CDATA[Hi, 
+we are looking for someone to make an app (either android or iPhone) for us- please give us a quote- thanks!]]></description>
+<dc:date>2013-03-22T22:53:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3698480766.html</dc:source>
+<dc:title><![CDATA[need someone to make an app for us (west la)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:53:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3698478604.html">
+<title><![CDATA[Unique web develpoment opprotunity for Entertainment Professionals (West Hollywood)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3698478604.html</link>
+<description><![CDATA[Movie production company in West Hollywood is looking to branch out and expand into online presence. 
+We are seeking a student (preferred) help on this project. You'd work with our business affairs excetuve on the specification. 
+It is preferred to b [...]]]></description>
+<dc:date>2013-03-22T22:50:22-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3698478604.html</dc:source>
+<dc:title><![CDATA[Unique web develpoment opprotunity for Entertainment Professionals (West Hollywood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T22:50:22-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3698157227.html">
+<title><![CDATA[Looking for backlink building specialists]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3698157227.html</link>
+<description><![CDATA[Need someone who can get me links to PR2+ sites (non spammy) 
+Email me with subject "have non spammy sites" or it will get trashed. 
+Offering a max of $120/link.]]></description>
+<dc:date>2013-03-22T17:52:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3698157227.html</dc:source>
+<dc:title><![CDATA[Looking for backlink building specialists]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:52:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3660754317.html">
+<title><![CDATA[Looking for a local partnership (LA)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3660754317.html</link>
+<description><![CDATA[Experienced Web Development team looking for company or business individual to create a profitable representation in LA area. 
+Contact us with your offer to get more information. 
+Thank you.]]></description>
+<dc:date>2013-03-22T17:18:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3660754317.html</dc:source>
+<dc:title><![CDATA[Looking for a local partnership (LA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:18:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3697942668.html">
+<title><![CDATA[Word Press WebComic (United States)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3697942668.html</link>
+<description><![CDATA[Need help installing and working webcomic for word press. I can do design and content just need help getting it up. It functions differently than other WP blogs I've done. 
+$75 flat. Need it up by next week. ]]></description>
+<dc:date>2013-03-22T15:39:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3697942668.html</dc:source>
+<dc:title><![CDATA[Word Press WebComic (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:39:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3697927995.html">
+<title><![CDATA[I.T. GUY WANTED (Encino)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3697927995.html</link>
+<description><![CDATA[Looking for I.T. GUY who can set up 3 new computers, who has most programs available to him and knows how to set up networks. 
+Must be available ASAP. 
+To Apply: Please email with your contact information. ]]></description>
+<dc:date>2013-03-22T15:31:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3697927995.html</dc:source>
+<dc:title><![CDATA[I.T. GUY WANTED (Encino)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:31:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3697788621.html">
+<title><![CDATA[Video downloading editing help wanted from your home]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3697788621.html</link>
+<description><![CDATA[There's no real money in this, it's a kid's project and English is his second language. 
+He speaks German and some English and his video is sideways! And is on facebook 
+now, but we need it on Youtube. Anyone who wants to help would be oh so cool. 
+G [...]]]></description>
+<dc:date>2013-03-22T14:17:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3697788621.html</dc:source>
+<dc:title><![CDATA[Video downloading editing help wanted from your home]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T14:17:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3697725742.html">
+<title><![CDATA[Focus Group participant (Pasadena)]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3697725742.html</link>
+<description><![CDATA[Do you use a computer? Do you do the grocery shopping for your household? Do you spend more than $50 per week on groceries? Do you go grocery shopping at least twice per month? Have you used a coupon in the past month? Are you an at home mom/dad who  [...]]]></description>
+<dc:date>2013-03-22T13:46:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3697725742.html</dc:source>
+<dc:title><![CDATA[Focus Group participant (Pasadena)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:46:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697712679.html">
+<title><![CDATA[HTML5 / Canvas - Need Help, Falling Particle Effect (Anywhere)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697712679.html</link>
+<description><![CDATA[I need to create a falling gold flake effect for the background of a site. You can see this link as a starting point: http://codepen.io/linrock/pen/Amdhr - except it should be gold, and look more like flakes. The motion should be slower than this exa [...]]]></description>
+<dc:date>2013-03-22T13:39:36-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697712679.html</dc:source>
+<dc:title><![CDATA[HTML5 / Canvas - Need Help, Falling Particle Effect (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:39:36-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697651125.html">
+<title><![CDATA[USA Federal Income Tax Filing]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697651125.html</link>
+<description><![CDATA[I am seeking an accountant to file USA federal income tax for two self employed individuals (both are sole proprietorship). This means a total of four tax returns: two individual and two company. 
+Please write from yourname @ accountingcompany.com an [...]]]></description>
+<dc:date>2013-03-22T13:09:45-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697651125.html</dc:source>
+<dc:title><![CDATA[USA Federal Income Tax Filing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T13:09:45-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sgv/cpg/3697620187.html">
+<title><![CDATA[Contruct 2 PROGRAMMER FOR GAME !]]></title>
+<link>http://losangeles.craigslist.org/sgv/cpg/3697620187.html</link>
+<description><![CDATA[COMPENSATION: 
+* Shared revenue and inclusion in credits. 
+LOCAL ONLY ! 
+Hi, I am looking for an Experienced and committed Programmer to partner for indie game. 
+* Contruct 2 experience ++ 
+* Prefer Local to L.A., CA. USA 
+Market: Desura, Steam, Goog [...]]]></description>
+<dc:date>2013-03-22T12:54:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sgv/cpg/3697620187.html</dc:source>
+<dc:title><![CDATA[Contruct 2 PROGRAMMER FOR GAME !]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:54:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697501023.html">
+<title><![CDATA[Telemarketing (Playa del rey)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697501023.html</link>
+<description><![CDATA[**************************TELEMARKETING NEEDED******************* 
+PART TIME JOB 
+SALARY + COMMISSIONS 
+THE OFFICE LOCATED IN MARINA DEL REY AREA 
+EXPERIENCE NEEDED]]></description>
+<dc:date>2013-03-22T11:59:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697501023.html</dc:source>
+<dc:title><![CDATA[Telemarketing (Playa del rey)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:59:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697479249.html">
+<title><![CDATA[Paid focus group for men ages 22 - 29 who drink beer $75 (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697479249.html</link>
+<description><![CDATA[We are currently seeking SOCIAL SAVVY MEN AGES 22-29 who drink DOMESTIC beer. Please respond with the following information and someone will call you back for further screening. 
+Name: 
+age: 
+ethnicity: 
+phone number: 
+city of residence: 
+occupation: [...]]]></description>
+<dc:date>2013-03-22T11:49:02-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697479249.html</dc:source>
+<dc:title><![CDATA[Paid focus group for men ages 22 - 29 who drink beer $75 (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:49:02-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3697419998.html">
+<title><![CDATA[Looking For Someone w/PHP experience (Hollywood)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3697419998.html</link>
+<description><![CDATA[Looking for someone with PHP experience to assist me with my social networking site. MUST be local to Los Angeles. The site is pretty much done, I just need to create sub-profiles for each member profile, and just make the overall site a little more  [...]]]></description>
+<dc:date>2013-03-22T11:22:06-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3697419998.html</dc:source>
+<dc:title><![CDATA[Looking For Someone w/PHP experience (Hollywood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:22:06-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697409741.html">
+<title><![CDATA[Microsoft Project 2010 Tutor WANTED! (San Pedro, CA)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697409741.html</link>
+<description><![CDATA[Hello CL. I am looking for a tutor that is at the Expert level with Microsoft Project 2010. Project 2010 certified preferred. I need to learn how to use MS Project 2010 for project management, ghantt charting, etc.. I am a complete novice so you will [...]]]></description>
+<dc:date>2013-03-22T11:17:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697409741.html</dc:source>
+<dc:title><![CDATA[Microsoft Project 2010 Tutor WANTED! (San Pedro, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:17:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697395792.html">
+<title><![CDATA[iOS Developer needed for AngelHack hackathon (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697395792.html</link>
+<description><![CDATA[I am looking for a iOS developer to partner with for a Hackathon contest on April 27-28 in Los Angeles. Please look up the details at http://angelhack.com or more specifically at http://ahsp13la.eventbrite.com 
+I will pay for your entry and all food  [...]]]></description>
+<dc:date>2013-03-22T11:11:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697395792.html</dc:source>
+<dc:title><![CDATA[iOS Developer needed for AngelHack hackathon (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:11:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3697152285.html">
+<title><![CDATA[Need Graphic/Web Designer (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3697152285.html</link>
+<description><![CDATA[We are looking for a graphic designer who is also able to do general website development using Wordpress. We need the designer to make 10 postcard designs, along with a website that will offer these designs for sale, and the website must have the cap [...]]]></description>
+<dc:date>2013-03-22T09:27:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3697152285.html</dc:source>
+<dc:title><![CDATA[Need Graphic/Web Designer (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:27:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3697101934.html">
+<title><![CDATA[MYSQL expert to optimize my mysql wordpress databases (90232)]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3697101934.html</link>
+<description><![CDATA[my host tells me my wordpress sites are slow primarly because of slow database queries. they recommend optimizing the database using indexes. See this article. 
+https://my.bluehost.com/cgi/help/435#optimize 
+I want you to come to my office and teach  [...]]]></description>
+<dc:date>2013-03-22T09:05:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3697101934.html</dc:source>
+<dc:title><![CDATA[MYSQL expert to optimize my mysql wordpress databases (90232)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:05:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3697096911.html">
+<title><![CDATA[Install camera in car (St Andrews/King)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3697096911.html</link>
+<description><![CDATA[Do u know how to install install camera in car.]]></description>
+<dc:date>2013-03-22T09:03:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3697096911.html</dc:source>
+<dc:title><![CDATA[Install camera in car (St Andrews/King)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:03:12-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3696951244.html">
+<title><![CDATA[MIDI Web Programmer (Los Angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3696951244.html</link>
+<description><![CDATA[Looking for a web developer / programmer EXPERIENCED in music apps, MIDI, Audio, Video, maybe MAX/MSP, Ableton, or other... 
+I would like to have my website control, manage, do sound synthesizing, sequencing, and assigning sounds to multiple external [...]]]></description>
+<dc:date>2013-03-22T07:57:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3696951244.html</dc:source>
+<dc:title><![CDATA[MIDI Web Programmer (Los Angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T07:57:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3675045413.html">
+<title><![CDATA[Contract Full Charge Bookkeeper (Surrounding Area)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3675045413.html</link>
+<description><![CDATA[Looking to contract out a bookkeeper. This position would be for a person that has 1+ year experience in full charge bookkeeping. I get clients that would like bookkeepers onsite and that would be you. 
+Skill requirements: 
+-1+yr full charge bookkeep [...]]]></description>
+<dc:date>2013-03-22T07:22:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3675045413.html</dc:source>
+<dc:title><![CDATA[Contract Full Charge Bookkeeper (Surrounding Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T07:22:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/sfv/cpg/3664918537.html">
+<title><![CDATA[FULL CHARGE BOOKKEEPER NEEDED ASAP (Surrounding Areas)]]></title>
+<link>http://losangeles.craigslist.org/sfv/cpg/3664918537.html</link>
+<description><![CDATA[In need of full charge bookkeeper, administration, etc. 
+Experience: 
+2yrs full charge bookkeeping 
+2 yrs administrative 
+Organized 
+Reliable 
+Own transportation 
+Call 888-337-3032 for interview. 
+Hiring ASAP!]]></description>
+<dc:date>2013-03-22T07:22:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/sfv/cpg/3664918537.html</dc:source>
+<dc:title><![CDATA[FULL CHARGE BOOKKEEPER NEEDED ASAP (Surrounding Areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T07:22:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lgb/cpg/3696781370.html">
+<title><![CDATA[API & PHP Guru (CA or NY)]]></title>
+<link>http://losangeles.craigslist.org/lgb/cpg/3696781370.html</link>
+<description><![CDATA[We need an API guru that knows PHP to assist us with a project. Must show samples of your API and PHP work. Please reply with hourly rates if applicable. ]]></description>
+<dc:date>2013-03-22T06:21:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lgb/cpg/3696781370.html</dc:source>
+<dc:title><![CDATA[API & PHP Guru (CA or NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T06:21:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3690845802.html">
+<title><![CDATA[Looking for Beta Testers(Paid)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3690845802.html</link>
+<description><![CDATA[Hi Everyone, 
+I am looking for a number of people to help me test my site. This should be a fun gig that takes roughly 30min. For your time I am offering compensation of $15 that will be paid through paypal upon completion. 
+Basically, I would like y [...]]]></description>
+<dc:date>2013-03-22T03:40:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3690845802.html</dc:source>
+<dc:title><![CDATA[Looking for Beta Testers(Paid)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T03:40:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/lac/cpg/3696618419.html">
+<title><![CDATA[podcast wanted (los angeles)]]></title>
+<link>http://losangeles.craigslist.org/lac/cpg/3696618419.html</link>
+<description><![CDATA[need someone to setup a podcast and train us. will pay you cash. 
+send sample/]]></description>
+<dc:date>2013-03-22T02:24:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/lac/cpg/3696618419.html</dc:source>
+<dc:title><![CDATA[podcast wanted (los angeles)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T02:24:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/wst/cpg/3696583939.html">
+<title><![CDATA[Website Builder Needed ASAP (West LA) $10 hr]]></title>
+<link>http://losangeles.craigslist.org/wst/cpg/3696583939.html</link>
+<description><![CDATA[Website Builder Needed ASAP (West LA) 
+I am looking for someone who builds websites and can help fix and tweak the current problems on my website. I have a video and a photography website (2) and am having wordpress issues and some design problems. N [...]]]></description>
+<dc:date>2013-03-22T00:45:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/wst/cpg/3696583939.html</dc:source>
+<dc:title><![CDATA[Website Builder Needed ASAP (West LA) $10 hr]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T00:45:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://losangeles.craigslist.org/ant/cpg/3674965810.html">
+<title><![CDATA[Java/Android Programer (Lancaster)]]></title>
+<link>http://losangeles.craigslist.org/ant/cpg/3674965810.html</link>
+<description><![CDATA[Looking for a knowledgeable Java programmer for about 3 - 5 days of coding Arudino knowledge is a plus E-Mail sample of you work VB and C++_is a plus call me Craig @ 661-728-9583 
+Must be local Antelope Valley only.]]></description>
+<dc:date>2013-03-22T00:39:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://losangeles.craigslist.org/ant/cpg/3674965810.html</dc:source>
+<dc:title><![CDATA[Java/Android Programer (Lancaster)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T00:39:29-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://edmonton.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in edmonton</title>
+<link>http://edmonton.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://edmonton.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in edmonton</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:40:13-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://edmonton.en.craigslist.ca/cpg/3682853380.html" />
+  <rdf:li rdf:resource="http://edmonton.en.craigslist.ca/cpg/3696117432.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://edmonton.en.craigslist.ca/cpg/3682853380.html">
+<title><![CDATA[Blog Writing (Anywhere)]]></title>
+<link>http://edmonton.en.craigslist.ca/cpg/3682853380.html</link>
+<description><![CDATA[Looking for a couple of social media knowledgeable writers to write some guest blogs on my blog: http://www.courtneyheard.com/blog/ 
+Writers will have the opportunity to post links to their web sites and social spaces in return. To see a sample of wh [...]]]></description>
+<dc:date>2013-03-22T12:35:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://edmonton.en.craigslist.ca/cpg/3682853380.html</dc:source>
+<dc:title><![CDATA[Blog Writing (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:35:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://edmonton.en.craigslist.ca/cpg/3696117432.html">
+<title><![CDATA[HELP! Forgot windows password! Need to hack in!!  (Edmonton (North))]]></title>
+<link>http://edmonton.en.craigslist.ca/cpg/3696117432.html</link>
+<description><![CDATA[Hi, 
+Okay, I am looking for someone who can hack or break into my desktop computer! I can not remember the windows password and I am the only user! I know, I'm a complete moron! But I really, really want everything that's on the computer (So, I DO NO [...]]]></description>
+<dc:date>2013-03-21T17:58:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://edmonton.en.craigslist.ca/cpg/3696117432.html</dc:source>
+<dc:title><![CDATA[HELP! Forgot windows password! Need to hack in!!  (Edmonton (North))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:58:54-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

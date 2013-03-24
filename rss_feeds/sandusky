@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://sandusky.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in sandusky</title>
+<link>http://sandusky.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://sandusky.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in sandusky</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:03-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sandusky.craigslist.org/cpg/3692205654.html" />
+  <rdf:li rdf:resource="http://sandusky.craigslist.org/cpg/3689768114.html" />
+  <rdf:li rdf:resource="http://sandusky.craigslist.org/cpg/3682255850.html" />
+  <rdf:li rdf:resource="http://sandusky.craigslist.org/cpg/3681805210.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sandusky.craigslist.org/cpg/3692205654.html">
+<title><![CDATA[Researcher Needed (Sandusky Area)]]></title>
+<link>http://sandusky.craigslist.org/cpg/3692205654.html</link>
+<description><![CDATA[I need a person to do some research for me in your local vital records department. I am doing a research project, I need to find a sampling of birth and death records in some different age demographics. I would pay you for your time as well as for th [...]]]></description>
+<dc:date>2013-03-19T22:22:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sandusky.craigslist.org/cpg/3692205654.html</dc:source>
+<dc:title><![CDATA[Researcher Needed (Sandusky Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T22:22:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sandusky.craigslist.org/cpg/3689768114.html">
+<title><![CDATA[awesomenessssss job ever  (United States)]]></title>
+<link>http://sandusky.craigslist.org/cpg/3689768114.html</link>
+<description><![CDATA[want to make money online from the comfort of ur own home ur own hours and everything then i have the job for u !! http://www.cashcrate.com/4135748 go to sight posted and earn ur 1st dallor MUST BE ATLEAST 13 FOR THIS JOB OPPUTUNITY questions text 41 [...]]]></description>
+<dc:date>2013-03-18T19:15:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sandusky.craigslist.org/cpg/3689768114.html</dc:source>
+<dc:title><![CDATA[awesomenessssss job ever  (United States)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T19:15:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sandusky.craigslist.org/cpg/3682255850.html">
+<title><![CDATA[ebay seller wanted! (sandusky)]]></title>
+<link>http://sandusky.craigslist.org/cpg/3682255850.html</link>
+<description><![CDATA[Make extra money selling on ebay, good for students, stay at home moms or if your between jobs or just looking for some extra income working from home! Reply if interested to get more info]]></description>
+<dc:date>2013-03-15T02:55:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sandusky.craigslist.org/cpg/3682255850.html</dc:source>
+<dc:title><![CDATA[ebay seller wanted! (sandusky)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T02:55:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sandusky.craigslist.org/cpg/3681805210.html">
+<title><![CDATA[Earn money now no car needed only requirement access to a computer  (sandusky or anywhere no car needed)]]></title>
+<link>http://sandusky.craigslist.org/cpg/3681805210.html</link>
+<description><![CDATA[Make money now online only requirements access to a comp even if its only a few minutes evry once and a great while and u have to be over 13 just go to http://www.cashcrate.com/4135748 earn start earning cash right now!!!!!]]></description>
+<dc:date>2013-03-14T20:31:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sandusky.craigslist.org/cpg/3681805210.html</dc:source>
+<dc:title><![CDATA[Earn money now no car needed only requirement access to a computer  (sandusky or anywhere no car needed)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T20:31:03-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

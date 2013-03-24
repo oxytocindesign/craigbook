@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://calgary.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in calgary</title>
+<link>http://calgary.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://calgary.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in calgary</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:40:12-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3690962170.html" />
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3696055599.html" />
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3691381523.html" />
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3678573971.html" />
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3653146158.html" />
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3571445747.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3690962170.html">
+<title><![CDATA[Guest Blogger (Anywhere)]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3690962170.html</link>
+<description><![CDATA[A blog about social media for business and unique social media stories is looking for a few good, Canadian bloggers to add to our roster. In return you can add links to your web site or social spaces and your posts will be broadcast to my audience. 
+ [...]]]></description>
+<dc:date>2013-03-22T09:42:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3690962170.html</dc:source>
+<dc:title><![CDATA[Guest Blogger (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:42:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3696055599.html">
+<title><![CDATA[Seeking a web designer (pro bono)]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3696055599.html</link>
+<description><![CDATA[Seeking someone who can design our website. They can use us as a reference for future work. If interested, please respond to the email. Serious inquiries only.]]></description>
+<dc:date>2013-03-21T17:22:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3696055599.html</dc:source>
+<dc:title><![CDATA[Seeking a web designer (pro bono)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T17:22:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3691381523.html">
+<title><![CDATA[Website Help!]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3691381523.html</link>
+<description><![CDATA[Hey guys, Im looing to start a site and need some help! The biggest favour that I need to ask is for somebody to help me buy the domain name! I need $10 through paypal to make this a possibility! If you guys want to help me, send me and email! I will [...]]]></description>
+<dc:date>2013-03-19T13:14:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3691381523.html</dc:source>
+<dc:title><![CDATA[Website Help!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:14:29-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3678573971.html">
+<title><![CDATA[Need someone with proper printer]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3678573971.html</link>
+<description><![CDATA[I'm in need of someone with a printer capable of printing foreign licenses for my trip abroad. I can provide everything needed I just need somewhere to print it.]]></description>
+<dc:date>2013-03-13T10:15:43-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3678573971.html</dc:source>
+<dc:title><![CDATA[Need someone with proper printer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T10:15:43-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3653146158.html">
+<title><![CDATA[Now interviewing motivated online Business Partners (Ft Mcmurray)]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3653146158.html</link>
+<description><![CDATA[Here is a great video on how huge checks are being generated part time. We will work with you personally to do the same... See it Here: Talk to you soon, Natasha P.S.- I have been full time online for over 10 years and have never seen anything like t [...]]]></description>
+<dc:date>2013-03-11T20:52:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3653146158.html</dc:source>
+<dc:title><![CDATA[Now interviewing motivated online Business Partners (Ft Mcmurray)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:52:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3571445747.html">
+<title><![CDATA[&#9658; Do you own a design company?]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3571445747.html</link>
+<description><![CDATA[Just like you, there are thousands of other design team out there competing for the same jobs. 
+Get more Exposure better than your competition. 
+Start here ===&gt; https://bitly.com/O4ATpZ 
+logo design, web design, business card design, whiteboard vi [...]]]></description>
+<dc:date>2013-02-18T09:01:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3571445747.html</dc:source>
+<dc:title><![CDATA[&#9658; Do you own a design company?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T09:01:10-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

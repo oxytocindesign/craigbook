@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://victoria.en.craigslist.ca/cpg/index.rss">
+<title>craigslist | computer gigs in victoria</title>
+<link>http://victoria.en.craigslist.ca/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://victoria.en.craigslist.ca/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in victoria</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:14-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3682780102.html" />
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3691967855.html" />
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3654869396.html" />
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3648736205.html" />
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3643499755.html" />
+  <rdf:li rdf:resource="http://victoria.en.craigslist.ca/cpg/3550510729.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3682780102.html">
+<title><![CDATA[Awesome Bloggers! (Anwyhere)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3682780102.html</link>
+<description><![CDATA[Looking for some Canadian social media enthusiasts to write about how they use social media for business. Tips for business owners and how-tos and more. If you write for my blog, you will be able to post a link to your web site and/or social media sp [...]]]></description>
+<dc:date>2013-03-22T11:36:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3682780102.html</dc:source>
+<dc:title><![CDATA[Awesome Bloggers! (Anwyhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:36:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3691967855.html">
+<title><![CDATA[Revit Lessons Wanted (Victoria)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3691967855.html</link>
+<description><![CDATA[I'm looking for lessons in Autodesk Revit. Preferably someone in the industry who can teach me the basics of setting up the project which would allow me to send the work off to someone else i.e a firm that can pick up where I left off. ]]></description>
+<dc:date>2013-03-19T16:55:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3691967855.html</dc:source>
+<dc:title><![CDATA[Revit Lessons Wanted (Victoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:55:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3654869396.html">
+<title><![CDATA[Wordpress training (Victoria)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3654869396.html</link>
+<description><![CDATA[I am looking for some help in putting together a wordpress website.]]></description>
+<dc:date>2013-03-02T15:44:16-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3654869396.html</dc:source>
+<dc:title><![CDATA[Wordpress training (Victoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T15:44:16-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3648736205.html">
+<title><![CDATA[Startup Seeks Entrepreneurial-Minded Web Developer (Victoria)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3648736205.html</link>
+<description><![CDATA[My startup is focused on creating a difference to how individuals use online commerce. We're currently seeking an entrepreneurially minded and hands on Web Developer/Engineer to join our dynamic team. This person will be working directly on the devel [...]]]></description>
+<dc:date>2013-02-27T21:43:10-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3648736205.html</dc:source>
+<dc:title><![CDATA[Startup Seeks Entrepreneurial-Minded Web Developer (Victoria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T21:43:10-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3643499755.html">
+<title><![CDATA[Website Designer Needed to Finish Simple Website   (Victoria, B.C.)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3643499755.html</link>
+<description><![CDATA[I am looking for an experienced website designer to help a non-techy guy finish a basic website! I have bought the GoDaddy domain, WordPress hosting and theme, but I am unfortunately struggling to figure out how to input the information into the corr [...]]]></description>
+<dc:date>2013-02-25T16:20:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3643499755.html</dc:source>
+<dc:title><![CDATA[Website Designer Needed to Finish Simple Website   (Victoria, B.C.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T16:20:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://victoria.en.craigslist.ca/cpg/3550510729.html">
+<title><![CDATA[ We Need Wordpress Assistance (Victoria BC)]]></title>
+<link>http://victoria.en.craigslist.ca/cpg/3550510729.html</link>
+<description><![CDATA[We are seeking the assistance of a Creative and Knowledgable Person(s), in or near Victoria BC, to assist us with a number of smaller wordpress based blog-sites projects. 
+We are in the sales and services industry, and have a number of sites we want/ [...]]]></description>
+<dc:date>2013-02-08T21:42:01-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://victoria.en.craigslist.ca/cpg/3550510729.html</dc:source>
+<dc:title><![CDATA[ We Need Wordpress Assistance (Victoria BC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T21:42:01-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

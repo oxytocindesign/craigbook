@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://nashville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in nashville</title>
+<link>http://nashville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://nashville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in nashville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:35:10-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3701968264.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3698033435.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3692076995.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3691106107.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3687490896.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3682874935.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3681658783.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3679725258.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3675411760.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3673825253.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3673579926.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3672841900.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3671001497.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3670279332.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3670118891.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3669394944.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3667000309.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3647961300.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3665954362.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3665285715.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3662446529.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3661696178.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3657620942.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3653593488.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3650249531.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3649970539.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3649893722.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3648699999.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3648523340.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3646175519.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3644958219.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3636277475.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3633472102.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3631995635.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3629050147.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3617433575.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3612889425.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3611290225.html" />
+  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3601535204.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://nashville.craigslist.org/cpg/3701968264.html">
+<title><![CDATA[We Are Now Looking For A Good Team! (TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3701968264.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T22:36:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3701968264.html</dc:source>
+<dc:title><![CDATA[We Are Now Looking For A Good Team! (TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T22:36:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3698033435.html">
+<title><![CDATA[Web Site Sales (Franklin/Spring Hill)]]></title>
+<link>http://nashville.craigslist.org/cpg/3698033435.html</link>
+<description><![CDATA[Are a you Craigslist guru? Do you know alot of other sites you can use for jobs? Want to make some serious cash? I've got the perfect job for you. 
+We are Kasper Door and Hardware. We sell, service and repair commercial doors as well as architectural [...]]]></description>
+<dc:date>2013-03-24T21:31:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3698033435.html</dc:source>
+<dc:title><![CDATA[Web Site Sales (Franklin/Spring Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:31:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3692076995.html">
+<title><![CDATA[Need Website design help. (Murfreesboro)]]></title>
+<link>http://nashville.craigslist.org/cpg/3692076995.html</link>
+<description><![CDATA[Hi! Thank you for looking at this post! I am a massage therapist/artist and I am without a web presence. I attempted to start a website through Wordpress but it has not been a fruitful venture. I will be needing someone to take on what I have and exp [...]]]></description>
+<dc:date>2013-03-19T19:58:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3692076995.html</dc:source>
+<dc:title><![CDATA[Need Website design help. (Murfreesboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:58:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3691106107.html">
+<title><![CDATA[Lead lists needed (Hermitage)]]></title>
+<link>http://nashville.craigslist.org/cpg/3691106107.html</link>
+<description><![CDATA[We are in need of lists of people with phone numbers to contact that own yellow mustangs. Please contact John McAllister @ 615-953-6586 or respond to this email. We are building other lead lists also. If you have the capabilities to scrape the web or [...]]]></description>
+<dc:date>2013-03-19T12:19:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3691106107.html</dc:source>
+<dc:title><![CDATA[Lead lists needed (Hermitage)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T12:19:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3687490896.html">
+<title><![CDATA[Be The Text Message Marketing Expert In Your Community (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3687490896.html</link>
+<description><![CDATA[Join Our Network Of Loyalty Marketing Experts 
+http://business.smsbestmind.com]]></description>
+<dc:date>2013-03-17T17:12:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3687490896.html</dc:source>
+<dc:title><![CDATA[Be The Text Message Marketing Expert In Your Community (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T17:12:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3682874935.html">
+<title><![CDATA[Web Hosting Tutor - Mac (So. Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3682874935.html</link>
+<description><![CDATA[I need someone to give me a one day crash course in some web hosting basics. I work on Macs and I'm great at working with web design software,... but I need some really basic help uploading content created on my computer to the web. Not sure how best [...]]]></description>
+<dc:date>2013-03-15T11:24:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3682874935.html</dc:source>
+<dc:title><![CDATA[Web Hosting Tutor - Mac (So. Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T11:24:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3681658783.html">
+<title><![CDATA[Need help with mobile advertising (Nashville area)]]></title>
+<link>http://nashville.craigslist.org/cpg/3681658783.html</link>
+<description><![CDATA[I need help with mobile advertising. I am in the pay per call business - I post ads with an 800 number, and when someone calls it I get paid. I need someone who knows how to place "click to call" ads on Google Adwords. Any knowledge of mobile ad comp [...]]]></description>
+<dc:date>2013-03-14T18:09:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3681658783.html</dc:source>
+<dc:title><![CDATA[Need help with mobile advertising (Nashville area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:09:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3679725258.html">
+<title><![CDATA[Need help with PHP and mysql (murfreesboro)]]></title>
+<link>http://nashville.craigslist.org/cpg/3679725258.html</link>
+<description><![CDATA[I have a website that allows teachers to create questions and tests for students to take online. The website also provides feedback for students and teachers based on the results. The site is being used by a few teachers at my school (I am a math tea [...]]]></description>
+<dc:date>2013-03-13T19:53:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3679725258.html</dc:source>
+<dc:title><![CDATA[Need help with PHP and mysql (murfreesboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T19:53:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3675411760.html">
+<title><![CDATA[LIGHTROOM TUTOR NEEDED (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3675411760.html</link>
+<description><![CDATA[You MUST be an expert in Lightroom and know Photoshop. My husband needs a tutor in Lightroom; he has taken Photoshop CS6 and passed the class with a "B" grade. Please email me and outline your experience in Lightroom so that I'll know whether you wil [...]]]></description>
+<dc:date>2013-03-11T22:28:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3675411760.html</dc:source>
+<dc:title><![CDATA[LIGHTROOM TUTOR NEEDED (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T22:28:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3673825253.html">
+<title><![CDATA[need someone to set up a basic HTML email for me  (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3673825253.html</link>
+<description><![CDATA[I need to send an email with some very simple basic formating of the text and one picture in the body. I understand that I can not because of the different email providers the receiver will see different formatting and the image may not appear. I hav [...]]]></description>
+<dc:date>2013-03-11T11:02:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3673825253.html</dc:source>
+<dc:title><![CDATA[need someone to set up a basic HTML email for me  (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T11:02:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3673579926.html">
+<title><![CDATA[Need help with mobile advertising (Nashville area)]]></title>
+<link>http://nashville.craigslist.org/cpg/3673579926.html</link>
+<description><![CDATA[I need help with mobile advertising. I am in the pay per call business - I post ads with an 800 number, and when someone calls it I get paid. I need someone who knows how to place "click to call" ads on Google Adwords. Any knowledge of mobile ad comp [...]]]></description>
+<dc:date>2013-03-11T09:22:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3673579926.html</dc:source>
+<dc:title><![CDATA[Need help with mobile advertising (Nashville area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T09:22:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3672841900.html">
+<title><![CDATA[Need help starting eCommerce (Downtown)]]></title>
+<link>http://nashville.craigslist.org/cpg/3672841900.html</link>
+<description><![CDATA[Need someone to help set up an online payment system for bike delivery. 
+We need to be able to take cash on delivery, or customer can pay by card online. 
+$20 for an hour of instruction.]]></description>
+<dc:date>2013-03-10T20:34:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3672841900.html</dc:source>
+<dc:title><![CDATA[Need help starting eCommerce (Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T20:34:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3671001497.html">
+<title><![CDATA[Marketing Reps (Tennessee)]]></title>
+<link>http://nashville.craigslist.org/cpg/3671001497.html</link>
+<description><![CDATA[Earn $20 to $55 per hour just giving away our free online system. 
+No Selling, Telling, or bothering friends and family. 
+No MLM. 
+Work with Fortune 500 Companies. 
+Go to our website for details: http://timlc.shorturl.com/]]></description>
+<dc:date>2013-03-09T21:47:50-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3671001497.html</dc:source>
+<dc:title><![CDATA[Marketing Reps (Tennessee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T21:47:50-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3670279332.html">
+<title><![CDATA[Need PHP Developer (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3670279332.html</link>
+<description><![CDATA[Company: The Runaway Group Category: Social Media (Nightlife) Position Description and Duties General Duties: The Social Media Intern will be a member of the media management department in t click here for the application enter your email and it will [...]]]></description>
+<dc:date>2013-03-09T15:00:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3670279332.html</dc:source>
+<dc:title><![CDATA[Need PHP Developer (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T15:00:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3670118891.html">
+<title><![CDATA[Word Press Blog (Franklin, TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3670118891.html</link>
+<description><![CDATA[I am looking to hire someone who has extensive experience with Word Press. I have a backup file that needs to be restored and I would like to then update the theme. I am also interested in adding IDX to the blog. Someone who has WP experience and Rea [...]]]></description>
+<dc:date>2013-03-09T13:52:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3670118891.html</dc:source>
+<dc:title><![CDATA[Word Press Blog (Franklin, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T13:52:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3669394944.html">
+<title><![CDATA[Web designer/developer]]></title>
+<link>http://nashville.craigslist.org/cpg/3669394944.html</link>
+<description><![CDATA[We are an upstart company interested in finding a website developer/designer that would be willing to grow with us. The right person should have the obvious technical skills, but more than that, should fit the mold of our company. We are interested i [...]]]></description>
+<dc:date>2013-03-09T08:47:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3669394944.html</dc:source>
+<dc:title><![CDATA[Web designer/developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T08:47:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3667000309.html">
+<title><![CDATA[Looking for a Cold Fusion developer]]></title>
+<link>http://nashville.craigslist.org/cpg/3667000309.html</link>
+<description><![CDATA[Need someone to come in and finish a job with our website. It is written in cold fusion. If interested, please email me. Thanks. ]]></description>
+<dc:date>2013-03-08T07:28:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3667000309.html</dc:source>
+<dc:title><![CDATA[Looking for a Cold Fusion developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T07:28:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3647961300.html">
+<title><![CDATA[Java Programmer (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3647961300.html</link>
+<description><![CDATA[I am looking for 1 permanent/not temp full time Java programmer to work in Nashville and join our 11 person team. Please do not contact me about outsourcing this position because I am not interested. 
+Responsibilities: 
+This position reports to an Ap [...]]]></description>
+<dc:date>2013-03-07T21:29:21-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3647961300.html</dc:source>
+<dc:title><![CDATA[Java Programmer (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T21:29:21-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3665954362.html">
+<title><![CDATA[Developer for Small Project (Anywhere)]]></title>
+<link>http://nashville.craigslist.org/cpg/3665954362.html</link>
+<description><![CDATA[Seeking a developer to build out the final steps of the back end of a social networking site. We need someone to make WordPress integration seamless with the rest of the site. Prior WordPress and CodeIgniter experience required. Please email your res [...]]]></description>
+<dc:date>2013-03-07T16:25:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3665954362.html</dc:source>
+<dc:title><![CDATA[Developer for Small Project (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:25:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3665285715.html">
+<title><![CDATA[Sys Admin To Manage Rack of Linux Boxes (Franklin, TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3665285715.html</link>
+<description><![CDATA[We have a rack at Peak10 with 6 Linux boxes and a Cisco switch. Need occasional help. Presently, need KVM installed and working, need PDU configured properly and rack to be properly cabled and labeled.]]></description>
+<dc:date>2013-03-07T11:55:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3665285715.html</dc:source>
+<dc:title><![CDATA[Sys Admin To Manage Rack of Linux Boxes (Franklin, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T11:55:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3662446529.html">
+<title><![CDATA[Need help with mobile advertising (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3662446529.html</link>
+<description><![CDATA[I need help with mobile advertising. I am in the pay per call business - I post ads with an 800 number, and when someone calls it I get paid. I need someone who knows how to place "click to call" ads on Google Adwords. Any knowledge of mobile ad comp [...]]]></description>
+<dc:date>2013-03-06T07:59:23-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3662446529.html</dc:source>
+<dc:title><![CDATA[Need help with mobile advertising (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T07:59:23-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3661696178.html">
+<title><![CDATA[Professional Computing Mentor Needed (Hermitage, TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3661696178.html</link>
+<description><![CDATA[I am currently in school obtaining an Associate's degree in IT with the intent of obtaining a career in that field. My studies are going fine, but the the real life aspects are somewhat lacking in my studies. I need a mentor who has worked in IT or a [...]]]></description>
+<dc:date>2013-03-05T19:12:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3661696178.html</dc:source>
+<dc:title><![CDATA[Professional Computing Mentor Needed (Hermitage, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T19:12:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3657620942.html">
+<title><![CDATA[Needed: Audio Engineer for Video Shoot (Madison)]]></title>
+<link>http://nashville.craigslist.org/cpg/3657620942.html</link>
+<description><![CDATA[Non profit orginization is developing professional video content 
+And we need a professional audio engineer for 30 minutes, who can: 
+- understands how to get best sound quality from sennheiser G3 to Cannon t3i. 
+- How to run audio from g3 receiver t [...]]]></description>
+<dc:date>2013-03-04T06:38:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3657620942.html</dc:source>
+<dc:title><![CDATA[Needed: Audio Engineer for Video Shoot (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T06:38:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3653593488.html">
+<title><![CDATA[Ubuntu installation (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3653593488.html</link>
+<description><![CDATA[I'm having trouble installing Ubuntu on a new laptop. Apparently some of the hardware isn't compatible. Can someone help me today?]]></description>
+<dc:date>2013-03-02T08:11:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3653593488.html</dc:source>
+<dc:title><![CDATA[Ubuntu installation (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T08:11:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3650249531.html">
+<title><![CDATA[WebSphere Process Server (WPS) Developer (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3650249531.html</link>
+<description><![CDATA[Role: WebSphere Process Server (WPS) Developer 
+Category: Computer/IT/Software 
+Location: Nashville, TN 
+Experience: 5+ years 
+Educational Qualification: Bachelor's Degree 
+Career Level: Mid Level 
+Job Type: Contractual 
+Job Status: 6-12 months Corp  [...]]]></description>
+<dc:date>2013-02-28T16:23:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3650249531.html</dc:source>
+<dc:title><![CDATA[WebSphere Process Server (WPS) Developer (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:23:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3649970539.html">
+<title><![CDATA[Software Engineering (Nashville, TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3649970539.html</link>
+<description><![CDATA[We are looking for an individual with a passion for making and developing software. The engineer will participate in design, implementation and test of a video best Software.]]></description>
+<dc:date>2013-02-28T14:24:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3649970539.html</dc:source>
+<dc:title><![CDATA[Software Engineering (Nashville, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T14:24:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3649893722.html">
+<title><![CDATA[Flash Developer (Nashville, TN )]]></title>
+<link>http://nashville.craigslist.org/cpg/3649893722.html</link>
+<description><![CDATA[In depth knowledge in Flex / Flash 
+One year experience in AS3 
+OOP / OOD methodology 
+Experience / knowledge in video - major advantage ]]></description>
+<dc:date>2013-02-28T13:53:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3649893722.html</dc:source>
+<dc:title><![CDATA[Flash Developer (Nashville, TN )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T13:53:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3648699999.html">
+<title><![CDATA[Web/logo design for audio work?]]></title>
+<link>http://nashville.craigslist.org/cpg/3648699999.html</link>
+<description><![CDATA[Looking for someone that can create logos and knows basic web design for a webpage in a niche market I am in. I am willing to trade audio work in exchange for to get this done. Mixing editing writing bass guitar lines etc. I also have toe ability to  [...]]]></description>
+<dc:date>2013-02-27T23:07:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3648699999.html</dc:source>
+<dc:title><![CDATA[Web/logo design for audio work?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T23:07:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3648523340.html">
+<title><![CDATA[Numbers For Mac Tutoring (Nashville )]]></title>
+<link>http://nashville.craigslist.org/cpg/3648523340.html</link>
+<description><![CDATA[I'm trying to learn how to build spreadsheets for use with my work, more specifically Numbers For Mac. I have been teaching myself for the last few days, but would learn faster and better if I had someone that was fluent and knows how to patiently te [...]]]></description>
+<dc:date>2013-02-27T20:58:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3648523340.html</dc:source>
+<dc:title><![CDATA[Numbers For Mac Tutoring (Nashville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T20:58:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3646175519.html">
+<title><![CDATA[Wordpress/Dreamweaver/Bluehost HELP! (Hendersonville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3646175519.html</link>
+<description><![CDATA[I need someone to help me migrate my dreamweaver site originally uploaded to bluehost as a static site (just uploaded the files to the file manager). Now I need to make this a non-static site and have recreated the site in wordpress, how can I have t [...]]]></description>
+<dc:date>2013-02-26T20:49:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3646175519.html</dc:source>
+<dc:title><![CDATA[Wordpress/Dreamweaver/Bluehost HELP! (Hendersonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T20:49:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3644958219.html">
+<title><![CDATA[Flood Writers Needed (Mobile, AL)]]></title>
+<link>http://nashville.craigslist.org/cpg/3644958219.html</link>
+<description><![CDATA[Flood Writers needed immediately. 
+Writers must have at least three years flood and SIMSOL experience. 
+Will be able to write reports from home. 
+Looking for field adjusters and writers. 
+Please forward resume with response. ]]></description>
+<dc:date>2013-02-26T12:04:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3644958219.html</dc:source>
+<dc:title><![CDATA[Flood Writers Needed (Mobile, AL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T12:04:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3636277475.html">
+<title><![CDATA[Quickbooks for Mac 2013 Setup Help (Franklin, TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3636277475.html</link>
+<description><![CDATA[Small Business in need of help setting everything up, as well as a little guidance, on Quickbooks 2013. We are a consulting firm with a very straight forward business model, so most of the features on the program won't be implemented. The gig shouldn [...]]]></description>
+<dc:date>2013-02-22T14:00:20-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3636277475.html</dc:source>
+<dc:title><![CDATA[Quickbooks for Mac 2013 Setup Help (Franklin, TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T14:00:20-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3633472102.html">
+<title><![CDATA[Seeking Mobile Website Developer (Nashville TN)]]></title>
+<link>http://nashville.craigslist.org/cpg/3633472102.html</link>
+<description><![CDATA[Local company seeking mobile web site developer, app building is a plus, but not a requirement. Send examples of your work, and hourly pricing. 
+This could lead to full time work for the right person. 
+Thanks ]]></description>
+<dc:date>2013-02-21T11:12:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3633472102.html</dc:source>
+<dc:title><![CDATA[Seeking Mobile Website Developer (Nashville TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T11:12:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3631995635.html">
+<title><![CDATA[iCat Developer (Greater Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3631995635.html</link>
+<description><![CDATA[Large manufacturer of residential vinyl and aluminum windows and patio doors looking for individual to work on a contract basis to maintain point of sale software catalog for big box retailer. 
+Must be proficient using iCat software from Edgenet Inc. [...]]]></description>
+<dc:date>2013-02-20T17:04:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3631995635.html</dc:source>
+<dc:title><![CDATA[iCat Developer (Greater Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T17:04:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3629050147.html">
+<title><![CDATA[Video Editor Internship (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3629050147.html</link>
+<description><![CDATA[This internship is available immediately. Please send your availability and skill level -- link to examples of your work / reel. 
+Come work in a fast paced production workplace with top of the line technology, working on nationally syndicated spots.  [...]]]></description>
+<dc:date>2013-02-19T14:16:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3629050147.html</dc:source>
+<dc:title><![CDATA[Video Editor Internship (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T14:16:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3617433575.html">
+<title><![CDATA[Seeking Web Designer(s) (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3617433575.html</link>
+<description><![CDATA[A start-up is seeking the right web designer(s) to partner with to help make our vision a reality. 
+We are looking for the right fit: someone who is a go-getter; who is talented & can produce results; works well with a team and with others; and is wi [...]]]></description>
+<dc:date>2013-02-14T14:08:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3617433575.html</dc:source>
+<dc:title><![CDATA[Seeking Web Designer(s) (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T14:08:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3612889425.html">
+<title><![CDATA[Need Tweeters]]></title>
+<link>http://nashville.craigslist.org/cpg/3612889425.html</link>
+<description><![CDATA[Looking for tweeters to join us in tweeting our daily and weekly information. 
+Must be a college student 
+Must have lots of followers 
+Must have proficient tweeting knowledge 
+Must follow us on twitter ]]></description>
+<dc:date>2013-02-12T15:26:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3612889425.html</dc:source>
+<dc:title><![CDATA[Need Tweeters]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T15:26:52-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3611290225.html">
+<title><![CDATA[RE: RE: Website Design (Nashville)]]></title>
+<link>http://nashville.craigslist.org/cpg/3611290225.html</link>
+<description><![CDATA[What are you smoking? More than $600 for one landing page? Get off the drugs mate.]]></description>
+<dc:date>2013-02-11T23:01:28-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3611290225.html</dc:source>
+<dc:title><![CDATA[RE: RE: Website Design (Nashville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T23:01:28-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://nashville.craigslist.org/cpg/3601535204.html">
+<title><![CDATA[Need help with Google Adwords (Nashville area)]]></title>
+<link>http://nashville.craigslist.org/cpg/3601535204.html</link>
+<description><![CDATA[I need help posting ads on Google Adwords. I am in the pay per call business, so I need ads that utilize the "click to call" feature only.]]></description>
+<dc:date>2013-02-07T17:48:29-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://nashville.craigslist.org/cpg/3601535204.html</dc:source>
+<dc:title><![CDATA[Need help with Google Adwords (Nashville area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T17:48:29-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

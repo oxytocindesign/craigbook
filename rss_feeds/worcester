@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://worcester.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in worcester / central MA</title>
+<link>http://worcester.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://worcester.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in worcester / central MA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:29:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3698772681.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3696717062.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3691117887.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3684667156.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3676005002.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3663614963.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3658873510.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3647495097.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3647168323.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3647016439.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3642548763.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3635727862.html" />
+  <rdf:li rdf:resource="http://worcester.craigslist.org/cpg/3615955693.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://worcester.craigslist.org/cpg/3698772681.html">
+<title><![CDATA[Coding (Worcester)]]></title>
+<link>http://worcester.craigslist.org/cpg/3698772681.html</link>
+<description><![CDATA[Looking for an individual who has experiance in creating rich apps on all platforms. Willing to partner and share my application idea with the right individual. Interested canidate should reply to this email with credentials.]]></description>
+<dc:date>2013-03-23T09:48:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3698772681.html</dc:source>
+<dc:title><![CDATA[Coding (Worcester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:48:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3696717062.html">
+<title><![CDATA[Build me a web site NOW !! (shrewsbury,ma)]]></title>
+<link>http://worcester.craigslist.org/cpg/3696717062.html</link>
+<description><![CDATA[Several site's needed to be built now,templates fine call me please!!!! 
+1-508-328-4717]]></description>
+<dc:date>2013-03-22T08:26:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3696717062.html</dc:source>
+<dc:title><![CDATA[Build me a web site NOW !! (shrewsbury,ma)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:26:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3691117887.html">
+<title><![CDATA[Website Design for Non-Profit Charity Needed (Worcester area)]]></title>
+<link>http://worcester.craigslist.org/cpg/3691117887.html</link>
+<description><![CDATA[We are seeking a web designer willing to donate their time and creative skills to develop a website for our non-profit charity. This is our 6th year running the charity and while we utilize social media we have never had the time or resources to esta [...]]]></description>
+<dc:date>2013-03-19T13:24:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3691117887.html</dc:source>
+<dc:title><![CDATA[Website Design for Non-Profit Charity Needed (Worcester area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:24:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3684667156.html">
+<title><![CDATA[Google Adwords & PPC help needed (Mansfield)]]></title>
+<link>http://worcester.craigslist.org/cpg/3684667156.html</link>
+<description><![CDATA[Hello, We are looking for help from an individual experienced with google adwords campaigns and PPC / SEO management. We would prefer someone local to us. Would like to work with an individual instead of a large company. This would be a great opportu [...]]]></description>
+<dc:date>2013-03-16T10:19:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3684667156.html</dc:source>
+<dc:title><![CDATA[Google Adwords & PPC help needed (Mansfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:19:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3676005002.html">
+<title><![CDATA[Pwer Excel user wanted immediately (Turners Falls, Ma)]]></title>
+<link>http://worcester.craigslist.org/cpg/3676005002.html</link>
+<description><![CDATA[Need a power Excel user immediately to help analyze and reformat numbers and information for an on going civil lawsuit. Will consider paying travel time and fuel costs , as well as an decent hourly rate. Start immediately. 10 to 30 hrs of work are in [...]]]></description>
+<dc:date>2013-03-12T10:28:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3676005002.html</dc:source>
+<dc:title><![CDATA[Pwer Excel user wanted immediately (Turners Falls, Ma)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:28:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3663614963.html">
+<title><![CDATA[In need of investors  (Worcester Ma)]]></title>
+<link>http://worcester.craigslist.org/cpg/3663614963.html</link>
+<description><![CDATA[I am currently looking for investors and/or business partners who are willing to start a computer repair shop in Worcester. Their is no need to worry about employing anybody because i already have technicians and am also have most tools i would need. [...]]]></description>
+<dc:date>2013-03-10T17:32:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3663614963.html</dc:source>
+<dc:title><![CDATA[In need of investors  (Worcester Ma)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T17:32:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3658873510.html">
+<title><![CDATA[Looking for a geek, maker, cicuit designer (Worcester - East)]]></title>
+<link>http://worcester.craigslist.org/cpg/3658873510.html</link>
+<description><![CDATA[Are you a geek, maker, electronic hobbyist? Do you feel comfortable with simple circuit design/controls? Would you like to be a part of the creation process on an exciting new product? 
+MIT alum starting a company that will market a niche product to  [...]]]></description>
+<dc:date>2013-03-04T16:33:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3658873510.html</dc:source>
+<dc:title><![CDATA[Looking for a geek, maker, cicuit designer (Worcester - East)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:33:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3647495097.html">
+<title><![CDATA[Bookkeeping (Spencer, MA)]]></title>
+<link>http://worcester.craigslist.org/cpg/3647495097.html</link>
+<description><![CDATA[Looking for someone who knows Quickbooks and has some accounting skills to bring me up to date on my books. This would be a one time project, mainly data entry. Could also be a monthly gig If I like the work. Have no time to do this and need someone  [...]]]></description>
+<dc:date>2013-02-27T14:09:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3647495097.html</dc:source>
+<dc:title><![CDATA[Bookkeeping (Spencer, MA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T14:09:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3647168323.html">
+<title><![CDATA[Web Developer with good Graphics skills (Shrewsbury)]]></title>
+<link>http://worcester.craigslist.org/cpg/3647168323.html</link>
+<description><![CDATA[Looking for 2 Websites to be designed and up and running. One for a large apartment complex another for a home solutions store (cabinets, Granite, Flooring Etc.) Need exceptional programming and Graphic Arts skills. Please E-mail link with contact in [...]]]></description>
+<dc:date>2013-02-27T12:05:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3647168323.html</dc:source>
+<dc:title><![CDATA[Web Developer with good Graphics skills (Shrewsbury)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T12:05:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3647016439.html">
+<title><![CDATA[NEED 2 PEOPLE ONLY TO JOIN AS MARKETER IN EACH OF MY ONLINE BUSINESSES]]></title>
+<link>http://worcester.craigslist.org/cpg/3647016439.html</link>
+<description><![CDATA[I am looking to bring in one person to work with in each of my two online businesses. 
+You would be advertising the websites, writing blogs, strictly driving solid traffic to the sites. 
+I need someone who knows their way around the internet and can  [...]]]></description>
+<dc:date>2013-02-27T11:07:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3647016439.html</dc:source>
+<dc:title><![CDATA[NEED 2 PEOPLE ONLY TO JOIN AS MARKETER IN EACH OF MY ONLINE BUSINESSES]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T11:07:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3642548763.html">
+<title><![CDATA[need help with lg phone (worcester)]]></title>
+<link>http://worcester.craigslist.org/cpg/3642548763.html</link>
+<description><![CDATA[Is there anyone which can help me with creating a hotspot on my LG lucid phone? I was using Fox I and then something happened where it will not work. Willing to try another work_around if needed, please be experienced with this. 
+Willing to pay... wh [...]]]></description>
+<dc:date>2013-02-25T13:06:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3642548763.html</dc:source>
+<dc:title><![CDATA[need help with lg phone (worcester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T13:06:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3635727862.html">
+<title><![CDATA[Seeking College Student Web Site Development (Worcester, MA)]]></title>
+<link>http://worcester.craigslist.org/cpg/3635727862.html</link>
+<description><![CDATA[I am looking for a College student in the Worcester area that has experience in web site development. I am looking for a new estimated 5 page website. Pay can be discussed. We can work around your schedule. 
+Thanks, M]]></description>
+<dc:date>2013-02-22T11:35:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3635727862.html</dc:source>
+<dc:title><![CDATA[Seeking College Student Web Site Development (Worcester, MA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T11:35:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://worcester.craigslist.org/cpg/3615955693.html">
+<title><![CDATA[ColdFusion Programmer (Ver 4 and 5) with ability to decouple flash fil (Worcester, MA or surrounding area)]]></title>
+<link>http://worcester.craigslist.org/cpg/3615955693.html</link>
+<description><![CDATA[Looking for a ColdFusion programmer who can troubleshoot and fix issues on a dating web site. See below for additional details.... 
+* Must have experience with ** LEGACY ** ColdFusion sites and the issues inherent with them. Most of the code for this [...]]]></description>
+<dc:date>2013-02-13T21:31:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://worcester.craigslist.org/cpg/3615955693.html</dc:source>
+<dc:title><![CDATA[ColdFusion Programmer (Ver 4 and 5) with ability to decouple flash fil (Worcester, MA or surrounding area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T21:31:42-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

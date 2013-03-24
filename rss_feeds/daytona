@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://daytona.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in daytona beach</title>
+<link>http://daytona.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://daytona.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in daytona beach</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3675426052.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3670467931.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3668525887.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3648028875.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3643566284.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3642804895.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3633464090.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3628478305.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3626791730.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3614723029.html" />
+  <rdf:li rdf:resource="http://daytona.craigslist.org/cpg/3607730333.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://daytona.craigslist.org/cpg/3675426052.html">
+<title><![CDATA[Amazon Listing Help (Daytona Beach)]]></title>
+<link>http://daytona.craigslist.org/cpg/3675426052.html</link>
+<description><![CDATA[Need Amazon Expert 
+Have products to list on Amazon. Need help setting up Inventory File. Looking to set up long term process. Part Time, pays by hour or by entry.]]></description>
+<dc:date>2013-03-11T23:38:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3675426052.html</dc:source>
+<dc:title><![CDATA[Amazon Listing Help (Daytona Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:38:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3670467931.html">
+<title><![CDATA[SEO & Social Media Expert (Colorado)]]></title>
+<link>http://daytona.craigslist.org/cpg/3670467931.html</link>
+<description><![CDATA[Word Press SEO & Social Media Expert with PROVEN & VERIFIABLE references sought for monthly gig (independent contractor) 
+Start-up biz with a Word Press E-Commerce Site (BLANCO template) looking for a Word Press Guru for SEO & Social Media Management [...]]]></description>
+<dc:date>2013-03-09T17:26:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3670467931.html</dc:source>
+<dc:title><![CDATA[SEO & Social Media Expert (Colorado)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:26:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3668525887.html">
+<title><![CDATA[looking for savvy , dedicated marketers (daytona beach)]]></title>
+<link>http://daytona.craigslist.org/cpg/3668525887.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-08T19:27:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3668525887.html</dc:source>
+<dc:title><![CDATA[looking for savvy , dedicated marketers (daytona beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T19:27:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3648028875.html">
+<title><![CDATA[Service Desk Analyst (Daytona Beach, FL)]]></title>
+<link>http://daytona.craigslist.org/cpg/3648028875.html</link>
+<description><![CDATA[-Bachelor's degree from four year college or university 
+-2 years related experience in Service Desk/Desktop Support operations, computer hardware/software and mobile device support 
+-Experience with Service Desk ticketing software and with pc remote [...]]]></description>
+<dc:date>2013-02-27T17:44:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3648028875.html</dc:source>
+<dc:title><![CDATA[Service Desk Analyst (Daytona Beach, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T17:44:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3643566284.html">
+<title><![CDATA[Computer Marketing (Remote)]]></title>
+<link>http://daytona.craigslist.org/cpg/3643566284.html</link>
+<description><![CDATA[If you are looking for a way to work at home and make an extra income and maybe even a full time at home business email me -The Company has been in business for over 6 years, is Rated an A with the BBB, reports ALL earned income to the IRS for tax pu [...]]]></description>
+<dc:date>2013-02-25T19:52:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3643566284.html</dc:source>
+<dc:title><![CDATA[Computer Marketing (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T19:52:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3642804895.html">
+<title><![CDATA[simple web design work needed (new smyrna/daytona/lake mary)]]></title>
+<link>http://daytona.craigslist.org/cpg/3642804895.html</link>
+<description><![CDATA[looking for hourly simple web design talent to work with weebly to customize some web sites. no e commerce, but lots of pictures and offer descriptions. need something quickly and do not want to be up sold for expensive web development. will pay well [...]]]></description>
+<dc:date>2013-02-25T14:37:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3642804895.html</dc:source>
+<dc:title><![CDATA[simple web design work needed (new smyrna/daytona/lake mary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T14:37:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3633464090.html">
+<title><![CDATA[Need video editor and expert for 2 hours (Daytona Beach, Fla.)]]></title>
+<link>http://daytona.craigslist.org/cpg/3633464090.html</link>
+<description><![CDATA[Need someone who can shoot 720p or 1080p video -- very short YouTube video, about 1-2 mins. I will handle the setup and script. 
+The videographer will then add text and possibly sound. That's it. $25 per hour. Let's talk. This would be ideal for an E [...]]]></description>
+<dc:date>2013-02-21T12:09:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3633464090.html</dc:source>
+<dc:title><![CDATA[Need video editor and expert for 2 hours (Daytona Beach, Fla.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T12:09:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3628478305.html">
+<title><![CDATA[Need Tutor (Port Orange)]]></title>
+<link>http://daytona.craigslist.org/cpg/3628478305.html</link>
+<description><![CDATA[Need a tutor for business class ( BAS program) to produce a strategic plan for local business.]]></description>
+<dc:date>2013-02-19T11:56:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3628478305.html</dc:source>
+<dc:title><![CDATA[Need Tutor (Port Orange)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:56:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3626791730.html">
+<title><![CDATA[Cracked iPod touch screen]]></title>
+<link>http://daytona.craigslist.org/cpg/3626791730.html</link>
+<description><![CDATA[Looking to find someone to fix my iPod touch screen email me with price and location]]></description>
+<dc:date>2013-02-18T17:01:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3626791730.html</dc:source>
+<dc:title><![CDATA[Cracked iPod touch screen]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T17:01:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3614723029.html">
+<title><![CDATA[Create home network  (Ormond Beach, FL)]]></title>
+<link>http://daytona.craigslist.org/cpg/3614723029.html</link>
+<description><![CDATA[Here's what I want to do: 
+Get rid of AT&T as an Internet and Phone provider. 
+I'd like to do the following: 
+Replace AT&T DSL internet with something faster. Possibly Brighthouse Roadrunner. 
+Drop AT&T phone service and replace that with something b [...]]]></description>
+<dc:date>2013-02-13T12:42:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3614723029.html</dc:source>
+<dc:title><![CDATA[Create home network  (Ormond Beach, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T12:42:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://daytona.craigslist.org/cpg/3607730333.html">
+<title><![CDATA[Wordpress instruction (Daytona Beach)]]></title>
+<link>http://daytona.craigslist.org/cpg/3607730333.html</link>
+<description><![CDATA[I have domain and hosting already, but just can't get going on my site or blog. If someone can please spend a couple of hours with me so I can learn some basics. Prefer local person where I can bring my computer to you. 
+Thank you !]]></description>
+<dc:date>2013-02-10T14:47:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://daytona.craigslist.org/cpg/3607730333.html</dc:source>
+<dc:title><![CDATA[Wordpress instruction (Daytona Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T14:47:55-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://klamath.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in klamath falls</title>
+<link>http://klamath.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://klamath.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in klamath falls</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T21:40:04-08:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://klamath.craigslist.org/cpg/3694545878.html" />
+  <rdf:li rdf:resource="http://klamath.craigslist.org/cpg/3644018684.html" />
+  <rdf:li rdf:resource="http://klamath.craigslist.org/cpg/3629412803.html" />
+  <rdf:li rdf:resource="http://klamath.craigslist.org/cpg/3559140861.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://klamath.craigslist.org/cpg/3694545878.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://klamath.craigslist.org/cpg/3694545878.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T19:52:48-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://klamath.craigslist.org/cpg/3694545878.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:52:48-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://klamath.craigslist.org/cpg/3644018684.html">
+<title><![CDATA[warcraft II emulator (Klamath)]]></title>
+<link>http://klamath.craigslist.org/cpg/3644018684.html</link>
+<description><![CDATA[Any geniuses out there that can build me an XP compatible emulator for Warcraft II? I miss my old game and finding a Windows 95 platform seems unlikely.]]></description>
+<dc:date>2013-02-25T20:43:08-09:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://klamath.craigslist.org/cpg/3644018684.html</dc:source>
+<dc:title><![CDATA[warcraft II emulator (Klamath)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T20:43:08-09:00</dcterms:issued>
+</item>
+<item rdf:about="http://klamath.craigslist.org/cpg/3629412803.html">
+<title><![CDATA[Listen To Music & Get Paid]]></title>
+<link>http://klamath.craigslist.org/cpg/3629412803.html</link>
+<description><![CDATA[Click the link below to start getting paid for listening to and writing a short review (one paragraph) about the music you just heard. Great way to make some extra cash in your free time and discover new music as well. Get started now http://www.slic [...]]]></description>
+<dc:date>2013-02-19T13:34:39-09:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://klamath.craigslist.org/cpg/3629412803.html</dc:source>
+<dc:title><![CDATA[Listen To Music & Get Paid]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T13:34:39-09:00</dcterms:issued>
+</item>
+<item rdf:about="http://klamath.craigslist.org/cpg/3559140861.html">
+<title><![CDATA[Side Income]]></title>
+<link>http://klamath.craigslist.org/cpg/3559140861.html</link>
+<description><![CDATA[Side Income 
+$45/65 day 
+We need people who can complete simple 
+computer tasks. 
+Save time by working a gig from home. 
+Email when you can start along with your name 
+for more information ]]></description>
+<dc:date>2013-02-18T13:18:03-09:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://klamath.craigslist.org/cpg/3559140861.html</dc:source>
+<dc:title><![CDATA[Side Income]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:18:03-09:00</dcterms:issued>
+</item>
+</rdf:RDF>

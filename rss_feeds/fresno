@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://fresno.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in fresno / madera</title>
+<link>http://fresno.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://fresno.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in fresno / madera</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3701547159.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3693557050.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3676859428.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3688490212.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3683967036.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3633690170.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3670476128.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3613176490.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3657111616.html" />
+  <rdf:li rdf:resource="http://fresno.craigslist.org/cpg/3652669450.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://fresno.craigslist.org/cpg/3701547159.html">
+<title><![CDATA[I need some help with pc and market stuff]]></title>
+<link>http://fresno.craigslist.org/cpg/3701547159.html</link>
+<description><![CDATA[Marketing Assistant Wanted
+Great extra money for stay at home parent or student.
+Work a little ....... work a lot. 
+Work from home or office.
+Short term - could lead to full time.
+Write for details.
+Hourly + tier bonsus.]]></description>
+<dc:date>2013-03-24T15:47:05-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3701547159.html</dc:source>
+<dc:title><![CDATA[I need some help with pc and market stuff]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:47:05-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3693557050.html">
+<title><![CDATA[Scan and build a Power Point Today! (Fresno )]]></title>
+<link>http://fresno.craigslist.org/cpg/3693557050.html</link>
+<description><![CDATA[Urgently need a talented power point person today or tomorrow. We need a 10 Minute power point with scanned pictures and music background. Please call or text 619 888 8468. Please be highly qualified. This project is for a funeral and is needed Frida [...]]]></description>
+<dc:date>2013-03-20T12:41:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3693557050.html</dc:source>
+<dc:title><![CDATA[Scan and build a Power Point Today! (Fresno )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:41:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3676859428.html">
+<title><![CDATA[Independent Contractor (Fresno/Clovis)]]></title>
+<link>http://fresno.craigslist.org/cpg/3676859428.html</link>
+<description><![CDATA[eBryIT, Inc. is a National IT Support & Services company based in Kennesaw, GA. eBryIT, Inc. is a national provider for computer/printer installation services across the nation. At this time, we are searching for (3-4) Independent contractors to assi [...]]]></description>
+<dc:date>2013-03-18T12:59:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3676859428.html</dc:source>
+<dc:title><![CDATA[Independent Contractor (Fresno/Clovis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:59:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3688490212.html">
+<title><![CDATA[Telecommute Work Needed (Central Valley)]]></title>
+<link>http://fresno.craigslist.org/cpg/3688490212.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-18T07:08:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3688490212.html</dc:source>
+<dc:title><![CDATA[Telecommute Work Needed (Central Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T07:08:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3683967036.html">
+<title><![CDATA[repair a leapfrog explorer gs (southeast fresno)]]></title>
+<link>http://fresno.craigslist.org/cpg/3683967036.html</link>
+<description><![CDATA[my sons leapfrog explorer broke. idk. it just wont turn on. how much to fix it and/or diagnose it? 5594121193 cora]]></description>
+<dc:date>2013-03-15T18:08:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3683967036.html</dc:source>
+<dc:title><![CDATA[repair a leapfrog explorer gs (southeast fresno)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T18:08:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3633690170.html">
+<title><![CDATA[On call Printer Service Technicians (Fresno)]]></title>
+<link>http://fresno.craigslist.org/cpg/3633690170.html</link>
+<description><![CDATA[On call printer service technician needed for Fresno area. Technician needed for 8 hour and Next Business Day response times. Work load will vary, as service requests vary. This technician will be responsible for troubleshooting, repairing and cleani [...]]]></description>
+<dc:date>2013-03-10T21:05:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3633690170.html</dc:source>
+<dc:title><![CDATA[On call Printer Service Technicians (Fresno)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:05:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3670476128.html">
+<title><![CDATA[software instuctions]]></title>
+<link>http://fresno.craigslist.org/cpg/3670476128.html</link>
+<description><![CDATA[Need detail instruction to print address labels from excl spreadsheet will pay $20.00 325.0292]]></description>
+<dc:date>2013-03-09T14:30:43-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3670476128.html</dc:source>
+<dc:title><![CDATA[software instuctions]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T14:30:43-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3613176490.html">
+<title><![CDATA[MOD MX XBOX 360 (Fresno ca 93703)]]></title>
+<link>http://fresno.craigslist.org/cpg/3613176490.html</link>
+<description><![CDATA[i was wanting someone to mod my xbox 360 so i can play burned games and play games of a portable hard drive.]]></description>
+<dc:date>2013-03-06T09:40:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3613176490.html</dc:source>
+<dc:title><![CDATA[MOD MX XBOX 360 (Fresno ca 93703)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T09:40:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3657111616.html">
+<title><![CDATA[Mac Tech Support  (Fresno (riverpark area))]]></title>
+<link>http://fresno.craigslist.org/cpg/3657111616.html</link>
+<description><![CDATA[Looking to hire a fan boy capable of providing onsite Mac tech support. 
+My grandfather loves his Imac, but he creates problems due to user error quite regularly. I used to fix his problems when I lived in Fresno, but now that I live in DC, he needs  [...]]]></description>
+<dc:date>2013-03-03T18:19:04-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3657111616.html</dc:source>
+<dc:title><![CDATA[Mac Tech Support  (Fresno (riverpark area))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T18:19:04-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://fresno.craigslist.org/cpg/3652669450.html">
+<title><![CDATA[Web Site Help Needed (Clovis)]]></title>
+<link>http://fresno.craigslist.org/cpg/3652669450.html</link>
+<description><![CDATA[Looking for help with existing site done in flash that needs updates. Must know Adobe Flash and Dreamweaver, Pay is in cash and negotiable. Call Gary at 559-827-3420]]></description>
+<dc:date>2013-03-01T15:20:52-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fresno.craigslist.org/cpg/3652669450.html</dc:source>
+<dc:title><![CDATA[Web Site Help Needed (Clovis)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T15:20:52-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

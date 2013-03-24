@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://greensboro.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in greensboro</title>
+<link>http://greensboro.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://greensboro.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in greensboro</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3700812116.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3697039144.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3677431483.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3671534739.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3664756237.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3635641533.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3633156667.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3633084624.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3610485263.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3608609683.html" />
+  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3607317524.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3700812116.html">
+<title><![CDATA[Seeking Help with Apple Products (Gso)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3700812116.html</link>
+<description><![CDATA[I am looking for a young student who knows Apple products, Imac, Macbook Pro, Ipad, Iphone and can help me with them. Please reply with whatever knowledge you have and what you expect per hour. I am north of downtown greensboro.]]></description>
+<dc:date>2013-03-24T12:16:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3700812116.html</dc:source>
+<dc:title><![CDATA[Seeking Help with Apple Products (Gso)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T12:16:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3697039144.html">
+<title><![CDATA[Internet and ecommerce help (Winston Salem)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3697039144.html</link>
+<description><![CDATA[Individual looking to grow my new network marketing company by gaining leads generated through social media outlets like Facebook and Linkedin - I already have a presence on both, but am a beginner so I need someone to help me develop my Facebook and [...]]]></description>
+<dc:date>2013-03-22T11:37:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3697039144.html</dc:source>
+<dc:title><![CDATA[Internet and ecommerce help (Winston Salem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:37:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3677431483.html">
+<title><![CDATA[Need Crash Course in Word Press (Greensboro)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3677431483.html</link>
+<description><![CDATA[I have a new site that I'm launching that was created in Word Press. Since I will do the updates, I need a crash course in how to do the basics for now. Looking to learn how to do basic updates to the pages. Will probably need about 5-8 hours of trai [...]]]></description>
+<dc:date>2013-03-12T20:18:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3677431483.html</dc:source>
+<dc:title><![CDATA[Need Crash Course in Word Press (Greensboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:18:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3671534739.html">
+<title><![CDATA[Photocopier needs service  (Mebane)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3671534739.html</link>
+<description><![CDATA[I have a Konica Minolta BizHub C451 that needs servicing. The by-pass tray and document feeder jam regularly, there's a scary buzzing noise sometimes, and it needs a general tune-up. I have the full service manual on PDF - used it to replace the fusi [...]]]></description>
+<dc:date>2013-03-10T10:49:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3671534739.html</dc:source>
+<dc:title><![CDATA[Photocopier needs service  (Mebane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T10:49:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3664756237.html">
+<title><![CDATA[Web Page designer Needed! (High Point/Greensboro)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3664756237.html</link>
+<description><![CDATA[I need someone to create and maintain a website that supports video, video sharing, comment blogging, purchasing videos, traffic ad support and emailing. 
+I would like to have the site up and running by the end of April. 
+Please send an email with yo [...]]]></description>
+<dc:date>2013-03-07T09:02:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3664756237.html</dc:source>
+<dc:title><![CDATA[Web Page designer Needed! (High Point/Greensboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T09:02:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3635641533.html">
+<title><![CDATA[Need PHP/JS Ninja! (Greensboro)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3635641533.html</link>
+<description><![CDATA[Seeking real deal web programmer with experience in web development. Needs to at least be able to program PHP and Javascript. Familiarity with phpMotion a plus! 
+You can send an e-mail or text me at 336.362.9three1two]]></description>
+<dc:date>2013-02-22T11:02:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3635641533.html</dc:source>
+<dc:title><![CDATA[Need PHP/JS Ninja! (Greensboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T11:02:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3633156667.html">
+<title><![CDATA[Android App Developer Needed (Greensboro, NC)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3633156667.html</link>
+<description><![CDATA[Looking for a talented Android App developer 
+- Ability to work quickly, and creatively 
+- Experience is a must 
+- Experience with social app developing is a plus ]]></description>
+<dc:date>2013-02-21T10:04:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3633156667.html</dc:source>
+<dc:title><![CDATA[Android App Developer Needed (Greensboro, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T10:04:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3633084624.html">
+<title><![CDATA[IT Support Engineer (Greensboro, NC)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3633084624.html</link>
+<description><![CDATA[Looking for IT Support Engineer for break fix/maintenance work for one of our Greensboro clients for onsite support. Linksys router configuration, laptop upgrades, network upgrades, etc. Please send resume and references.]]></description>
+<dc:date>2013-02-21T09:27:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3633084624.html</dc:source>
+<dc:title><![CDATA[IT Support Engineer (Greensboro, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T09:27:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3610485263.html">
+<title><![CDATA[Looking for Excel spreadsheet development - need tax experience (Meet once)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3610485263.html</link>
+<description><![CDATA[Seeking experienced Excel person to help create a profit and loss type spreadsheet. Need knowledge of tax credits. Final product will have an variable input sections and a numbers section. Have a pdf template. Looking to spend about $100 dollars. ]]></description>
+<dc:date>2013-02-11T17:06:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3610485263.html</dc:source>
+<dc:title><![CDATA[Looking for Excel spreadsheet development - need tax experience (Meet once)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T17:06:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3608609683.html">
+<title><![CDATA[excel help small job (on computer)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3608609683.html</link>
+<description><![CDATA[I need someone to take my excel file and upload it to a program I 
+need online. I for some reason can't get it formatted correctly (delimited) to upload. 
+Should take just a few minutes. How much will you charge for less than a hours work. 
+email me]]></description>
+<dc:date>2013-02-10T22:09:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3608609683.html</dc:source>
+<dc:title><![CDATA[excel help small job (on computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T22:09:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greensboro.craigslist.org/cpg/3607317524.html">
+<title><![CDATA[MS Access Expert Needed (Haw River)]]></title>
+<link>http://greensboro.craigslist.org/cpg/3607317524.html</link>
+<description><![CDATA[I am looking for a MS Access 2007 expert to help with a project I am working on. I have the majority of the query written, but am having a few issues with the calculations of the query. I would need someone to look at my database along with my query  [...]]]></description>
+<dc:date>2013-02-10T11:44:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greensboro.craigslist.org/cpg/3607317524.html</dc:source>
+<dc:title><![CDATA[MS Access Expert Needed (Haw River)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T11:44:43-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

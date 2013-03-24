@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://rockford.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in rockford</title>
+<link>http://rockford.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://rockford.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in rockford</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:57-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3695635492.html" />
+  <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3649563898.html" />
+  <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3611451573.html" />
+  <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3578885990.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://rockford.craigslist.org/cpg/3695635492.html">
+<title><![CDATA[Computer Reps. NEDDED&gt;&gt;&gt;Hire on the SPOT!!]]></title>
+<link>http://rockford.craigslist.org/cpg/3695635492.html</link>
+<description><![CDATA[I'm hiring sales reps ASAP!!! Turn $40-$4000 in JUST ONE WEEK! It's very legit, very legal and very EASY. 
+The job comes with great things such as: 
+-Working from your home 
+-$150,000 in benefits for you and your family 
+-$80 per sign-up 
+-Weekly pay [...]]]></description>
+<dc:date>2013-03-21T14:43:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rockford.craigslist.org/cpg/3695635492.html</dc:source>
+<dc:title><![CDATA[Computer Reps. NEDDED&gt;&gt;&gt;Hire on the SPOT!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:43:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://rockford.craigslist.org/cpg/3649563898.html">
+<title><![CDATA[Mobil app creation (Machesney park il)]]></title>
+<link>http://rockford.craigslist.org/cpg/3649563898.html</link>
+<description><![CDATA[Looking for part time student to create mobil app to interact with services database]]></description>
+<dc:date>2013-02-28T11:43:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rockford.craigslist.org/cpg/3649563898.html</dc:source>
+<dc:title><![CDATA[Mobil app creation (Machesney park il)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:43:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://rockford.craigslist.org/cpg/3611451573.html">
+<title><![CDATA[Want to make cash writing reviews? (All locations)]]></title>
+<link>http://rockford.craigslist.org/cpg/3611451573.html</link>
+<description><![CDATA[Looking for online reviewers. Need access to a computer with internet, paypal for payment, and a debit card or credit card.. You can make some good weekly income reviewing companies. Contact us ASAP]]></description>
+<dc:date>2013-02-21T00:44:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rockford.craigslist.org/cpg/3611451573.html</dc:source>
+<dc:title><![CDATA[Want to make cash writing reviews? (All locations)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T00:44:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://rockford.craigslist.org/cpg/3578885990.html">
+<title><![CDATA[Dating Chatters Needed]]></title>
+<link>http://rockford.craigslist.org/cpg/3578885990.html</link>
+<description><![CDATA[We are looking for people between the ages of 18 and 45 both male and female to promote our brand new dating website. We have launched our new dating web-site a couple months ago and are currently running a promotion paying $100 for 15 hours of onlin [...]]]></description>
+<dc:date>2013-02-17T13:43:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rockford.craigslist.org/cpg/3578885990.html</dc:source>
+<dc:title><![CDATA[Dating Chatters Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T13:43:19-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

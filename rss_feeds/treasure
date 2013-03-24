@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://treasure.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in treasure coast</title>
+<link>http://treasure.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://treasure.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in treasure coast</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:29:54-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3693749420.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3669223376.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3666046120.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3668287574.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3667760027.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3658898193.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3648647411.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3641928769.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3628444862.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3621157427.html" />
+  <rdf:li rdf:resource="http://treasure.craigslist.org/cpg/3602592245.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://treasure.craigslist.org/cpg/3693749420.html">
+<title><![CDATA[Build me a Laser from a DVD (Treasure Coast)]]></title>
+<link>http://treasure.craigslist.org/cpg/3693749420.html</link>
+<description><![CDATA[Build me a laser from a used DVD player or from the CD ROM in an old laptop.]]></description>
+<dc:date>2013-03-20T17:09:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3693749420.html</dc:source>
+<dc:title><![CDATA[Build me a Laser from a DVD (Treasure Coast)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T17:09:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3669223376.html">
+<title><![CDATA[Web designer needed  (treasure coast)]]></title>
+<link>http://treasure.craigslist.org/cpg/3669223376.html</link>
+<description><![CDATA[Just need one LOCAL person to fit this role 
+Looking to have an on line store built 
+Just signed contracts with a unique DIY product and getting ready to put into the market worldwide 
+I am offering a rewarding compensation programi on percentage of  [...]]]></description>
+<dc:date>2013-03-18T15:03:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3669223376.html</dc:source>
+<dc:title><![CDATA[Web designer needed  (treasure coast)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:03:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3666046120.html">
+<title><![CDATA[Cash register programming]]></title>
+<link>http://treasure.craigslist.org/cpg/3666046120.html</link>
+<description><![CDATA[Im looking for anybody with experience in programming a cash register. The instructions were very confusing! If you have any experience with SHARP cash registers please call 772-878-5024]]></description>
+<dc:date>2013-03-12T13:34:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3666046120.html</dc:source>
+<dc:title><![CDATA[Cash register programming]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T13:34:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3668287574.html">
+<title><![CDATA[Registered Voters Needed (Port St. Lucie)]]></title>
+<link>http://treasure.craigslist.org/cpg/3668287574.html</link>
+<description><![CDATA[We are holding a Paid Focus Group on Social Issues. You will be compensated $175 for your time. Please follow the link below and fill out the pre-screener and we will contact you for further screening. 
+https://docs.google.com/forms/d/1Dhexgmz1RnMNBx [...]]]></description>
+<dc:date>2013-03-08T17:33:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3668287574.html</dc:source>
+<dc:title><![CDATA[Registered Voters Needed (Port St. Lucie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:33:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3667760027.html">
+<title><![CDATA[Paid Focus Group - St. Lucie County (St. Lucie County)]]></title>
+<link>http://treasure.craigslist.org/cpg/3667760027.html</link>
+<description><![CDATA[We are holding a Paid Focus Group on Social Issues. You will be compensated $175 for your time. Please follow the link below and fill out he pre-screener and we will contact you for further screening. 
+https://docs.google.com/forms/d/1Dhexgmz1RnMNBxV [...]]]></description>
+<dc:date>2013-03-08T13:58:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3667760027.html</dc:source>
+<dc:title><![CDATA[Paid Focus Group - St. Lucie County (St. Lucie County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T13:58:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3658898193.html">
+<title><![CDATA[Field Technician needed for IT repair (Vero Beach, FL)]]></title>
+<link>http://treasure.craigslist.org/cpg/3658898193.html</link>
+<description><![CDATA[We are a 3rd party IT service provider seeking highly skilled and experienced Printer and PC Repair technicians. We are an industry leading IT Service provider looking to expand our network of technicians and have recently had unfulfilled work in you [...]]]></description>
+<dc:date>2013-03-04T16:44:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3658898193.html</dc:source>
+<dc:title><![CDATA[Field Technician needed for IT repair (Vero Beach, FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:44:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3648647411.html">
+<title><![CDATA[Looking for CCTV Security consult (Stuart)]]></title>
+<link>http://treasure.craigslist.org/cpg/3648647411.html</link>
+<description><![CDATA[Looking for a cctv security expert for a private consultation. Call ken at 772-634-0394]]></description>
+<dc:date>2013-02-27T23:23:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3648647411.html</dc:source>
+<dc:title><![CDATA[Looking for CCTV Security consult (Stuart)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T23:23:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3641928769.html">
+<title><![CDATA[Implementing Google Apps and Google Voice (Fort Pierce)]]></title>
+<link>http://treasure.craigslist.org/cpg/3641928769.html</link>
+<description><![CDATA[I am wanting to migrate some of my business processes to the cloud. I have selected Google Apps as the platform. I also have Google Voice Account and Number. 
+I want to begin to organize my cluttered system and move things to the cloud and I need hel [...]]]></description>
+<dc:date>2013-02-25T08:38:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3641928769.html</dc:source>
+<dc:title><![CDATA[Implementing Google Apps and Google Voice (Fort Pierce)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T08:38:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3628444862.html">
+<title><![CDATA[expert computer and/or programming person wanted $$$]]></title>
+<link>http://treasure.craigslist.org/cpg/3628444862.html</link>
+<description><![CDATA[I have have a job for you $$$. Email me at for details.]]></description>
+<dc:date>2013-02-19T11:44:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3628444862.html</dc:source>
+<dc:title><![CDATA[expert computer and/or programming person wanted $$$]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:44:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3621157427.html">
+<title><![CDATA[Looking for a Videographer (Vero Beach)]]></title>
+<link>http://treasure.craigslist.org/cpg/3621157427.html</link>
+<description><![CDATA[I will be auditioning for a singing show and am looking to put together a 10 min video. Your video would be viewed by NBC and will receive recognition, maybe even create a few new working contacts. This project would be perfect for someone who would  [...]]]></description>
+<dc:date>2013-02-16T09:30:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3621157427.html</dc:source>
+<dc:title><![CDATA[Looking for a Videographer (Vero Beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T09:30:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://treasure.craigslist.org/cpg/3602592245.html">
+<title><![CDATA[Help! Need new laptop screen, hp g7 (Vero beach)]]></title>
+<link>http://treasure.craigslist.org/cpg/3602592245.html</link>
+<description><![CDATA[My screen cracked and I need it replaced. Looking for a good deal. ]]></description>
+<dc:date>2013-02-08T09:58:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://treasure.craigslist.org/cpg/3602592245.html</dc:source>
+<dc:title><![CDATA[Help! Need new laptop screen, hp g7 (Vero beach)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T09:58:43-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

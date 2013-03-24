@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://sarasota.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in sarasota-bradenton</title>
+<link>http://sarasota.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://sarasota.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in sarasota-bradenton</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3691878235.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3680745525.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3686778494.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3680267327.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3678413519.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3678110623.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3676487755.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3673661569.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3672820350.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3672457964.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3671172824.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3666335728.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3636002274.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3595073236.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3654713619.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3636131025.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3635536739.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3624347252.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3619711424.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3608588229.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3608404063.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3602343118.html" />
+  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3579270555.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3691878235.html">
+<title><![CDATA[Hook up tvs, speakers, set-top boxes, etc. (Venice)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3691878235.html</link>
+<description><![CDATA[We need someone who is capable of connecting components, tvs, etc. in an armoire. In one room we need to install a wall mount (already bought it) and then hook up the tv. A big bonus would be if you know anything about gliders that separate the house [...]]]></description>
+<dc:date>2013-03-19T19:07:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3691878235.html</dc:source>
+<dc:title><![CDATA[Hook up tvs, speakers, set-top boxes, etc. (Venice)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:07:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3680745525.html">
+<title><![CDATA[Computer repair (Englewood)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3680745525.html</link>
+<description><![CDATA[Computer repair needed. I need someone to stop an AP from running a script on my computer. It is blocking my internet access. I was at McDonald's a few days ago (on wifi) and accidently clicked on an advertisement ad AP. I deleted it ... so I thought [...]]]></description>
+<dc:date>2013-03-19T15:45:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3680745525.html</dc:source>
+<dc:title><![CDATA[Computer repair (Englewood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T15:45:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3686778494.html">
+<title><![CDATA[large format printer tech (north port)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3686778494.html</link>
+<description><![CDATA[I have a HP 8000s designjet large format solvent printer i need help w. Its printing everything too dark and we think its just a setting. the problem is cant find the setting that changes it. If you can help please call 941 258 1423.]]></description>
+<dc:date>2013-03-17T12:18:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3686778494.html</dc:source>
+<dc:title><![CDATA[large format printer tech (north port)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T12:18:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3680267327.html">
+<title><![CDATA[Refresher in Microsoft excel needed (Sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3680267327.html</link>
+<description><![CDATA[I am interested in a detailed refresher in Microsoft Excel 
+Please contact me if this is something you are proficient in and interested in spending a day or so teaching 
+Thanks ]]></description>
+<dc:date>2013-03-14T07:19:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3680267327.html</dc:source>
+<dc:title><![CDATA[Refresher in Microsoft excel needed (Sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T07:19:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3678413519.html">
+<title><![CDATA[Need logo illustrator design asap (Englewood)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3678413519.html</link>
+<description><![CDATA[I need a logo done asap which includes some illustrating work; so I may need someone with artistic talent as well as graphic design. If you cannot complete quickly please do not respond. Thanks]]></description>
+<dc:date>2013-03-13T11:08:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3678413519.html</dc:source>
+<dc:title><![CDATA[Need logo illustrator design asap (Englewood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:08:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3678110623.html">
+<title><![CDATA[Final Cut Pro Editor ASAP ]]></title>
+<link>http://sarasota.craigslist.org/cpg/3678110623.html</link>
+<description><![CDATA[I am looking for a Final Cut Pro editor for some quick adjustment on a film. call me ASAP 917 600 5869 ]]></description>
+<dc:date>2013-03-13T07:59:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3678110623.html</dc:source>
+<dc:title><![CDATA[Final Cut Pro Editor ASAP ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T07:59:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3676487755.html">
+<title><![CDATA[Local Web Designer needed (Manatee/ sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3676487755.html</link>
+<description><![CDATA[Golden Images Printing service is a new t-shirt and business printing that just started and we are searching for web Designers that is willing to Design for 25.00 - 50 dollars a design, please contact me with the details you are able to offer....Tiff [...]]]></description>
+<dc:date>2013-03-12T13:41:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3676487755.html</dc:source>
+<dc:title><![CDATA[Local Web Designer needed (Manatee/ sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T13:41:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3673661569.html">
+<title><![CDATA[EDiting Video (Sarasota area)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3673661569.html</link>
+<description><![CDATA[Hi I'm making a short video for a show i will be competing on and need some help with just editing it. If you are good with video editing and have your own work space please help. It will be a short film about 5 - 8 mins long with these requirments i [...]]]></description>
+<dc:date>2013-03-11T10:58:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3673661569.html</dc:source>
+<dc:title><![CDATA[EDiting Video (Sarasota area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T10:58:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3672820350.html">
+<title><![CDATA[Computer graphics gig (Sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3672820350.html</link>
+<description><![CDATA[I'm looking for someone who has some knowledge of graphics programs. Adobe Illustrator or PowerPoint (annotations lines and arrows) are acceptable, but would prefer some knowledge of AutoCAD and/or Microsoft Visio. The project involves screenshotting [...]]]></description>
+<dc:date>2013-03-10T21:22:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3672820350.html</dc:source>
+<dc:title><![CDATA[Computer graphics gig (Sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T21:22:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3672457964.html">
+<title><![CDATA[Final Cut PrO editor ]]></title>
+<link>http://sarasota.craigslist.org/cpg/3672457964.html</link>
+<description><![CDATA[I need someone for a quick Editing Job. CAll me 917 600 5869 John ]]></description>
+<dc:date>2013-03-10T18:09:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3672457964.html</dc:source>
+<dc:title><![CDATA[Final Cut PrO editor ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T18:09:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3671172824.html">
+<title><![CDATA[Editing a short video (Sarasota Area)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3671172824.html</link>
+<description><![CDATA[Hi I'm making a short video for a show i will be competing on and need some help with just editing it. If you are good with video editing and have your own work space please help. It will be a short film about 5 - 8 mins long with these requirments i [...]]]></description>
+<dc:date>2013-03-10T01:36:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3671172824.html</dc:source>
+<dc:title><![CDATA[Editing a short video (Sarasota Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T01:36:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3666335728.html">
+<title><![CDATA[lap top repair (sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3666335728.html</link>
+<description><![CDATA[Need hard drive replaced in HP betook. EBay is selling them for $54 but I need someone tfor the labor. ]]></description>
+<dc:date>2013-03-07T20:31:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3666335728.html</dc:source>
+<dc:title><![CDATA[lap top repair (sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T20:31:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3636002274.html">
+<title><![CDATA[Part to full assitant (Ellenton area)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3636002274.html</link>
+<description><![CDATA[Office work pt or full for a person ,with good office skills call and leave message 561-809-9425]]></description>
+<dc:date>2013-03-04T05:47:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3636002274.html</dc:source>
+<dc:title><![CDATA[Part to full assitant (Ellenton area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T05:47:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3595073236.html">
+<title><![CDATA[Office assitant pt (Ellenton)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3595073236.html</link>
+<description><![CDATA[Construction buisness looking for part time do it all person for successful business, computer skills a must,full time soon.Also cleaning ,painting skills would be nice to gain extra hours call Charlie at 561-809-9425 for interview]]></description>
+<dc:date>2013-03-04T05:46:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3595073236.html</dc:source>
+<dc:title><![CDATA[Office assitant pt (Ellenton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T05:46:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3654713619.html">
+<title><![CDATA[need final cut pro 7 editor for quick.job]]></title>
+<link>http://sarasota.craigslist.org/cpg/3654713619.html</link>
+<description><![CDATA[Hello. I need final cut pro cut editor for quick job asap. Call john 917 600 5869]]></description>
+<dc:date>2013-03-02T17:23:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3654713619.html</dc:source>
+<dc:title><![CDATA[need final cut pro 7 editor for quick.job]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T17:23:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3636131025.html">
+<title><![CDATA[Web site redesign - update  (Sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3636131025.html</link>
+<description><![CDATA[Looking for someone who will nicely redesign and update my current web site. Someone with SEO knowledge preferred. The site files was during the transfer on new hosting company last... So i used my back up files that i had when we started building th [...]]]></description>
+<dc:date>2013-02-22T14:05:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3636131025.html</dc:source>
+<dc:title><![CDATA[Web site redesign - update  (Sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T14:05:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3635536739.html">
+<title><![CDATA[PHP / MySQL Developer Wanted (Sarasota FL)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3635536739.html</link>
+<description><![CDATA[We are in need of developers who have a good working knowledge of various web technologies. Someone who likes self-directed learning and is qualified in the following: 
+Technologies/Skills 
+Required: 
+XHTML 
+CSS 
+JavaScript 
+PHP 
+MySQL 
+OOP with PHP  [...]]]></description>
+<dc:date>2013-02-22T10:17:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3635536739.html</dc:source>
+<dc:title><![CDATA[PHP / MySQL Developer Wanted (Sarasota FL)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T10:17:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3624347252.html">
+<title><![CDATA[VOLUNTEER INTERN OPPORTUNITY (Sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3624347252.html</link>
+<description><![CDATA[VOLUNTEER INTERN (UNPAID) 
+Local nonprofit organization seeks motivated and energetic "Nonprofit Intern." High-school or college-aged, or very mature middle-school student. 
+- If applicant is under 18, and is selected for the position, a consent agre [...]]]></description>
+<dc:date>2013-02-17T16:55:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3624347252.html</dc:source>
+<dc:title><![CDATA[VOLUNTEER INTERN OPPORTUNITY (Sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T16:55:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3619711424.html">
+<title><![CDATA[Computer Tutor Needed (Sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3619711424.html</link>
+<description><![CDATA[Hi! 
+I am looking for a technology friendly, patient tutor to help my mom learn how to use the iPad I bought her at Christmas. She's in her early 70's and although used to be a math teacher herself is very slow to learn technology. She lives near Bah [...]]]></description>
+<dc:date>2013-02-15T15:28:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3619711424.html</dc:source>
+<dc:title><![CDATA[Computer Tutor Needed (Sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T15:28:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3608588229.html">
+<title><![CDATA[3d max  person]]></title>
+<link>http://sarasota.craigslist.org/cpg/3608588229.html</link>
+<description><![CDATA[I am looking for someone who can do 3 d max. Contact me asap joh 917600 5869]]></description>
+<dc:date>2013-02-10T21:55:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3608588229.html</dc:source>
+<dc:title><![CDATA[3d max  person]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T21:55:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3608404063.html">
+<title><![CDATA[DreamWeaver 6 Tutor (SRQ)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3608404063.html</link>
+<description><![CDATA[If you are proficient at DreamWeaver and can prove it, earn some extra dollars. I am a bright, fast learner with strong computer skills. 
+Can meet a few hours each day, every other day, nights or? I can be flexible. Don't waste my time and I won't wa [...]]]></description>
+<dc:date>2013-02-10T20:08:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3608404063.html</dc:source>
+<dc:title><![CDATA[DreamWeaver 6 Tutor (SRQ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T20:08:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3602343118.html">
+<title><![CDATA[ruby on rails developer/designer for prototype (sarasota)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3602343118.html</link>
+<description><![CDATA[i have some basic wireframes that i will tweak/improve with your input. then i want to have a prototype developed where not much effort is put into the visual design - more effort into functionality.]]></description>
+<dc:date>2013-02-08T06:35:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3602343118.html</dc:source>
+<dc:title><![CDATA[ruby on rails developer/designer for prototype (sarasota)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T06:35:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://sarasota.craigslist.org/cpg/3579270555.html">
+<title><![CDATA[need someone to repair my NSM CD Jukebox 941-323-3466 (south venice)]]></title>
+<link>http://sarasota.craigslist.org/cpg/3579270555.html</link>
+<description><![CDATA[I have a CDM Juke bow that has error sign and wont play 
+If there is anyone with the know how and would be williong to fix I would gladly pay them but dont want to spend a fortune at the same time..:-) 
+Please call mike 941-323-3466]]></description>
+<dc:date>2013-02-06T17:11:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sarasota.craigslist.org/cpg/3579270555.html</dc:source>
+<dc:title><![CDATA[need someone to repair my NSM CD Jukebox 941-323-3466 (south venice)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-06T17:11:30-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

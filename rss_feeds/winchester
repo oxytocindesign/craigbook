@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://winchester.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in winchester</title>
+<link>http://winchester.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://winchester.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in winchester</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:37:25-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://winchester.craigslist.org/cpg/3649342132.html" />
+  <rdf:li rdf:resource="http://winchester.craigslist.org/cpg/3641024156.html" />
+  <rdf:li rdf:resource="http://winchester.craigslist.org/cpg/3571744137.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://winchester.craigslist.org/cpg/3649342132.html">
+<title><![CDATA[Personal Assistant  (Berryville )]]></title>
+<link>http://winchester.craigslist.org/cpg/3649342132.html</link>
+<description><![CDATA[I looking for someone who is interested in assisting me with a bunch of projects and having some fun. 
+A would prefer a woman age 20~45. 
+Please text me 949-310-7997 ]]></description>
+<dc:date>2013-02-28T11:13:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://winchester.craigslist.org/cpg/3649342132.html</dc:source>
+<dc:title><![CDATA[Personal Assistant  (Berryville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:13:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://winchester.craigslist.org/cpg/3641024156.html">
+<title><![CDATA[Website design (none)]]></title>
+<link>http://winchester.craigslist.org/cpg/3641024156.html</link>
+<description><![CDATA[I own a photography business and I need somebody to build me a new website. I want the website to be user friendly and I have a example of what I would like. Please contact me if you are experienced and would like to work with me. ]]></description>
+<dc:date>2013-02-24T18:21:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://winchester.craigslist.org/cpg/3641024156.html</dc:source>
+<dc:title><![CDATA[Website design (none)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T18:21:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://winchester.craigslist.org/cpg/3571744137.html">
+<title><![CDATA[Sales Team Needed (VA)]]></title>
+<link>http://winchester.craigslist.org/cpg/3571744137.html</link>
+<description><![CDATA[ECCN Inc. is a growing security business in the Northern Virginia area. We specialize in commercial/residential alarm systems, CCTV security cameras, Access Control and low voltage cabling. We are looking for sales representatives to bring the compan [...]]]></description>
+<dc:date>2013-02-20T21:39:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://winchester.craigslist.org/cpg/3571744137.html</dc:source>
+<dc:title><![CDATA[Sales Team Needed (VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T21:39:03-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

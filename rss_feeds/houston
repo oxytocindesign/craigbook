@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://houston.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in houston</title>
+<link>http://houston.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://houston.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in houston</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:28:35-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3698018302.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3701611619.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3701306573.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3701079836.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3700841357.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3699787078.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3638822531.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3699166298.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3698400891.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3698163020.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3697956908.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3697766253.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3697230454.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3697131012.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3696974805.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3696937349.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3682866978.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3696544078.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3696255833.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3695890151.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3695640634.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3695594354.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3694811289.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3694758073.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3677040407.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3694032844.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3693713452.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3693655576.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3693637457.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3683146951.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3693569950.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3693337926.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3630952286.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3692365051.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3691005402.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3690805888.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3690728519.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3690272167.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3688396636.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3687291013.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3686639309.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3684286610.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3683918009.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3618007824.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3682917338.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3681911726.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3681795078.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3681619813.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3679078678.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3678547266.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3678364219.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3677896122.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3677860626.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3677053377.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3675469031.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3675309788.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3675173076.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3675171380.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3674867806.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3671830888.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3671725882.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3605572092.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3641388240.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3669505832.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3668452823.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3668316833.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3668176028.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3667893273.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3667780504.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3667276610.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3666697102.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3666616307.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3666015343.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3665163965.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3664830394.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3664256883.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3663442750.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3658391135.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3658285393.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3662906873.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3662613157.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3662551504.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3661852920.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3661090008.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3661030620.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3659618978.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3658555252.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3657772114.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3657732368.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3657173166.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3656214298.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3654701018.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3654668967.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3654414247.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3653964553.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3653261419.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3653179773.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3652377375.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3651995989.html" />
+  <rdf:li rdf:resource="http://houston.craigslist.org/cpg/3651702559.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://houston.craigslist.org/cpg/3698018302.html">
+<title><![CDATA[Looking For Electronics Repairman (The Woodlands)]]></title>
+<link>http://houston.craigslist.org/cpg/3698018302.html</link>
+<description><![CDATA[Looking For Electronics Repairman 
+I buy & re-sell used electronics (computers, postage machines, laminators, laboratory equipment, medical equipment, & other) & need someone who can diagnose and fix these types of equipment after their real job. Thi [...]]]></description>
+<dc:date>2013-03-24T19:47:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3698018302.html</dc:source>
+<dc:title><![CDATA[Looking For Electronics Repairman (The Woodlands)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T19:47:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3701611619.html">
+<title><![CDATA[StraightForward Gig -- Good Pay! (TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3701611619.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T18:25:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3701611619.html</dc:source>
+<dc:title><![CDATA[StraightForward Gig -- Good Pay! (TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:25:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3701306573.html">
+<title><![CDATA[NEED AN EXPERIENCED COMPUTER SALES REP*COMPUTER KNOWLEDGE A PLUS (Houston TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3701306573.html</link>
+<description><![CDATA[Looking for a sales representative for a computer store. Must be detailed oriented and have computer skills. 
+This position is a full time contract position. Must be flexible 
+Please contact me regarding details directly 
+832-258-1025]]></description>
+<dc:date>2013-03-24T15:31:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3701306573.html</dc:source>
+<dc:title><![CDATA[NEED AN EXPERIENCED COMPUTER SALES REP*COMPUTER KNOWLEDGE A PLUS (Houston TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T15:31:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3701079836.html">
+<title><![CDATA[Sharepoint Project Server 2010 Expert (Remote)]]></title>
+<link>http://houston.craigslist.org/cpg/3701079836.html</link>
+<description><![CDATA[Hi, 
+I need a Sharepoint Project Server 2010 Expert ASAP. I need help: 
+* Building and importing a custom Template / Skin. We can utilize something that is already built. This would be in Sharepoint Designer 
+* Configuring Dashboard Designer with OLA [...]]]></description>
+<dc:date>2013-03-24T13:34:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3701079836.html</dc:source>
+<dc:title><![CDATA[Sharepoint Project Server 2010 Expert (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T13:34:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3700841357.html">
+<title><![CDATA[Sensible Staff Wanted Immediately! (TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3700841357.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T11:32:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3700841357.html</dc:source>
+<dc:title><![CDATA[Sensible Staff Wanted Immediately! (TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T11:32:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3699787078.html">
+<title><![CDATA[JOB OPPURTUNITY (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3699787078.html</link>
+<description><![CDATA[You'll make $80 for basically sitting in front of a computer. Email me for details!]]></description>
+<dc:date>2013-03-23T17:21:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3699787078.html</dc:source>
+<dc:title><![CDATA[JOB OPPURTUNITY (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T17:21:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3638822531.html">
+<title><![CDATA[EBAY SELLER WANTED?  Don't fall for it!!!]]></title>
+<link>http://houston.craigslist.org/cpg/3638822531.html</link>
+<description><![CDATA[If someone wants you to sell on eBay for them but you have to use your own account, it's a scam! Ask why then don't have their own account and why won't they use it. If you use your own and they fail to send the items or send broken crap, YOU are res [...]]]></description>
+<dc:date>2013-03-23T16:55:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3638822531.html</dc:source>
+<dc:title><![CDATA[EBAY SELLER WANTED?  Don't fall for it!!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T16:55:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3699166298.html">
+<title><![CDATA[SharePoint Help Needed - local (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3699166298.html</link>
+<description><![CDATA[I need help with several SharePoint projects. They are ongoing and expanding. I would prefer someone local that I can sit down with. This is part time only right now, but could grow to more work. I am a SharePoint user, but need design help - immedia [...]]]></description>
+<dc:date>2013-03-23T12:08:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3699166298.html</dc:source>
+<dc:title><![CDATA[SharePoint Help Needed - local (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:08:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3698400891.html">
+<title><![CDATA[C++ program problem (Houston Tx)]]></title>
+<link>http://houston.craigslist.org/cpg/3698400891.html</link>
+<description><![CDATA[I need someone who can write code for me for a c++ introductory course. The material will be sent to you by email once you have contacted me. I need it finished by March 23rd, 2013 by 6:00 p.m. I would really appreciate if someone could do this for f [...]]]></description>
+<dc:date>2013-03-22T23:13:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3698400891.html</dc:source>
+<dc:title><![CDATA[C++ program problem (Houston Tx)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T23:13:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3698163020.html">
+<title><![CDATA[Graphic Designer for newspaper]]></title>
+<link>http://houston.craigslist.org/cpg/3698163020.html</link>
+<description><![CDATA[24 Pages 11'' x 17'' tabloid newspaper biweekly need to be layout. 
+It will be $700 monthly or $350 per edition. 
+It can be designed at your home all the communication with email. 
+More information will be provide, Adobe Indesign experience must need [...]]]></description>
+<dc:date>2013-03-22T19:56:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3698163020.html</dc:source>
+<dc:title><![CDATA[Graphic Designer for newspaper]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T19:56:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3697956908.html">
+<title><![CDATA[Electrician needed ASAP (highway 6/FM 529)]]></title>
+<link>http://houston.craigslist.org/cpg/3697956908.html</link>
+<description><![CDATA[Hello, 
+I am looking for a electrician to wire a small business. I am ready to hire asap. Please call 585 329-6490 please ask for Tony. Please have own transportation and be ready to work.]]></description>
+<dc:date>2013-03-22T17:47:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3697956908.html</dc:source>
+<dc:title><![CDATA[Electrician needed ASAP (highway 6/FM 529)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:47:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3697766253.html">
+<title><![CDATA[Assistant for Insurance Company (HW6 N)]]></title>
+<link>http://houston.craigslist.org/cpg/3697766253.html</link>
+<description><![CDATA[We are a Insurance company and we are looking to hire a full time assitant. some of the duties are: 
+-Follow up with Home and life insurances 
+-sell new policies to walk in customers 
+-filing 
+-check emails 
+-take payments 
+-work on different given t [...]]]></description>
+<dc:date>2013-03-22T16:06:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3697766253.html</dc:source>
+<dc:title><![CDATA[Assistant for Insurance Company (HW6 N)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T16:06:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3697230454.html">
+<title><![CDATA[Seeking English/Spanish Sales Assistant (77082)]]></title>
+<link>http://houston.craigslist.org/cpg/3697230454.html</link>
+<description><![CDATA[Office seeking English/Spanish Assistant to help with Regular office duties, and Sales 
+Contact customers, Email-Basic computer knowledge Required, Spanish Speaking required. 
+Some Knowledge of Accounting will be A Plus. 
+Please contact us to set up  [...]]]></description>
+<dc:date>2013-03-22T12:00:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3697230454.html</dc:source>
+<dc:title><![CDATA[Seeking English/Spanish Sales Assistant (77082)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T12:00:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3697131012.html">
+<title><![CDATA[Full Time Web Designer/Developer  (Houston 77014)]]></title>
+<link>http://houston.craigslist.org/cpg/3697131012.html</link>
+<description><![CDATA[Web Designer/Developer Position: 
+About Us 
+Artius Innovations is a growing IT Services and Business Solutions company located in Houston, Texas. 
+We believe in creating an environment where you can improve your mind, learn more, gain professional qu [...]]]></description>
+<dc:date>2013-03-22T11:18:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3697131012.html</dc:source>
+<dc:title><![CDATA[Full Time Web Designer/Developer  (Houston 77014)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:18:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3696974805.html">
+<title><![CDATA[Telcom Sales Person (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3696974805.html</link>
+<description><![CDATA[I have a small Telecom company. We offer small to medium sized phone systems, voice/data cabling, home automation, home audio/video and media servers. In the Houston and surrounding areas. I am looking for a Part Time sales person to work for commisi [...]]]></description>
+<dc:date>2013-03-22T10:09:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3696974805.html</dc:source>
+<dc:title><![CDATA[Telcom Sales Person (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:09:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3696937349.html">
+<title><![CDATA[SE SOLICITAN (HOUSTON)]]></title>
+<link>http://houston.craigslist.org/cpg/3696937349.html</link>
+<description><![CDATA[3 Personas que esten interesadas en un medio tiempo y deseen ganar $615 a $1,645 al mes. 
+Llame al 281-617-9546.]]></description>
+<dc:date>2013-03-22T09:51:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3696937349.html</dc:source>
+<dc:title><![CDATA[SE SOLICITAN (HOUSTON)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T09:51:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3682866978.html">
+<title><![CDATA[Buscamos agente de seguros (SW Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3682866978.html</link>
+<description><![CDATA[Buscamos agente de seguros para auto y casa con 6 meses minimo de experiencia, bilingue, trabajo de medio tiempo, interesados madar curriculum a: agiesllc@gmail, o llamar a 281-498-3133 ]]></description>
+<dc:date>2013-03-22T08:39:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3682866978.html</dc:source>
+<dc:title><![CDATA[Buscamos agente de seguros (SW Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T08:39:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3696544078.html">
+<title><![CDATA[Intern Needed - Oracle Taleo (Downtown Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3696544078.html</link>
+<description><![CDATA[I am looking for a help/assistance in building a Oracle Taleo ATS system like site. Please email me]]></description>
+<dc:date>2013-03-22T01:17:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3696544078.html</dc:source>
+<dc:title><![CDATA[Intern Needed - Oracle Taleo (Downtown Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T01:17:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3696255833.html">
+<title><![CDATA[Web Designer Need for Small Project]]></title>
+<link>http://houston.craigslist.org/cpg/3696255833.html</link>
+<description><![CDATA[I need a Website Designer for a small website. 
+Give me a call and lets discuss the opportunity. 
+Steve 
+630-788-3318]]></description>
+<dc:date>2013-03-21T20:29:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3696255833.html</dc:source>
+<dc:title><![CDATA[Web Designer Need for Small Project]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T20:29:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3695890151.html">
+<title><![CDATA[Email Marketing Design (Work from Home)]]></title>
+<link>http://houston.craigslist.org/cpg/3695890151.html</link>
+<description><![CDATA[We are looking for someone to handle an ongoing email marketing campaign. The main requirement is the ability to generate creative copy and graphics that will generate response to the promotion. 
+Our company sells promotional marketing items to a var [...]]]></description>
+<dc:date>2013-03-21T16:48:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3695890151.html</dc:source>
+<dc:title><![CDATA[Email Marketing Design (Work from Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T16:48:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3695640634.html">
+<title><![CDATA[ATENCION (HOUSTON)]]></title>
+<link>http://houston.craigslist.org/cpg/3695640634.html</link>
+<description><![CDATA[Buscamos 4 personas con deseos de trabajar medio tiempo y ganar de $675 a $1250 al mes entrenamiento incluido. 
+Llame al 832-752-1085]]></description>
+<dc:date>2013-03-21T14:46:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3695640634.html</dc:source>
+<dc:title><![CDATA[ATENCION (HOUSTON)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:46:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3695594354.html">
+<title><![CDATA[Looking for Internet Game Developer (Houston/Austin)]]></title>
+<link>http://houston.craigslist.org/cpg/3695594354.html</link>
+<description><![CDATA[My partner and I are looking for another partner for a upcoming social networking site to develop internet games to incorporate in the site. Must be a serious entrepreneurial developer. PLEASE NO COMPANIES!!]]></description>
+<dc:date>2013-03-21T14:24:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3695594354.html</dc:source>
+<dc:title><![CDATA[Looking for Internet Game Developer (Houston/Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T14:24:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3694811289.html">
+<title><![CDATA[Cable/Phone Tech (Houston )]]></title>
+<link>http://houston.craigslist.org/cpg/3694811289.html</link>
+<description><![CDATA[We need technicians for the Houston and surrounding area. MUST BE RELIABLE. MUST HAVE TRUCK AND LADDERS. MUST HAVE OWN TOOLS including toner, butt set, and termination tools. 
+Technicians needed that can troubleshoot dial tone, perform x-connects, ru [...]]]></description>
+<dc:date>2013-03-21T08:17:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3694811289.html</dc:source>
+<dc:title><![CDATA[Cable/Phone Tech (Houston )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T08:17:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3694758073.html">
+<title><![CDATA[Telecom Tech - Fiber Experience! (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3694758073.html</link>
+<description><![CDATA[Seeking telecommunications technicians to perform ongoing contract piece work in Houston, TX and surrounding areas. Our work typically consists of installing commercial telecom services (VoIP, xDSL, T1 etc) as well as running and terminating fiber/ca [...]]]></description>
+<dc:date>2013-03-21T07:35:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3694758073.html</dc:source>
+<dc:title><![CDATA[Telecom Tech - Fiber Experience! (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T07:35:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3677040407.html">
+<title><![CDATA[Can anyone with the technology remake my video?]]></title>
+<link>http://houston.craigslist.org/cpg/3677040407.html</link>
+<description><![CDATA[http://www.youtube.com/watch?v=5KxhukrZnlU 
+If that video was in better quality, it would be super epic. 
+But all I had at the time was a webcam & I dont know how to make youtube masterpieces. 
+Can anyone with the technology remake my video into a ep [...]]]></description>
+<dc:date>2013-03-21T01:37:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3677040407.html</dc:source>
+<dc:title><![CDATA[Can anyone with the technology remake my video?]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T01:37:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3694032844.html">
+<title><![CDATA[Email Migration (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3694032844.html</link>
+<description><![CDATA[Looking for someone with good server skills to migrate our emails from one host to another. Reply if you´re available.]]></description>
+<dc:date>2013-03-20T18:37:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3694032844.html</dc:source>
+<dc:title><![CDATA[Email Migration (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:37:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3693713452.html">
+<title><![CDATA[** Wanted: Gaming Testers In Houston ** (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3693713452.html</link>
+<description><![CDATA[Dear Potential Applicant! 
+Palace Web Assets is a privately owned firm, located in Dallas. 
+What our firm does is, gives good gaming reviews on hot new gaming titles, testing them to the fullest! 
+We test out every subject you can think of on every c [...]]]></description>
+<dc:date>2013-03-20T15:52:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3693713452.html</dc:source>
+<dc:title><![CDATA[** Wanted: Gaming Testers In Houston ** (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:52:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3693655576.html">
+<title><![CDATA[Roadie/Videography (77089, SE Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3693655576.html</link>
+<description><![CDATA[Need a Roadie and/or Video Editor. This is a contract position. I do videotape depositions for attorneys and am looking for an assistant. 
+(1) ROADIE: Duties include: Coming with me to the deposition to load/unload equipment from the car; set-up/brea [...]]]></description>
+<dc:date>2013-03-20T15:26:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3693655576.html</dc:source>
+<dc:title><![CDATA[Roadie/Videography (77089, SE Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:26:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3693637457.html">
+<title><![CDATA[Microsoft Dynamics GP 2010 Person (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3693637457.html</link>
+<description><![CDATA[Looking for some one to help us implement Microsoft Dynamics GP Manufacturing. 
+This is for some one independent. Not a consulting group. 
+Please email Pay, Resume and References.]]></description>
+<dc:date>2013-03-20T15:18:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3693637457.html</dc:source>
+<dc:title><![CDATA[Microsoft Dynamics GP 2010 Person (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:18:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3683146951.html">
+<title><![CDATA[need a geek  (dickinson)]]></title>
+<link>http://houston.craigslist.org/cpg/3683146951.html</link>
+<description><![CDATA[need a computer person on an as needed basis for simple computer skills ,such as speed up computer ,do some down loads, etc. 
+on an hourly basis. 
+call George 713 542 3971 need to be close to Dickinson,TX]]></description>
+<dc:date>2013-03-20T15:10:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3683146951.html</dc:source>
+<dc:title><![CDATA[need a geek  (dickinson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:10:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3693569950.html">
+<title><![CDATA[Help me search for something online and I'll give you $2 (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3693569950.html</link>
+<description><![CDATA[Like it says, just need someone to help me search for something. 
+I'll pay whether you find it or not. Payment via paypal. 
+Email me for info.]]></description>
+<dc:date>2013-03-20T14:47:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3693569950.html</dc:source>
+<dc:title><![CDATA[Help me search for something online and I'll give you $2 (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:47:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3693337926.html">
+<title><![CDATA[Leasing Professional  (Houston, Texas )]]></title>
+<link>http://houston.craigslist.org/cpg/3693337926.html</link>
+<description><![CDATA[Candidates must be HIGH ENERGY, positive, and team-motivating, have a professional appearance, be highly detailed, performance driven, organized, excellent written, verbal and customer service skills, must have a minimum (1)-year prior property manag [...]]]></description>
+<dc:date>2013-03-20T13:05:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3693337926.html</dc:source>
+<dc:title><![CDATA[Leasing Professional  (Houston, Texas )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:05:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3630952286.html">
+<title><![CDATA[Looking for someone to assist with online marketing for real estate.]]></title>
+<link>http://houston.craigslist.org/cpg/3630952286.html</link>
+<description><![CDATA[No experience necessary, we will train. We are a licensed real estate broker looking to hire someone to assist with online marketing. There are many facets to the positions and many different ways to get paid. Office is in sugar land, but you will ma [...]]]></description>
+<dc:date>2013-03-20T11:56:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3630952286.html</dc:source>
+<dc:title><![CDATA[Looking for someone to assist with online marketing for real estate.]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:56:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3692365051.html">
+<title><![CDATA[Seeking Mentor (Houston - North)]]></title>
+<link>http://houston.craigslist.org/cpg/3692365051.html</link>
+<description><![CDATA[I am new in the social media marketing and search engine optimization industry. I feel like I know the ropes in theory, I know the right answers to many questions, but I know that's not enough. I need the wisdom that only comes from experience. and t [...]]]></description>
+<dc:date>2013-03-19T23:34:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3692365051.html</dc:source>
+<dc:title><![CDATA[Seeking Mentor (Houston - North)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T23:34:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3691005402.html">
+<title><![CDATA[Quick & EZ $5 Bucks Today (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3691005402.html</link>
+<description><![CDATA[Just need you to visit my site and use the live chat, the do one other very small task online, should only take 5 minutes of your time. 
+You help, I send $5 via paypal. Should be real easy. 
+Really do need the help today, so if you're available pleas [...]]]></description>
+<dc:date>2013-03-19T11:38:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3691005402.html</dc:source>
+<dc:title><![CDATA[Quick & EZ $5 Bucks Today (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T11:38:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3690805888.html">
+<title><![CDATA[PC Desktop Technician (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3690805888.html</link>
+<description><![CDATA[Our client has requested we source a number of PC technicians for a project on Saturday 3/23 and Sunday 3/24 in Houston. 
+Job Description: Move 125 desktops, VDIs, and laptops with monitors on same floor. 
+Must be able to lift up to 50lbs. 
+Date(s) S [...]]]></description>
+<dc:date>2013-03-19T10:14:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3690805888.html</dc:source>
+<dc:title><![CDATA[PC Desktop Technician (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T10:14:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3690728519.html">
+<title><![CDATA[Telecom Field Tech Needed Immediately - Cisco Knowledge Required! (Baytown, TX )]]></title>
+<link>http://houston.craigslist.org/cpg/3690728519.html</link>
+<description><![CDATA[Seeking a T1 field technician in the Baytown, TX area who is able to work with Cisco devices. FE should be familiar with consoling into different types of Cisco routers, troubleshooting and replacing Cisco equipment. FE should carry their own tools,  [...]]]></description>
+<dc:date>2013-03-19T09:37:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3690728519.html</dc:source>
+<dc:title><![CDATA[Telecom Field Tech Needed Immediately - Cisco Knowledge Required! (Baytown, TX )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:37:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3690272167.html">
+<title><![CDATA[WordPress Guru (Houston Babay)]]></title>
+<link>http://houston.craigslist.org/cpg/3690272167.html</link>
+<description><![CDATA[I am looking for someone who could help me get my website off the ground with Word Press. Ideally, I will update it after we get it going. 
+Focus is fashion amongst other things.]]></description>
+<dc:date>2013-03-18T23:46:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3690272167.html</dc:source>
+<dc:title><![CDATA[WordPress Guru (Houston Babay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T23:46:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3688396636.html">
+<title><![CDATA[Make a Change Now (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3688396636.html</link>
+<description><![CDATA[http://www.em power network.com/amalik/]]></description>
+<dc:date>2013-03-18T08:13:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3688396636.html</dc:source>
+<dc:title><![CDATA[Make a Change Now (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T08:13:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3687291013.html">
+<title><![CDATA[Electrical or Computer Engineers Needed (Houston, Tx)]]></title>
+<link>http://houston.craigslist.org/cpg/3687291013.html</link>
+<description><![CDATA[Seeking to hire a part-time developer for a project that i been working on. I'm needing to find a senior or graduate electrical engineering /computer engineer student with experience and or knowledge in embedded systems . Task include running a ioio  [...]]]></description>
+<dc:date>2013-03-17T15:26:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3687291013.html</dc:source>
+<dc:title><![CDATA[Electrical or Computer Engineers Needed (Houston, Tx)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T15:26:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3686639309.html">
+<title><![CDATA[Needed: MS-DOS File Transfer Issue Fixed (The Woodlands)]]></title>
+<link>http://houston.craigslist.org/cpg/3686639309.html</link>
+<description><![CDATA[I need an expert in Vintage MS-DOS / 486 Motherboards / IDE storage devices / File Transfer Device / Networking (via serial or LPT1 ports) for a Vintage problem that may be relatively simple. 
+This is a for hire job. Must travel to my location. 
+Ther [...]]]></description>
+<dc:date>2013-03-17T10:01:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3686639309.html</dc:source>
+<dc:title><![CDATA[Needed: MS-DOS File Transfer Issue Fixed (The Woodlands)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T10:01:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3684286610.html">
+<title><![CDATA[Help Video Marketing Disabled Site]]></title>
+<link>http://houston.craigslist.org/cpg/3684286610.html</link>
+<description><![CDATA[Need help to clean up youtube channel and create nice site to show patient transfers Clean up comments create better page. I will do the work just need some guidance on how to do it.]]></description>
+<dc:date>2013-03-16T00:43:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3684286610.html</dc:source>
+<dc:title><![CDATA[Help Video Marketing Disabled Site]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T00:43:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3683918009.html">
+<title><![CDATA[FRONT DESK- part time (Woodlands- Valleywood Dr)]]></title>
+<link>http://houston.craigslist.org/cpg/3683918009.html</link>
+<description><![CDATA[Extended Stay America (Woodlands location) is looking for a bright, hard-working, reliable, team player, and positive attitude for front desk position. Must be professional. Job duties include: answering multiple phones calls, handling check ins, dat [...]]]></description>
+<dc:date>2013-03-15T19:36:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3683918009.html</dc:source>
+<dc:title><![CDATA[FRONT DESK- part time (Woodlands- Valleywood Dr)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T19:36:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3618007824.html">
+<title><![CDATA[Do you know and use XSitePro? (The Woodlands)]]></title>
+<link>http://houston.craigslist.org/cpg/3618007824.html</link>
+<description><![CDATA[Looking for someone who can teach me to use XSitePro. 
+Only local providers need apply!!!!! Happy to pay cash for lessons on XSitePro.]]></description>
+<dc:date>2013-03-15T13:13:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3618007824.html</dc:source>
+<dc:title><![CDATA[Do you know and use XSitePro? (The Woodlands)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T13:13:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3682917338.html">
+<title><![CDATA[Need a Professional Human Genetics Opinion  (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3682917338.html</link>
+<description><![CDATA[I want someone who has a lot of experience with human genetics. I need your professional opinion about something. 
+Don't worry, it's nothing to do with my health. It's for a research project I'm doing. 
+So, please tell me your experience in human gen [...]]]></description>
+<dc:date>2013-03-15T11:41:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3682917338.html</dc:source>
+<dc:title><![CDATA[Need a Professional Human Genetics Opinion  (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T11:41:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3681911726.html">
+<title><![CDATA[Need a Partner with Senior Web Developer Experience]]></title>
+<link>http://houston.craigslist.org/cpg/3681911726.html</link>
+<description><![CDATA[We are a team of 3 looking for a fourth partner in developing a social media \ image management site. We've already secured the domain and begun some programming. We have a front-end guy but are looking for someone who can assist with the PHP and MyS [...]]]></description>
+<dc:date>2013-03-14T20:37:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3681911726.html</dc:source>
+<dc:title><![CDATA[Need a Partner with Senior Web Developer Experience]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T20:37:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3681795078.html">
+<title><![CDATA[Windows SBS install (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3681795078.html</link>
+<description><![CDATA[We have a customer who needs Windows Small Business Server (SBS) 2011 installed this Saturday. This includes the server, Exchange and SharePoint. They have 10 workstations and I need someone to setup two of them then they will do the remainder of the [...]]]></description>
+<dc:date>2013-03-14T19:24:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3681795078.html</dc:source>
+<dc:title><![CDATA[Windows SBS install (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T19:24:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3681619813.html">
+<title><![CDATA[3D modeler needed (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3681619813.html</link>
+<description><![CDATA[Need a 3D modeler for a Small Shell enclosure that will fit a PCB inside firmly. 
+It is a simple project I believe. Files need to be compatible with 
+Shapeways.com 
+this is a paid gig 
+Email me with information. 
+Thank you]]></description>
+<dc:date>2013-03-14T17:49:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3681619813.html</dc:source>
+<dc:title><![CDATA[3D modeler needed (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T17:49:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3679078678.html">
+<title><![CDATA[Need Satellite Installers / Technicians (Richmond)]]></title>
+<link>http://houston.craigslist.org/cpg/3679078678.html</link>
+<description><![CDATA[I am looking for 5 more good satellite technicians. 
+I am also willing to train if you have a technical background. 
+Pay is $18.75 Plus company truck and gas card. 
+The work will be in the Richmond area. 
+Please send your resumes and contact info ]]></description>
+<dc:date>2013-03-13T14:37:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3679078678.html</dc:source>
+<dc:title><![CDATA[Need Satellite Installers / Technicians (Richmond)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T14:37:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3678547266.html">
+<title><![CDATA[OFFICE HELP (bingle rd)]]></title>
+<link>http://houston.craigslist.org/cpg/3678547266.html</link>
+<description><![CDATA[I AM LOOKING FOR AN ADDITIONAL OFFICE PERSON TO HANDLE AN EXTREMELY HIGH CALL VOLUME, CONTRACT INPUT/DOWNLOAD, AND ASSISTING ALL OFFICE AS NEEDED. THIS IS A HIGH STRESS POSITION AND HARD TO MAINTAIN. IF YOU GET FRAZZLED EASILY, THIS IS NOT THE JOB FO [...]]]></description>
+<dc:date>2013-03-13T11:04:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3678547266.html</dc:source>
+<dc:title><![CDATA[OFFICE HELP (bingle rd)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T11:04:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3678364219.html">
+<title><![CDATA[Need Responsive Website Design Guru (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3678364219.html</link>
+<description><![CDATA[Working on an existing platform and need help with a few items. ]]></description>
+<dc:date>2013-03-13T09:46:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3678364219.html</dc:source>
+<dc:title><![CDATA[Need Responsive Website Design Guru (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T09:46:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3677896122.html">
+<title><![CDATA[Scala Developer (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3677896122.html</link>
+<description><![CDATA[I'm looking for a Scala Developer for contract work. I must be able to meet with you from time to time in person. 
+Please reply with a link to your github and any other relevant information. I'm looking forward to working with you!]]></description>
+<dc:date>2013-03-13T00:55:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3677896122.html</dc:source>
+<dc:title><![CDATA[Scala Developer (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T00:55:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3677860626.html">
+<title><![CDATA[Direct sales from your loacation (anywhere)]]></title>
+<link>http://houston.craigslist.org/cpg/3677860626.html</link>
+<description><![CDATA[FT Income PT Hours 
+Reply to this AD for detailed information 
+or Call 979-530-7553 
+with contact information]]></description>
+<dc:date>2013-03-13T00:13:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3677860626.html</dc:source>
+<dc:title><![CDATA[Direct sales from your loacation (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T00:13:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3677053377.html">
+<title><![CDATA[Have you developed an Android app? (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3677053377.html</link>
+<description><![CDATA[I'm looking for an Android developer to work on a contract basis. 
+If possible, please include links to your github or stackoverflow profile and apps you are developing or drafting. ]]></description>
+<dc:date>2013-03-12T16:24:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3677053377.html</dc:source>
+<dc:title><![CDATA[Have you developed an Android app? (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T16:24:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3675469031.html">
+<title><![CDATA[Install Andriod On My Pandigital (Westchase)]]></title>
+<link>http://houston.craigslist.org/cpg/3675469031.html</link>
+<description><![CDATA[Don't have time to do the research but would love to have Uberoid or some solid o/s installed on my Pan-digital Novel tablet. This tablet has no market and has an old Android version on it. Would like it optimized with market. 
+Please reply with cont [...]]]></description>
+<dc:date>2013-03-11T23:10:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3675469031.html</dc:source>
+<dc:title><![CDATA[Install Andriod On My Pandigital (Westchase)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T23:10:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3675309788.html">
+<title><![CDATA[Looking for Programming Genius]]></title>
+<link>http://houston.craigslist.org/cpg/3675309788.html</link>
+<description><![CDATA[I am looking for someone who is as computer savvy as Mark Zuckerberg but without his drama. The ideal person would humor me with my inability to do anything other than surf gossip sites, not need constant hand holding, would not pull a Zuckerberg, an [...]]]></description>
+<dc:date>2013-03-11T21:22:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3675309788.html</dc:source>
+<dc:title><![CDATA[Looking for Programming Genius]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T21:22:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3675173076.html">
+<title><![CDATA[Social Media Marketing Facebook]]></title>
+<link>http://houston.craigslist.org/cpg/3675173076.html</link>
+<description><![CDATA[Social Media Marketing Facebook Twitter 
+www.HotConflict.com 
+Do you know how to increase Twitter followers, Facebook likes and Facebook fans? We are looking for someone who knows about social media marketing to help market our website and increase o [...]]]></description>
+<dc:date>2013-03-11T20:07:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3675173076.html</dc:source>
+<dc:title><![CDATA[Social Media Marketing Facebook]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:07:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3675171380.html">
+<title><![CDATA[SEO Expert Wanted Increase Traffic]]></title>
+<link>http://houston.craigslist.org/cpg/3675171380.html</link>
+<description><![CDATA[Expert in SEO Wanted 
+www.HotConflict.com 
+We are looking for someone who know SEO search engine optimization to increase traffic to our website and increase conversions. Do you know how to increase website PR, traffic, and conversions? If so, contac [...]]]></description>
+<dc:date>2013-03-11T20:06:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3675171380.html</dc:source>
+<dc:title><![CDATA[SEO Expert Wanted Increase Traffic]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:06:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3674867806.html">
+<title><![CDATA[Looking For Front-End Developer (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3674867806.html</link>
+<description><![CDATA[I'm a local visual designer looking for front-end developers to collaborate with. The idea candidate will be open-minded, a cool person to get to know and above all great a coding. HTML, CSS and Javascript are all I need for now. I'm going to have a  [...]]]></description>
+<dc:date>2013-03-11T17:41:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3674867806.html</dc:source>
+<dc:title><![CDATA[Looking For Front-End Developer (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T17:41:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3671830888.html">
+<title><![CDATA[Android Developer (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3671830888.html</link>
+<description><![CDATA[I'm looking for an Android developer to work on a contract basis. 
+Bonus points for: 
+- Experience with Scala 
+- Experience with Swing 
+If possible, please include: 
+- Link to your github 
+- Links to apps you've developed 
+I'm looking forward to work [...]]]></description>
+<dc:date>2013-03-10T12:19:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3671830888.html</dc:source>
+<dc:title><![CDATA[Android Developer (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T12:19:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3671725882.html">
+<title><![CDATA[Searching for online Partners (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3671725882.html</link>
+<description><![CDATA[Hello, 
+I am searching for a online business partner to make money as much as we can Hundreds, Thousands, Millions, Billions who knows. 
+Let's build a team to a business team to where we dont have to work anymore. I am tired of paycheck to paycheck h [...]]]></description>
+<dc:date>2013-03-10T11:30:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3671725882.html</dc:source>
+<dc:title><![CDATA[Searching for online Partners (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T11:30:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3605572092.html">
+<title><![CDATA[Need Someone Who Knows Paradox (West Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3605572092.html</link>
+<description><![CDATA[My old business has a program written with Paradox 4.5 in DOS. I need someone who is knowledgeable in Paradox to pull off certain information we currently need. This will not be a long job but as we progress, there will probably be more information w [...]]]></description>
+<dc:date>2013-03-10T10:44:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3605572092.html</dc:source>
+<dc:title><![CDATA[Need Someone Who Knows Paradox (West Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T10:44:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3641388240.html">
+<title><![CDATA[Social Networking and Marketing Intern Needed for Design firm (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3641388240.html</link>
+<description><![CDATA[Help needed to manage client database, send / reply to emails, mailings, answer the phone, and other various office related tasks. 
+Must have an interest for innovation, challenge, and creativity, these strengths will be instrumental. You will have t [...]]]></description>
+<dc:date>2013-03-09T17:37:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3641388240.html</dc:source>
+<dc:title><![CDATA[Social Networking and Marketing Intern Needed for Design firm (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:37:01-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3669505832.html">
+<title><![CDATA[WEB DEVELOPER......Social Site Needed (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3669505832.html</link>
+<description><![CDATA[Looking for a web developer to partner with on new social based web company. Need social site for profiles and emails, etc. 
+Great concept, will discuss during meeting. If interested in learning more and getting into the social media arena, let's tal [...]]]></description>
+<dc:date>2013-03-09T09:42:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3669505832.html</dc:source>
+<dc:title><![CDATA[WEB DEVELOPER......Social Site Needed (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T09:42:38-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3668452823.html">
+<title><![CDATA[Wordpress - Graphics - Programming (Magnolia - Woodlands)]]></title>
+<link>http://houston.craigslist.org/cpg/3668452823.html</link>
+<description><![CDATA[I live on 1488 near 2978 in Magnolia on the outskirts of the Woodlands. 
+I am looking for someone to come to my home office for a few days/week to work with me on improving my Wordpress designs and insurance lead forms. 
+I am using an ad server and w [...]]]></description>
+<dc:date>2013-03-08T17:50:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3668452823.html</dc:source>
+<dc:title><![CDATA[Wordpress - Graphics - Programming (Magnolia - Woodlands)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:50:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3668316833.html">
+<title><![CDATA[Looking for an Excel pro (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3668316833.html</link>
+<description><![CDATA[We are looking for someone that is an excel pro. We want help in creating graphs and pie charts, on a number of pieces that will be printed. Please contact me via email.]]></description>
+<dc:date>2013-03-08T16:46:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3668316833.html</dc:source>
+<dc:title><![CDATA[Looking for an Excel pro (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T16:46:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3668176028.html">
+<title><![CDATA[Website Portfolio Manager (Houston, Texas 77056)]]></title>
+<link>http://houston.craigslist.org/cpg/3668176028.html</link>
+<description><![CDATA[THIS IS FOR A LOCAL POSITION. You can't telecommute. 
+I own a handful of websites that I need someone to over see. One of them has about 500k unique visitors a month and there are several other niche sites as well. Some of them need to be updated on  [...]]]></description>
+<dc:date>2013-03-08T15:45:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3668176028.html</dc:source>
+<dc:title><![CDATA[Website Portfolio Manager (Houston, Texas 77056)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T15:45:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3667893273.html">
+<title><![CDATA[Data cabling techs $12 to $20  (Woodlands)]]></title>
+<link>http://houston.craigslist.org/cpg/3667893273.html</link>
+<description><![CDATA[2-3 years exp 
+Own tools 
+Own car 
+Be able to commit to 2 years of work. 
+Able to pass a background and drug screen 
+Call Brandon at 713-261-6176 
+Send resume ]]></description>
+<dc:date>2013-03-08T13:49:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3667893273.html</dc:source>
+<dc:title><![CDATA[Data cabling techs $12 to $20  (Woodlands)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T13:49:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3667780504.html">
+<title><![CDATA[Need help running CAT6 cables and punch down tonight (77057)]]></title>
+<link>http://houston.craigslist.org/cpg/3667780504.html</link>
+<description><![CDATA[Experienced only pls. 
+Send your requirements as to pay. Plan to start around 7ish tonight. 56 wires so 112 terminations. If you happen to be a crew of 2 will def consider as it will just make things go even faster. May also have work tomorrow settin [...]]]></description>
+<dc:date>2013-03-08T13:05:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3667780504.html</dc:source>
+<dc:title><![CDATA[Need help running CAT6 cables and punch down tonight (77057)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T13:05:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3667276610.html">
+<title><![CDATA[Looking for Travel Planning Experts - PAID (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3667276610.html</link>
+<description><![CDATA[I'm looking for Travel Planning experts to write a multiple choice test about Travel Planning. 
+Ideal candidate will have: 
+- A detailed understanding of Travel Planning 
+- The stamina to craft 40 questions of superior quality focused around the in's [...]]]></description>
+<dc:date>2013-03-08T09:55:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3667276610.html</dc:source>
+<dc:title><![CDATA[Looking for Travel Planning Experts - PAID (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T09:55:32-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3666697102.html">
+<title><![CDATA[Graphic Designers- Bloggers (Sugar Land)]]></title>
+<link>http://houston.craigslist.org/cpg/3666697102.html</link>
+<description><![CDATA[We are a small but fast growing company with a line of unique fashion accessories. Our product is sold throughout the US. 
+If you're a graphic design student, or a designer looking to expand your existing portfolio, or would like to work to build you [...]]]></description>
+<dc:date>2013-03-07T23:47:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3666697102.html</dc:source>
+<dc:title><![CDATA[Graphic Designers- Bloggers (Sugar Land)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T23:47:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3666616307.html">
+<title><![CDATA[Mca Associates Needed]]></title>
+<link>http://houston.craigslist.org/cpg/3666616307.html</link>
+<description><![CDATA[Your opportunity begins here with the Motor Club of America. This company has been around since 1926 and has been offering great services to all its employees. Turn your $40 membership into $160-800 every friday. Reply to this post and begin working  [...]]]></description>
+<dc:date>2013-03-07T22:33:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3666616307.html</dc:source>
+<dc:title><![CDATA[Mca Associates Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T22:33:35-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3666015343.html">
+<title><![CDATA[Web designer/programmer (Galleria)]]></title>
+<link>http://houston.craigslist.org/cpg/3666015343.html</link>
+<description><![CDATA[Need a web programmer - HTML5, CSS, JAVA, PHP, MYSQL for completing a partially done website. Interested programmers please send your resume and link to the portfolio. If selected, you'll be given a detailed scope of work. Also, if agreed/required we [...]]]></description>
+<dc:date>2013-03-07T16:52:21-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3666015343.html</dc:source>
+<dc:title><![CDATA[Web designer/programmer (Galleria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:52:21-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3665163965.html">
+<title><![CDATA[Magento Expert (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3665163965.html</link>
+<description><![CDATA[I am looking for a Magento expert. My webstore is already up and running, but I need professional look of my website, also want to add some relevant pictures (you will provide the pictures). SEO expertise will be a plus. 
+I will pay $20 per hour. The [...]]]></description>
+<dc:date>2013-03-07T11:08:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3665163965.html</dc:source>
+<dc:title><![CDATA[Magento Expert (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T11:08:52-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3664830394.html">
+<title><![CDATA[Desktop Support for Houston, TX * CHGT0301 (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3664830394.html</link>
+<description><![CDATA[Desktop Support for Houston, TX * CHGT0301 
+Desktop Support -- Level 2 
+Houston, TX 
+A+ Certification 
+Enterprise environment experience 
+Software and Hardware support 
+STRONG Customer Service skills 
+VPN experience]]></description>
+<dc:date>2013-03-07T08:46:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3664830394.html</dc:source>
+<dc:title><![CDATA[Desktop Support for Houston, TX * CHGT0301 (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T08:46:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3664256883.html">
+<title><![CDATA[Retail/Culture Start Up Looking for Coder (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3664256883.html</link>
+<description><![CDATA[Looking for a coder local to Texas (preference given to Houston) who has a strong interest working on the founding team of a online retail/cultural portal that could very well redefine culture as we know it. 
+The ideal candidate would have the follow [...]]]></description>
+<dc:date>2013-03-06T21:31:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3664256883.html</dc:source>
+<dc:title><![CDATA[Retail/Culture Start Up Looking for Coder (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T21:31:42-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3663442750.html">
+<title><![CDATA[Joomla Expert (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3663442750.html</link>
+<description><![CDATA[I'm working on a joomla store using virtuemart. This is my first Joomla site and I wasting time trouble shooting some very easy issues. I only need a Joomla expert for a few hours of work. Would like to pay by the hour and be able to work directly wi [...]]]></description>
+<dc:date>2013-03-06T14:47:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3663442750.html</dc:source>
+<dc:title><![CDATA[Joomla Expert (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:47:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3658391135.html">
+<title><![CDATA[Desktop Support (The Woodlands, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3658391135.html</link>
+<description><![CDATA[Please forward a Word doc resume. 
+Need two desk side support professionals. Degreed, energetic and possessing experience with a major oil/gas company for inside support. 
+Knowledge with Dell, HP, and Acer pcs, remote in software and Windows 7 is a m [...]]]></description>
+<dc:date>2013-03-06T13:07:08-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3658391135.html</dc:source>
+<dc:title><![CDATA[Desktop Support (The Woodlands, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T13:07:08-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3658285393.html">
+<title><![CDATA[Deployment Technicians (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3658285393.html</link>
+<description><![CDATA[Need deployment technician for desktop devices. Need two technicians with experience in imaging and pc imaging for deployment/upgrade. Both should have experience with Excel spreadsheets to document device/prep steps]]></description>
+<dc:date>2013-03-06T11:55:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3658285393.html</dc:source>
+<dc:title><![CDATA[Deployment Technicians (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T11:55:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3662906873.html">
+<title><![CDATA[Need editor to cut hip-hop music videos ]]></title>
+<link>http://houston.craigslist.org/cpg/3662906873.html</link>
+<description><![CDATA[Looking for an experience editor to cut hip hop music video!! 
+Pl call 713-330-5843]]></description>
+<dc:date>2013-03-06T11:25:54-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3662906873.html</dc:source>
+<dc:title><![CDATA[Need editor to cut hip-hop music videos ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T11:25:54-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3662613157.html">
+<title><![CDATA[Connect DUAL Monitors (Houston TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3662613157.html</link>
+<description><![CDATA[I have a DELL Vostro desktop and I have 1 23.5 ACER monitor hdmi connected to it. I need someone to connect the other one that I have in stock so that it is a dual monitor. 
+I am located off Westpark Tollway and Westheimer. 
+Thank you, ]]></description>
+<dc:date>2013-03-06T09:29:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3662613157.html</dc:source>
+<dc:title><![CDATA[Connect DUAL Monitors (Houston TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T09:29:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3662551504.html">
+<title><![CDATA[Sr. Systems Engineer (San Antonio, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3662551504.html</link>
+<description><![CDATA[Currently seeking a highly skilled and team-oriented Sr. Systems Engineer to wear several hats in the San Antonio, TX area. This individual must be a self-starter and able to contribute to a growing environment. 
+Job Duties: 
+- Work with a Systems te [...]]]></description>
+<dc:date>2013-03-06T08:59:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3662551504.html</dc:source>
+<dc:title><![CDATA[Sr. Systems Engineer (San Antonio, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T08:59:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3661852920.html">
+<title><![CDATA[Front end UI  (Houston Tx.)]]></title>
+<link>http://houston.craigslist.org/cpg/3661852920.html</link>
+<description><![CDATA[Start-up company seeking Front end UI. I would prefer a freelancer with time to take on a new project. 
+Confidentiality agreement will be required. Professional integrity is nonnegotiable.]]></description>
+<dc:date>2013-03-05T20:39:18-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3661852920.html</dc:source>
+<dc:title><![CDATA[Front end UI  (Houston Tx.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T20:39:18-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3661090008.html">
+<title><![CDATA[Javascript/PHP Developer - Houston Area Locals Only (Lake Jackson, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3661090008.html</link>
+<description><![CDATA[Looking for a PHP/Javascript developer interested in an ambitious startup project. 
+Php javascript mysql 
+I need a developer that can see opportunity and has the free time willing to help get this project off the ground. 
+Compensation may be offered  [...]]]></description>
+<dc:date>2013-03-05T14:42:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3661090008.html</dc:source>
+<dc:title><![CDATA[Javascript/PHP Developer - Houston Area Locals Only (Lake Jackson, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:42:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3661030620.html">
+<title><![CDATA[Web Designers, Graphic Designers, New Media, Developers, Web Sales (Houston (Westside))]]></title>
+<link>http://houston.craigslist.org/cpg/3661030620.html</link>
+<description><![CDATA[Searching for creative individuals that are looking for a new work place to call home. We have the floor space and location for your genius and talent. If you are interested in joining a new team with potential send us an email and let's talk. If you [...]]]></description>
+<dc:date>2013-03-05T14:19:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3661030620.html</dc:source>
+<dc:title><![CDATA[Web Designers, Graphic Designers, New Media, Developers, Web Sales (Houston (Westside))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:19:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3659618978.html">
+<title><![CDATA[Data Entry - Work from our office or your home -  (77077)]]></title>
+<link>http://houston.craigslist.org/cpg/3659618978.html</link>
+<description><![CDATA[If you can type fast, know your way around a computer, and are internet savvy, you can do this job. We are looking for someone who is a self starter, motivated, and does not need much supervision. You will be taking our customers information and ente [...]]]></description>
+<dc:date>2013-03-04T21:52:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3659618978.html</dc:source>
+<dc:title><![CDATA[Data Entry - Work from our office or your home -  (77077)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T21:52:38-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3658555252.html">
+<title><![CDATA[BIOS Reset (Southeast Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3658555252.html</link>
+<description><![CDATA[I recently bought a used laptop off of craigslist. It worked fine until it began demanding that I enter the BIOS pw. I never set the BIOS pw, and the laptop has been rendered useless. 
+The laptop is a Lenovo t530, and it does not have a CMOS. Instead [...]]]></description>
+<dc:date>2013-03-04T13:31:27-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3658555252.html</dc:source>
+<dc:title><![CDATA[BIOS Reset (Southeast Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T13:31:27-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3657772114.html">
+<title><![CDATA[Software freelancer NEEDED! (Humble)]]></title>
+<link>http://houston.craigslist.org/cpg/3657772114.html</link>
+<description><![CDATA[I am need of a software developer that is familiar with wordpress and also host gator. Hostgator.com is my website host. I have an eecutive package that allows you to use tools that just need to be plugged in to the project I am developing. Must be f [...]]]></description>
+<dc:date>2013-03-04T08:27:39-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3657772114.html</dc:source>
+<dc:title><![CDATA[Software freelancer NEEDED! (Humble)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:27:39-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3657732368.html">
+<title><![CDATA[SQL / Access / Web Database (Downtown Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3657732368.html</link>
+<description><![CDATA[Hello, 
+We are currently looking for a Database Designer to work on a database that our business uses. We have a current database that we want to build on that is hosted on SQL / IIS. 
+This is a contract job with further work down the road as we need [...]]]></description>
+<dc:date>2013-03-04T08:04:49-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3657732368.html</dc:source>
+<dc:title><![CDATA[SQL / Access / Web Database (Downtown Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T08:04:49-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3657173166.html">
+<title><![CDATA[iOS Developer (Houston, Texas)]]></title>
+<link>http://houston.craigslist.org/cpg/3657173166.html</link>
+<description><![CDATA[App Startup in need of an experienced iOS developer in Houston, Texas. If you are not located in Houston, Texas do not respond. 
+Background: We have been developing an iOS app which uses a Restful API to access data on a linux server (PHP and MySQL s [...]]]></description>
+<dc:date>2013-03-03T20:59:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3657173166.html</dc:source>
+<dc:title><![CDATA[iOS Developer (Houston, Texas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T20:59:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3656214298.html">
+<title><![CDATA[Computer Setup Tech (Galleria)]]></title>
+<link>http://houston.craigslist.org/cpg/3656214298.html</link>
+<description><![CDATA[Need a couple of technically knowledgeable people to setup some computers in an office out of the box. Probably about 4 hrs worth of work next Thursday 3/7. Pay is negotiable with your skill level. Reply to email with name, phone number and any exper [...]]]></description>
+<dc:date>2013-03-03T12:45:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3656214298.html</dc:source>
+<dc:title><![CDATA[Computer Setup Tech (Galleria)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T12:45:48-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3654701018.html">
+<title><![CDATA[Looking for a web developer for adult website (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3654701018.html</link>
+<description><![CDATA[I am looking for a web developer to help me set an adult website to organizing adult parties. This will be a non profit website. Because it will be a non-profit site, I am not able to pay for the help but you can join the group. If you're interested  [...]]]></description>
+<dc:date>2013-03-02T16:16:58-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3654701018.html</dc:source>
+<dc:title><![CDATA[Looking for a web developer for adult website (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T16:16:58-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3654668967.html">
+<title><![CDATA[Need help programming ATM (Houston,Texas)]]></title>
+<link>http://houston.craigslist.org/cpg/3654668967.html</link>
+<description><![CDATA[I need help programming a Hyosung 1800 ATM. Need it ready to be installed. Please email if if you can help or are an ATM company that can help. Thanks!]]></description>
+<dc:date>2013-03-02T16:01:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3654668967.html</dc:source>
+<dc:title><![CDATA[Need help programming ATM (Houston,Texas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T16:01:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3654414247.html">
+<title><![CDATA[Magento Admin Expert (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3654414247.html</link>
+<description><![CDATA[Looking for an Expert who knows all about Magento E-commerce Admin setup. I have a website which is up and running, but I have some question about the admin part of the site and how I can make changes or setup the options that has been offer by Magen [...]]]></description>
+<dc:date>2013-03-02T14:08:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3654414247.html</dc:source>
+<dc:title><![CDATA[Magento Admin Expert (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T14:08:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3653964553.html">
+<title><![CDATA[Online Accounting Setup]]></title>
+<link>http://houston.craigslist.org/cpg/3653964553.html</link>
+<description><![CDATA[Set up opensource accounting package on my internet hosted server. Need invoicing and accounting. Need help to set up and get started. 
+If you have experience and are interested let me know the options. ]]></description>
+<dc:date>2013-03-02T11:07:04-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3653964553.html</dc:source>
+<dc:title><![CDATA[Online Accounting Setup]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T11:07:04-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3653261419.html">
+<title><![CDATA[Computer Service Technician on-call - $30/Hr (Houston, TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3653261419.html</link>
+<description><![CDATA[Computer Service Technician needed On-Call. 
+Jobs include; 
+-Installing, configuring and trouble shooting - LAN/WAN, Computers and Peripherals. 
+-Software diagnostics. 
+-Communicating with and sending updates to support desk. 
+-Documentation of equip [...]]]></description>
+<dc:date>2013-03-01T23:57:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3653261419.html</dc:source>
+<dc:title><![CDATA[Computer Service Technician on-call - $30/Hr (Houston, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T23:57:55-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3653179773.html">
+<title><![CDATA[Need a Craigslist Posting Expert (832-374-0333)]]></title>
+<link>http://houston.craigslist.org/cpg/3653179773.html</link>
+<description><![CDATA[I am looking for a professional Craigslist poster. I looking for someone who can post multiple ads without being ghosted. I want the to have large template photos as well. Please email work you have done as well as your pricing. Thank you]]></description>
+<dc:date>2013-03-01T22:34:36-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3653179773.html</dc:source>
+<dc:title><![CDATA[Need a Craigslist Posting Expert (832-374-0333)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T22:34:36-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3652377375.html">
+<title><![CDATA[Web designer with Marketing Savvy]]></title>
+<link>http://houston.craigslist.org/cpg/3652377375.html</link>
+<description><![CDATA[I am looking for help with website updates, emailing, landing page creation, and other tasks. 
+You'll need a kind of corporate graphics taste, as this is a B2B market. 
+It would entail regular ongoing work. 
+If you know linux, php or ruby on rails, t [...]]]></description>
+<dc:date>2013-03-01T15:14:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3652377375.html</dc:source>
+<dc:title><![CDATA[Web designer with Marketing Savvy]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T15:14:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3651995989.html">
+<title><![CDATA[Need Web Developer Today! (Houston)]]></title>
+<link>http://houston.craigslist.org/cpg/3651995989.html</link>
+<description><![CDATA[Need web developer that can make some changes to an HTML website. 
+Just a couple things need to be changed around. 
+Preferably someone that can start the work today. 
+Can offer $100. 
+For more information please email.]]></description>
+<dc:date>2013-03-01T12:44:25-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3651995989.html</dc:source>
+<dc:title><![CDATA[Need Web Developer Today! (Houston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T12:44:25-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://houston.craigslist.org/cpg/3651702559.html">
+<title><![CDATA[Temp web design/graphic design/selling (Houston TX)]]></title>
+<link>http://houston.craigslist.org/cpg/3651702559.html</link>
+<description><![CDATA[Temporary Web designer, P/T Graphic Designer/Sales Associate 
+Company: Houston Christian Business start-up 
+Position: Temporary Web designer, P/T Graphic Designer/Sales Associate 
+Pay: Base: $200-$300. Due Thursday 3/7/13 11:59pm. For every day late, [...]]]></description>
+<dc:date>2013-03-01T10:51:48-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://houston.craigslist.org/cpg/3651702559.html</dc:source>
+<dc:title><![CDATA[Temp web design/graphic design/selling (Houston TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T10:51:48-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

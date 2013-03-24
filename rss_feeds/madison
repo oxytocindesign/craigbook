@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://madison.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in madison</title>
+<link>http://madison.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://madison.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in madison</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:12-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3701914990.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3701475916.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3694159605.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3681666300.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3682084336.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3679614600.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3670224874.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3668408517.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3664312424.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3663426105.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3659940394.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3654164722.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3634443447.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3628596662.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3591218197.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3618429718.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3612735219.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3612711462.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3610300161.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3609740813.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3591157758.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3603603852.html" />
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3600130577.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://madison.craigslist.org/cpg/3701914990.html">
+<title><![CDATA[&gt;&gt;&gt; Struggling With Online Income??? &lt;&lt;&lt; (national / international)]]></title>
+<link>http://madison.craigslist.org/cpg/3701914990.html</link>
+<description><![CDATA[After years and years of trying to find an online income source that produces a dependable executive level income. I found it. Don't let the simplicity put you off, Not MLM! 
+http://online.gbatl.com ]]></description>
+<dc:date>2013-03-24T21:50:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3701914990.html</dc:source>
+<dc:title><![CDATA[&gt;&gt;&gt; Struggling With Online Income??? &lt;&lt;&lt; (national / international)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:50:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3701475916.html">
+<title><![CDATA[Looking for someone to connect my computer to office wi-fi (Sun Prairie)]]></title>
+<link>http://madison.craigslist.org/cpg/3701475916.html</link>
+<description><![CDATA[I am not very computer savvy and am looking for someone to simply help me with connecting my computer in my office to the Wi-Fi internet connection there. I doubt it will take more than 5 minutes if that. Call me at (608) 577-2330.]]></description>
+<dc:date>2013-03-24T17:05:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3701475916.html</dc:source>
+<dc:title><![CDATA[Looking for someone to connect my computer to office wi-fi (Sun Prairie)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:05:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3694159605.html">
+<title><![CDATA[Website design with CMS (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3694159605.html</link>
+<description><![CDATA[I have three websites and have many updates pending but I haven't been able to get quick turnaround. 
+Please take a look at these sites and let me know if you can modify. Also, some modifications may be dramatic and require an entirely new web site c [...]]]></description>
+<dc:date>2013-03-20T19:50:07-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3694159605.html</dc:source>
+<dc:title><![CDATA[Website design with CMS (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T19:50:07-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3681666300.html">
+<title><![CDATA[Network Help & Access Database Deployment & Updating (Madison West Side)]]></title>
+<link>http://madison.craigslist.org/cpg/3681666300.html</link>
+<description><![CDATA[We have an Access database ready to deploy. Seeking someone with network & Access knowledge to assist in splitting & deploying the database. Some macros seem to be getting lost in the split. We are also considering several deployment options such as  [...]]]></description>
+<dc:date>2013-03-18T09:29:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3681666300.html</dc:source>
+<dc:title><![CDATA[Network Help & Access Database Deployment & Updating (Madison West Side)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T09:29:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3682084336.html">
+<title><![CDATA[TV needs repair (Fitchburg )]]></title>
+<link>http://madison.craigslist.org/cpg/3682084336.html</link>
+<description><![CDATA[My 6 year old plasma tv (50" Samsung HPS5053X/XAA) recently crapped the bed on me. The screen does not work but I have sound. I'm trying to figure out if it will be less expensive to repair the tv or just get a new one. 
+Shoot me an email with your r [...]]]></description>
+<dc:date>2013-03-14T22:43:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3682084336.html</dc:source>
+<dc:title><![CDATA[TV needs repair (Fitchburg )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T22:43:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3679614600.html">
+<title><![CDATA[Need software testers (Madison, WI)]]></title>
+<link>http://madison.craigslist.org/cpg/3679614600.html</link>
+<description><![CDATA[I'm looking for a few select people to test a new software tool that I'm developing. I'm looking for financial analyst who have worked for health insurance companies. I need this specific skill set in order to get an honest review of my product. I ne [...]]]></description>
+<dc:date>2013-03-13T18:53:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3679614600.html</dc:source>
+<dc:title><![CDATA[Need software testers (Madison, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T18:53:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3670224874.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://madison.craigslist.org/cpg/3670224874.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-09T14:37:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3670224874.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T14:37:05-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3668408517.html">
+<title><![CDATA[3d Game Modeller (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3668408517.html</link>
+<description><![CDATA[You must raise your standards at every opportunity and in every way. If this is you, then you must just be starting out, or you'd probably have an awesome job by now. This is a paid gig. Money is the worst thing to think about when doing anything cre [...]]]></description>
+<dc:date>2013-03-08T17:29:11-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3668408517.html</dc:source>
+<dc:title><![CDATA[3d Game Modeller (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:29:11-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3664312424.html">
+<title><![CDATA[need cameras installed]]></title>
+<link>http://madison.craigslist.org/cpg/3664312424.html</link>
+<description><![CDATA[Looking for someone to install a few cameras. Must have knowledge of cameras (i.e. which ones are good, how to use, etc.) along with knowledge of set up and installation. Email with your qualifications. ]]></description>
+<dc:date>2013-03-06T22:12:23-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3664312424.html</dc:source>
+<dc:title><![CDATA[need cameras installed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T22:12:23-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3663426105.html">
+<title><![CDATA[Computer Software Engineer Needed (Downtown)]]></title>
+<link>http://madison.craigslist.org/cpg/3663426105.html</link>
+<description><![CDATA[4 UW Madison students are in the process of developing a start-up LLC. We need a software engineer, or an individual who has experience with HTML, JAVA, and the IOS and Android operating systems to help us develop a prototype. We are prepared to pitc [...]]]></description>
+<dc:date>2013-03-06T14:40:53-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3663426105.html</dc:source>
+<dc:title><![CDATA[Computer Software Engineer Needed (Downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:40:53-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3659940394.html">
+<title><![CDATA[Push Verizon PRL onto Sprint GS2]]></title>
+<link>http://madison.craigslist.org/cpg/3659940394.html</link>
+<description><![CDATA[Make a quick buck if you're phone savvy. I have a Samsung Galaxy S2 from Sprint that I would like to make work with Verizon service. $50 neg]]></description>
+<dc:date>2013-03-05T05:10:31-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3659940394.html</dc:source>
+<dc:title><![CDATA[Push Verizon PRL onto Sprint GS2]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T05:10:31-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3654164722.html">
+<title><![CDATA[Convert a video Dvd from Pal to NTSC (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3654164722.html</link>
+<description><![CDATA[I want a video dvd converted from Pal to NTSC. inexpensive. 
+With no quality lost or very little. ]]></description>
+<dc:date>2013-03-02T12:26:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3654164722.html</dc:source>
+<dc:title><![CDATA[Convert a video Dvd from Pal to NTSC (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T12:26:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3634443447.html">
+<title><![CDATA[Six assignment HTML and Java]]></title>
+<link>http://madison.craigslist.org/cpg/3634443447.html</link>
+<description><![CDATA[I need someone to help me with 3 HTML assignments and 3 java assignment. Need to be done by Sunday night. I would paid $150 dollars for the help. 
+Thank you!]]></description>
+<dc:date>2013-02-21T17:34:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3634443447.html</dc:source>
+<dc:title><![CDATA[Six assignment HTML and Java]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T17:34:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3628596662.html">
+<title><![CDATA[Help with E-commerce site (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3628596662.html</link>
+<description><![CDATA[I am looking for an experience e-commerce site developer to transition an ebay store to a website. I have been looking into Magento-Go and there have been some issues . I need to have the site up and running as soon as possible. Please only respond i [...]]]></description>
+<dc:date>2013-02-19T11:37:47-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3628596662.html</dc:source>
+<dc:title><![CDATA[Help with E-commerce site (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T11:37:47-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3591218197.html">
+<title><![CDATA[Need someone with iOS app development experience (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3591218197.html</link>
+<description><![CDATA[I have an idea for an app that I think could take off and go big. I am looking for someone experienced with iOS software creation to see if it is possible and take steps from there. 
+This would be unpaid out of the gate, but if we went forward you wo [...]]]></description>
+<dc:date>2013-02-19T08:57:15-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3591218197.html</dc:source>
+<dc:title><![CDATA[Need someone with iOS app development experience (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T08:57:15-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3618429718.html">
+<title><![CDATA[Can someone help me replace my ipod's harddrive? (Oregon/Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3618429718.html</link>
+<description><![CDATA[I have a classic 160GB ipod and, being the music freak I am, that's no longer enough space. If you are able to replace this drive with a 1TB drive, I want you to help me. I'm willing to pay upon completion and will negotiate the price. 
+Please call/t [...]]]></description>
+<dc:date>2013-02-14T23:37:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3618429718.html</dc:source>
+<dc:title><![CDATA[Can someone help me replace my ipod's harddrive? (Oregon/Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T23:37:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3612735219.html">
+<title><![CDATA[Application Development (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3612735219.html</link>
+<description><![CDATA[Exciting Environmental Sustainability startup is looking for a team of application development programmers to help us build a mobile application that will scan UPC codes and query a database of waste codes and Material Safety Data Sheets (MSDS) to de [...]]]></description>
+<dc:date>2013-02-12T14:29:19-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3612735219.html</dc:source>
+<dc:title><![CDATA[Application Development (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T14:29:19-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3612711462.html">
+<title><![CDATA[Database Design (Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3612711462.html</link>
+<description><![CDATA[Exciting Environmental Sustainability Startup is looking for a team of database designers to help us build a vendor database. This database will include transportation and disposal vendors across the U.S. that provide a wide variety of different serv [...]]]></description>
+<dc:date>2013-02-12T14:20:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3612711462.html</dc:source>
+<dc:title><![CDATA[Database Design (Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T14:20:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3610300161.html">
+<title><![CDATA[Need someone to write IOS code (optional)]]></title>
+<link>http://madison.craigslist.org/cpg/3610300161.html</link>
+<description><![CDATA[I am looking for some one to write IOS code for a mobile application. If the job is done according to our specifications you will be paid generously.]]></description>
+<dc:date>2013-02-11T14:56:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3610300161.html</dc:source>
+<dc:title><![CDATA[Need someone to write IOS code (optional)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T14:56:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3609740813.html">
+<title><![CDATA[Want to Hire: Charter.com Sub-Contractor (Downtown Madison)]]></title>
+<link>http://madison.craigslist.org/cpg/3609740813.html</link>
+<description><![CDATA[Need Charter internet and phone moved from where it enters the house from one location to another. Also would like all loose cable on the outside of the house tied down (or removed if it isn't needed). Charter sub-contractors only, please. Will pay $ [...]]]></description>
+<dc:date>2013-02-11T11:39:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3609740813.html</dc:source>
+<dc:title><![CDATA[Want to Hire: Charter.com Sub-Contractor (Downtown Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T11:39:33-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3591157758.html">
+<title><![CDATA[Large Projection TV Repair (Oregon, WI)]]></title>
+<link>http://madison.craigslist.org/cpg/3591157758.html</link>
+<description><![CDATA[We have one of these older HUGE ones, pix are attached. The screen turns on, but there is a broken adjustment button 
+on the front and it seems to be impairing it's ability to work properly. 
+It's in our game room, the kids want the tv for gaming. Pl [...]]]></description>
+<dc:date>2013-02-10T13:55:10-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3591157758.html</dc:source>
+<dc:title><![CDATA[Large Projection TV Repair (Oregon, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T13:55:10-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3603603852.html">
+<title><![CDATA[Business Analyst (Madison, WI)]]></title>
+<link>http://madison.craigslist.org/cpg/3603603852.html</link>
+<description><![CDATA[Urgent position for a Business Analyst!!! 
+-4-5 years of BA experience 
+-Insurance background is a plus 
+Please send an updated version of your resume to be considered for this position! 
+**long-term contact opportunity]]></description>
+<dc:date>2013-02-08T15:24:37-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3603603852.html</dc:source>
+<dc:title><![CDATA[Business Analyst (Madison, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T15:24:37-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://madison.craigslist.org/cpg/3600130577.html">
+<title><![CDATA[Help Desk Support (Madison WI.)]]></title>
+<link>http://madison.craigslist.org/cpg/3600130577.html</link>
+<description><![CDATA[I am currently hiring teir 1 help desk techs. We are moving quickly in this hiring process and are looking for multiple technicians for this role, so the sooner you apply the better your candidacy will be for these positions. Below is a list of all t [...]]]></description>
+<dc:date>2013-02-07T08:23:03-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3600130577.html</dc:source>
+<dc:title><![CDATA[Help Desk Support (Madison WI.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T08:23:03-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

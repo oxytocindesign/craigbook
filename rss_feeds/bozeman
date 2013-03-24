@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://bozeman.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in bozeman</title>
+<link>http://bozeman.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://bozeman.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in bozeman</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T23:24:59-06:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bozeman.craigslist.org/cpg/3690863673.html" />
+  <rdf:li rdf:resource="http://bozeman.craigslist.org/cpg/3674206263.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://bozeman.craigslist.org/cpg/3690863673.html">
+<title><![CDATA[Help with Java programming (bozeman)]]></title>
+<link>http://bozeman.craigslist.org/cpg/3690863673.html</link>
+<description><![CDATA[I am looking for someone who has some skills and knowledge with java programming. I am not looking for an expensive professional, just someone who can write up a few small programs for me on the side. I have about 4 simple programs that need to be wr [...]]]></description>
+<dc:date>2013-03-19T09:39:26-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bozeman.craigslist.org/cpg/3690863673.html</dc:source>
+<dc:title><![CDATA[Help with Java programming (bozeman)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T09:39:26-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://bozeman.craigslist.org/cpg/3674206263.html">
+<title><![CDATA[Web Design using Wordpress, Marketing, and Shop/Gopher work (Bozeman)]]></title>
+<link>http://bozeman.craigslist.org/cpg/3674206263.html</link>
+<description><![CDATA[Looking for someone to help out with a few tasks such as working on a wordpress site, writing blog posts, basic design (photoshop/illustrator) and helping out around the shop / running errands. Must be detail oriented, experience with marketing, and  [...]]]></description>
+<dc:date>2013-03-11T12:19:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bozeman.craigslist.org/cpg/3674206263.html</dc:source>
+<dc:title><![CDATA[Web Design using Wordpress, Marketing, and Shop/Gopher work (Bozeman)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T12:19:34-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

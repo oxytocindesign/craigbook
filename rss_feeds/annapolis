@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://annapolis.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in annapolis</title>
+<link>http://annapolis.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://annapolis.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in annapolis</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:31:58-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3649614504.html" />
+  <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3634197953.html" />
+  <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3612569080.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://annapolis.craigslist.org/cpg/3649614504.html">
+<title><![CDATA[Professional in Microsoft Project or 365 (MD - VA)]]></title>
+<link>http://annapolis.craigslist.org/cpg/3649614504.html</link>
+<description><![CDATA[Universal Healthcare Services is looking for a full time / part time professional with experience in Microsoft Project or 365. 
+Please email your resume 
+Responsibilities will include: 
+Help configure the Microsoft system according to the office staf [...]]]></description>
+<dc:date>2013-02-28T13:02:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://annapolis.craigslist.org/cpg/3649614504.html</dc:source>
+<dc:title><![CDATA[Professional in Microsoft Project or 365 (MD - VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T13:02:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://annapolis.craigslist.org/cpg/3634197953.html">
+<title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></title>
+<link>http://annapolis.craigslist.org/cpg/3634197953.html</link>
+<description><![CDATA[Our client located in Washington D.C. is looking for a talented Web Developer (Ruby, Rails, JavaScript, jQuery) to join their high energy, innovative team. This programmer will be joining a large scale e-commerce project and will be creating Ruby on  [...]]]></description>
+<dc:date>2013-02-21T16:47:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://annapolis.craigslist.org/cpg/3634197953.html</dc:source>
+<dc:title><![CDATA[Ruby Developer (Ruby on Rails, JavaScript, jQuery) (Washington, D.C.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:47:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://annapolis.craigslist.org/cpg/3612569080.html">
+<title><![CDATA[website builder (college park)]]></title>
+<link>http://annapolis.craigslist.org/cpg/3612569080.html</link>
+<description><![CDATA[I need a website to be created for my clothing line. If you can build a website, and have experience please contact me for more information. I]]></description>
+<dc:date>2013-02-12T14:29:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://annapolis.craigslist.org/cpg/3612569080.html</dc:source>
+<dc:title><![CDATA[website builder (college park)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T14:29:20-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

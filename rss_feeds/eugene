@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://eugene.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in eugene</title>
+<link>http://eugene.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://eugene.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in eugene</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:40:04-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3701833189.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3700136411.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3699528623.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3696403138.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3693731827.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3693438463.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3691590540.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3683305383.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3675502228.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3672900425.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3615094870.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3643254910.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3642941508.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3641534223.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3608388115.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3606715927.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3603311528.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://eugene.craigslist.org/cpg/3701833189.html">
+<title><![CDATA[We Have A Great Gig - Needing Staff! (OR)]]></title>
+<link>http://eugene.craigslist.org/cpg/3701833189.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-24T18:47:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3701833189.html</dc:source>
+<dc:title><![CDATA[We Have A Great Gig - Needing Staff! (OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:47:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3700136411.html">
+<title><![CDATA[In need of website development (Glenwood)]]></title>
+<link>http://eugene.craigslist.org/cpg/3700136411.html</link>
+<description><![CDATA[Hello and thank you for reading my add. 
+I am looking for someone that can build me a forum. 
+I have already played around with a few forum software's and do not like them. 
+I do not have very much money and if the website starts getting a lot of tra [...]]]></description>
+<dc:date>2013-03-23T19:31:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3700136411.html</dc:source>
+<dc:title><![CDATA[In need of website development (Glenwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:31:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3699528623.html">
+<title><![CDATA[CD-R Printing (LightScribe) (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3699528623.html</link>
+<description><![CDATA[In search of someone who has a CD-R Burner with LightScribe or other Direct-to-Disc labeling software to print/burn 100 CD-Rs (possibly more in the future). 
+Please contact me if you have such software and what you would charge for your services. 
+Th [...]]]></description>
+<dc:date>2013-03-23T12:59:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3699528623.html</dc:source>
+<dc:title><![CDATA[CD-R Printing (LightScribe) (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T12:59:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3696403138.html">
+<title><![CDATA[Iphone 4 - Need an experienced person to change out Digi Screen (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3696403138.html</link>
+<description><![CDATA[I have a Iphone 4 that needs to have the Digitizer screen changed out. 
+I have a new screen for it. 
+I have reviewed the process and believe I can do this BUT I would rather 
+pay someone a fee - reasonable - to do it for me. 
+I want someone that has  [...]]]></description>
+<dc:date>2013-03-21T20:25:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3696403138.html</dc:source>
+<dc:title><![CDATA[Iphone 4 - Need an experienced person to change out Digi Screen (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T20:25:19-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3693731827.html">
+<title><![CDATA[I need help with my printer! (South Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3693731827.html</link>
+<description><![CDATA[I need help with my printer. It is a hp deskjet 3050 all in one. It has worked fine for the most part but when I woke up this morning my computer wouldn't read it any longer via USB. I installed the drivers from HP.com so thats not the issue. It's ju [...]]]></description>
+<dc:date>2013-03-20T14:00:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3693731827.html</dc:source>
+<dc:title><![CDATA[I need help with my printer! (South Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:00:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3693438463.html">
+<title><![CDATA[Website redesign PHP, html, java (eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3693438463.html</link>
+<description><![CDATA[My business is in need of having its website redesigned, I did the original site but am to busy to re design it. Developer must know php, html, java and have some photo shop skills. I know what I want and know how to code; no flash, no offers for a f [...]]]></description>
+<dc:date>2013-03-20T11:48:33-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3693438463.html</dc:source>
+<dc:title><![CDATA[Website redesign PHP, html, java (eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:48:33-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3691590540.html">
+<title><![CDATA[Seeking App Developer (Eugene/Junction City)]]></title>
+<link>http://eugene.craigslist.org/cpg/3691590540.html</link>
+<description><![CDATA[We're looking for someone dependable and knowledgable to develop an app. The app will include a great deal of data entry and some design. Slot-machine-style interface linked to thousands of photos, kid-friendly. 
+We will consider hiring a student if  [...]]]></description>
+<dc:date>2013-03-19T13:46:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3691590540.html</dc:source>
+<dc:title><![CDATA[Seeking App Developer (Eugene/Junction City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T13:46:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3683305383.html">
+<title><![CDATA[WEB PAGE HELP NEEDED (SPRINGFIELD)]]></title>
+<link>http://eugene.craigslist.org/cpg/3683305383.html</link>
+<description><![CDATA[I am looking for an individual to help me launch a small website. I don't have a lot of money but a monetary compensation will be provided. Mostly just pasting pictures and order/product information. I already own the .com so I need someone skilled i [...]]]></description>
+<dc:date>2013-03-15T12:26:30-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3683305383.html</dc:source>
+<dc:title><![CDATA[WEB PAGE HELP NEEDED (SPRINGFIELD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:26:30-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3675502228.html">
+<title><![CDATA[Drupal 7 Commerce Help (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3675502228.html</link>
+<description><![CDATA[I looking for someone that can help me with Drupal Commerce Kickstart 2.]]></description>
+<dc:date>2013-03-11T21:38:14-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3675502228.html</dc:source>
+<dc:title><![CDATA[Drupal 7 Commerce Help (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T21:38:14-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3672900425.html">
+<title><![CDATA[E commerce for web comic needed (C G- Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3672900425.html</link>
+<description><![CDATA[I am a web cartoonist and I create a web comic called DOGBAD. It can be seen at http://www.dogbad.net . I have just moved to Oregon and I need a web developer to work with to help me improve SEO and help me market my products. I have been doing this  [...]]]></description>
+<dc:date>2013-03-10T19:10:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3672900425.html</dc:source>
+<dc:title><![CDATA[E commerce for web comic needed (C G- Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T19:10:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3615094870.html">
+<title><![CDATA[Maker Faire coming to Eugene (Science Factory)]]></title>
+<link>http://eugene.craigslist.org/cpg/3615094870.html</link>
+<description><![CDATA[Are you a MAKER? 
+The Eugene Mini Maker Faire will be held on Saturday, June 15th at the Science Factory. We are looking for hobbyists, artists, crafters, tinkerers, hackers, and do-it-yourself-ers of all types to show off their projects at this day- [...]]]></description>
+<dc:date>2013-02-28T11:01:31-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3615094870.html</dc:source>
+<dc:title><![CDATA[Maker Faire coming to Eugene (Science Factory)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:01:31-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3643254910.html">
+<title><![CDATA[Local IT consultants wanted (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3643254910.html</link>
+<description><![CDATA[Local IT consultant Desktop Works is looking for other IT consultants for help with projects from time to time. Specifically right now I have some work with VM server setup. 
+Please send resume or detailed email with your skills and experience. 
+Than [...]]]></description>
+<dc:date>2013-02-25T14:31:27-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3643254910.html</dc:source>
+<dc:title><![CDATA[Local IT consultants wanted (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T14:31:27-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3642941508.html">
+<title><![CDATA[Help with live video streaming via FFmpeg/FFserver (Creswell)]]></title>
+<link>http://eugene.craigslist.org/cpg/3642941508.html</link>
+<description><![CDATA[I am looking for someone who can help me out with streaming live video via FFSERVER. 
+I am the webmaster for a group of membership based adult entertainment websites. We are looking to expand what we offer our members by adding live video streaming.  [...]]]></description>
+<dc:date>2013-02-25T12:28:27-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3642941508.html</dc:source>
+<dc:title><![CDATA[Help with live video streaming via FFmpeg/FFserver (Creswell)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T12:28:27-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3641534223.html">
+<title><![CDATA[Seeking Web Developer (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3641534223.html</link>
+<description><![CDATA[I'm looking for a Web Developer to help me create a website to showcase my artwork online. 
+Specifically, I need to consult with a web developer who can help me create an online gallery with a few specialized organizational features. I haven't seen a [...]]]></description>
+<dc:date>2013-02-24T20:28:10-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3641534223.html</dc:source>
+<dc:title><![CDATA[Seeking Web Developer (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T20:28:10-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3608388115.html">
+<title><![CDATA[computer help / short term project (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3608388115.html</link>
+<description><![CDATA[I need some general administrative/ pc help: computer file organizaiton and file storage and a no-fault back up system for email and photos. I do not want to use an offsite server or service. I have a small network at home (pc and laptop). I work par [...]]]></description>
+<dc:date>2013-02-10T16:59:21-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3608388115.html</dc:source>
+<dc:title><![CDATA[computer help / short term project (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T16:59:21-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3606715927.html">
+<title><![CDATA[Cad/Cam or CNC Vinyl or Mechanical Engineer (Eugene/Springfield)]]></title>
+<link>http://eugene.craigslist.org/cpg/3606715927.html</link>
+<description><![CDATA[I am looking for someone with material feed handling of big rolls of feed stock. Alternatively someone with mechanical engineering experience. 
+I am also looking for someone who has experience in the programming aspect of a vinyl cutting machine. 
+Lo [...]]]></description>
+<dc:date>2013-02-09T21:59:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3606715927.html</dc:source>
+<dc:title><![CDATA[Cad/Cam or CNC Vinyl or Mechanical Engineer (Eugene/Springfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T21:59:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://eugene.craigslist.org/cpg/3603311528.html">
+<title><![CDATA[Creative Web Designer Needed ( WordPress ) -  (Eugene)]]></title>
+<link>http://eugene.craigslist.org/cpg/3603311528.html</link>
+<description><![CDATA[Hello 
+Our college football webzine geared to Oregon football is currently searching for a creative, innovative and sports minded web designer with experience in WordPress. 
+Our sites been online for a couple of years, but now needs a creative face l [...]]]></description>
+<dc:date>2013-02-08T11:31:11-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://eugene.craigslist.org/cpg/3603311528.html</dc:source>
+<dc:title><![CDATA[Creative Web Designer Needed ( WordPress ) -  (Eugene)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T11:31:11-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

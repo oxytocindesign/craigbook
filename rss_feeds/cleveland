@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://cleveland.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in cleveland</title>
+<link>http://cleveland.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://cleveland.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in cleveland</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:03-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3699911603.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3694980218.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3694144210.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3691962562.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3691638358.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3691608301.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3690163299.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3679981962.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3682302855.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3602022990.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3666821222.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3666090608.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3665230467.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3662588025.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3660124383.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3654092886.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3653467529.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3648036157.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3646939381.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3583263595.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3645333222.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3639789898.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3634803080.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3631135354.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3630347962.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3629560168.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3565698670.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3622221705.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3621877096.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3621471044.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3621318188.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3596038913.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3569816792.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3609667033.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3606849491.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3606201659.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3558077342.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3699911603.html">
+<title><![CDATA[Android Developer/Java+C+VB even better (Ohio)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3699911603.html</link>
+<description><![CDATA[Looking for an ADT intermediate or expert user for creating an app to suit mobile devices. Will negotiate hourly rate (at least $10+) until project is finished. Negotiate royalties after app is released. We already have a buyer. (216) 323-0334 Jim]]></description>
+<dc:date>2013-03-23T19:40:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3699911603.html</dc:source>
+<dc:title><![CDATA[Android Developer/Java+C+VB even better (Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:40:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3694980218.html">
+<title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3694980218.html</link>
+<description><![CDATA[Hello: 
+Looking for a professional individual to work a day at my company (in-house) & for future projects here & there. Need to develop 12 simple layouts for our monthly email campaigns. Also, to layout the artwork for our newly designed marketing m [...]]]></description>
+<dc:date>2013-03-21T10:53:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3694980218.html</dc:source>
+<dc:title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:53:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3694144210.html">
+<title><![CDATA[Lemp work - occasional (US based)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3694144210.html</link>
+<description><![CDATA[We're looking for one or two people who can do tasks on an occasional basis: 
+- one to do linux server admin + nginx server admin + mySQL tasks 
+- one to do php/css/jquery tasks 
+If one person can do both, all the better. 
+Please send your resume and [...]]]></description>
+<dc:date>2013-03-20T20:41:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3694144210.html</dc:source>
+<dc:title><![CDATA[Lemp work - occasional (US based)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T20:41:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3691962562.html">
+<title><![CDATA[Advertising Brand FINDER - List of Cleveland Ads (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3691962562.html</link>
+<description><![CDATA[We're looking to hire someone to research on all the BRANDS currently advertising in CLEVELAND. This includes, radio, TV, billboards, online ad's etc., All we want is someone to compile a list of Ad/Brands they see.... 
+This is a paid assignment not  [...]]]></description>
+<dc:date>2013-03-19T19:52:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3691962562.html</dc:source>
+<dc:title><![CDATA[Advertising Brand FINDER - List of Cleveland Ads (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T19:52:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3691638358.html">
+<title><![CDATA[Anyone who modifies or adds to an application (North Olmsted)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3691638358.html</link>
+<description><![CDATA[Programmer or anyone who mysql,php,x html,js, graphics ect. Can help me. 
+You must take a look at the software that is powered by Vbadvanced cmps powered by vbulletin. I am looking at version v3.2.2 or 3.8.7 maybe current 
+Also vbullentin optimisatio [...]]]></description>
+<dc:date>2013-03-19T17:08:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3691638358.html</dc:source>
+<dc:title><![CDATA[Anyone who modifies or adds to an application (North Olmsted)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:08:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3691608301.html">
+<title><![CDATA[.Net Developer and Tester Needed (Brunswick, Ohio)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3691608301.html</link>
+<description><![CDATA[We are seeking a .Net Developer and a Tester to add to our staff. 
+***Serious inquiries and Cleveland area candidates only please!*** 
+Please forward your resume to for immediate consideration. 
+You'll have the opportunity to work with several client [...]]]></description>
+<dc:date>2013-03-19T16:55:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3691608301.html</dc:source>
+<dc:title><![CDATA[.Net Developer and Tester Needed (Brunswick, Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:55:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3690163299.html">
+<title><![CDATA[Count More Beans in Bean Town (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3690163299.html</link>
+<description><![CDATA[Print and Broadcast Advertising is for Dweebs 
+http://www.smsmasterminds.com]]></description>
+<dc:date>2013-03-18T23:12:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3690163299.html</dc:source>
+<dc:title><![CDATA[Count More Beans in Bean Town (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T23:12:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3679981962.html">
+<title><![CDATA[Text Customers with Your Message and Promotions (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3679981962.html</link>
+<description><![CDATA[Print and Broadcast Advertising is for Dweebs 
+http://anything.smsmmd.com]]></description>
+<dc:date>2013-03-16T23:34:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3679981962.html</dc:source>
+<dc:title><![CDATA[Text Customers with Your Message and Promotions (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T23:34:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3682302855.html">
+<title><![CDATA[earn extra cash with selling on ebay (cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3682302855.html</link>
+<description><![CDATA[Earn extra cash selling items on ebay from home, I have many items and deal with a couple good dropshippers and need help expanding since im limited to how much i can sell on ebay. Please reply with your name and a ph number and your ebay feedback sc [...]]]></description>
+<dc:date>2013-03-15T04:29:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3682302855.html</dc:source>
+<dc:title><![CDATA[earn extra cash with selling on ebay (cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T04:29:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3602022990.html">
+<title><![CDATA[Instant Returns on Your Marketing Investment (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3602022990.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-08T23:15:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3602022990.html</dc:source>
+<dc:title><![CDATA[Instant Returns on Your Marketing Investment (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T23:15:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3666821222.html">
+<title><![CDATA[Experienced Developer Needed for Social Network Project (Akron/Cleveland, OH)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3666821222.html</link>
+<description><![CDATA[I am looking for an experienced web developer fluent in HTML5, CSS3, JavaScript, PHP and MySQL databases for a project that we're working on. We are in the process of trying to raise money to fund the development of the project but we're mainly looki [...]]]></description>
+<dc:date>2013-03-08T03:51:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3666821222.html</dc:source>
+<dc:title><![CDATA[Experienced Developer Needed for Social Network Project (Akron/Cleveland, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T03:51:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3666090608.html">
+<title><![CDATA[Social Media Campaign Expert needed (Nationwide)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3666090608.html</link>
+<description><![CDATA[Online digital marketing agency seeks highly experienced, talented social media campaign expert needed for work on a subcontract, per diem basis. You should be very familiar with establishing and updating with posts social media accounts; in particul [...]]]></description>
+<dc:date>2013-03-07T18:27:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3666090608.html</dc:source>
+<dc:title><![CDATA[Social Media Campaign Expert needed (Nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T18:27:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3665230467.html">
+<title><![CDATA[On-Line marketing needed for Band sites... (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3665230467.html</link>
+<description><![CDATA[We are a modestly decent original rock band in Cleveland and we have new cd on the way, done a little radio, have a DVD, and a small "grass-roots" following. 
+We seem to have good luck handling most things and have contacts for video, photography, bo [...]]]></description>
+<dc:date>2013-03-07T12:34:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3665230467.html</dc:source>
+<dc:title><![CDATA[On-Line marketing needed for Band sites... (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T12:34:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3662588025.html">
+<title><![CDATA[Can you design a simple website? (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3662588025.html</link>
+<description><![CDATA[I need a very simple website designed. It must look like a "Big Boy" site though. I noticed that the "little people" can compete with the "Big Boys" on the internet. But one criteria to this is that the "little person's" site has got to look official [...]]]></description>
+<dc:date>2013-03-06T10:17:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3662588025.html</dc:source>
+<dc:title><![CDATA[Can you design a simple website? (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T10:17:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3660124383.html">
+<title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3660124383.html</link>
+<description><![CDATA[Amazing Opportunity! We are looking for Mobile Game App Developers to help with new app development. Experience with iOS & Android development a must. Part-Time, subcontract. Payment will be in shares of the revenue of the game, On-Going, for the rig [...]]]></description>
+<dc:date>2013-03-05T09:16:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3660124383.html</dc:source>
+<dc:title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T09:16:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3654092886.html">
+<title><![CDATA[Web Producer (Independence)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3654092886.html</link>
+<description><![CDATA[I need help creating and distributing a positive message on youtube, facebook and twitter, with hopes to go viral . This will require creating the accounts, creating a video (at least one), and setting up a domain. This is for a worthwhile altruistic [...]]]></description>
+<dc:date>2013-03-02T12:58:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3654092886.html</dc:source>
+<dc:title><![CDATA[Web Producer (Independence)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T12:58:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3653467529.html">
+<title><![CDATA[Wanted Need a seller for Ebay (Cleveland East side)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3653467529.html</link>
+<description><![CDATA[I need a person I can drop off boxes of women's clothes and women's shoes, mostly nicer stuff and the person cleans them up and list them on eBay. I will have other items to sell on there to like tools, and some electronics and computers but most clo [...]]]></description>
+<dc:date>2013-03-02T07:16:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3653467529.html</dc:source>
+<dc:title><![CDATA[Wanted Need a seller for Ebay (Cleveland East side)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T07:16:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3648036157.html">
+<title><![CDATA[Joomla Web Site Designer Needed (Cleveland, Ohio)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3648036157.html</link>
+<description><![CDATA[I am looking for a Joomla web site designer. I have several web sites I would like built in Joomla. I have a basic understanding of Joomla and I currently manage several Joomla based web sites. I need someone that can build several new Joomla web sit [...]]]></description>
+<dc:date>2013-02-27T17:47:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3648036157.html</dc:source>
+<dc:title><![CDATA[Joomla Web Site Designer Needed (Cleveland, Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T17:47:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3646939381.html">
+<title><![CDATA[HELP PUT CAR RADIO BACK IN (S EUCLID)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3646939381.html</link>
+<description><![CDATA[HELP ME PUT MY RADIO BACK IN MY FIREBIRD]]></description>
+<dc:date>2013-02-27T10:36:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3646939381.html</dc:source>
+<dc:title><![CDATA[HELP PUT CAR RADIO BACK IN (S EUCLID)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T10:36:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3583263595.html">
+<title><![CDATA[Social Networkers (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3583263595.html</link>
+<description><![CDATA[Looking for people who enjoy social networking and would like to implement a business model with their networking to generate a second stream of income. Will train. 
+Title: Independent Consultant 
+Join a Company that has been doing business for many  [...]]]></description>
+<dc:date>2013-02-27T08:58:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3583263595.html</dc:source>
+<dc:title><![CDATA[Social Networkers (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T08:58:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3645333222.html">
+<title><![CDATA[Email Processing ]]></title>
+<link>http://cleveland.craigslist.org/cpg/3645333222.html</link>
+<description><![CDATA[Are you tired of not being able to make ends meet? Do you want to finally be able to take the vacation you have always wanted to take? Well the Email Processing System may be for you. You have the potential to begin making money instantly. 
+My friend [...]]]></description>
+<dc:date>2013-02-26T15:22:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3645333222.html</dc:source>
+<dc:title><![CDATA[Email Processing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T15:22:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3639789898.html">
+<title><![CDATA[Build A Loyalty Network In Your Area (CLEVELAND)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3639789898.html</link>
+<description><![CDATA[Sell Loyalty Marketing To The SM B Market 
+CLICK HERE FOR MORE INFORMATION]]></description>
+<dc:date>2013-02-24T06:49:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3639789898.html</dc:source>
+<dc:title><![CDATA[Build A Loyalty Network In Your Area (CLEVELAND)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T06:49:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3634803080.html">
+<title><![CDATA[Need a Computer with FIREWIRE - Build Computer? (Lakewood)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3634803080.html</link>
+<description><![CDATA[I'd like to buy a new computer with firewire capabilities so I can use a Firepod audio interface for recording music. Unfortunately, it is nearly impossible to find any PCs out there with firewire ports now a days. 
+I've looked into possibly finding  [...]]]></description>
+<dc:date>2013-02-21T21:41:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3634803080.html</dc:source>
+<dc:title><![CDATA[Need a Computer with FIREWIRE - Build Computer? (Lakewood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T21:41:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3631135354.html">
+<title><![CDATA[Web Page & Blog Design (Cleveland Area)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3631135354.html</link>
+<description><![CDATA[Interested in an all around web designer near Downtown Cleveland. I really work with HTML, and the blogging service Tumblr. 
+Reply if interested. There are many details I'd rather tell to those who show intrest. Example of your / Links to your work w [...]]]></description>
+<dc:date>2013-02-20T12:41:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3631135354.html</dc:source>
+<dc:title><![CDATA[Web Page & Blog Design (Cleveland Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:41:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3630347962.html">
+<title><![CDATA[Automate Daily Tasks (Mentor)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3630347962.html</link>
+<description><![CDATA[We have a task that requires several skills sets so it may be better to explain the task rather than lists the skills sets we need. We have to automate the downloading of four or five large excel spreadsheets each day. We then need to alter the infor [...]]]></description>
+<dc:date>2013-02-20T03:52:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3630347962.html</dc:source>
+<dc:title><![CDATA[Automate Daily Tasks (Mentor)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T03:52:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3629560168.html">
+<title><![CDATA[Looking for someone to repair my camcorder / video camera (Brunswick, OH)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3629560168.html</link>
+<description><![CDATA[Looking for someone with experience to repair my video camera. It seems like it shouldn't be too bad of a fix, as most operations of the camera still work. Here are all the details: 
+It's a Panasonic HDC-TM900. Unit powers on, lens opens, but screen  [...]]]></description>
+<dc:date>2013-02-19T18:36:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3629560168.html</dc:source>
+<dc:title><![CDATA[Looking for someone to repair my camcorder / video camera (Brunswick, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T18:36:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3565698670.html">
+<title><![CDATA[Social Media Enthusiast (Ohio)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3565698670.html</link>
+<description><![CDATA[This position is looking to harness the reach of your facebook account. 
+We are looking for individuals who like finding out about a good thing and sharing it with their friends. 
+We simply will ask you to share the Deals we post to our website on yo [...]]]></description>
+<dc:date>2013-02-18T17:22:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3565698670.html</dc:source>
+<dc:title><![CDATA[Social Media Enthusiast (Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T17:22:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3622221705.html">
+<title><![CDATA[computer tech support (cleveland downtown)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3622221705.html</link>
+<description><![CDATA[Looking for computer tech support person to overview an internet digital project. someone who understands powerpoint and using go to meeting to record. also looking at computer setup seeing if have most efficient programs and assorted troubleshooting [...]]]></description>
+<dc:date>2013-02-16T16:41:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3622221705.html</dc:source>
+<dc:title><![CDATA[computer tech support (cleveland downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T16:41:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3621877096.html">
+<title><![CDATA[Seeking E Commerce Pro (anywhere)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3621877096.html</link>
+<description><![CDATA[Hi, 
+I'm a fitness pro, that has helped millions of people and recently appeared on the Dr. Oz show. I'm seeking an ecommerce pro that can provide a marketing strategy and implementation of my products. I will provide all the content for the site. Yo [...]]]></description>
+<dc:date>2013-02-16T14:21:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3621877096.html</dc:source>
+<dc:title><![CDATA[Seeking E Commerce Pro (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T14:21:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3621471044.html">
+<title><![CDATA[Fantasy Sports Assistant]]></title>
+<link>http://cleveland.craigslist.org/cpg/3621471044.html</link>
+<description><![CDATA[New fantasy sports site is looking for skilled veterans at drafting fantasy sports team. Our site offers draft assistance for owners who can not be at their drafts and we will help them draft their teams. We are looking for people interested in worki [...]]]></description>
+<dc:date>2013-02-16T11:47:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3621471044.html</dc:source>
+<dc:title><![CDATA[Fantasy Sports Assistant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T11:47:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3621318188.html">
+<title><![CDATA[help me with google (north ridgeville)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3621318188.html</link>
+<description><![CDATA[In need of help to get my small business if you can help please email me thanks]]></description>
+<dc:date>2013-02-16T10:47:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3621318188.html</dc:source>
+<dc:title><![CDATA[help me with google (north ridgeville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T10:47:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3596038913.html">
+<title><![CDATA[Lookin' for a &#9733;&#1758;&#9733;CYPHERPUNK&#9733;&#1758;&#9733; ((&#9733;Lakewood&#9733;))]]></title>
+<link>http://cleveland.craigslist.org/cpg/3596038913.html</link>
+<description><![CDATA[Lookin' for a CYPHERPUNK, (not a cyberpunk) for help learning encryption and internet security 
+&#9733;PGP 
+&#9733;GPG4USB 
+&#9733;TOR 
+&#1758; compensation 
+&#9733;email or text to: 216 five four three 3348 ]]></description>
+<dc:date>2013-02-15T12:45:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3596038913.html</dc:source>
+<dc:title><![CDATA[Lookin' for a &#9733;&#1758;&#9733;CYPHERPUNK&#9733;&#1758;&#9733; ((&#9733;Lakewood&#9733;))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T12:45:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3569816792.html">
+<title><![CDATA[Eazy Tech (4839 Turney Rd Garfield Hts Oh 44125)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3569816792.html</link>
+<description><![CDATA[Im looking for an experienced T.V repair person. If your interested please give me a call at 216-848-1835 Eazy ]]></description>
+<dc:date>2013-02-11T17:20:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3569816792.html</dc:source>
+<dc:title><![CDATA[Eazy Tech (4839 Turney Rd Garfield Hts Oh 44125)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T17:20:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3609667033.html">
+<title><![CDATA[Need Tech Guy for Web Business  (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3609667033.html</link>
+<description><![CDATA[Looking for a web developer/programmer who is proficient with HTML/CSS/PHP/MYSQL/Website Development, and maybe some experience with Wordpress. 
+I have a website with Wordpress that is hosted on Dreamhost that needs to be completed and what is left i [...]]]></description>
+<dc:date>2013-02-11T12:14:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3609667033.html</dc:source>
+<dc:title><![CDATA[Need Tech Guy for Web Business  (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T12:14:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3606849491.html">
+<title><![CDATA[PHP Programmer, Basic Web Designer, SQL DB Mgr (Mayfield Heights)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3606849491.html</link>
+<description><![CDATA[Looking for a person with PHP Programming, basic web design and SQL database management skills to be available when needed for maintenance of a start-up website www.helpmegetthis.com. Site is already constructed.]]></description>
+<dc:date>2013-02-10T04:10:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3606849491.html</dc:source>
+<dc:title><![CDATA[PHP Programmer, Basic Web Designer, SQL DB Mgr (Mayfield Heights)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T04:10:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3606201659.html">
+<title><![CDATA[Help with Community bulletin Forum Software  (North Olmsted)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3606201659.html</link>
+<description><![CDATA[Any input or guide me in the right direction. 
+Here is my choice's 
+phpbb group open source bulletin board software 
+vbadvanced cmps 
+vbulletin 
+IP.board 
+by invison power 
+Community Forum 
+I'm looking at a Forum that's is interactive with others / o [...]]]></description>
+<dc:date>2013-02-09T18:59:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3606201659.html</dc:source>
+<dc:title><![CDATA[Help with Community bulletin Forum Software  (North Olmsted)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T18:59:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3558077342.html">
+<title><![CDATA[Network Engineer with hands on experience (Cleveland)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3558077342.html</link>
+<description><![CDATA[We are seeking a self motivated Network Engineer to help us out with a few small projects from time to time. Duties may include, light programming, repairing PC issues for our own network as well as our clients. Performing MACS for some of our larger [...]]]></description>
+<dc:date>2013-02-09T18:00:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3558077342.html</dc:source>
+<dc:title><![CDATA[Network Engineer with hands on experience (Cleveland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T18:00:12-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

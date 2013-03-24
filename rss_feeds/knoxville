@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://knoxville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in knoxville</title>
+<link>http://knoxville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://knoxville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in knoxville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:07-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3701436217.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3700669963.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3666419141.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3643713843.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3657890428.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3656914664.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3656150578.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3646111750.html" />
+  <rdf:li rdf:resource="http://knoxville.craigslist.org/cpg/3614348444.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3701436217.html">
+<title><![CDATA[I need someone to do my computer homework (anywhere)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3701436217.html</link>
+<description><![CDATA[I have a homework assignment due tomorrow night that I need help completing. I cannot afford to pay one of those homework sites for work that is not original. The assignment is two parts not whole lot writing but demonstrating your ability to use Mic [...]]]></description>
+<dc:date>2013-03-24T17:42:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3701436217.html</dc:source>
+<dc:title><![CDATA[I need someone to do my computer homework (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:42:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3700669963.html">
+<title><![CDATA[Office Assistant (Knoxville)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3700669963.html</link>
+<description><![CDATA[Office assistant. Your responsibilities would include regular organizing, paperwork, phone calls, communication, computer, various business activities, bills, projects. Normal day to day tasks as well as assistance with occasional wonders and miracle [...]]]></description>
+<dc:date>2013-03-24T10:53:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3700669963.html</dc:source>
+<dc:title><![CDATA[Office Assistant (Knoxville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T10:53:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3666419141.html">
+<title><![CDATA[CodeIgniter Project (Anywhere)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3666419141.html</link>
+<description><![CDATA[Seeking a developer to build out the final steps of the back end of a social networking site. We need someone to make WordPress integration seamless with the rest of the site. Prior WordPress and CodeIgniter experience required. Please email your res [...]]]></description>
+<dc:date>2013-03-07T21:19:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3666419141.html</dc:source>
+<dc:title><![CDATA[CodeIgniter Project (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T21:19:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3643713843.html">
+<title><![CDATA[Computer and ebay help (Kodak,Tn.)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3643713843.html</link>
+<description><![CDATA[I am looking for someone that is very good with E bay, I phone, and need some help with my computer and also Paypal setup...... also need someone that is very good at marketing an item on ebay,I am new to ebay and have an item, and was able to purcha [...]]]></description>
+<dc:date>2013-03-06T20:39:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3643713843.html</dc:source>
+<dc:title><![CDATA[Computer and ebay help (Kodak,Tn.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T20:39:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3657890428.html">
+<title><![CDATA[Printer Repair and Cleaning (Knoxville)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3657890428.html</link>
+<description><![CDATA[22 year old company based out of Ohio needs somone in the Knoxville area to service a printer. Must have experience with hardware and printer repair , we will provide technical support. Please reply via email and we will call you back.]]></description>
+<dc:date>2013-03-04T10:24:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3657890428.html</dc:source>
+<dc:title><![CDATA[Printer Repair and Cleaning (Knoxville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T10:24:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3656914664.html">
+<title><![CDATA[Freedom Club Challenge (Knoxville)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3656914664.html</link>
+<description><![CDATA[• Get Your Current Bills Paid By Vitel 
+• Refer 3 and Earn $1000 Weekly 
+• Take The Freedom Club Challenge 
+• Up to $1275 Monthly in Additional Bonuses ]]></description>
+<dc:date>2013-03-03T19:27:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3656914664.html</dc:source>
+<dc:title><![CDATA[Freedom Club Challenge (Knoxville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T19:27:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3656150578.html">
+<title><![CDATA[INBOUND INTERNET CUSTOMER REP!! ( knoxville )]]></title>
+<link>http://knoxville.craigslist.org/cpg/3656150578.html</link>
+<description><![CDATA[marketing why online marketing marketing for online online marketing online about online marketing online marketing how to how to online marketing marketing online what is online marketing 
+marketing products online online marketing products social m [...]]]></description>
+<dc:date>2013-03-03T13:17:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3656150578.html</dc:source>
+<dc:title><![CDATA[INBOUND INTERNET CUSTOMER REP!! ( knoxville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T13:17:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3646111750.html">
+<title><![CDATA[Boost Your Income!!!!!]]></title>
+<link>http://knoxville.craigslist.org/cpg/3646111750.html</link>
+<description><![CDATA[Start working with us today 
+No Experience Required, Will Train 
+reply with name, number and best time to call 
+-------------- 
+$20-$160 daily]]></description>
+<dc:date>2013-02-26T21:10:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3646111750.html</dc:source>
+<dc:title><![CDATA[Boost Your Income!!!!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T21:10:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://knoxville.craigslist.org/cpg/3614348444.html">
+<title><![CDATA[Application Development  (Knoxville TN)]]></title>
+<link>http://knoxville.craigslist.org/cpg/3614348444.html</link>
+<description><![CDATA[We represent and IT / Engineering Consulting Group that is looking for a new software application to stream line their workflow by adding mobile support. The conceptional ideal of what the group is looking for has been completed. Now we are looking f [...]]]></description>
+<dc:date>2013-02-13T10:13:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://knoxville.craigslist.org/cpg/3614348444.html</dc:source>
+<dc:title><![CDATA[Application Development  (Knoxville TN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T10:13:48-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

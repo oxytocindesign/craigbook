@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://killeen.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in killeen / temple / ft hood</title>
+<link>http://killeen.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://killeen.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in killeen / temple / ft hood</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3692192079.html" />
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3659164151.html" />
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3655779699.html" />
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3663453335.html" />
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3650306197.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://killeen.craigslist.org/cpg/3692192079.html">
+<title><![CDATA[Point Model for Freetrack (Copperas Cove TX)]]></title>
+<link>http://killeen.craigslist.org/cpg/3692192079.html</link>
+<description><![CDATA[i am posting this ad to hire someone to build me a point model for a head tracking program that can be used for Microsoft Flight Simulator 2004. It's a hat with 3 LED's wired to a battery pack with a switch, i have the plans and if anyone one is inte [...]]]></description>
+<dc:date>2013-03-19T21:12:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3692192079.html</dc:source>
+<dc:title><![CDATA[Point Model for Freetrack (Copperas Cove TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:12:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://killeen.craigslist.org/cpg/3659164151.html">
+<title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></title>
+<link>http://killeen.craigslist.org/cpg/3659164151.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-15T12:04:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3659164151.html</dc:source>
+<dc:title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:04:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://killeen.craigslist.org/cpg/3655779699.html">
+<title><![CDATA[Seeking energetic internet savy Business Partners (Wink)]]></title>
+<link>http://killeen.craigslist.org/cpg/3655779699.html</link>
+<description><![CDATA[Here is a great video on how huge checks are being generated part time. We will work with you personally to do the same... See it Here: Talk to you soon, Natasha P.S.- I have been full time online for over 10 years and have never seen anything like t [...]]]></description>
+<dc:date>2013-03-11T22:07:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3655779699.html</dc:source>
+<dc:title><![CDATA[Seeking energetic internet savy Business Partners (Wink)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T22:07:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://killeen.craigslist.org/cpg/3663453335.html">
+<title><![CDATA[Ready for a change (Temple)]]></title>
+<link>http://killeen.craigslist.org/cpg/3663453335.html</link>
+<description><![CDATA[Seeking energy driven people to become a part of a growing opportunity in central tx. 
+Can be very rewarding. ]]></description>
+<dc:date>2013-03-06T14:51:46-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3663453335.html</dc:source>
+<dc:title><![CDATA[Ready for a change (Temple)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T14:51:46-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://killeen.craigslist.org/cpg/3650306197.html">
+<title><![CDATA[CALLING ALL TECHIES (anywhere)]]></title>
+<link>http://killeen.craigslist.org/cpg/3650306197.html</link>
+<description><![CDATA[I recently started a business that relies heavily on internet marketing and am looking to build a team of computer literate, tech savvy, individuals who are looking to start a business of their own. This is a huge opportunity. If you have experience  [...]]]></description>
+<dc:date>2013-02-28T16:49:42-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3650306197.html</dc:source>
+<dc:title><![CDATA[CALLING ALL TECHIES (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:49:42-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

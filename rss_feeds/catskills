@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://catskills.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in catskills</title>
+<link>http://catskills.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://catskills.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in catskills</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:00-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://catskills.craigslist.org/cpg/3677472739.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://catskills.craigslist.org/cpg/3677472739.html">
+<title><![CDATA[Check out website]]></title>
+<link>http://catskills.craigslist.org/cpg/3677472739.html</link>
+<description><![CDATA[Hi, 
+We are a startup. 
+Looking for people to check my website, and make sure it all works properly. ]]></description>
+<dc:date>2013-03-12T20:39:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://catskills.craigslist.org/cpg/3677472739.html</dc:source>
+<dc:title><![CDATA[Check out website]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T20:39:46-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

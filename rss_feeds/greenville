@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://greenville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in greenville / upstate</title>
+<link>http://greenville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://greenville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in greenville / upstate</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:06-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3695920090.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3701829058.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3695176877.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3698097149.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3633770245.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3647593881.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3643406505.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3626831840.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3621963232.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3620035770.html" />
+  <rdf:li rdf:resource="http://greenville.craigslist.org/cpg/3618488332.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://greenville.craigslist.org/cpg/3695920090.html">
+<title><![CDATA[Need Help Recovering My Hard Drive (Lyman, SC)]]></title>
+<link>http://greenville.craigslist.org/cpg/3695920090.html</link>
+<description><![CDATA[I have a 750 GB Western Digital Hardrive. I need someone to help me recover as much of the data from it as possible. There is a small scratch on the disc itself, which we know because we had one technician take a look at it. If you know how to recove [...]]]></description>
+<dc:date>2013-03-24T23:39:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3695920090.html</dc:source>
+<dc:title><![CDATA[Need Help Recovering My Hard Drive (Lyman, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:39:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3701829058.html">
+<title><![CDATA[Looking for a *RELIABLE* *HONEST* Custom Web Work (Greenville)]]></title>
+<link>http://greenville.craigslist.org/cpg/3701829058.html</link>
+<description><![CDATA[We are looking to hire an honest and reliable web desginer and host. It seems like everyone can promise you 
+the world but when it comes time to deliver, they stop responding to e-mails and everything becomes a headache. 
+Due to the nature of the pro [...]]]></description>
+<dc:date>2013-03-24T21:44:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3701829058.html</dc:source>
+<dc:title><![CDATA[Looking for a *RELIABLE* *HONEST* Custom Web Work (Greenville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:44:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3695176877.html">
+<title><![CDATA[craigslist poster (greenville/greer)]]></title>
+<link>http://greenville.craigslist.org/cpg/3695176877.html</link>
+<description><![CDATA[Need someone to post in craigslist everyday till April 2nd. I would provide headers and body of ads along with direction to which category. 
+We are based in tampa and cannot get ads to stick. If you feel that you could do this reply to this ad or tex [...]]]></description>
+<dc:date>2013-03-23T19:20:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3695176877.html</dc:source>
+<dc:title><![CDATA[craigslist poster (greenville/greer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T19:20:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3698097149.html">
+<title><![CDATA[Need help installing a Mumble Server on Linux (phone/web)]]></title>
+<link>http://greenville.craigslist.org/cpg/3698097149.html</link>
+<description><![CDATA[I need help installing and running a Murmur(mumble) server on my World of Warcraft Guild Website. 
+Have no money but I can give a little web space on our VPS for your services. 
+Please Call 864-757-4991 ask for Brad 
+Need this done ASAP b4 Sat .. I h [...]]]></description>
+<dc:date>2013-03-22T20:12:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3698097149.html</dc:source>
+<dc:title><![CDATA[Need help installing a Mumble Server on Linux (phone/web)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T20:12:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3633770245.html">
+<title><![CDATA[Have a software, program, app that you need to market/sell? (Greenville, SC)]]></title>
+<link>http://greenville.craigslist.org/cpg/3633770245.html</link>
+<description><![CDATA[If you have developed a product and would like to contract a professional sales organization to market/sell it for you, consider us. If you have a partially completed software and need help finishing it, we can help. We have talented programmers who  [...]]]></description>
+<dc:date>2013-03-14T18:15:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3633770245.html</dc:source>
+<dc:title><![CDATA[Have a software, program, app that you need to market/sell? (Greenville, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T18:15:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3647593881.html">
+<title><![CDATA[Need Tech to do Keyword Optimization for Website (N.Greenville)]]></title>
+<link>http://greenville.craigslist.org/cpg/3647593881.html</link>
+<description><![CDATA[This is a temporary position to make sure my website comes up at the top of search engines. Have 2 other bussinesses that need similar work, provided this job goes well 
+Call 
+941 323-1464]]></description>
+<dc:date>2013-02-27T14:46:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3647593881.html</dc:source>
+<dc:title><![CDATA[Need Tech to do Keyword Optimization for Website (N.Greenville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T14:46:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3643406505.html">
+<title><![CDATA[I need a galaxy s3 screen replaced (simpsonville)]]></title>
+<link>http://greenville.craigslist.org/cpg/3643406505.html</link>
+<description><![CDATA[I need screen replaced for my gs3 .. I would really like for it to be done cheep 
+Please call: 8643266690]]></description>
+<dc:date>2013-02-25T18:37:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3643406505.html</dc:source>
+<dc:title><![CDATA[I need a galaxy s3 screen replaced (simpsonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T18:37:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3626831840.html">
+<title><![CDATA[WEB/SEO/SOCIAL MEDIA  (UPSTATE)]]></title>
+<link>http://greenville.craigslist.org/cpg/3626831840.html</link>
+<description><![CDATA[BUDDING ENTREPRENEUR SEEKING FOLIO OPPS 
+As an experiment in entrepreneurship I am offering the following services at a DRASTICALLY LOW RATE: 
+** (1) Cloud-based/Wordpress Website built for your business ready to add your content.... 
+(Check out www. [...]]]></description>
+<dc:date>2013-02-18T17:16:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3626831840.html</dc:source>
+<dc:title><![CDATA[WEB/SEO/SOCIAL MEDIA  (UPSTATE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T17:16:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3621963232.html">
+<title><![CDATA[P/T Help Needed!]]></title>
+<link>http://greenville.craigslist.org/cpg/3621963232.html</link>
+<description><![CDATA[This part time position is great for anyone with available time and some computer literacy. Will need to be responsible and accessible, we'll show you step by step how to complete the work. You don't need certification or any degree, just able to fol [...]]]></description>
+<dc:date>2013-02-16T14:55:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3621963232.html</dc:source>
+<dc:title><![CDATA[P/T Help Needed!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T14:55:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3620035770.html">
+<title><![CDATA[Facebook guide/teacher (Greenville,SC)]]></title>
+<link>http://greenville.craigslist.org/cpg/3620035770.html</link>
+<description><![CDATA[I need someone very proficient with facebook inside and out......to instruct me how to use it to advance our business presence and promote our retail store. I don't necessarily want or need to know everything myself but I do want to know how to make  [...]]]></description>
+<dc:date>2013-02-15T17:44:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3620035770.html</dc:source>
+<dc:title><![CDATA[Facebook guide/teacher (Greenville,SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T17:44:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://greenville.craigslist.org/cpg/3618488332.html">
+<title><![CDATA[Assistance With Working Online (Internet)]]></title>
+<link>http://greenville.craigslist.org/cpg/3618488332.html</link>
+<description><![CDATA[Looking for someone to help customers complete simple online work. This is not surveys or network marketing. You can make an extra couple hundred bucks per week of consistent money. Email for more information. Thank you! ]]></description>
+<dc:date>2013-02-15T01:49:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://greenville.craigslist.org/cpg/3618488332.html</dc:source>
+<dc:title><![CDATA[Assistance With Working Online (Internet)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T01:49:11-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

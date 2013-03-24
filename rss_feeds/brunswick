@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://brunswick.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in brunswick, GA</title>
+<link>http://brunswick.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://brunswick.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in brunswick, GA</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://brunswick.craigslist.org/cpg/3665790192.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://brunswick.craigslist.org/cpg/3665790192.html">
+<title><![CDATA[Needed: Tech Installer (Brunswick)]]></title>
+<link>http://brunswick.craigslist.org/cpg/3665790192.html</link>
+<description><![CDATA[We are looking for a tech installer to set up a retail display in the electronics department of a big box store. This display should not take more than an hour to set up and the pay rate is $60. 
+If interested, please reply with your name, phone, ema [...]]]></description>
+<dc:date>2013-03-07T16:16:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brunswick.craigslist.org/cpg/3665790192.html</dc:source>
+<dc:title><![CDATA[Needed: Tech Installer (Brunswick)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:16:11-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

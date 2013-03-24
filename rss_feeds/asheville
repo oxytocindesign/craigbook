@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://asheville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in asheville</title>
+<link>http://asheville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://asheville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in asheville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:00-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3695771054.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3666132336.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3650076077.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3649517791.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3648364494.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3645043579.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3643186083.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3642579043.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3630594019.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3621033739.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3609995955.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3604694869.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://asheville.craigslist.org/cpg/3695771054.html">
+<title><![CDATA[CCTV set up (Asheville NC)]]></title>
+<link>http://asheville.craigslist.org/cpg/3695771054.html</link>
+<description><![CDATA[I need a wireless cloud based CCTV set up with night vision capability. 
+It needs to be able to stream the video online live. 
+I can purchase the equipment, but i need IT help setting it up and getting it wired properly in the three story nightclub. ]]></description>
+<dc:date>2013-03-21T16:48:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3695771054.html</dc:source>
+<dc:title><![CDATA[CCTV set up (Asheville NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T16:48:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3666132336.html">
+<title><![CDATA[BLOG SET UP HELP WANTED (downtown Asheville )]]></title>
+<link>http://asheville.craigslist.org/cpg/3666132336.html</link>
+<description><![CDATA[I am wanting to create a blog and need some help getting it set up. Also want to create an Etsy account. I've got the pics, I've got the text, i just dont have the patience to learn the set up on my own. But I want someone who is in Asheville that I  [...]]]></description>
+<dc:date>2013-03-07T18:47:16-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3666132336.html</dc:source>
+<dc:title><![CDATA[BLOG SET UP HELP WANTED (downtown Asheville )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T18:47:16-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3650076077.html">
+<title><![CDATA[online marketing needed]]></title>
+<link>http://asheville.craigslist.org/cpg/3650076077.html</link>
+<description><![CDATA[If you can expose and promote my offering AND are willing to be paid on a performance basis (someone buys from me) 
+I can pay you $20 per buyer (starting). My "product" is a membership savings club (like a Costco or Sam's Club) that provides members  [...]]]></description>
+<dc:date>2013-02-28T16:08:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3650076077.html</dc:source>
+<dc:title><![CDATA[online marketing needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T16:08:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3649517791.html">
+<title><![CDATA[Seeking Tech Installer  (Arden)]]></title>
+<link>http://asheville.craigslist.org/cpg/3649517791.html</link>
+<description><![CDATA[We are in need of a tech display installer. This job consists of assembling a retail display in a big box store. The pay rate is $60 per hour and the installation will not take more than one hour. 
+If interested, please reply with your name, email, p [...]]]></description>
+<dc:date>2013-02-28T12:24:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3649517791.html</dc:source>
+<dc:title><![CDATA[Seeking Tech Installer  (Arden)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T12:24:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3648364494.html">
+<title><![CDATA[Website design for free student housing (Cullowhee)]]></title>
+<link>http://asheville.craigslist.org/cpg/3648364494.html</link>
+<description><![CDATA[Thanks for stopping by...this is a unique opportunity for one talented and skillful web designer with graphic design capabilities and proven knowledge of search optimization. Your expertise will be asked to help us develop a basic informational websi [...]]]></description>
+<dc:date>2013-02-27T20:27:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3648364494.html</dc:source>
+<dc:title><![CDATA[Website design for free student housing (Cullowhee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T20:27:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3645043579.html">
+<title><![CDATA[We are looking for an Independent Sales Rep to sell social media boost (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3645043579.html</link>
+<description><![CDATA[Looking for serious candidates.Please do not email. 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&lt;/br 
+Please fill out the form at our site to Apply. ]]></description>
+<dc:date>2013-02-26T13:35:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3645043579.html</dc:source>
+<dc:title><![CDATA[We are looking for an Independent Sales Rep to sell social media boost (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T13:35:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3643186083.html">
+<title><![CDATA[Help needed with Wordpress website and customizing new theme (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3643186083.html</link>
+<description><![CDATA[I am creating a new website to which I can migrate my existing website information, photos, etc. I have purchased a Wordpress theme and am looking for some help customizing it. I am looking for: 
+- On site (in Asheville) working at the same computer  [...]]]></description>
+<dc:date>2013-02-25T17:03:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3643186083.html</dc:source>
+<dc:title><![CDATA[Help needed with Wordpress website and customizing new theme (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T17:03:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3642579043.html">
+<title><![CDATA[Web Designer]]></title>
+<link>http://asheville.craigslist.org/cpg/3642579043.html</link>
+<description><![CDATA[I need a web designer to build a website for my business. I have a moderate budget for this and will need ongoing support after the website is completed. ]]></description>
+<dc:date>2013-02-25T13:17:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3642579043.html</dc:source>
+<dc:title><![CDATA[Web Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T13:17:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3630594019.html">
+<title><![CDATA[Need help With Robot/wheelchair (Hendersonville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3630594019.html</link>
+<description><![CDATA[I am building a wheelchair robot and need someone that has creative skills/ideas. I also need a person that knows wheelchairs and can assist with wiring, specifically joystick and motors. This will not be an autonomous robot. It will be wired joystic [...]]]></description>
+<dc:date>2013-02-20T08:57:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3630594019.html</dc:source>
+<dc:title><![CDATA[Need help With Robot/wheelchair (Hendersonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T08:57:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3621033739.html">
+<title><![CDATA[Web site help (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3621033739.html</link>
+<description><![CDATA[Seeking someone who can help with an already established website. I want to clean it up and get rid of old content, add video links, bring it into the current decade. I can do some of his, but there are some parts which are beyond my knowledge. this  [...]]]></description>
+<dc:date>2013-02-16T08:03:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3621033739.html</dc:source>
+<dc:title><![CDATA[Web site help (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T08:03:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3609995955.html">
+<title><![CDATA[Programmer/Coder (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3609995955.html</link>
+<description><![CDATA[Programmer/ Computer Science Professional Preferred. 
+Mobile CMS (Content Management System) It's an in depth project 
+with the right Science Programmer I'm confident we can take a complex 
+subject and deliver simplicity- 
+I do not need a website bui [...]]]></description>
+<dc:date>2013-02-11T14:07:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3609995955.html</dc:source>
+<dc:title><![CDATA[Programmer/Coder (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T14:07:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3604694869.html">
+<title><![CDATA[Help making CSV file and loading products to website (Hendersonville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3604694869.html</link>
+<description><![CDATA[Need to be shown how to upload large amounts of products to our website quickly. 
+Joomla platform 
+Shopping cart is virtuemart 
+Input file type is csv 
+OS is windows xp 
+Need a csv file format to be able to upload large amounts of products quickly. 
+ [...]]]></description>
+<dc:date>2013-02-11T06:55:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3604694869.html</dc:source>
+<dc:title><![CDATA[Help making CSV file and loading products to website (Hendersonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T06:55:35-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

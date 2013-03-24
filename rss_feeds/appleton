@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://appleton.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in appleton-oshkosh-FDL</title>
+<link>http://appleton.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://appleton.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in appleton-oshkosh-FDL</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:11-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3651595033.html" />
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3688974549.html" />
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3666977057.html" />
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3654225887.html" />
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3641038209.html" />
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3610934481.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://appleton.craigslist.org/cpg/3651595033.html">
+<title><![CDATA[iPod Touch repair - LCD Screen Connector Replacement (Appleton)]]></title>
+<link>http://appleton.craigslist.org/cpg/3651595033.html</link>
+<description><![CDATA[I'm looking for someone who can do the intricate soldering necessary to swap out a water damaged LCD screen connector on the logic board of a iPod Touch 4th generation. 
+Everything else on the iPod seems fine. I've been able to play with the iPod, by [...]]]></description>
+<dc:date>2013-03-24T18:43:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3651595033.html</dc:source>
+<dc:title><![CDATA[iPod Touch repair - LCD Screen Connector Replacement (Appleton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T18:43:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://appleton.craigslist.org/cpg/3688974549.html">
+<title><![CDATA[App designer needed (GreenBay to Madison)]]></title>
+<link>http://appleton.craigslist.org/cpg/3688974549.html</link>
+<description><![CDATA[I am looking for an App designer to be used on both android and IOS platforms. I have 3 solid ideas that need to be completed. 
+If you are interested we will go over each idea (signing a confidentiality agreement) and you will be able to decide if yo [...]]]></description>
+<dc:date>2013-03-18T12:29:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3688974549.html</dc:source>
+<dc:title><![CDATA[App designer needed (GreenBay to Madison)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T12:29:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://appleton.craigslist.org/cpg/3666977057.html">
+<title><![CDATA[Auto Cad (Appleton)]]></title>
+<link>http://appleton.craigslist.org/cpg/3666977057.html</link>
+<description><![CDATA[I am looking for someone with home building Auto Cad experience. Looking to have someone work with us on learning this program.]]></description>
+<dc:date>2013-03-08T07:09:09-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3666977057.html</dc:source>
+<dc:title><![CDATA[Auto Cad (Appleton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T07:09:09-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://appleton.craigslist.org/cpg/3654225887.html">
+<title><![CDATA[Have a Vb/sql/c project. (Fond du Lac)]]></title>
+<link>http://appleton.craigslist.org/cpg/3654225887.html</link>
+<description><![CDATA[I'm looking for someone to help with the vb/sql portion of a database project I've been wanting to work on. It'll need to be a windows application/program compatible with versions xp up through 7. Won't be too extravagant to start, I just need a well [...]]]></description>
+<dc:date>2013-03-02T12:51:17-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3654225887.html</dc:source>
+<dc:title><![CDATA[Have a Vb/sql/c project. (Fond du Lac)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T12:51:17-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://appleton.craigslist.org/cpg/3641038209.html">
+<title><![CDATA[Teach me photoshop  (Menasha)]]></title>
+<link>http://appleton.craigslist.org/cpg/3641038209.html</link>
+<description><![CDATA[I am looking to hire someone to teach me the basics of photoshop elements 11. I am very new to it and would like to be able to have one on one attention and be able to ask questions when and if I need to. Please reply if you are qualified and interes [...]]]></description>
+<dc:date>2013-02-24T17:28:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3641038209.html</dc:source>
+<dc:title><![CDATA[Teach me photoshop  (Menasha)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T17:28:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://appleton.craigslist.org/cpg/3610934481.html">
+<title><![CDATA[Quick Book Lessons Wanted (Appleton)]]></title>
+<link>http://appleton.craigslist.org/cpg/3610934481.html</link>
+<description><![CDATA[Complete novice needs to learn basics of Quick Books for intended employment. Intending 2-3 hours of basic training on your quick books program.]]></description>
+<dc:date>2013-02-11T19:25:22-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3610934481.html</dc:source>
+<dc:title><![CDATA[Quick Book Lessons Wanted (Appleton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T19:25:22-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

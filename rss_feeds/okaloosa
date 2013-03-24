@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://okaloosa.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in okaloosa / walton</title>
+<link>http://okaloosa.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://okaloosa.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in okaloosa / walton</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3693892846.html" />
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3679293757.html" />
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3661251248.html" />
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3636917200.html" />
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3629079612.html" />
+  <rdf:li rdf:resource="http://okaloosa.craigslist.org/cpg/3612404741.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3693892846.html">
+<title><![CDATA[SEO / Web Developer (Internet)]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3693892846.html</link>
+<description><![CDATA[Seeking SEO specialist with web design background to modernize web presence for small business. Should be familiar with search engine market share and national marketing strategies using SEO targets. 
+Please respond to this ad with resume and work ex [...]]]></description>
+<dc:date>2013-03-20T18:20:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3693892846.html</dc:source>
+<dc:title><![CDATA[SEO / Web Developer (Internet)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T18:20:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3679293757.html">
+<title><![CDATA[Rail Road Crossing Permit (Defuniak Springs)]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3679293757.html</link>
+<description><![CDATA[Hello 
+Looking for a experienced individual to draw a RR permit for an aerial utility crossing. If you have the experience and have the tools to do so, please email back. This will require you to gather the field notes and also create the drawing for [...]]]></description>
+<dc:date>2013-03-13T17:10:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3679293757.html</dc:source>
+<dc:title><![CDATA[Rail Road Crossing Permit (Defuniak Springs)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T17:10:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3661251248.html">
+<title><![CDATA[Dragon - Speech Recognition Software (FWB)]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3661251248.html</link>
+<description><![CDATA[Need help from someone familiar with "Dragon - Speech Recognition (DSR)" that converts speech into text. I have the software, but I'm having trouble processing it. I recorded my 93 yr. old father's life story on a digital voice recorder (DVR) and nee [...]]]></description>
+<dc:date>2013-03-05T16:47:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3661251248.html</dc:source>
+<dc:title><![CDATA[Dragon - Speech Recognition Software (FWB)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T16:47:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3636917200.html">
+<title><![CDATA[Need my  iPhone 4S jailbroke (Crestview)]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3636917200.html</link>
+<description><![CDATA[I have a IPhone 4S and cannot get data service unless I'm connected to a Wi Fi service. I've been told that I can get data service if the phone gets jailbroke so I need someone to jailbreak my phone that knows what they are doing. We can discuss the  [...]]]></description>
+<dc:date>2013-02-22T19:30:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3636917200.html</dc:source>
+<dc:title><![CDATA[Need my  iPhone 4S jailbroke (Crestview)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T19:30:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3629079612.html">
+<title><![CDATA[Seeking a Web Designer]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3629079612.html</link>
+<description><![CDATA[Seeking a Web Designer to assist in current projects. Pay will be considered as each project comes in. Please reply with previous work examples. Thank you.]]></description>
+<dc:date>2013-02-19T15:27:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3629079612.html</dc:source>
+<dc:title><![CDATA[Seeking a Web Designer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T15:27:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://okaloosa.craigslist.org/cpg/3612404741.html">
+<title><![CDATA[Seeking resume writer]]></title>
+<link>http://okaloosa.craigslist.org/cpg/3612404741.html</link>
+<description><![CDATA[Need assistance tweaking a resume or collaborating with someone over Skype while providing the information needed to flesh it out. 
+Pay is negotiable. ]]></description>
+<dc:date>2013-02-12T13:29:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://okaloosa.craigslist.org/cpg/3612404741.html</dc:source>
+<dc:title><![CDATA[Seeking resume writer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T13:29:19-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

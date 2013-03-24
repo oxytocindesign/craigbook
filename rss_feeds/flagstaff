@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://flagstaff.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in flagstaff / sedona</title>
+<link>http://flagstaff.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://flagstaff.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in flagstaff / sedona</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:30:26-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3701994418.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3692167643.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3690248890.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3689735367.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3685033019.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3669000233.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3666144709.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3661157721.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3648489831.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3647748578.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3645838101.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3701994418.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3701994418.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T21:01:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3701994418.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:01:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3692167643.html">
+<title><![CDATA[Computer techs needed! (USA)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3692167643.html</link>
+<description><![CDATA[Reply to add only if you can reply yes to the following questions. 
+1.I am coachable and teachable and will do what has been set forth before me? 
+2.I am a success oriented individual and looking for real change to my finances? 
+3.I can work at least [...]]]></description>
+<dc:date>2013-03-22T00:43:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3692167643.html</dc:source>
+<dc:title><![CDATA[Computer techs needed! (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T00:43:37-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3690248890.html">
+<title><![CDATA[Hard Work NO Quiters]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3690248890.html</link>
+<description><![CDATA[You want to change your life well its not going to be easy but if your willing to bust your ass to make good money I can help you and so can this business. The sky is the limit and you can make as much money as you want here. If you dont believe that [...]]]></description>
+<dc:date>2013-03-18T21:23:44-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3690248890.html</dc:source>
+<dc:title><![CDATA[Hard Work NO Quiters]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T21:23:44-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3689735367.html">
+<title><![CDATA[Windows XP guru (Kachina Village)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3689735367.html</link>
+<description><![CDATA[My wife has an old tower with Windows XP installed. She reports many problems like slow starting up, web sites that don't open, screen freeze, emails with multiple photos will open only one photo, and occasional self shut-down. I am retired and don't [...]]]></description>
+<dc:date>2013-03-18T15:58:31-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3689735367.html</dc:source>
+<dc:title><![CDATA[Windows XP guru (Kachina Village)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T15:58:31-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3685033019.html">
+<title><![CDATA[Audio Engineer/Consultant for Music Webstream (Flagstaff Eastside)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3685033019.html</link>
+<description><![CDATA[I host a live365.com webcast called Ain't That a Groove, "the webcast for the drummer in all of us" (www.live365.com/stations/flamdaddy), a non-profit, community services station with 6000 subscribed listeners in 42 countries. 
+I'd like to improve th [...]]]></description>
+<dc:date>2013-03-16T10:11:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3685033019.html</dc:source>
+<dc:title><![CDATA[Audio Engineer/Consultant for Music Webstream (Flagstaff Eastside)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:11:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3669000233.html">
+<title><![CDATA[so much fun (USA)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3669000233.html</link>
+<description><![CDATA[Marketing via Social Media (United States) 
+IF YOU'VE EVER WANTED TO BE IN THE RIGHT PLACE AT THE RIGHT TIME, 
+THE MOMENT HAS ARRIVED IF YOU'RE UP FOR THE CHALLENGE 
+Entrepreneurial-minded company is now looking for Professional Reps! 
+Our Educationa [...]]]></description>
+<dc:date>2013-03-08T23:06:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3669000233.html</dc:source>
+<dc:title><![CDATA[so much fun (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T23:06:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3666144709.html">
+<title><![CDATA[Part time admin position (Cottonwood)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3666144709.html</link>
+<description><![CDATA[School is currently looking for a for a candidate to be part of their team. 
+Position will start as part time, 20-30 hours a week, from 8 am to 12 pm. Can become full time for the right person. 
+Must have clean background 
+Must be able to pass drug s [...]]]></description>
+<dc:date>2013-03-07T16:53:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3666144709.html</dc:source>
+<dc:title><![CDATA[Part time admin position (Cottonwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T16:53:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3661157721.html">
+<title><![CDATA[IPad screen repair (Flagstaff)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3661157721.html</link>
+<description><![CDATA[Hey everyone! 
+Looking for somebody to fix the screen on an iPad 2 with cellular capability. I will pay for all the parts and you for your time. However, I am not willing to let a soul touch my iPad if they are not willing to allow me to watch. I sim [...]]]></description>
+<dc:date>2013-03-05T14:09:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3661157721.html</dc:source>
+<dc:title><![CDATA[IPad screen repair (Flagstaff)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T14:09:39-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3648489831.html">
+<title><![CDATA[Web/Graphic designer (Flanders, NY)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3648489831.html</link>
+<description><![CDATA[Hey, my name is Kyle McCarthy. I'm a fairly grounded, culturally rounded and creative individual looking to start a website. The basis for this site is pretty kooky in general and will require an interview over the phone or in person. I'm looking for [...]]]></description>
+<dc:date>2013-02-27T19:38:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3648489831.html</dc:source>
+<dc:title><![CDATA[Web/Graphic designer (Flanders, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T19:38:04-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3647748578.html">
+<title><![CDATA[Watch Video Listed Below!!! (USA)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3647748578.html</link>
+<description><![CDATA[http://www.youtube.com/watch?v=GsChC7cSP1g]]></description>
+<dc:date>2013-02-27T13:47:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3647748578.html</dc:source>
+<dc:title><![CDATA[Watch Video Listed Below!!! (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-27T13:47:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3645838101.html">
+<title><![CDATA[Joomla/JomSocial/K2 (Sedona)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3645838101.html</link>
+<description><![CDATA[I am looking for someone, preferably local, who is skilled in Joomla, JomSocial and K2 to build a ground up site w/mobile version. I have gotten many opinions on the complexity of building the site. Several have stated that the easiest and most cost  [...]]]></description>
+<dc:date>2013-02-26T16:51:04-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3645838101.html</dc:source>
+<dc:title><![CDATA[Joomla/JomSocial/K2 (Sedona)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T16:51:04-07:00</dcterms:issued>
+</item>
+</rdf:RDF>

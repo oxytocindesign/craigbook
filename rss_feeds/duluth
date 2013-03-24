@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://duluth.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in duluth / superior</title>
+<link>http://duluth.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://duluth.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in duluth / superior</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:39:45-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://duluth.craigslist.org/cpg/3699593935.html" />
+  <rdf:li rdf:resource="http://duluth.craigslist.org/cpg/3616096228.html" />
+  <rdf:li rdf:resource="http://duluth.craigslist.org/cpg/3615342936.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://duluth.craigslist.org/cpg/3699593935.html">
+<title><![CDATA[Help with html page (Duluth)]]></title>
+<link>http://duluth.craigslist.org/cpg/3699593935.html</link>
+<description><![CDATA[I am looking for some pretty basic help with html code/ page design. Looking to create a few templates. Code needs to be fully duplicatable, editable and reusable. Must be located in or around Duluth or dont bother responding as I will want to work c [...]]]></description>
+<dc:date>2013-03-23T15:33:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://duluth.craigslist.org/cpg/3699593935.html</dc:source>
+<dc:title><![CDATA[Help with html page (Duluth)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T15:33:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://duluth.craigslist.org/cpg/3616096228.html">
+<title><![CDATA[Seeking a partner (Duluth/Superior)]]></title>
+<link>http://duluth.craigslist.org/cpg/3616096228.html</link>
+<description><![CDATA[I have business skills, you have design skills. 
+I am looking for innovative and creative people to partner with me on designing a great product. There are similar products out there, but none that fill the need of the average consumer. 
+The product  [...]]]></description>
+<dc:date>2013-02-13T22:01:41-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://duluth.craigslist.org/cpg/3616096228.html</dc:source>
+<dc:title><![CDATA[Seeking a partner (Duluth/Superior)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T22:01:41-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://duluth.craigslist.org/cpg/3615342936.html">
+<title><![CDATA[Word Press exp? (virginia)]]></title>
+<link>http://duluth.craigslist.org/cpg/3615342936.html</link>
+<description><![CDATA[I am looking to hire someone that could put together a website using word press. Must know how to add videos and be able to create a professianal site. I can not afford to pay alot of cash now.]]></description>
+<dc:date>2013-02-13T15:38:05-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://duluth.craigslist.org/cpg/3615342936.html</dc:source>
+<dc:title><![CDATA[Word Press exp? (virginia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T15:38:05-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

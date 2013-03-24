@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://bemidji.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in bemidji</title>
+<link>http://bemidji.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://bemidji.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in bemidji</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:59-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3701789988.html" />
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3618435268.html" />
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3623541013.html" />
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3631023422.html" />
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3623617559.html" />
+  <rdf:li rdf:resource="http://bemidji.craigslist.org/cpg/3603320958.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3701789988.html">
+<title><![CDATA[Need Basement Cleaning & Moving Items (Wadena / Deer Creek)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3701789988.html</link>
+<description><![CDATA[Our sewer line leaked into the basement a bit so we need thorough cleaning as well as moving stuff out into the garage. Moving stuff out should take about an hour and cleaning around 2-3 hours. Prefer for someone to arrive Monday morning. Please let  [...]]]></description>
+<dc:date>2013-03-24T20:18:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3701789988.html</dc:source>
+<dc:title><![CDATA[Need Basement Cleaning & Moving Items (Wadena / Deer Creek)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:18:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3618435268.html">
+<title><![CDATA[.&#24417;&#24417;&#24417; Looking To Start Business &#24417;&#24417;&#24417;.  (Bemidji)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3618435268.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-09T07:27:02-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3618435268.html</dc:source>
+<dc:title><![CDATA[.&#24417;&#24417;&#24417; Looking To Start Business &#24417;&#24417;&#24417;.  (Bemidji)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T07:27:02-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3623541013.html">
+<title><![CDATA[Looking For Someone Interested In Doing Affiliate Marketing, Training  (Bemidji)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3623541013.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-08T20:27:39-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3623541013.html</dc:source>
+<dc:title><![CDATA[Looking For Someone Interested In Doing Affiliate Marketing, Training  (Bemidji)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T20:27:39-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3631023422.html">
+<title><![CDATA[&#10031;&#10031;&#10031; Video Of Jeremy Schoemaker Explaining How He Makes Mone (Bemidji)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3631023422.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-28T11:41:40-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3631023422.html</dc:source>
+<dc:title><![CDATA[&#10031;&#10031;&#10031; Video Of Jeremy Schoemaker Explaining How He Makes Mone (Bemidji)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:41:40-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3623617559.html">
+<title><![CDATA[.&#9745;&#9745;&#9745; Additional Revenue Streams From Using Computer &#9745;&#9 (Bemidji)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3623617559.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-28T11:37:56-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3623617559.html</dc:source>
+<dc:title><![CDATA[.&#9745;&#9745;&#9745; Additional Revenue Streams From Using Computer &#9745;&#9 (Bemidji)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:37:56-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://bemidji.craigslist.org/cpg/3603320958.html">
+<title><![CDATA[Wanted: MS Publisher Work To Be Done (Bemidji: Anywhere)]]></title>
+<link>http://bemidji.craigslist.org/cpg/3603320958.html</link>
+<description><![CDATA[Before you read this post, please keep in mind if you're a business this gig is most likely not for you. I can go to a dozen+ different businesses to have this done. I'm doing this to find an outsourcer where I can get competitive rates and not to pa [...]]]></description>
+<dc:date>2013-02-08T13:34:38-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bemidji.craigslist.org/cpg/3603320958.html</dc:source>
+<dc:title><![CDATA[Wanted: MS Publisher Work To Be Done (Bemidji: Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T13:34:38-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

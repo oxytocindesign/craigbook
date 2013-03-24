@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://lima.es.craigslist.org/cpg/index.rss">
+<title>craigslist | curros inform&#xE1;tica en peru</title>
+<link>http://lima.es.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://lima.es.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | curros inform&#xE1;tica en peru</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lima.es.craigslist.org/cpg/3665909490.html" />
+  <rdf:li rdf:resource="http://lima.es.craigslist.org/cpg/3607555355.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://lima.es.craigslist.org/cpg/3665909490.html">
+<title><![CDATA[online, part time]]></title>
+<link>http://lima.es.craigslist.org/cpg/3665909490.html</link>
+<description><![CDATA[This is an opportunity to work part time online with no cost, and no obligations to you. Click the link below to get started today. 
+http://visitors2cash.com/ref.php?refId=57924]]></description>
+<dc:date>2013-03-10T01:23:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lima.es.craigslist.org/cpg/3665909490.html</dc:source>
+<dc:title><![CDATA[online, part time]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T01:23:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://lima.es.craigslist.org/cpg/3607555355.html">
+<title><![CDATA[Trabaja desde tu casa...  gana $4720.00 dolares en soloamente 10 dias (peru)]]></title>
+<link>http://lima.es.craigslist.org/cpg/3607555355.html</link>
+<description><![CDATA[Trabaja desde tu casa... gana $4720 en solamente 10 dias 
+Para mas informacion visita esta pagina. . . haz click en el video y ponle mucha atencion a la informacion que tardara 29 minutos. . . miralo del principio al final... te dara instrucciones de [...]]]></description>
+<dc:date>2013-02-10T13:32:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lima.es.craigslist.org/cpg/3607555355.html</dc:source>
+<dc:title><![CDATA[Trabaja desde tu casa...  gana $4720.00 dolares en soloamente 10 dias (peru)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T13:32:28-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

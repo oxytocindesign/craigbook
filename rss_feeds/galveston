@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://galveston.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in galveston</title>
+<link>http://galveston.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://galveston.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in galveston</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://galveston.craigslist.org/cpg/3643831131.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://galveston.craigslist.org/cpg/3643831131.html">
+<title><![CDATA[Experienced professional salesman to help grow company (Galveston)]]></title>
+<link>http://galveston.craigslist.org/cpg/3643831131.html</link>
+<description><![CDATA[Need home internet and a want to make money. 
+Please do not email. Please fill out the form at our site to Apply. ]]></description>
+<dc:date>2013-02-25T21:17:52-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://galveston.craigslist.org/cpg/3643831131.html</dc:source>
+<dc:title><![CDATA[Experienced professional salesman to help grow company (Galveston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T21:17:52-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

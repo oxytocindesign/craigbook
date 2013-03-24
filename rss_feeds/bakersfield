@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://bakersfield.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in bakersfield</title>
+<link>http://bakersfield.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://bakersfield.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in bakersfield</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:38:57-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3694535822.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3693346562.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3690069024.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3684192500.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3682434729.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3616302745.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3668619364.html" />
+  <rdf:li rdf:resource="http://bakersfield.craigslist.org/cpg/3649796350.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3694535822.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3694535822.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:56:08-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3694535822.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:56:08-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3693346562.html">
+<title><![CDATA[6-12 month SharePoint 2010 Opp (Edwards AFB)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3693346562.html</link>
+<description><![CDATA[Looking for a developer to formulate business requirements, design, develop, test, and implement SharePoint Team sites utilizing existing SharePoint 2010 environment. Will be creating workflow's and web parts.]]></description>
+<dc:date>2013-03-20T11:09:42-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3693346562.html</dc:source>
+<dc:title><![CDATA[6-12 month SharePoint 2010 Opp (Edwards AFB)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:09:42-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3690069024.html">
+<title><![CDATA[Need Someone Who Can Install a Mod (Bakersfield)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3690069024.html</link>
+<description><![CDATA[I looking for someone who can look at my Kindle Fire and Re-Flash a MOD on it and get it working again. I have the MOD I want to use. I am willing to pay someone to get this done from what I hear it takes 10-20 minutes to do for someone who is experi [...]]]></description>
+<dc:date>2013-03-18T19:07:38-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3690069024.html</dc:source>
+<dc:title><![CDATA[Need Someone Who Can Install a Mod (Bakersfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T19:07:38-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3684192500.html">
+<title><![CDATA[Android Expert (Bakersfield)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3684192500.html</link>
+<description><![CDATA[Looking for someone that can look at my Kindle Fire and see if they can get it working with the CM7 or CM 10.1 mod All I can get it to do now is load to the TWRP screen.. Not sure if its dead or if something got messed up on it.]]></description>
+<dc:date>2013-03-15T21:03:29-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3684192500.html</dc:source>
+<dc:title><![CDATA[Android Expert (Bakersfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T21:03:29-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3682434729.html">
+<title><![CDATA[Windows 7 Migration Tech (Bakersfield, CA)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3682434729.html</link>
+<description><![CDATA[SmartSource has an immediate opportuniiy (Start Monday, March 18, 2013@8am) for an experienced Migration tech to work for approximately 45 days at one site migration 200 pc's from XP to Win7. Hours are 8-5, Mon - Fri.W-2. $20 per hour. ]]></description>
+<dc:date>2013-03-15T05:26:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3682434729.html</dc:source>
+<dc:title><![CDATA[Windows 7 Migration Tech (Bakersfield, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T05:26:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3616302745.html">
+<title><![CDATA[Side income /$20 Starting]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3616302745.html</link>
+<description><![CDATA[Side income 
+/$20 Starting 
+We are looking for someone who is creative and can complete 
+simple computer tasks. 
+No computer experience required. 
+1-4hours a day 
+$20/hour starting 
+Email when you can start along with your name 
+for more information  [...]]]></description>
+<dc:date>2013-03-12T21:39:18-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3616302745.html</dc:source>
+<dc:title><![CDATA[Side income /$20 Starting]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:39:18-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3668619364.html">
+<title><![CDATA[Mobile App Developer iOS/Android (Bakersfield)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3668619364.html</link>
+<description><![CDATA[New Startup looking for an experience mobile app developer. We have some code written, looking for someone to work on a short term basis with a longer term option. Need to Publish work by April 1. 
+Please submit resume and salary requirements for con [...]]]></description>
+<dc:date>2013-03-08T17:17:46-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3668619364.html</dc:source>
+<dc:title><![CDATA[Mobile App Developer iOS/Android (Bakersfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-08T17:17:46-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://bakersfield.craigslist.org/cpg/3649796350.html">
+<title><![CDATA[Seeking Short Training Session for Quickbooks (Bakersfield, CA)]]></title>
+<link>http://bakersfield.craigslist.org/cpg/3649796350.html</link>
+<description><![CDATA[We are looking for a knowledgeable person who is willing to provide a few hours (1-3) of training for Quickbooks. We have a new employee that needs a crash course lesson on the essentials of Quickbooks starting from the ground up. You can come by our [...]]]></description>
+<dc:date>2013-02-28T11:14:11-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bakersfield.craigslist.org/cpg/3649796350.html</dc:source>
+<dc:title><![CDATA[Seeking Short Training Session for Quickbooks (Bakersfield, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-28T11:14:11-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

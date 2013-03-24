@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://anchorage.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in anchorage / mat-su</title>
+<link>http://anchorage.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://anchorage.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in anchorage / mat-su</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T21:29:53-08:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://anchorage.craigslist.org/cpg/3685818442.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://anchorage.craigslist.org/cpg/3685818442.html">
+<title><![CDATA[NEED HELP NOW (Anchorage)]]></title>
+<link>http://anchorage.craigslist.org/cpg/3685818442.html</link>
+<description><![CDATA[I am looking for someone who is experienced in web data entry. Work is easy, just time consuming. I need someone who is a fast, hard worker and will get the job done with no complaints. Pay will be based off of performance. Need someone ASAP!! If int [...]]]></description>
+<dc:date>2013-03-16T15:39:16-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://anchorage.craigslist.org/cpg/3685818442.html</dc:source>
+<dc:title><![CDATA[NEED HELP NOW (Anchorage)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:39:16-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

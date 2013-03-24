@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://savannah.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in savannah / hinesville</title>
+<link>http://savannah.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://savannah.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in savannah / hinesville</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:39:18-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3693589596.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3692275530.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3667022379.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3652801397.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3640103041.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3611402059.html" />
+  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3602087234.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://savannah.craigslist.org/cpg/3693589596.html">
+<title><![CDATA[Need a Website (Savannah Ga)]]></title>
+<link>http://savannah.craigslist.org/cpg/3693589596.html</link>
+<description><![CDATA[I am looking for an experienced website designer to design a website for a new ministry initiative. ]]></description>
+<dc:date>2013-03-20T15:56:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3693589596.html</dc:source>
+<dc:title><![CDATA[Need a Website (Savannah Ga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T15:56:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3692275530.html">
+<title><![CDATA[Do you design websites? (savannah)]]></title>
+<link>http://savannah.craigslist.org/cpg/3692275530.html</link>
+<description><![CDATA[T shirt company in need of web design. send online links of your portfolio and quotes. ]]></description>
+<dc:date>2013-03-19T23:14:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3692275530.html</dc:source>
+<dc:title><![CDATA[Do you design websites? (savannah)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T23:14:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3667022379.html">
+<title><![CDATA[Need help with garage door openers!]]></title>
+<link>http://savannah.craigslist.org/cpg/3667022379.html</link>
+<description><![CDATA[We bought some garage door openers, but have no idea how to program them to work. Please help! Offering $$ to spend a few minutes making them work. I just don't know how. Thanks!]]></description>
+<dc:date>2013-03-19T17:59:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3667022379.html</dc:source>
+<dc:title><![CDATA[Need help with garage door openers!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T17:59:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3652801397.html">
+<title><![CDATA[Professional wi-fi networking for a business (Glennville)]]></title>
+<link>http://savannah.craigslist.org/cpg/3652801397.html</link>
+<description><![CDATA[Looking for a networking professional working in the industry to wire a large property for wi-fi. It is very important that the person have extensive knowledge and experience in the field working for an ISP or telecom company in order to tailor a sol [...]]]></description>
+<dc:date>2013-03-01T19:26:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3652801397.html</dc:source>
+<dc:title><![CDATA[Professional wi-fi networking for a business (Glennville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T19:26:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3640103041.html">
+<title><![CDATA[YouTube Videographer (Midway)]]></title>
+<link>http://savannah.craigslist.org/cpg/3640103041.html</link>
+<description><![CDATA[I am looking for someone can video a series of congruent videos of humourous information I want to share. More information will be provided to the right person for the project. Must have whatever equipment is needed to do the video and get it posted  [...]]]></description>
+<dc:date>2013-02-24T11:09:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3640103041.html</dc:source>
+<dc:title><![CDATA[YouTube Videographer (Midway)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T11:09:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3611402059.html">
+<title><![CDATA[* Seeking homebased bookkeeper * (Savannah area)]]></title>
+<link>http://savannah.craigslist.org/cpg/3611402059.html</link>
+<description><![CDATA[Hello, 
+I have a small web-based business in California and I would like to have daily reporting of how my business is doing. I am interested in things like; what was our profit yesterday, are we on track with projected budgets, what was our profit p [...]]]></description>
+<dc:date>2013-02-12T01:50:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3611402059.html</dc:source>
+<dc:title><![CDATA[* Seeking homebased bookkeeper * (Savannah area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T01:50:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://savannah.craigslist.org/cpg/3602087234.html">
+<title><![CDATA[CAN YOU REPAIR COMPUTERS OR TVS.]]></title>
+<link>http://savannah.craigslist.org/cpg/3602087234.html</link>
+<description><![CDATA[YOU MUST BE ABLE TO REPAIR DESKTOPS, LAPTOPS, PERIPHERALS AND 
+INFRASTRUCTURE COMPONENTS. 
+SEND YOUR RESUME TO THE FOLLOWING EMAIL ADDRESS :: 
+CHIPSET21RDC@GMAIL.COM ]]></description>
+<dc:date>2013-02-08T00:16:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://savannah.craigslist.org/cpg/3602087234.html</dc:source>
+<dc:title><![CDATA[CAN YOU REPAIR COMPUTERS OR TVS.]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T00:16:24-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

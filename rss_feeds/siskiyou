@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://siskiyou.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in siskiyou county</title>
+<link>http://siskiyou.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://siskiyou.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in siskiyou county</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://siskiyou.craigslist.org/cpg/3702025203.html" />
+  <rdf:li rdf:resource="http://siskiyou.craigslist.org/cpg/3695290191.html" />
+  <rdf:li rdf:resource="http://siskiyou.craigslist.org/cpg/3606020437.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://siskiyou.craigslist.org/cpg/3702025203.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://siskiyou.craigslist.org/cpg/3702025203.html</link>
+<description><![CDATA[Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or full time. 
+Considerable in [...]]]></description>
+<dc:date>2013-03-24T21:33:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://siskiyou.craigslist.org/cpg/3702025203.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T21:33:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://siskiyou.craigslist.org/cpg/3695290191.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://siskiyou.craigslist.org/cpg/3695290191.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:52:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://siskiyou.craigslist.org/cpg/3695290191.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:52:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://siskiyou.craigslist.org/cpg/3606020437.html">
+<title><![CDATA[Side Income]]></title>
+<link>http://siskiyou.craigslist.org/cpg/3606020437.html</link>
+<description><![CDATA[Side Income 
+$45/65 day 
+We need people who can complete simple 
+computer tasks. 
+Save time by working a gig from home. 
+Email when you can start along with your name 
+for more information ]]></description>
+<dc:date>2013-03-09T17:46:52-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://siskiyou.craigslist.org/cpg/3606020437.html</dc:source>
+<dc:title><![CDATA[Side Income]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:46:52-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

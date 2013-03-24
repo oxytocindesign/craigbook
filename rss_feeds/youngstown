@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://youngstown.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in youngstown</title>
+<link>http://youngstown.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://youngstown.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in youngstown</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:46-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://youngstown.craigslist.org/cpg/3688525089.html" />
+  <rdf:li rdf:resource="http://youngstown.craigslist.org/cpg/3682258217.html" />
+  <rdf:li rdf:resource="http://youngstown.craigslist.org/cpg/3660119970.html" />
+  <rdf:li rdf:resource="http://youngstown.craigslist.org/cpg/3633092043.html" />
+  <rdf:li rdf:resource="http://youngstown.craigslist.org/cpg/3604200800.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://youngstown.craigslist.org/cpg/3688525089.html">
+<title><![CDATA[Weekly Income (youngstown)]]></title>
+<link>http://youngstown.craigslist.org/cpg/3688525089.html</link>
+<description><![CDATA[Free training 
+Must have computer 
+Basic computer skills 
+Call Leroy 7247595165]]></description>
+<dc:date>2013-03-18T10:26:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://youngstown.craigslist.org/cpg/3688525089.html</dc:source>
+<dc:title><![CDATA[Weekly Income (youngstown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T10:26:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://youngstown.craigslist.org/cpg/3682258217.html">
+<title><![CDATA[Ebay seller wanted! (youngstown)]]></title>
+<link>http://youngstown.craigslist.org/cpg/3682258217.html</link>
+<description><![CDATA[Looking for an ebay seller to help me sell items on the site. If interested please reply back with a name and your ebay feedback score]]></description>
+<dc:date>2013-03-15T02:59:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://youngstown.craigslist.org/cpg/3682258217.html</dc:source>
+<dc:title><![CDATA[Ebay seller wanted! (youngstown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T02:59:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://youngstown.craigslist.org/cpg/3660119970.html">
+<title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></title>
+<link>http://youngstown.craigslist.org/cpg/3660119970.html</link>
+<description><![CDATA[Amazing Opportunity! We are looking for Mobile Game App Developers to help with new app development. Experience with iOS & Android development a must. Part-Time, subcontract. Payment will be in shares of the revenue of the game, On-Going, for the rig [...]]]></description>
+<dc:date>2013-03-05T09:14:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://youngstown.craigslist.org/cpg/3660119970.html</dc:source>
+<dc:title><![CDATA[Mobile Game App Developer Wanted (Youngstown, OH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T09:14:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://youngstown.craigslist.org/cpg/3633092043.html">
+<title><![CDATA[Need setup of cisco 2950 switch with vmware (liberty)]]></title>
+<link>http://youngstown.craigslist.org/cpg/3633092043.html</link>
+<description><![CDATA[In the next week or two i will need a cisco guy to help me setup a cisco 2950 switch 
+so that I can have 5 internet connections to my main pc. 4 will be on vm's installed on this pc. 
+So you will need experience with vmware and virtual nics too. 4 co [...]]]></description>
+<dc:date>2013-02-21T09:31:38-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://youngstown.craigslist.org/cpg/3633092043.html</dc:source>
+<dc:title><![CDATA[Need setup of cisco 2950 switch with vmware (liberty)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T09:31:38-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://youngstown.craigslist.org/cpg/3604200800.html">
+<title><![CDATA[Looking for a qualified home inspector or handy man to inspect a home (Shanago valley, western Pa, N east Ohio)]]></title>
+<link>http://youngstown.craigslist.org/cpg/3604200800.html</link>
+<description><![CDATA[Hello, I'm trying to move back to the shanago valley this summer.. 
+I'm interested in several afordable homes in the area and need someone to inspect them and give me a quote on making them habitable.. 
+Please email me your experience and qualificati [...]]]></description>
+<dc:date>2013-02-08T21:09:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://youngstown.craigslist.org/cpg/3604200800.html</dc:source>
+<dc:title><![CDATA[Looking for a qualified home inspector or handy man to inspect a home (Shanago valley, western Pa, N east Ohio)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T21:09:41-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://merced.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in merced</title>
+<link>http://merced.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://merced.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in merced</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3677842620.html" />
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3635960567.html" />
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3625219507.html" />
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3616276776.html" />
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3608718113.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://merced.craigslist.org/cpg/3677842620.html">
+<title><![CDATA[Video project (edit a video recording) (Los banos)]]></title>
+<link>http://merced.craigslist.org/cpg/3677842620.html</link>
+<description><![CDATA[For school I have to perform and record a play I will like for someone who knows how to edit what I record. I'm not a professional and its my first time so there will be mistakes in the video recording. I want some one who knows about this stuff and  [...]]]></description>
+<dc:date>2013-03-12T21:54:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3677842620.html</dc:source>
+<dc:title><![CDATA[Video project (edit a video recording) (Los banos)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T21:54:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://merced.craigslist.org/cpg/3635960567.html">
+<title><![CDATA[WEB DESIGNER (Merced)]]></title>
+<link>http://merced.craigslist.org/cpg/3635960567.html</link>
+<description><![CDATA[Opportunity to design and run web-site for new company. 
+Must have advanced designing skills and creative ideas! 
+This is a start-up and will not be a paid position; BUT you will receive a substantial percentage of the company and share in all profit [...]]]></description>
+<dc:date>2013-02-22T10:02:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3635960567.html</dc:source>
+<dc:title><![CDATA[WEB DESIGNER (Merced)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T10:02:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://merced.craigslist.org/cpg/3625219507.html">
+<title><![CDATA[Security Camera installer (Merced )]]></title>
+<link>http://merced.craigslist.org/cpg/3625219507.html</link>
+<description><![CDATA[I AM LOOKING FOR SOMEONE TO INSTALL 12 camera in my building. I do have 3 cameras and the DVR system installed and need to get 12 more installed. Week days or week ends are fine. This Work is in Merced. Please email me ur experience and contact info. [...]]]></description>
+<dc:date>2013-02-17T23:07:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3625219507.html</dc:source>
+<dc:title><![CDATA[Security Camera installer (Merced )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T23:07:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://merced.craigslist.org/cpg/3616276776.html">
+<title><![CDATA[Looking for game developers!]]></title>
+<link>http://merced.craigslist.org/cpg/3616276776.html</link>
+<description><![CDATA[Hey there, I am looking for fellow aspiring game developers to aid me in achieving a vision I have. It's not a complicated game idea, it's for xbox live arcade and I want to make it happen. I lack computer programing skills as well as art skills, but [...]]]></description>
+<dc:date>2013-02-13T22:41:27-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3616276776.html</dc:source>
+<dc:title><![CDATA[Looking for game developers!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T22:41:27-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://merced.craigslist.org/cpg/3608718113.html">
+<title><![CDATA[Skilled Programmer Needed (Merced)]]></title>
+<link>http://merced.craigslist.org/cpg/3608718113.html</link>
+<description><![CDATA[I am looking for a programmer to develop a program that will search Google Trends by reading a list of terms given in an excel file and downloading the .csv file related to the respectives terms which will be used for later analysis. If you are compe [...]]]></description>
+<dc:date>2013-02-10T20:25:41-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3608718113.html</dc:source>
+<dc:title><![CDATA[Skilled Programmer Needed (Merced)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T20:25:41-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

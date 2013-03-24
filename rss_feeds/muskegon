@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://muskegon.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in muskegon</title>
+<link>http://muskegon.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://muskegon.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in muskegon</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:24:59-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://muskegon.craigslist.org/cpg/3692412416.html" />
+  <rdf:li rdf:resource="http://muskegon.craigslist.org/cpg/3643936127.html" />
+  <rdf:li rdf:resource="http://muskegon.craigslist.org/cpg/3618013544.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://muskegon.craigslist.org/cpg/3692412416.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://muskegon.craigslist.org/cpg/3692412416.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:52:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muskegon.craigslist.org/cpg/3692412416.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:52:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://muskegon.craigslist.org/cpg/3643936127.html">
+<title><![CDATA[Arcade Cabinet Repair  (Muskegon)]]></title>
+<link>http://muskegon.craigslist.org/cpg/3643936127.html</link>
+<description><![CDATA[I just recently got a Robotron: 2084 Arcade cabinet and I'm looking for some help to get the monitor up and running so I can play this thing! If anyone out there knows how to fix or work on these things get ahold of me! Let's discuss over E-mail then [...]]]></description>
+<dc:date>2013-03-19T18:40:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muskegon.craigslist.org/cpg/3643936127.html</dc:source>
+<dc:title><![CDATA[Arcade Cabinet Repair  (Muskegon)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T18:40:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://muskegon.craigslist.org/cpg/3618013544.html">
+<title><![CDATA[Cad design of a house]]></title>
+<link>http://muskegon.craigslist.org/cpg/3618013544.html</link>
+<description><![CDATA[Looking for someone in the Muskegon area to do some cad work for an up coming project I have going on ]]></description>
+<dc:date>2013-02-14T19:35:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://muskegon.craigslist.org/cpg/3618013544.html</dc:source>
+<dc:title><![CDATA[Cad design of a house]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T19:35:05-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

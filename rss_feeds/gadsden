@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://gadsden.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in gadsden-anniston</title>
+<link>http://gadsden.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://gadsden.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in gadsden-anniston</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:34:54-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gadsden.craigslist.org/cpg/3687983722.html" />
+  <rdf:li rdf:resource="http://gadsden.craigslist.org/cpg/3671650887.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://gadsden.craigslist.org/cpg/3687983722.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://gadsden.craigslist.org/cpg/3687983722.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:54:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gadsden.craigslist.org/cpg/3687983722.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:54:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gadsden.craigslist.org/cpg/3671650887.html">
+<title><![CDATA[Familiar with Word Press? Can be student (Gadsden-anniston)]]></title>
+<link>http://gadsden.craigslist.org/cpg/3671650887.html</link>
+<description><![CDATA[Looking for a HTML3 web designer/web artist to work on conceptual short form websites. heavy in concept but low on content. experience with customizing Tumblr templates MUCH PREFERRED the work will be for a hig click here for the application enter yo [...]]]></description>
+<dc:date>2013-03-10T11:52:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gadsden.craigslist.org/cpg/3671650887.html</dc:source>
+<dc:title><![CDATA[Familiar with Word Press? Can be student (Gadsden-anniston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T11:52:34-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

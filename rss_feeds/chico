@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://chico.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in chico</title>
+<link>http://chico.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://chico.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in chico</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3694549026.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3681059606.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3633787940.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3695994097.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3661580309.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3659887197.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3659155254.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3599571269.html" />
+  <rdf:li rdf:resource="http://chico.craigslist.org/cpg/3641573031.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://chico.craigslist.org/cpg/3694549026.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://chico.craigslist.org/cpg/3694549026.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:59:01-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3694549026.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:59:01-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3681059606.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://chico.craigslist.org/cpg/3681059606.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:56:35-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3681059606.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:56:35-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3633787940.html">
+<title><![CDATA[Now Hiring! (Chico, CA)]]></title>
+<link>http://chico.craigslist.org/cpg/3633787940.html</link>
+<description><![CDATA[Now hiring all postions! MCA is now recuirting all members! ]]></description>
+<dc:date>2013-03-23T10:26:52-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3633787940.html</dc:source>
+<dc:title><![CDATA[Now Hiring! (Chico, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T10:26:52-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3695994097.html">
+<title><![CDATA[Web Developer/Designer (Chico)]]></title>
+<link>http://chico.craigslist.org/cpg/3695994097.html</link>
+<description><![CDATA[Looking for a talented web developer and design expert to develop our crowdfunding site on the front and back-end. Candidates should be versed in Ruby on Rails and also be a Designer by trade. We are a bootstrap web-based startup looking to redesign  [...]]]></description>
+<dc:date>2013-03-21T15:46:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3695994097.html</dc:source>
+<dc:title><![CDATA[Web Developer/Designer (Chico)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T15:46:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3661580309.html">
+<title><![CDATA[Web Designer Needed (Chico)]]></title>
+<link>http://chico.craigslist.org/cpg/3661580309.html</link>
+<description><![CDATA[I am in need of a knowledgeable web designer who can create a website that would be used to rate different things in Chico. I don't think it will be to much of a challenge for anyone with knowledge of web design. This job might turn in to a maintenan [...]]]></description>
+<dc:date>2013-03-05T16:14:11-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3661580309.html</dc:source>
+<dc:title><![CDATA[Web Designer Needed (Chico)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T16:14:11-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3659887197.html">
+<title><![CDATA[IPAD 6.1.2 repair (Magalia)]]></title>
+<link>http://chico.craigslist.org/cpg/3659887197.html</link>
+<description><![CDATA[My IPAD is having some difficulties . Retired senior citizen needs help d/t emails and fb not working like it used to. ]]></description>
+<dc:date>2013-03-05T01:02:19-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3659887197.html</dc:source>
+<dc:title><![CDATA[IPAD 6.1.2 repair (Magalia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T01:02:19-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3659155254.html">
+<title><![CDATA[Facebook App Dev (Chico )]]></title>
+<link>http://chico.craigslist.org/cpg/3659155254.html</link>
+<description><![CDATA[Hi, 
+I am looking for someone who knows how to develop facebook apps. This is not a job position it is more of a partnership offer. 
+If you want to do something that is fun and could bring some monetary return, this is for you. 
+Please contact me wit [...]]]></description>
+<dc:date>2013-03-04T15:40:45-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3659155254.html</dc:source>
+<dc:title><![CDATA[Facebook App Dev (Chico )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T15:40:45-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3599571269.html">
+<title><![CDATA[Looking for people to Test FREE Site (California)]]></title>
+<link>http://chico.craigslist.org/cpg/3599571269.html</link>
+<description><![CDATA[We are a web startup focused on helping people Search, Manage, and Share trusted service providers. If you are interested in helping us test our product by signing up for a private group please visit us at http://www.frendorsed.com . Thanks]]></description>
+<dc:date>2013-02-26T09:33:01-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3599571269.html</dc:source>
+<dc:title><![CDATA[Looking for people to Test FREE Site (California)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T09:33:01-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://chico.craigslist.org/cpg/3641573031.html">
+<title><![CDATA[I need my plasma tv fixed (Magalia)]]></title>
+<link>http://chico.craigslist.org/cpg/3641573031.html</link>
+<description><![CDATA[I have a large plasma tv that just kind of blinks when i turn it on..i have been told it was the back light but im not sure..i need sombody that can fix it for me.. please text 8160057]]></description>
+<dc:date>2013-02-24T21:02:42-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chico.craigslist.org/cpg/3641573031.html</dc:source>
+<dc:title><![CDATA[I need my plasma tv fixed (Magalia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T21:02:42-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

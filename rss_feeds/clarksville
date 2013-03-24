@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://clarksville.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in clarksville, TN</title>
+<link>http://clarksville.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://clarksville.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in clarksville, TN</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:07-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3692418746.html" />
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3682438321.html" />
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3646146252.html" />
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3611996831.html" />
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3581947274.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3692418746.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://clarksville.craigslist.org/cpg/3692418746.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T23:58:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3692418746.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:58:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3682438321.html">
+<title><![CDATA[Cold calling (home)]]></title>
+<link>http://clarksville.craigslist.org/cpg/3682438321.html</link>
+<description><![CDATA[I need someone to call my cold call list today it will take about from 9am to 4pm today and willing to pay $8/hr paid via paypal. 
+Details 
+I am a freight broker I need you to help me with my call list, cold calling bullishness to get freight to move [...]]]></description>
+<dc:date>2013-03-15T08:29:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3682438321.html</dc:source>
+<dc:title><![CDATA[Cold calling (home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T08:29:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3646146252.html">
+<title><![CDATA[The economy is tough right now. . .We can help you!]]></title>
+<link>http://clarksville.craigslist.org/cpg/3646146252.html</link>
+<description><![CDATA[Would you like to get paid everyday. . .no more waiting til Friday. 
+If you have a phone, computer & a positive attitude I have the perfect opportunity for you. 
+No Experience Required, Will Train 
+reply with name, number and best time to call.]]></description>
+<dc:date>2013-02-26T21:31:25-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3646146252.html</dc:source>
+<dc:title><![CDATA[The economy is tough right now. . .We can help you!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T21:31:25-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3611996831.html">
+<title><![CDATA[Photo Shop  (Bloomfield)]]></title>
+<link>http://clarksville.craigslist.org/cpg/3611996831.html</link>
+<description><![CDATA[Good Morning... 
+I am looking to hire someone who has the program photoshop and is interested in drawing 10 simple designs. I am paying who ever fills this position based on experience . Examples of the designs include a mango seed, simple house noth [...]]]></description>
+<dc:date>2013-02-12T11:00:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3611996831.html</dc:source>
+<dc:title><![CDATA[Photo Shop  (Bloomfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T11:00:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3581947274.html">
+<title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></title>
+<link>http://clarksville.craigslist.org/cpg/3581947274.html</link>
+<description><![CDATA[A job position is available immediately. The work can be done from your home online, so all you need is an internet connection. $40.00 is all it takes to get started. Turn $40.00 into $2,000.00/week. Email me for more details ]]></description>
+<dc:date>2013-02-07T12:52:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3581947274.html</dc:source>
+<dc:title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T12:52:15-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

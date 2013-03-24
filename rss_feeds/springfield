@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://springfield.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in springfield, MO</title>
+<link>http://springfield.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://springfield.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in springfield, MO</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:24:59-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3697016108.html" />
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3631338624.html" />
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3575057872.html" />
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3615248002.html" />
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3633217618.html" />
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3631924180.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://springfield.craigslist.org/cpg/3697016108.html">
+<title><![CDATA[box off operator (branson)]]></title>
+<link>http://springfield.craigslist.org/cpg/3697016108.html</link>
+<description><![CDATA[I am looking for someone that can operate the ticket counter at our box office in branson. 417-699-1008]]></description>
+<dc:date>2013-03-22T10:27:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3697016108.html</dc:source>
+<dc:title><![CDATA[box off operator (branson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T10:27:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://springfield.craigslist.org/cpg/3631338624.html">
+<title><![CDATA[Dell Inspiron 15/ 3520 bios password reset (Mountain Grove)]]></title>
+<link>http://springfield.craigslist.org/cpg/3631338624.html</link>
+<description><![CDATA[I need someone to reset either the bios password or hard drive password, not sure which, on my dell inspiron laptop. I have searched forums to no avail. Please email me if you can do it. ]]></description>
+<dc:date>2013-02-26T18:12:30-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3631338624.html</dc:source>
+<dc:title><![CDATA[Dell Inspiron 15/ 3520 bios password reset (Mountain Grove)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T18:12:30-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://springfield.craigslist.org/cpg/3575057872.html">
+<title><![CDATA[Arduino board programming (republiv)]]></title>
+<link>http://springfield.craigslist.org/cpg/3575057872.html</link>
+<description><![CDATA[are you familiar with arduino open source programming and boards? 
+if you are then call me... if not please do not contact saying you can... etc etc etc... 
+i am looking for someone already with some experience playing and working with them. 
+this is [...]]]></description>
+<dc:date>2013-02-26T01:32:44-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3575057872.html</dc:source>
+<dc:title><![CDATA[Arduino board programming (republiv)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T01:32:44-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://springfield.craigslist.org/cpg/3615248002.html">
+<title><![CDATA[freelance web-site design (Mountain Grove)]]></title>
+<link>http://springfield.craigslist.org/cpg/3615248002.html</link>
+<description><![CDATA[I am looking for someone local to the Springfield Craigslist area that can fix my towns chamber of commerce word press site. The link to the site to be fixed is listed below. Please reply via email message me on facebook @ http://facebook.com/grovecc [...]]]></description>
+<dc:date>2013-02-22T19:55:34-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3615248002.html</dc:source>
+<dc:title><![CDATA[freelance web-site design (Mountain Grove)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T19:55:34-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://springfield.craigslist.org/cpg/3633217618.html">
+<title><![CDATA[Need Experienced Help To Program Scanner (Springfield)]]></title>
+<link>http://springfield.craigslist.org/cpg/3633217618.html</link>
+<description><![CDATA[I am an emergency worker and must have my scanner to monitor various law enforcement agencies, fire and utilties. However, due to the trunking system, I receive too much traffic from railroads, jail and city busses, which share trunking frequencies w [...]]]></description>
+<dc:date>2013-02-21T09:32:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3633217618.html</dc:source>
+<dc:title><![CDATA[Need Experienced Help To Program Scanner (Springfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T09:32:35-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://springfield.craigslist.org/cpg/3631924180.html">
+<title><![CDATA[Networking website (music & art) looking to add admin (Springfield, MO)]]></title>
+<link>http://springfield.craigslist.org/cpg/3631924180.html</link>
+<description><![CDATA[Hi. I need help revitalizing a website that has fallin to the way-side. Independent Missouri (INDIE MO) is a non-profit organization created to help connect neighbors and expose local talent. I'm looking to find someone from Missouri who is intereste [...]]]></description>
+<dc:date>2013-02-20T16:34:35-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3631924180.html</dc:source>
+<dc:title><![CDATA[Networking website (music & art) looking to add admin (Springfield, MO)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T16:34:35-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

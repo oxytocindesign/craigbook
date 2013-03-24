@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://binghamton.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in binghamton</title>
+<link>http://binghamton.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://binghamton.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in binghamton</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:25:00-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://binghamton.craigslist.org/cpg/3693411974.html" />
+  <rdf:li rdf:resource="http://binghamton.craigslist.org/cpg/3692095544.html" />
+  <rdf:li rdf:resource="http://binghamton.craigslist.org/cpg/3688908663.html" />
+  <rdf:li rdf:resource="http://binghamton.craigslist.org/cpg/3658100675.html" />
+  <rdf:li rdf:resource="http://binghamton.craigslist.org/cpg/3634111601.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://binghamton.craigslist.org/cpg/3693411974.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://binghamton.craigslist.org/cpg/3693411974.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-20T14:37:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://binghamton.craigslist.org/cpg/3693411974.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:37:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://binghamton.craigslist.org/cpg/3692095544.html">
+<title><![CDATA[need someone good at electronics repair to fix Panasonic 3DO console. (Endwell)]]></title>
+<link>http://binghamton.craigslist.org/cpg/3692095544.html</link>
+<description><![CDATA[I have 2 of the 1st generation Panasonic R-E-A-L 3DO video game consoles. Unfortunately, both suffer from the same issue: they power on fine, but are unable to load the CD based games made for the system. Once I insert the games, the system struggles [...]]]></description>
+<dc:date>2013-03-19T21:09:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://binghamton.craigslist.org/cpg/3692095544.html</dc:source>
+<dc:title><![CDATA[need someone good at electronics repair to fix Panasonic 3DO console. (Endwell)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T21:09:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://binghamton.craigslist.org/cpg/3688908663.html">
+<title><![CDATA[WE NEED YOU!!  (Binghamton)]]></title>
+<link>http://binghamton.craigslist.org/cpg/3688908663.html</link>
+<description><![CDATA[We are looking for a tech that is a jack of many, not necessarily a master of none though. 
+We have a number of short termed opportunities available which range from computer/printer repair and installation, Network troubleshooting and installations, [...]]]></description>
+<dc:date>2013-03-18T13:04:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://binghamton.craigslist.org/cpg/3688908663.html</dc:source>
+<dc:title><![CDATA[WE NEED YOU!!  (Binghamton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T13:04:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://binghamton.craigslist.org/cpg/3658100675.html">
+<title><![CDATA[need help putting in car radio (conklin ny )]]></title>
+<link>http://binghamton.craigslist.org/cpg/3658100675.html</link>
+<description><![CDATA[Hi i need help putting in mycar radio so if anyone knows how call me on my cell at 6072403471 ask for don will pay when it works]]></description>
+<dc:date>2013-03-04T11:47:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://binghamton.craigslist.org/cpg/3658100675.html</dc:source>
+<dc:title><![CDATA[need help putting in car radio (conklin ny )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T11:47:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://binghamton.craigslist.org/cpg/3634111601.html">
+<title><![CDATA[$560 a week FACEBOOK promoting (Nationwide)]]></title>
+<link>http://binghamton.craigslist.org/cpg/3634111601.html</link>
+<description><![CDATA[serious inquiries only. looking for college or high school students to promote our company on Facebook. We pay you on Fridays via check or direct deposit. 
+Our company provides you with the daily checklist, and routine you will be completing on Faceb [...]]]></description>
+<dc:date>2013-02-21T16:12:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://binghamton.craigslist.org/cpg/3634111601.html</dc:source>
+<dc:title><![CDATA[$560 a week FACEBOOK promoting (Nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T16:12:40-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

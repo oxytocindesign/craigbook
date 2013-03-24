@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://albany.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in albany</title>
+<link>http://albany.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://albany.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in albany</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:35:04-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3697686345.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3695144035.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3694848568.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3693620784.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3693396164.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3690295048.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3686083002.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3685363074.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3684555661.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3681751284.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3680935867.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3677735864.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3658885361.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3653006207.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3634749459.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3634510545.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3633842459.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3632151649.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3611406715.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3607089573.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://albany.craigslist.org/cpg/3697686345.html">
+<title><![CDATA[Looking for web designer or partner]]></title>
+<link>http://albany.craigslist.org/cpg/3697686345.html</link>
+<description><![CDATA[I am looking for a s web designer and possible business partner for different project please email me with inquires. Will not go over project details until a confidentiality . 
+Thank you! ]]></description>
+<dc:date>2013-03-22T16:26:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3697686345.html</dc:source>
+<dc:title><![CDATA[Looking for web designer or partner]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T16:26:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3695144035.html">
+<title><![CDATA[Phone system Tech (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3695144035.html</link>
+<description><![CDATA[We have a an older samsung phone system with about 15 phones set up, We need someone who is able to Not only switch around some of the lines on the board, but also able to program the unit, so we can set up some different voice mails, etc... Looking  [...]]]></description>
+<dc:date>2013-03-21T12:07:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3695144035.html</dc:source>
+<dc:title><![CDATA[Phone system Tech (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:07:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3694848568.html">
+<title><![CDATA[Web Page Design Needed (NY)]]></title>
+<link>http://albany.craigslist.org/cpg/3694848568.html</link>
+<description><![CDATA[We are looking for someone to design us a new, flashy, professional web site. 
+Would be 2 or 3 pages and could be put together in I think a day or two 
+Must have FLASH content 
+I have a VERY limited budget but am looking to keep my money LOCAL even t [...]]]></description>
+<dc:date>2013-03-21T09:42:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3694848568.html</dc:source>
+<dc:title><![CDATA[Web Page Design Needed (NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T09:42:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3693620784.html">
+<title><![CDATA[Android Developer Contractor Needed  (North East )]]></title>
+<link>http://albany.craigslist.org/cpg/3693620784.html</link>
+<description><![CDATA[With your help, our app will improve the lives of its users by enhancing their ability to communicate messages, sales pitches, presentations, etc., through a secure, collaboration-centric service. 
+The initial version of the app is fully spec'd out a [...]]]></description>
+<dc:date>2013-03-20T16:10:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3693620784.html</dc:source>
+<dc:title><![CDATA[Android Developer Contractor Needed  (North East )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T16:10:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3693396164.html">
+<title><![CDATA[Sitcom Study (At your computer)]]></title>
+<link>http://albany.craigslist.org/cpg/3693396164.html</link>
+<description><![CDATA[Are you 18 or older? 
+Do you watch TV at least twice a week? 
+Do you have regular Internet access? 
+If you answered yes, you may qualify to participate in a study by the University of Wisconsin-Madison's Psychology Department. 
+Participants will watc [...]]]></description>
+<dc:date>2013-03-20T14:30:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3693396164.html</dc:source>
+<dc:title><![CDATA[Sitcom Study (At your computer)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T14:30:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3690295048.html">
+<title><![CDATA[Advertising]]></title>
+<link>http://albany.craigslist.org/cpg/3690295048.html</link>
+<description><![CDATA[Looking for someone to create an ad for my company to put in the newspaper. I am not knowledgeable about how to write design are the format that it takes to create a newspaper ad so the person I hire will have to be experienced in all these things. T [...]]]></description>
+<dc:date>2013-03-19T01:11:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3690295048.html</dc:source>
+<dc:title><![CDATA[Advertising]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T01:11:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3686083002.html">
+<title><![CDATA[Make Your Own Schedule With A Loyalty Marketing Business (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3686083002.html</link>
+<description><![CDATA[Don't Get Left Behind, Spread The Word Of Loyalty Marketing To Your Community 
+http://anything.smsmmd.com ]]></description>
+<dc:date>2013-03-16T22:52:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3686083002.html</dc:source>
+<dc:title><![CDATA[Make Your Own Schedule With A Loyalty Marketing Business (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T22:52:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3685363074.html">
+<title><![CDATA[Hiring People for Online Dating Chatting (online)]]></title>
+<link>http://albany.craigslist.org/cpg/3685363074.html</link>
+<description><![CDATA[We are looking for people (MALE) between the ages of 18 and 45 to promote our brand new dating website. We have launched our new dating website a couple months ago and are currently running a promotion paying $100 for 5-10 hours of online chat time t [...]]]></description>
+<dc:date>2013-03-16T15:36:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3685363074.html</dc:source>
+<dc:title><![CDATA[Hiring People for Online Dating Chatting (online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:36:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3684555661.html">
+<title><![CDATA[Need computer training (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3684555661.html</link>
+<description><![CDATA[I am looking for someone, who is good with excel and power point applications, to train me in these areas to become more proficient. 
+My need is immediate and I am looking to pay someone on a hourly basis for this help starting this coming week. 
+We  [...]]]></description>
+<dc:date>2013-03-16T09:04:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3684555661.html</dc:source>
+<dc:title><![CDATA[Need computer training (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T09:04:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3681751284.html">
+<title><![CDATA[Dismantle a 3d model forme (Online albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3681751284.html</link>
+<description><![CDATA[I have a couple 3d models i want dismantled for some 3d printing I am doing it not really extensive or complex but i have limited experience in exploding models should be pretty quick for someone familiar I will have other work depending on the turn  [...]]]></description>
+<dc:date>2013-03-14T19:59:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3681751284.html</dc:source>
+<dc:title><![CDATA[Dismantle a 3d model forme (Online albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T19:59:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3680935867.html">
+<title><![CDATA[Market Research gig available  (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3680935867.html</link>
+<description><![CDATA[Our reputable and established market research firm is collecting pricing information in various markets. If you have access to a car, phone and are comfortable in Excel, you may be qualified to participate. This assignment is a 1 time set of tasks (p [...]]]></description>
+<dc:date>2013-03-14T13:41:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3680935867.html</dc:source>
+<dc:title><![CDATA[Market Research gig available  (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T13:41:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3677735864.html">
+<title><![CDATA[Startup website looking for people (Upstate)]]></title>
+<link>http://albany.craigslist.org/cpg/3677735864.html</link>
+<description><![CDATA[Hello! I am in the process of building a small start-up, but now find myself in need of a site designer/programmer. I have a layout, graphics, etc, but am not sure how to build the back end. The details are simple, but I am keeping them close to my c [...]]]></description>
+<dc:date>2013-03-12T23:22:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3677735864.html</dc:source>
+<dc:title><![CDATA[Startup website looking for people (Upstate)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T23:22:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3658885361.html">
+<title><![CDATA[Contract Field Technician for PC and Printer repair (Saratoga Springs, NY)]]></title>
+<link>http://albany.craigslist.org/cpg/3658885361.html</link>
+<description><![CDATA[We are a 3rd party IT service provider seeking highly skilled and experienced Printer and PC Repair technicians. We are an industry leading IT Service provider looking to expand our network of technicians and have recently had unfulfilled work in you [...]]]></description>
+<dc:date>2013-03-04T16:38:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3658885361.html</dc:source>
+<dc:title><![CDATA[Contract Field Technician for PC and Printer repair (Saratoga Springs, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T16:38:44-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3653006207.html">
+<title><![CDATA[Looking for web designer/partner (Albany )]]></title>
+<link>http://albany.craigslist.org/cpg/3653006207.html</link>
+<description><![CDATA[I am looking for a skilled web designer and possible third business partner for a very easy but not yet done project please email me with inquires. Will not go over project details until a confidentiality agreement has been signed. Thank you!]]></description>
+<dc:date>2013-03-01T21:26:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3653006207.html</dc:source>
+<dc:title><![CDATA[Looking for web designer/partner (Albany )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-01T21:26:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3634749459.html">
+<title><![CDATA[Iphone App developer for simple novelty app (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3634749459.html</link>
+<description><![CDATA[I would like to have a very simple novelty app developed as a gift for my friend. It would be very simple. One page with a photo and another that loads up pre-defined text. Quick and Easy job for someone with the experience. Email me with credentials [...]]]></description>
+<dc:date>2013-02-21T21:10:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3634749459.html</dc:source>
+<dc:title><![CDATA[Iphone App developer for simple novelty app (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T21:10:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3634510545.html">
+<title><![CDATA[Printer Set-Up (mid-Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3634510545.html</link>
+<description><![CDATA[I need a new printer for my computer. I would welcome advice on what to buy (I want a 3 in 1/all in one but not pay a lot for it) but mainly I need someone to set up whatever I do buy, probably at Best Buy. I don't want to pay Geek Squad prices for t [...]]]></description>
+<dc:date>2013-02-21T19:06:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3634510545.html</dc:source>
+<dc:title><![CDATA[Printer Set-Up (mid-Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T19:06:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3633842459.html">
+<title><![CDATA[Computer Tech (Albany)]]></title>
+<link>http://albany.craigslist.org/cpg/3633842459.html</link>
+<description><![CDATA[Need a contract computer technician in Albany and surrounding areas. Must have previous computer experience in a professional environment. Must be able to pass a criminal background check. 
+Please send your resume for immediate consideration.]]></description>
+<dc:date>2013-02-21T14:29:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3633842459.html</dc:source>
+<dc:title><![CDATA[Computer Tech (Albany)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T14:29:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3632151649.html">
+<title><![CDATA[need someone to post craigslist ads (anywhere)]]></title>
+<link>http://albany.craigslist.org/cpg/3632151649.html</link>
+<description><![CDATA[Will compensate fairly need someone who can post about 25ads and renew every few days]]></description>
+<dc:date>2013-02-20T19:16:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3632151649.html</dc:source>
+<dc:title><![CDATA[need someone to post craigslist ads (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T19:16:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3611406715.html">
+<title><![CDATA[Looking for web designer to create ad..]]></title>
+<link>http://albany.craigslist.org/cpg/3611406715.html</link>
+<description><![CDATA[Looking for web designer to create a simple newspaper ad this will be a paid job. For those who are interested please email your name email address and phone number along with a sample of your work. ]]></description>
+<dc:date>2013-02-12T01:56:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3611406715.html</dc:source>
+<dc:title><![CDATA[Looking for web designer to create ad..]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T01:56:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3607089573.html">
+<title><![CDATA[LOCAL ANALYTICS PERSON (ALBANY NEW YORK)]]></title>
+<link>http://albany.craigslist.org/cpg/3607089573.html</link>
+<description><![CDATA[LOOKING FOR A LOCAL PERSON TO DO SOME WEB WORK. ANALYTICS IS KEY= WORKING WITH GOOGLE ANALYTICS 
+AND ANALYZING OUR TRAFFIC..COLLEGE STUDENT IS FINE. HOUR WAGE TO BE DETERMINED. 
+ALSO KNOWLEDGE OF SEO WOULD BE HELPFUL. WE RANK ON #1 WITH OUR NAME BUT  [...]]]></description>
+<dc:date>2013-02-10T09:36:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3607089573.html</dc:source>
+<dc:title><![CDATA[LOCAL ANALYTICS PERSON (ALBANY NEW YORK)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T09:36:01-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

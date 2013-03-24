@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://raleigh.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in raleigh / durham / CH</title>
+<link>http://raleigh.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://raleigh.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in raleigh / durham / CH</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T01:40:02-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3701461699.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3684843088.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3698668778.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3698191987.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3658061828.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3697074364.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3695545413.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3695234338.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3694972734.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3694429716.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3694053578.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3693298688.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3692936502.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3692863056.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3691522783.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3691306439.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3688605136.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3687676924.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3685385420.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3685342776.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3684173353.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3684022315.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3683965333.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3683766317.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3635693190.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3675157789.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3680146038.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3678051077.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3676717982.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3675971703.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3675123776.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3675065287.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3671529466.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3670497247.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3669002511.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3666468289.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3663526963.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3661642582.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3657354184.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3657055185.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3654880626.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3654114442.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3643847947.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3643392551.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3640066255.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3638656797.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3635858869.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3635650908.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3634997002.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3634821086.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3632973481.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3630828719.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3576823619.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3626467173.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3626464641.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3625072693.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3624333706.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3622630578.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3620472365.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3617241717.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3614106683.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3613626365.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3613319171.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3554550265.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3604548404.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3608569627.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3606406657.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3605883907.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3603083423.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3602956612.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3601980561.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3601935391.html" />
+  <rdf:li rdf:resource="http://raleigh.craigslist.org/cpg/3601508711.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3701461699.html">
+<title><![CDATA[Web design needed]]></title>
+<link>http://raleigh.craigslist.org/cpg/3701461699.html</link>
+<description><![CDATA[Web designer wanted for a pretty simple site to promote a media project. No more than a few pages. Send any samples of work you've done and a contact #]]></description>
+<dc:date>2013-03-24T17:57:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3701461699.html</dc:source>
+<dc:title><![CDATA[Web design needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T17:57:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3684843088.html">
+<title><![CDATA[2 VHS transfered to DVD (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3684843088.html</link>
+<description><![CDATA[i have a couple of VHS tapes i need put on DVD.one is my communion and the other is a wrestling event i attended.i am not able to get either again so your VCR must be in working order.i believe the communion one is 1.5 hrs and the wreslting is 2.5 hr [...]]]></description>
+<dc:date>2013-03-23T09:40:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3684843088.html</dc:source>
+<dc:title><![CDATA[2 VHS transfered to DVD (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T09:40:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3698668778.html">
+<title><![CDATA[looking for a node.js programmer]]></title>
+<link>http://raleigh.craigslist.org/cpg/3698668778.html</link>
+<description><![CDATA[Stop do not bother to read on if you are looking for a conventional "job" job. I don't say this to be witty or as some sort of catchy teaser. I'm being matter of fact here in the interest of transparency. What this is is a verbose (-v) intro explanat [...]]]></description>
+<dc:date>2013-03-23T08:19:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3698668778.html</dc:source>
+<dc:title><![CDATA[looking for a node.js programmer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T08:19:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3698191987.html">
+<title><![CDATA[looking for an RoR programmer]]></title>
+<link>http://raleigh.craigslist.org/cpg/3698191987.html</link>
+<description><![CDATA[Stop do not bother to read on if you are looking for a conventional "job" job. I don't say this to be witty or as some sort of catchy teaser. I'm being matter of fact here in the interest of transparency. What this is is a verbose (-v) intro explanat [...]]]></description>
+<dc:date>2013-03-22T21:16:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3698191987.html</dc:source>
+<dc:title><![CDATA[looking for an RoR programmer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T21:16:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3658061828.html">
+<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
+<link>http://raleigh.craigslist.org/cpg/3658061828.html</link>
+<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
+-Data Network Cabling Installation 
+-Telephone Wiring & Cabling Installation 
+-Cabling Design & Implemen [...]]]></description>
+<dc:date>2013-03-22T15:12:41-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3658061828.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T15:12:41-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3697074364.html">
+<title><![CDATA[Administrative Help (Elizabeth City NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3697074364.html</link>
+<description><![CDATA[Looking for administrative help on the weekends. This is a temporary position. Need to provide your own recently up-dated background check. Be computer literate, and have experience in customer service and money management. Must be reliable and have  [...]]]></description>
+<dc:date>2013-03-22T11:53:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3697074364.html</dc:source>
+<dc:title><![CDATA[Administrative Help (Elizabeth City NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T11:53:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3695545413.html">
+<title><![CDATA[Test an iPhone application - $10 paypal (Remote)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3695545413.html</link>
+<description><![CDATA[To qualify for testing, you must meet the following requirements: 
+1. Own an iPhone 4, 4S, or 5. No iPods please. 
+2. Own an acceptable recording device (you will be recording yourself using the app in "over the shoulder" fashion - like in this video [...]]]></description>
+<dc:date>2013-03-21T15:02:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3695545413.html</dc:source>
+<dc:title><![CDATA[Test an iPhone application - $10 paypal (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T15:02:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3695234338.html">
+<title><![CDATA[Need help with a MacBook Pro that keeps crashing (Angier, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3695234338.html</link>
+<description><![CDATA[I'm willing to hire someone to take a look at and fix my 2010 MacBook Pro laptop. It crashes far more than it should. It happens a lot when I have Google Chrome open as well as Pixelmator. ]]></description>
+<dc:date>2013-03-21T12:46:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3695234338.html</dc:source>
+<dc:title><![CDATA[Need help with a MacBook Pro that keeps crashing (Angier, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T12:46:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3694972734.html">
+<title><![CDATA[Microsoft Access (Eastern NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3694972734.html</link>
+<description><![CDATA[Looking for MS Access support and programming company for long-term relationship. Please reply with name, email, phone, and company website info. ]]></description>
+<dc:date>2013-03-21T10:49:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3694972734.html</dc:source>
+<dc:title><![CDATA[Microsoft Access (Eastern NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T10:49:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3694429716.html">
+<title><![CDATA[Test an iPhone application - $5 paypal (Remote)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3694429716.html</link>
+<description><![CDATA[$5 for 10 minute survey-based test of an iPhone application. 
+To qualify for testing, you must meet the following requirements: 
+1. Own an iPhone 4, 4S, or 5. No iPods please. 
+3. Be 25-40 years old 
+4. Must be a resident of North Carolina. 
+We test  [...]]]></description>
+<dc:date>2013-03-21T00:03:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3694429716.html</dc:source>
+<dc:title><![CDATA[Test an iPhone application - $5 paypal (Remote)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-21T00:03:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3694053578.html">
+<title><![CDATA[FRUIT DRINK STARTUP!!!  (Durham, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3694053578.html</link>
+<description><![CDATA[Hello, 
+I'm a young entrepreneur looking for a hardworking business partner that has experience with juicing or the fruit drink industry. There is only one main requirement: YOU NEED TO HAVE A JUICER!!! 
+What would help a lot: 
+*Experience in the jui [...]]]></description>
+<dc:date>2013-03-20T19:49:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3694053578.html</dc:source>
+<dc:title><![CDATA[FRUIT DRINK STARTUP!!!  (Durham, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T19:49:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3693298688.html">
+<title><![CDATA[Office assistant  (Triangle area)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3693298688.html</link>
+<description><![CDATA[1. Looking for someone to assist in office duties such as emailing, typing contracts and estimates. 
+2.Following up with potential customers and exissting customers. 
+3. Scheduling estimates and appointments 
+4.Calling new employees and laborers alon [...]]]></description>
+<dc:date>2013-03-20T13:49:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3693298688.html</dc:source>
+<dc:title><![CDATA[Office assistant  (Triangle area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T13:49:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3692936502.html">
+<title><![CDATA[SEO Expert needed (Cary)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3692936502.html</link>
+<description><![CDATA[I have a newly created website that creates bingo cards for various activities. I would like to create a good footprint on the web for my site. We are looking for an expert here to help us out. 
+I am looking for someone with SEO expertise who can hel [...]]]></description>
+<dc:date>2013-03-20T11:17:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3692936502.html</dc:source>
+<dc:title><![CDATA[SEO Expert needed (Cary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T11:17:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3692863056.html">
+<title><![CDATA[Java Developer Needed]]></title>
+<link>http://raleigh.craigslist.org/cpg/3692863056.html</link>
+<description><![CDATA[Our software development company currently has more Java development projects then we can handle. We are looking to find a talented Java developer in (or at least near) North Carolina that can assist us in development. Some of the specific skills we  [...]]]></description>
+<dc:date>2013-03-20T10:42:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3692863056.html</dc:source>
+<dc:title><![CDATA[Java Developer Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T10:42:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3691522783.html">
+<title><![CDATA[Word iPhone / iPad Game]]></title>
+<link>http://raleigh.craigslist.org/cpg/3691522783.html</link>
+<description><![CDATA[***** Please download the FREE app prior to applying - want you to understand the functionality and design of the app**** 
+Need a developer to upgrade our existing word game app "All Words Up" to have multiplayer features. The app is similar to Bejew [...]]]></description>
+<dc:date>2013-03-19T16:16:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3691522783.html</dc:source>
+<dc:title><![CDATA[Word iPhone / iPad Game]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T16:16:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3691306439.html">
+<title><![CDATA[Joomla Dev Needed]]></title>
+<link>http://raleigh.craigslist.org/cpg/3691306439.html</link>
+<description><![CDATA[Our software development company currently has more Joomla development projects then we can handle. We are looking to find a talented Joomla developer in (or at least near) North Carolina that can assist us in development. 
+If you are a senior level, [...]]]></description>
+<dc:date>2013-03-19T14:42:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3691306439.html</dc:source>
+<dc:title><![CDATA[Joomla Dev Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T14:42:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3688605136.html">
+<title><![CDATA[Web Designer and Developer with skills please read below (usa)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3688605136.html</link>
+<description><![CDATA[If you have the skills I am looking for you.... 
+I'm looking for US Based Website Developers/Programmers/ Graphics etc..for Dating Site 
+I am looking for the right person that is interested in long term relationships. NOT a quick hit and run. 
+I'm a  [...]]]></description>
+<dc:date>2013-03-18T11:02:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3688605136.html</dc:source>
+<dc:title><![CDATA[Web Designer and Developer with skills please read below (usa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:02:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3687676924.html">
+<title><![CDATA[RF Dash7 Opentag Project (US)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3687676924.html</link>
+<description><![CDATA[Open Tag RF "WHERE AM I" Project - Asset location and tracking 
+The project is to develop a proof of concept testing unit for real time asset location using the Dash7 TI chip/transceiver in a defined outdoor space. The example shown in the attachment [...]]]></description>
+<dc:date>2013-03-17T20:04:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3687676924.html</dc:source>
+<dc:title><![CDATA[RF Dash7 Opentag Project (US)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-17T20:04:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3685385420.html">
+<title><![CDATA[iPhone repair needed (Raleigh NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3685385420.html</link>
+<description><![CDATA[Need someone to repair iPhone 4 screen for me, it's cracked and needs a new screen. I only have $40 to spend for repair. Call or text if u can fix at 919-480-5174. ]]></description>
+<dc:date>2013-03-16T15:47:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3685385420.html</dc:source>
+<dc:title><![CDATA[iPhone repair needed (Raleigh NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:47:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3685342776.html">
+<title><![CDATA[INSTAGRAM GURU FOR FOLLOWERS (THE WORLD)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3685342776.html</link>
+<description><![CDATA[I am looking for an Instagram person that knows how to get me lots of followers!!...Have a kick ass port..now need the traffic....If you can help me...Let me know why you are the one....]]></description>
+<dc:date>2013-03-16T15:27:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3685342776.html</dc:source>
+<dc:title><![CDATA[INSTAGRAM GURU FOR FOLLOWERS (THE WORLD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T15:27:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3684173353.html">
+<title><![CDATA[Multi Platinum music producer  from California needs intern (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3684173353.html</link>
+<description><![CDATA[Multi Platinum music producer from California needs intern. 
+Must know how to operate a mac computer, Protools, doing backups, 
+good at social networking, and operating Word Press is a plus! 
+Only serious applicants please!!!]]></description>
+<dc:date>2013-03-15T23:45:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3684173353.html</dc:source>
+<dc:title><![CDATA[Multi Platinum music producer  from California needs intern (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T23:45:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3684022315.html">
+<title><![CDATA[Teach me C Obj (Triangle)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3684022315.html</link>
+<description><![CDATA[Soooo, I have been a system administrator for some time, and I have some very basic skills in bash and perl. Simplistic, I write scripts. 
+I am a *nix user, and that includes bsd osx and you would ideally be a user familiar and comfortable there as w [...]]]></description>
+<dc:date>2013-03-15T21:46:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3684022315.html</dc:source>
+<dc:title><![CDATA[Teach me C Obj (Triangle)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T21:46:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3683965333.html">
+<title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL  (Remote work)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3683965333.html</link>
+<description><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON, AWS, e3, Hadoop, noSQL and MySQL. 
+We are a team of 3 engineers looking for a 4th partner to assist in further developing a social media \ image management site. 
+The Backend Programmer role  [...]]]></description>
+<dc:date>2013-03-15T21:07:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3683965333.html</dc:source>
+<dc:title><![CDATA[Backend Programmer - HTML, BootStrap, CSS, API, PHP, JSON & MySQL  (Remote work)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T21:07:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3683766317.html">
+<title><![CDATA[Do You Play 'Empire Online'? (anywhere)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3683766317.html</link>
+<description><![CDATA[I'm looking for screenshots of 3 specific places in the world. Doesn't matter what platform you're using, just be able to go to the location and take a clear screenshot. $10 for a couple minutes of work if you're familiar with the game -- Probably no [...]]]></description>
+<dc:date>2013-03-15T19:08:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3683766317.html</dc:source>
+<dc:title><![CDATA[Do You Play 'Empire Online'? (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T19:08:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3635693190.html">
+<title><![CDATA[Android/iOS Developer Needed (Triangle Area)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3635693190.html</link>
+<description><![CDATA[Our software development company currently has more mobile development projects then we can handle. We are looking to find a talented mobile app developer in (or at least near) North Carolina that can assist us in development these apps. 
+We are look [...]]]></description>
+<dc:date>2013-03-15T11:06:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3635693190.html</dc:source>
+<dc:title><![CDATA[Android/iOS Developer Needed (Triangle Area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T11:06:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3675157789.html">
+<title><![CDATA[computer tech/tecnico en computadoras bilingual  (raleigh /garner)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3675157789.html</link>
+<description><![CDATA[Tecnico en Computadoras / Computer Tech (Raleigh / Garner) 
+Estoy buscando un Tecnico en computadoras con o sin experiencia para una de mis localidades en Raleigh. 
+El salario es basado solamente en comision., debe ser bilingue 
+Llameme para pregunta [...]]]></description>
+<dc:date>2013-03-14T17:44:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3675157789.html</dc:source>
+<dc:title><![CDATA[computer tech/tecnico en computadoras bilingual  (raleigh /garner)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T17:44:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3680146038.html">
+<title><![CDATA[Google Bomb]]></title>
+<link>http://raleigh.craigslist.org/cpg/3680146038.html</link>
+<description><![CDATA[I am in need of a web tech person to create a Google bomb. No, I don't want you to blow anything up. Just looking for someone with the right expertise to blow something "away".... 
+Can you bury my mistake of a DWI with the web bots? 
+How will you do  [...]]]></description>
+<dc:date>2013-03-14T02:46:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3680146038.html</dc:source>
+<dc:title><![CDATA[Google Bomb]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-14T02:46:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3678051077.html">
+<title><![CDATA[Joomla/Virtuemart Expert Needed (Cary)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3678051077.html</link>
+<description><![CDATA[We need a Joomla/Virtuemart expert for a short term project. 
+Please be familiar with Joomla 2.5 and the latest release of Virtuemart. 
+Must have strong PHP and CSS skills]]></description>
+<dc:date>2013-03-13T06:24:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3678051077.html</dc:source>
+<dc:title><![CDATA[Joomla/Virtuemart Expert Needed (Cary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-13T06:24:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3676717982.html">
+<title><![CDATA[Ebay,Amazon Help]]></title>
+<link>http://raleigh.craigslist.org/cpg/3676717982.html</link>
+<description><![CDATA[We are looking for someone to post item on Ebay,Amazon ETC.. 
+Must have your own Ebay, Amazon account, the items sell very well, its based on commission. 
+Send us your feedbacks amount and we will contact you. 
+Thanks ]]></description>
+<dc:date>2013-03-12T15:08:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3676717982.html</dc:source>
+<dc:title><![CDATA[Ebay,Amazon Help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T15:08:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3675971703.html">
+<title><![CDATA[Oracle DBA (Durham)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3675971703.html</link>
+<description><![CDATA[I am looking for an Oracle DBA to patch two existing Oracle 10g databases for any security vulnerabilities. One database is mission critical and the other is a test database. Both databases are running on Windows 2003, the production db is 64 bit and [...]]]></description>
+<dc:date>2013-03-12T10:12:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3675971703.html</dc:source>
+<dc:title><![CDATA[Oracle DBA (Durham)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T10:12:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3675123776.html">
+<title><![CDATA[Reel-to-Reel ==&gt;  CD (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3675123776.html</link>
+<description><![CDATA[Looking for someone to convert a Reel-to-Reel tape onto a CD.]]></description>
+<dc:date>2013-03-11T20:41:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3675123776.html</dc:source>
+<dc:title><![CDATA[Reel-to-Reel ==&gt;  CD (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:41:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3675065287.html">
+<title><![CDATA[Help Me Study for A + certification (Raleigh/Garner/Fuquay)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3675065287.html</link>
+<description><![CDATA[I am looking into getting A plus certified. I need someone to study with or for someone to teach me with hands on since I dont have a computer to take apart. I cant afford to pay maybe help you with something in return.]]></description>
+<dc:date>2013-03-11T20:12:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3675065287.html</dc:source>
+<dc:title><![CDATA[Help Me Study for A + certification (Raleigh/Garner/Fuquay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-11T20:12:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3671529466.html">
+<title><![CDATA[Photocopier needs service  (Mebane)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3671529466.html</link>
+<description><![CDATA[I have a Konica Minolta BizHub C451 that needs servicing. The by-pass tray and document feeder jam regularly, there's a scary buzzing noise sometimes, and it needs a general tune-up. I have the full service manual on PDF - used it to replace the fusi [...]]]></description>
+<dc:date>2013-03-10T10:46:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3671529466.html</dc:source>
+<dc:title><![CDATA[Photocopier needs service  (Mebane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-10T10:46:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3670497247.html">
+<title><![CDATA[SEO/SEM help (raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3670497247.html</link>
+<description><![CDATA[Looking for an SEO/SEM person to colloborate with on paying projects. I have experience in both and need help on project by project basis to help me manage on accounts and strategize. Willing to do meetings locally from time to time. Available at tim [...]]]></description>
+<dc:date>2013-03-09T17:41:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3670497247.html</dc:source>
+<dc:title><![CDATA[SEO/SEM help (raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T17:41:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3669002511.html">
+<title><![CDATA[Website designed and built  (Durham)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3669002511.html</link>
+<description><![CDATA[Looking for an individual or company that can design and build our ecommerce website within our budget and our time frame. Lots of scripting and code. Great for a person looking for a challenge and some time or a great team. Must be able to make a si [...]]]></description>
+<dc:date>2013-03-09T01:09:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3669002511.html</dc:source>
+<dc:title><![CDATA[Website designed and built  (Durham)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T01:09:19-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3666468289.html">
+<title><![CDATA[Application Designer (Raleigh, North Carolina)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3666468289.html</link>
+<description><![CDATA[Job Title: Application Designer 
+Location: Raleigh, North Carolina 
+Duration: 6 months-1 year 
+Job Description: 
+Job Title : Application Designer 
+Relevant Experience (Yrs) : 6 to 7 yrs of Total IT experience (Minimum 2 years of Experience as a desig [...]]]></description>
+<dc:date>2013-03-07T21:49:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3666468289.html</dc:source>
+<dc:title><![CDATA[Application Designer (Raleigh, North Carolina)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T21:49:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3663526963.html">
+<title><![CDATA[Website built and products uploaded (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3663526963.html</link>
+<description><![CDATA[Looking for someone to build a website and upload products to it. Best I can say is I want it to look and feel like the rei.com site. Another feature wanting to have is the ability to have things like changing the language of the site for consumers,  [...]]]></description>
+<dc:date>2013-03-06T16:21:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3663526963.html</dc:source>
+<dc:title><![CDATA[Website built and products uploaded (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-06T16:21:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3661642582.html">
+<title><![CDATA[TCL/TK Developer needed for a small project (Raleigh/Cary/Garner)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3661642582.html</link>
+<description><![CDATA[I am looking for a proficient TCL/TK developer to help me with a small project. If you are interested please email me back.]]></description>
+<dc:date>2013-03-05T19:45:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3661642582.html</dc:source>
+<dc:title><![CDATA[TCL/TK Developer needed for a small project (Raleigh/Cary/Garner)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-05T19:45:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3657354184.html">
+<title><![CDATA[Need Computer Science Tutor (Raleigh Durham)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3657354184.html</link>
+<description><![CDATA[Iam asking for help with my computer science final plan/project. Please do not contact me if you want to complete my assignment for money. This will not help me and this is not what I am looking for. I am asking that someone meet me in a local Barnes [...]]]></description>
+<dc:date>2013-03-04T00:19:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3657354184.html</dc:source>
+<dc:title><![CDATA[Need Computer Science Tutor (Raleigh Durham)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-04T00:19:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3657055185.html">
+<title><![CDATA[DOES ANYONE KNOW LATIN? IF SO GET PAID (Cary)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3657055185.html</link>
+<description><![CDATA[If you are proficient in Latin this is easy money for you. Not tutoring! Contact me through email for more deatis, hope to hear from yall!l]]></description>
+<dc:date>2013-03-03T20:45:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3657055185.html</dc:source>
+<dc:title><![CDATA[DOES ANYONE KNOW LATIN? IF SO GET PAID (Cary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-03T20:45:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3654880626.html">
+<title><![CDATA[Sage 50 Peachtree help]]></title>
+<link>http://raleigh.craigslist.org/cpg/3654880626.html</link>
+<description><![CDATA[I just purchase Sage 50 Peachtree Accounting Software and I badly need help setting it up and getting started. I am not looking for account advice but if you can help me give me your hourly rate. Thank you.]]></description>
+<dc:date>2013-03-02T18:50:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3654880626.html</dc:source>
+<dc:title><![CDATA[Sage 50 Peachtree help]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T18:50:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3654114442.html">
+<title><![CDATA[Ad Lister Needed (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3654114442.html</link>
+<description><![CDATA[I am looking for someone who has access to a computer to list my busingess ads in all states for my moving shipping co. I am willing to pay $20to $30 per job i get from your listing my ads . I require that you live in the Raleigh area in order to rec [...]]]></description>
+<dc:date>2013-03-02T13:06:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3654114442.html</dc:source>
+<dc:title><![CDATA[Ad Lister Needed (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-02T13:06:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3643847947.html">
+<title><![CDATA[Vertical Phone System help (Chapel Hill)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3643847947.html</link>
+<description><![CDATA[Hello, 
+I need help or quick training on Vertical phone system. System is already configured I just need basic learning to be familiar with the set up an configuration and paid support if needed. 
+Please let me know how much you charge? 
+Thanks]]></description>
+<dc:date>2013-02-25T22:28:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3643847947.html</dc:source>
+<dc:title><![CDATA[Vertical Phone System help (Chapel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T22:28:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3643392551.html">
+<title><![CDATA[Offering JavaScript Mentoring (RTP)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3643392551.html</link>
+<description><![CDATA[Independent JavaScript developer looking for a protege. I've spent the last couple years perfecting a library for web app and game development. I'd like to release this to the public soon, but first would like the opportunity to work with a beginner  [...]]]></description>
+<dc:date>2013-02-25T18:31:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3643392551.html</dc:source>
+<dc:title><![CDATA[Offering JavaScript Mentoring (RTP)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-25T18:31:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3640066255.html">
+<title><![CDATA[Magento E-Commerce Developer (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3640066255.html</link>
+<description><![CDATA[Local candidates only! No exceptions. 
+I manage a magento-powered e-commerce site with great potential. However, there are a host of items that require a skilled (Magento) developer's attention. I have a short-term project for the right (Magento) dev [...]]]></description>
+<dc:date>2013-02-24T10:49:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3640066255.html</dc:source>
+<dc:title><![CDATA[Magento E-Commerce Developer (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-24T10:49:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3638656797.html">
+<title><![CDATA[INTERNSHIP - Healthcare Technology (Apex, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3638656797.html</link>
+<description><![CDATA[You enjoy working with technology, building apps and games on i-platforms (Apple iPad, Android etc..)and have a passion for health and wellness. You are a goal oriented achiever and like to have fun. You are a people person with a winning attitude, l [...]]]></description>
+<dc:date>2013-02-23T15:27:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3638656797.html</dc:source>
+<dc:title><![CDATA[INTERNSHIP - Healthcare Technology (Apex, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-23T15:27:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3635858869.html">
+<title><![CDATA[Triangle Startup Weekend - have idea / looking for ideas (RTP)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3635858869.html</link>
+<description><![CDATA[I was looking forward to participating in Triangle Startup Weekend this year and then found out they made it focused only on education startups. 
+I do have an idea in that area, but wonder if there are others looking to attend that have ideas in educ [...]]]></description>
+<dc:date>2013-02-22T12:24:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3635858869.html</dc:source>
+<dc:title><![CDATA[Triangle Startup Weekend - have idea / looking for ideas (RTP)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T12:24:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3635650908.html">
+<title><![CDATA[Application Designer Needed (Chesapeake)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3635650908.html</link>
+<description><![CDATA[We have a web application that needs to have a new CSS done for it. 
+The application is located at https://www.openmedpractice.com/referral/login.php . 
+We need a designer to create a look for the software. It is written in PHP with a MySQL database  [...]]]></description>
+<dc:date>2013-02-22T11:06:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3635650908.html</dc:source>
+<dc:title><![CDATA[Application Designer Needed (Chesapeake)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T11:06:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3634997002.html">
+<title><![CDATA[Coding (Raleigh, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3634997002.html</link>
+<description><![CDATA[Looking for someone that knows coding such as Java, Drupal, HTML5, Apple IOS, and Android SDK & API tools.]]></description>
+<dc:date>2013-02-22T00:02:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3634997002.html</dc:source>
+<dc:title><![CDATA[Coding (Raleigh, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-22T00:02:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3634821086.html">
+<title><![CDATA[AV Specialist Needed (Downtown Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3634821086.html</link>
+<description><![CDATA[Seeking an Audio/Video Specialist for the week of March 11-16. 
+Project will require: 
+-setting up and managing 4 cameras, microphones, computers for recording and streaming. 
+-privately stream the video live via weblink or other method 
+-record all  [...]]]></description>
+<dc:date>2013-02-21T21:52:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3634821086.html</dc:source>
+<dc:title><![CDATA[AV Specialist Needed (Downtown Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T21:52:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3632973481.html">
+<title><![CDATA[Looking for an Electronic Repair Tech for keyboard, we talked on phone (Apex)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3632973481.html</link>
+<description><![CDATA[Hi, recently there was a posting for an electronic repair technician working out of his house in Apex. I talked to you on the phone and asked if you could look at my Carlo Robelli electronic piano (keyboard). You said you'd look at it for $25 if I br [...]]]></description>
+<dc:date>2013-02-21T08:15:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3632973481.html</dc:source>
+<dc:title><![CDATA[Looking for an Electronic Repair Tech for keyboard, we talked on phone (Apex)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T08:15:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3630828719.html">
+<title><![CDATA[Programmer for project (Cary)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3630828719.html</link>
+<description><![CDATA[Looking for a local programmer who might be interested in developing a directory-guide type service for an upcoming 
+need consumers will have. If you understand what is happening in the global financial markets and the impending death of the US fiat  [...]]]></description>
+<dc:date>2013-02-20T10:50:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3630828719.html</dc:source>
+<dc:title><![CDATA[Programmer for project (Cary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T10:50:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3576823619.html">
+<title><![CDATA[Google Adwords Help Needed (Raleigh, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3576823619.html</link>
+<description><![CDATA[Small nonprofit looking to take advantage of Google Adwords to help provide information about our cause and direct traffic to our website. We're looking for somebody who would be willing to meet at least once in person to discuss the project and then [...]]]></description>
+<dc:date>2013-02-19T07:28:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3576823619.html</dc:source>
+<dc:title><![CDATA[Google Adwords Help Needed (Raleigh, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-19T07:28:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3626467173.html">
+<title><![CDATA[Help needed with R projects (Carrboro)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3626467173.html</link>
+<description><![CDATA[I need someone with experience performing statistical analyses using R that can be available to provide tutoring on a weekly basis.]]></description>
+<dc:date>2013-02-18T15:04:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3626467173.html</dc:source>
+<dc:title><![CDATA[Help needed with R projects (Carrboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T15:04:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3626464641.html">
+<title><![CDATA[Help with Visual Basic Projects (Carrboro)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3626464641.html</link>
+<description><![CDATA[I am looking for a person who could meet on a weekly basis to help me with some VB projects.]]></description>
+<dc:date>2013-02-18T15:03:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3626464641.html</dc:source>
+<dc:title><![CDATA[Help with Visual Basic Projects (Carrboro)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T15:03:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3625072693.html">
+<title><![CDATA[Looking for an Apple Geek (Chapel Hill)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3625072693.html</link>
+<description><![CDATA[Looking for an Apple Geek for a couple hours in our home. My husband and I need some music organization and setup fax and printer. Please email me, I would love for someone to come out this week and make some extra cash!!!!!! ]]></description>
+<dc:date>2013-02-17T23:38:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3625072693.html</dc:source>
+<dc:title><![CDATA[Looking for an Apple Geek (Chapel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T23:38:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3624333706.html">
+<title><![CDATA[Fantasy Sports Assistant]]></title>
+<link>http://raleigh.craigslist.org/cpg/3624333706.html</link>
+<description><![CDATA[New fantasy sports site is looking for skilled veterans at drafting fantasy sports team. Our site offers draft assistance for owners who can not be at their drafts and we will help them draft their teams. We are looking for people interested in worki [...]]]></description>
+<dc:date>2013-02-17T16:49:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3624333706.html</dc:source>
+<dc:title><![CDATA[Fantasy Sports Assistant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T16:49:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3622630578.html">
+<title><![CDATA[Man Cave in need!  Home audio/tv help project needed (Lake Gaston)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3622630578.html</link>
+<description><![CDATA[I have two beautiful homes on Lake Gaston. Both are located directly on the Lake. One home (8,000 sq foot, 10 bedroom, swimming pool, etc.) and the second home is 6-bedroom in size. 
+We rent both homes out and I'm looking to do a trade that is an inc [...]]]></description>
+<dc:date>2013-02-16T20:01:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3622630578.html</dc:source>
+<dc:title><![CDATA[Man Cave in need!  Home audio/tv help project needed (Lake Gaston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T20:01:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3620472365.html">
+<title><![CDATA[PROGRAMMER/CODER WANTED FOR INDIE GAME PROJECT (raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3620472365.html</link>
+<description><![CDATA[we are a focused indie game studio. We are looking for a programmer to join the team. This will be a fun project for anyone who likes game design. student programmers who feel comfortable taking on a challenge are welcome. its a great chance to get i [...]]]></description>
+<dc:date>2013-02-15T21:35:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3620472365.html</dc:source>
+<dc:title><![CDATA[PROGRAMMER/CODER WANTED FOR INDIE GAME PROJECT (raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-15T21:35:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3617241717.html">
+<title><![CDATA[Looking for student/other with WordPress or Wix Knowledge (Raleigh, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3617241717.html</link>
+<description><![CDATA[We are looking for someone with WordPress and Wix knowledge to help us develop our website. Simple things we don't know how to do very well. May end up with small amount of pay if it takes time.]]></description>
+<dc:date>2013-02-14T13:51:51-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3617241717.html</dc:source>
+<dc:title><![CDATA[Looking for student/other with WordPress or Wix Knowledge (Raleigh, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-14T13:51:51-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3614106683.html">
+<title><![CDATA[Javascript / jQuery Expert (Raleigh / Durham / Chapel Hill)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3614106683.html</link>
+<description><![CDATA[I have a small project that I could use the help of a Javascript / jQuery expert. I am paying $25 per hour for a minimum of 2 hours worth of work. This will lead to more work. If you are interested, please respond with 
+- your name 
+- your phone numb [...]]]></description>
+<dc:date>2013-02-13T07:32:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3614106683.html</dc:source>
+<dc:title><![CDATA[Javascript / jQuery Expert (Raleigh / Durham / Chapel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-13T07:32:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3613626365.html">
+<title><![CDATA[Reach Your Proven Customer Base on Their Mobile Phones (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3613626365.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-02-12T22:10:01-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3613626365.html</dc:source>
+<dc:title><![CDATA[Reach Your Proven Customer Base on Their Mobile Phones (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T22:10:01-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3613319171.html">
+<title><![CDATA[PHP & Design Developer Needed (RTP, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3613319171.html</link>
+<description><![CDATA[In need of a developer for a startup project. Website is built and written in PHP. I need edits and features made. 
+http://discoveringhair.com is the website 
+Developer must be local to Raleigh, Durham or Chapel Hill and willing to meet in public per [...]]]></description>
+<dc:date>2013-02-12T19:27:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3613319171.html</dc:source>
+<dc:title><![CDATA[PHP & Design Developer Needed (RTP, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T19:27:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3554550265.html">
+<title><![CDATA[Grassroots International Football (Charleston, SC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3554550265.html</link>
+<description><![CDATA[Charleston Man-of-War is the first ever U.S. International Football Team. We challenge teams from all of the world in American Football. Our first game will be against a Chinese Americn Football Team. 
+We are looking for the the right people or compa [...]]]></description>
+<dc:date>2013-02-12T16:39:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3554550265.html</dc:source>
+<dc:title><![CDATA[Grassroots International Football (Charleston, SC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-12T16:39:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3604548404.html">
+<title><![CDATA[Help downloading products from website to csv file (Raleigh)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3604548404.html</link>
+<description><![CDATA[Need to be shown how to download my products that I have put up on my site to a csv file. 
+Joomla platform 
+Shopping cart is virtuemart 
+Any help is greatly appreciated. ]]></description>
+<dc:date>2013-02-11T06:56:58-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3604548404.html</dc:source>
+<dc:title><![CDATA[Help downloading products from website to csv file (Raleigh)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-11T06:56:58-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3608569627.html">
+<title><![CDATA[I need help setting up a store online  (Raleigh, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3608569627.html</link>
+<description><![CDATA[I have a small business selling vintage clothes and accessories and would like to sell online. Am looking for someone who can help me set up an online store. I do have a FB page and a blog. 
+Please send a short blurb about yourself. ]]></description>
+<dc:date>2013-02-10T21:44:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3608569627.html</dc:source>
+<dc:title><![CDATA[I need help setting up a store online  (Raleigh, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T21:44:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3606406657.html">
+<title><![CDATA[Google Shopping Expert (Raleigh, NC)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3606406657.html</link>
+<description><![CDATA[I have an online store, and I need someone who has PREVIOUS successful experience with Google Shopping to have the items in my store indexed on Google Shopping. This should be relatively simple, as I use Open Cart which is integrated with Google Shop [...]]]></description>
+<dc:date>2013-02-09T20:56:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3606406657.html</dc:source>
+<dc:title><![CDATA[Google Shopping Expert (Raleigh, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T20:56:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3605883907.html">
+<title><![CDATA[Independent Sales Rep Needed - B2B (Chapel Hill/Durham)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3605883907.html</link>
+<description><![CDATA[Independent sales rep needed to sell information product to small business owners. This is a 'commission only' position, but the product is an "easy sell". No experience is needed. High moral character, honesty and integrity are a must! Training will [...]]]></description>
+<dc:date>2013-02-09T16:27:55-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3605883907.html</dc:source>
+<dc:title><![CDATA[Independent Sales Rep Needed - B2B (Chapel Hill/Durham)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T16:27:55-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3603083423.html">
+<title><![CDATA[Limited IT support for home office (Chapel Hill)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3603083423.html</link>
+<description><![CDATA[Assist me to better maintain my computer/smartphone hardware, software and apps. First need is to fine tune my simple website setup. 
+This gig pays $15-20 per hour so it is most suitable to a Chapel Hill /Durham area high school/college student or re [...]]]></description>
+<dc:date>2013-02-08T13:08:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3603083423.html</dc:source>
+<dc:title><![CDATA[Limited IT support for home office (Chapel Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T13:08:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3602956612.html">
+<title><![CDATA[Marketing Maven seeks Energetic Entrepreneur (Cary/Apex)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3602956612.html</link>
+<description><![CDATA[I am a Marketing Maven -- an advertising ally -- an outside-the-box thinker. Recently, while taking a shower, I came up with a pretty darn good idea which to my amazement isn't mainstream yet. It involves helping businesses sell their product and gai [...]]]></description>
+<dc:date>2013-02-08T12:23:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3602956612.html</dc:source>
+<dc:title><![CDATA[Marketing Maven seeks Energetic Entrepreneur (Cary/Apex)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-08T12:23:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3601980561.html">
+<title><![CDATA[IT/Computer Sales]]></title>
+<link>http://raleigh.craigslist.org/cpg/3601980561.html</link>
+<description><![CDATA[IT/Computer Business Sales Professional Needed 
+- At least 1 year sales experience. Computer knowledge required. 
+- Ability to close 
+- Self starter 
+- Reliable transportation 
+- Highest commissions paid in the area 
+This position will be filled by M [...]]]></description>
+<dc:date>2013-02-07T22:55:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3601980561.html</dc:source>
+<dc:title><![CDATA[IT/Computer Sales]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T22:55:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3601935391.html">
+<title><![CDATA[Web Site Redesign]]></title>
+<link>http://raleigh.craigslist.org/cpg/3601935391.html</link>
+<description><![CDATA[Regional company looking for web designer for redesign of our current website. Some desired specifications of the new site will include: 
+•Approx. 15 pages (some in Spanish) 
+•Content Management System 
+•Ability for visitors to download documents 
+•M [...]]]></description>
+<dc:date>2013-02-07T22:24:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3601935391.html</dc:source>
+<dc:title><![CDATA[Web Site Redesign]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T22:24:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://raleigh.craigslist.org/cpg/3601508711.html">
+<title><![CDATA[SEO person wanted (Anywhere)]]></title>
+<link>http://raleigh.craigslist.org/cpg/3601508711.html</link>
+<description><![CDATA[Need an SEO person to help in our current SEO projects. We prefer working with one person directly, but are open to others. We want to be able to communicate with that person directly through IM and/or phone if necessary. We are looking for: 
+- Someo [...]]]></description>
+<dc:date>2013-02-07T18:36:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://raleigh.craigslist.org/cpg/3601508711.html</dc:source>
+<dc:title><![CDATA[SEO person wanted (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-07T18:36:05-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

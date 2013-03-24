@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://bismarck.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in bismarck</title>
+<link>http://bismarck.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://bismarck.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in bismarck</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-25T00:40:02-05:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bismarck.craigslist.org/cpg/3625963638.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://bismarck.craigslist.org/cpg/3625963638.html">
+<title><![CDATA[Windows / Exchange Server Admin * IDN021413 (Dickinson, ND)]]></title>
+<link>http://bismarck.craigslist.org/cpg/3625963638.html</link>
+<description><![CDATA[Windows / Exchange Server Admin * IDN021413 
+Windows / Exchange Server Admin 
+Dickinson, ND 
+Upgrade from 2003 to 2008 
+Windows Server -- Domains / Activate - Deactivate 
+Exchange -- Restore all user profiles 
+MCSE certification 
+Work days: 02/23, 24 [...]]]></description>
+<dc:date>2013-02-18T11:12:33-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://bismarck.craigslist.org/cpg/3625963638.html</dc:source>
+<dc:title><![CDATA[Windows / Exchange Server Admin * IDN021413 (Dickinson, ND)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T11:12:33-06:00</dcterms:issued>
+</item>
+</rdf:RDF>

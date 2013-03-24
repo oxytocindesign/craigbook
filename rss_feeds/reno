@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://reno.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in reno / tahoe</title>
+<link>http://reno.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://reno.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in reno / tahoe</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:25:00-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3700043931.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3693524192.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3683334219.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3676014681.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3645148997.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3625132624.html" />
+  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3608835527.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://reno.craigslist.org/cpg/3700043931.html">
+<title><![CDATA[NEXT REVERSE -elp? (Reno)]]></title>
+<link>http://reno.craigslist.org/cpg/3700043931.html</link>
+<description><![CDATA[Hi, I am a creative guy with about ZIP on computers and social media (that is you). 
+Reno seems to be positioning as the "silicon haven" so let's do it local. I am a small 
+business owner with "infringed" _elp and have designed a new system for more  [...]]]></description>
+<dc:date>2013-03-23T18:14:51-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3700043931.html</dc:source>
+<dc:title><![CDATA[NEXT REVERSE -elp? (Reno)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-23T18:14:51-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3693524192.html">
+<title><![CDATA[telephone repair (slt)]]></title>
+<link>http://reno.craigslist.org/cpg/3693524192.html</link>
+<description><![CDATA[Looking for someone to work on our ohone system there are several problems but clairty is one big one. It is with our systems and in slt there are no good telephone repair people experience necessary]]></description>
+<dc:date>2013-03-20T12:27:03-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3693524192.html</dc:source>
+<dc:title><![CDATA[telephone repair (slt)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T12:27:03-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3683334219.html">
+<title><![CDATA[Vacation Rental Reservations Representative]]></title>
+<link>http://reno.craigslist.org/cpg/3683334219.html</link>
+<description><![CDATA[RedAwning.com, the website that makes booking a vacation rental just like a hotel, is seeking a local independent reservations sales representative to communicate with prospective vacation renters and help them find and book a property for their trip [...]]]></description>
+<dc:date>2013-03-15T12:39:23-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3683334219.html</dc:source>
+<dc:title><![CDATA[Vacation Rental Reservations Representative]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T12:39:23-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3676014681.html">
+<title><![CDATA[Re: Next _elp Concept (Reno, NV) (Reno)]]></title>
+<link>http://reno.craigslist.org/cpg/3676014681.html</link>
+<description><![CDATA[No one is answering your ad because it has 0% appeal dude! 
+Lets see... 
+Startup = you don't have money to pay "experts" what they're worth. 
+"Only face to face after we meet". Yay! Can I please waste my days staring at you while you try to get your  [...]]]></description>
+<dc:date>2013-03-12T07:33:17-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3676014681.html</dc:source>
+<dc:title><![CDATA[Re: Next _elp Concept (Reno, NV) (Reno)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-12T07:33:17-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3645148997.html">
+<title><![CDATA[Point of Sale Technician needed for 2 seperate installs on 2/28 & 3/13 (Winnemucca, NV)]]></title>
+<link>http://reno.craigslist.org/cpg/3645148997.html</link>
+<description><![CDATA[We are a 3rd party IT service company looking for a field technician with Point of Sale system experience. We have a client with 2 seperate opportunities in Winnemucca, NV. 
+Thursday, 2/28 @ 9pm. Tech will be assisting a lead technician with the inst [...]]]></description>
+<dc:date>2013-02-26T11:13:52-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3645148997.html</dc:source>
+<dc:title><![CDATA[Point of Sale Technician needed for 2 seperate installs on 2/28 & 3/13 (Winnemucca, NV)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T11:13:52-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3625132624.html">
+<title><![CDATA[Custom Software Wanted (Fallon, NV)]]></title>
+<link>http://reno.craigslist.org/cpg/3625132624.html</link>
+<description><![CDATA[I am looking for someone that can tell me where I can buy or someone that can create custom software for me that can auto log into a website account that I have and go to certain links within the site that I have indicated all automatically at whatev [...]]]></description>
+<dc:date>2013-02-17T21:29:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3625132624.html</dc:source>
+<dc:title><![CDATA[Custom Software Wanted (Fallon, NV)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-17T21:29:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://reno.craigslist.org/cpg/3608835527.html">
+<title><![CDATA[BUILD CUSTOM LAPTOPS, PCs, STORAGE FOR US (CARSON CITY)]]></title>
+<link>http://reno.craigslist.org/cpg/3608835527.html</link>
+<description><![CDATA[We desire a one or two person team to build custom PCs and Laptops ranging from budget to heavy processing machines, including storage servers. You will be compensated for each unit as they are built and NO upfront costs are required; however, you mu [...]]]></description>
+<dc:date>2013-02-10T22:08:20-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://reno.craigslist.org/cpg/3608835527.html</dc:source>
+<dc:title><![CDATA[BUILD CUSTOM LAPTOPS, PCs, STORAGE FOR US (CARSON CITY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-10T22:08:20-08:00</dcterms:issued>
+</item>
+</rdf:RDF>

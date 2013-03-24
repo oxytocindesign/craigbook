@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://stockton.craigslist.org/cpg/index.rss">
+<title>craigslist | computer gigs in stockton</title>
+<link>http://stockton.craigslist.org/cpg/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://stockton.craigslist.org/cpg/index.rss</dc:source>
+<dc:title>craigslist | computer gigs in stockton</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2013-03-24T22:39:02-07:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3694544544.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3656444967.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3692957984.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3692266380.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3685352302.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3685052763.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3684252413.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3670936280.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3597930935.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3631653454.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3626745014.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3620867657.html" />
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3604687673.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://stockton.craigslist.org/cpg/3694544544.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://stockton.craigslist.org/cpg/3694544544.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-24T20:56:16-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3694544544.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T20:56:16-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3656444967.html">
+<title><![CDATA[Answer Emails Get Paid (Anywhere)]]></title>
+<link>http://stockton.craigslist.org/cpg/3656444967.html</link>
+<description><![CDATA[We are looking for anyone 18+ with access to internet, possibly a smartphone, who can answer emails and phone calls using a script. Pay is anywhere from $60 per day to 300$ per day 
+need: good communication skills, coach-able, willing to put forth ef [...]]]></description>
+<dc:date>2013-03-22T17:58:11-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3656444967.html</dc:source>
+<dc:title><![CDATA[Answer Emails Get Paid (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-22T17:58:11-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3692957984.html">
+<title><![CDATA[need dvd install into flat screen (stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3692957984.html</link>
+<description><![CDATA[near e fremont st, stockton, must live close by 
+need some one know how to connect a dvd to the tv, , it has comcast. 
+call lee at 510 715-4518]]></description>
+<dc:date>2013-03-20T08:26:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3692957984.html</dc:source>
+<dc:title><![CDATA[need dvd install into flat screen (stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-20T08:26:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3692266380.html">
+<title><![CDATA[Joomla 2.5 Component Upgrade to 3.0 (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3692266380.html</link>
+<description><![CDATA[Find Attached Joomla 2.5 Component 
+The component allows for batch installation of modules and plugins. The system works flawlessly in 2.5. The code is strictly MVC and uses Joomla API. OBJECTIVE: 
+1. Convert the instillation routine to (a) Joomla 3. [...]]]></description>
+<dc:date>2013-03-19T20:07:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3692266380.html</dc:source>
+<dc:title><![CDATA[Joomla 2.5 Component Upgrade to 3.0 (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-19T20:07:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3685352302.html">
+<title><![CDATA[Online Dating Chatters Needed (Online)]]></title>
+<link>http://stockton.craigslist.org/cpg/3685352302.html</link>
+<description><![CDATA[We are looking for people (MALE) between the ages of 18 and 45 to promote our brand new dating website. We have launched our new dating website a couple months ago and are currently running a promotion paying $100 for 5-10 hours of online chat time t [...]]]></description>
+<dc:date>2013-03-16T12:31:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3685352302.html</dc:source>
+<dc:title><![CDATA[Online Dating Chatters Needed (Online)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T12:31:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3685052763.html">
+<title><![CDATA[Typing Job]]></title>
+<link>http://stockton.craigslist.org/cpg/3685052763.html</link>
+<description><![CDATA[Work at home in your spare time, work part time or full time, when ever you want for how long you want. 
+You choose how much you want to make. 
+Perfect for stay at home moms, students, or just anyone who would like to make some extra money. 
+http://w [...]]]></description>
+<dc:date>2013-03-16T10:19:58-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3685052763.html</dc:source>
+<dc:title><![CDATA[Typing Job]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-16T10:19:58-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3684252413.html">
+<title><![CDATA[Recovery of deleted photos & docs off MS Vista/Office 2010 (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3684252413.html</link>
+<description><![CDATA[Please help! Someone borrowed my laptop and deleted them all. 
+Don't have much $ but will pay $20 to get job done-all I got... 
+Please contact me via text 209 915 0307]]></description>
+<dc:date>2013-03-15T22:04:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3684252413.html</dc:source>
+<dc:title><![CDATA[Recovery of deleted photos & docs off MS Vista/Office 2010 (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-15T22:04:55-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3670936280.html">
+<title><![CDATA[Sports Minded Professional (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3670936280.html</link>
+<description><![CDATA[Sports Minded Professional 
+Seeking ten success focused entrepreneurs. In the US and in MX. Si hablas espanhol. 
+Self-starters, $$ motivated. Must be a team player ready to produce and take their life to the next level. Results NOW. 
+If this is you c [...]]]></description>
+<dc:date>2013-03-09T18:58:39-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3670936280.html</dc:source>
+<dc:title><![CDATA[Sports Minded Professional (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-09T18:58:39-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3597930935.html">
+<title><![CDATA[Webcam Viewers (Central Valley)]]></title>
+<link>http://stockton.craigslist.org/cpg/3597930935.html</link>
+<description><![CDATA[Need ladies 18-40 willing to view webcam shows for pay and fill out a multiple-choice question review. Email for more info. Must have high speed internet and yahoo messenger.]]></description>
+<dc:date>2013-03-07T08:56:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3597930935.html</dc:source>
+<dc:title><![CDATA[Webcam Viewers (Central Valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-07T08:56:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3631653454.html">
+<title><![CDATA[calling 360 gamers  (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3631653454.html</link>
+<description><![CDATA[We are looking for someone that has mastered Geometry Wars. 
+We want to record your game play. We want to record game play of 
+someone that can get all of the achievements for Geometry Wars. (200g) 
+If you want to make a quick $10 let us know. Or if  [...]]]></description>
+<dc:date>2013-02-20T12:47:59-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3631653454.html</dc:source>
+<dc:title><![CDATA[calling 360 gamers  (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-20T12:47:59-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3626745014.html">
+<title><![CDATA[Web/SQL Programmer]]></title>
+<link>http://stockton.craigslist.org/cpg/3626745014.html</link>
+<description><![CDATA[Full time 1099 Contract 
+Primary Responsibilities: 
+• Work at the highest technical level on all phases of web applications development. 
+• Use professional skills with a full understanding of industry best practices. 
+• Troubleshoot a wide variety o [...]]]></description>
+<dc:date>2013-02-18T13:44:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3626745014.html</dc:source>
+<dc:title><![CDATA[Web/SQL Programmer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-18T13:44:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3620867657.html">
+<title><![CDATA[Simple Computer Help Needed (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3620867657.html</link>
+<description><![CDATA[Simple computer skills needed . . . 
+-Your Own Hours 
+-Your Own Location 
+-Any Internet Connect Faster than Dial-Up 
+-Excellent Compensation 
+-No Bull -- Legit Company 
+-No Phish, Just Fact 
+-Nothing to lose -- Email Reply for Info on How ]]></description>
+<dc:date>2013-02-16T00:38:47-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3620867657.html</dc:source>
+<dc:title><![CDATA[Simple Computer Help Needed (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-16T00:38:47-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://stockton.craigslist.org/cpg/3604687673.html">
+<title><![CDATA[musician looking for web design help (tracy)]]></title>
+<link>http://stockton.craigslist.org/cpg/3604687673.html</link>
+<description><![CDATA[fun paid gig for new musician. respond or txt 209 814 9170 ]]></description>
+<dc:date>2013-02-09T02:49:49-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3604687673.html</dc:source>
+<dc:title><![CDATA[musician looking for web design help (tracy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-09T02:49:49-08:00</dcterms:issued>
+</item>
+</rdf:RDF>
