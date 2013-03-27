@@ -23,11 +23,12 @@
 <dc:source>http://spokane.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in spokane / coeur d&#x27;alene</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:40:11-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:45:29-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3702670166.html" />
   <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3690343864.html" />
   <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3679653874.html" />
   <rdf:li rdf:resource="http://spokane.craigslist.org/cpg/3678929804.html" />
@@ -46,6 +47,19 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://spokane.craigslist.org/cpg/3702670166.html">
+<title><![CDATA[Teach me MySQL & SQL Server (Spokane)]]></title>
+<link>http://spokane.craigslist.org/cpg/3702670166.html</link>
+<description><![CDATA[I'm an Oracle DBA. I used to administer SQL Server 7 years ago, but I need to come up to speed on the current SQL Server product. 
+I also need someone to tutor me on MySQL. I'm a fast learner, so I just need a few hours hands-on to have you guide me  [...]]]></description>
+<dc:date>2013-03-25T08:52:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://spokane.craigslist.org/cpg/3702670166.html</dc:source>
+<dc:title><![CDATA[Teach me MySQL & SQL Server (Spokane)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:52:39-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://spokane.craigslist.org/cpg/3690343864.html">
 <title><![CDATA[need help (cheney)]]></title>
 <link>http://spokane.craigslist.org/cpg/3690343864.html</link>

@@ -23,11 +23,26 @@
 <dc:source>http://philadelphia.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in philadelphia</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:05-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:28-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703977550.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703884216.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699467460.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703811414.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703724605.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703462011.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703308567.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3658067915.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3703117807.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3693841808.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3687862661.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3702641644.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3702402169.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3675700504.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3688605607.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3701380289.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3644035479.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3696090143.html" />
@@ -37,31 +52,24 @@
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699893814.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3669320719.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699611441.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699467460.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699183011.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3694507851.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3699068083.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3698755951.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3693841808.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3698164523.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3698102034.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3697918110.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3665189765.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3697545833.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3658067915.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3697508476.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3697328901.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3673553845.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3696756378.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3696219569.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3675700504.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695915001.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695788704.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695517821.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695493396.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695437435.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3695259207.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3688605607.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3694918486.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3694765797.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3648526378.html" />
@@ -90,7 +98,6 @@
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3689318014.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3688526189.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3688360747.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3687862661.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3687441033.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3685539921.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3684795274.html" />
@@ -121,16 +128,216 @@
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3678313739.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3677544052.html" />
   <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3677318712.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3676413375.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3676139269.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3676070036.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3675913498.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3675569834.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3674312967.html" />
-  <rdf:li rdf:resource="http://philadelphia.craigslist.org/cpg/3674082849.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703977550.html">
+<title><![CDATA[Java/Flash Code (Philadelphia, Pa area (local only))]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703977550.html</link>
+<description><![CDATA[I need a freelancer who can build a java/flash code(your expertise will be needed to tell me which one would be better) for my website. I need someone local who I can work with and share my ideas to build a salon/spa boutique program. 
+Thank you]]></description>
+<dc:date>2013-03-25T22:06:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703977550.html</dc:source>
+<dc:title><![CDATA[Java/Flash Code (Philadelphia, Pa area (local only))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T22:06:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703884216.html">
+<title><![CDATA[NEED HELP W/PHOTOS ON INTERNET (South Phila.)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703884216.html</link>
+<description><![CDATA[I am a volunteer with a rescue and want to learn how to manipulate pictures so that I can post them on Craigslist in an effort to get our cats adopted. I can pay $20 per hour. I need to set up a simple system since I am not computer savvy and to be a [...]]]></description>
+<dc:date>2013-03-25T21:07:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703884216.html</dc:source>
+<dc:title><![CDATA[NEED HELP W/PHOTOS ON INTERNET (South Phila.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T21:07:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3699467460.html">
+<title><![CDATA[Website Salesperson (Tri-State)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3699467460.html</link>
+<description><![CDATA[I'm a web designer and Wordpress instructor that has started his own company. I am looking to bring in new business with the help of someone who is superior at selling and marketing. 
+I am looking for is someone interested in selling Web Design & Dev [...]]]></description>
+<dc:date>2013-03-25T20:28:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3699467460.html</dc:source>
+<dc:title><![CDATA[Website Salesperson (Tri-State)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:28:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703811414.html">
+<title><![CDATA[Need Help With Social Network Startup - Beginning Stages (N/A)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703811414.html</link>
+<description><![CDATA[As of now no money; startup for music social network with the idea of having a "collection" of your music with options to rate your friends music and post reviews of all recent albums. I have no programming knowledge so I need someone to help with th [...]]]></description>
+<dc:date>2013-03-25T20:24:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703811414.html</dc:source>
+<dc:title><![CDATA[Need Help With Social Network Startup - Beginning Stages (N/A)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:24:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703724605.html">
+<title><![CDATA[CHOOSE YOUR OWN HOURS (USA)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703724605.html</link>
+<description><![CDATA[I am looking for 16 people who believe in working from home on there own time... They must be people friendly for this position. This maybe your chance to work along side major companies such as Disney and Wal-Mart. Working from home you get the choi [...]]]></description>
+<dc:date>2013-03-25T19:36:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703724605.html</dc:source>
+<dc:title><![CDATA[CHOOSE YOUR OWN HOURS (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T19:36:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703462011.html">
+<title><![CDATA[Survey Taker Needed (Work From Home)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703462011.html</link>
+<description><![CDATA[This is a great opportunity to make money in your spare time. 
+Taking a wide variety of surveys for varying pay. Payments are sent directly to you. 
+Please review and see for yourself http://tryvindale.com/VPH7cfIC]]></description>
+<dc:date>2013-03-25T17:25:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703462011.html</dc:source>
+<dc:title><![CDATA[Survey Taker Needed (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:25:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703308567.html">
+<title><![CDATA[Wall Street 101  (Philly)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703308567.html</link>
+<description><![CDATA[I'm looking to pay someone that knows how to trade . I'm looking to learn a little bit about stock trading . I already trade but looking to learn more . 
+Must have proof of experience , don't waste my time . 
+Stocks 
+Short selling 
+Options 
+Margin ac [...]]]></description>
+<dc:date>2013-03-25T16:16:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703308567.html</dc:source>
+<dc:title><![CDATA[Wall Street 101  (Philly)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:16:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3658067915.html">
+<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3658067915.html</link>
+<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
+-Data Network Cabling Installation 
+-Telephone Wiring & Cabling Installation 
+-Cabling Design & Implemen [...]]]></description>
+<dc:date>2013-03-25T15:53:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3658067915.html</dc:source>
+<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:53:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3703117807.html">
+<title><![CDATA[Web Programmer/Designer For Adult Site (Philadelphia)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3703117807.html</link>
+<description><![CDATA[Hi, I'm looking for someone who can design and program an adult/fetish related site. 
+The site will be comprised mainly of videos. My preference would be to have it be wordpress based. 
+I need the design done, the programming, the tour, the biller se [...]]]></description>
+<dc:date>2013-03-25T14:55:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3703117807.html</dc:source>
+<dc:title><![CDATA[Web Programmer/Designer For Adult Site (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:55:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3693841808.html">
+<title><![CDATA[&#9658; Computer & Surveillance Sales Representative &#9668;  (Philadelphia)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3693841808.html</link>
+<description><![CDATA[Redcom Computer Service 
+Home of 
+Never Get a Computer Virus Again® 
+www.NeverGetAVirusAgain.com 
+267.581.4191 
+We are currently looking for Sales Representatives in the Philadelphia area to promote our array of Computer and Surveillance products and [...]]]></description>
+<dc:date>2013-03-25T14:40:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3693841808.html</dc:source>
+<dc:title><![CDATA[&#9658; Computer & Surveillance Sales Representative &#9668;  (Philadelphia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:40:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3687862661.html">
+<title><![CDATA[Im Looking to Buy Smartphones in Bullk!!]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3687862661.html</link>
+<description><![CDATA[Please text or Call 856-796-2616 if you can provide this service or know of someone who can. Finders Appreciation Fee can be paid for arranging this. 
+Very Serious Inquiries Only 
+looking to buy 5-10 New or Used phones a week]]></description>
+<dc:date>2013-03-25T14:13:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3687862661.html</dc:source>
+<dc:title><![CDATA[Im Looking to Buy Smartphones in Bullk!!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:13:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3702641644.html">
+<title><![CDATA[Need help with setting up Word Press site]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3702641644.html</link>
+<description><![CDATA[I'm transitioning my website into a WordPress format. Currently , the WP site is semi-operational but I need a quick hands on tutorial to learn the basics. I live in Germantown & will meet you at a public place that has WiFi. ]]></description>
+<dc:date>2013-03-25T11:40:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3702641644.html</dc:source>
+<dc:title><![CDATA[Need help with setting up Word Press site]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:40:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3702402169.html">
+<title><![CDATA[Desktop Support Tech (Philadelphia, PA)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3702402169.html</link>
+<description><![CDATA[Title: Desktop Support Technician 
+Working Location: Philadelphia, PA 19103/ Wilmington, DE 19805 
+Contract Duration: 3 mos contract- to permanent (based on performance) 
+This position is a desktop support position. Job responsibilities include lapto [...]]]></description>
+<dc:date>2013-03-25T09:43:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3702402169.html</dc:source>
+<dc:title><![CDATA[Desktop Support Tech (Philadelphia, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:43:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3675700504.html">
+<title><![CDATA[Venture / Consortium Opportunity  (NJ / Phila.))]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3675700504.html</link>
+<description><![CDATA[Venture / Consortium Opportunity 
+A consortium is an association of two or more individuals with the objective of participating in a common activity or pooling their resources for achieving a common goal. 
+We Bring To The Table: 
+Hosting/GoDaddy, pre [...]]]></description>
+<dc:date>2013-03-25T08:42:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3675700504.html</dc:source>
+<dc:title><![CDATA[Venture / Consortium Opportunity  (NJ / Phila.))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:42:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/cpg/3688605607.html">
+<title><![CDATA[Telemarketing  - In Office (Langhorne, PA)]]></title>
+<link>http://philadelphia.craigslist.org/cpg/3688605607.html</link>
+<description><![CDATA[We are lookng for a telemarketing professional to call residences to set appointments for storm damage repair and also local home improvement sales. We will give you the office, the phone, the prospecting list, and you will get us the lead. We are lo [...]]]></description>
+<dc:date>2013-03-25T08:33:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/cpg/3688605607.html</dc:source>
+<dc:title><![CDATA[Telemarketing  - In Office (Langhorne, PA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:33:03-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3701380289.html">
 <title><![CDATA[I need a book cover designed for Amazon Kindle E-Book (Philadelphia)]]></title>
 <link>http://philadelphia.craigslist.org/cpg/3701380289.html</link>
@@ -250,19 +457,6 @@ Responsibilities
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T16:42:33-04:00</dcterms:issued>
 </item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3699467460.html">
-<title><![CDATA[Website Salesperson (Tri-State)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3699467460.html</link>
-<description><![CDATA[I'm a web designer and Wordpress instructor that has started his own company. I am looking to bring in new business with the help of someone who is superior at selling and marketing. 
-I am looking for is someone interested in selling Web Design & Dev [...]]]></description>
-<dc:date>2013-03-23T15:29:49-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3699467460.html</dc:source>
-<dc:title><![CDATA[Website Salesperson (Tri-State)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T15:29:49-04:00</dcterms:issued>
-</item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3699183011.html">
 <title><![CDATA[Partnership Wanted (Springfield)]]></title>
 <link>http://philadelphia.craigslist.org/cpg/3699183011.html</link>
@@ -274,23 +468,6 @@ I am looking for is someone interested in selling Web Design & Dev [...]]]></des
 <dc:title><![CDATA[Partnership Wanted (Springfield)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T13:16:35-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3694507851.html">
-<title><![CDATA[Create Buzzy blog/vlog 4 M&F strippers,fetish,burlesque performers (Philadelphia/DV area)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3694507851.html</link>
-<description><![CDATA[Seeking media savvy adult female entertainer to create blog/vlog for 
-ongoing marketing campaign targeting upscale clientele & 
-LGBT community 
-The blog will also be a recruitment vehicle to attract fetish/burlesque performers 
-and exotic dancers. 
-S [...]]]></description>
-<dc:date>2013-03-23T13:06:07-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3694507851.html</dc:source>
-<dc:title><![CDATA[Create Buzzy blog/vlog 4 M&F strippers,fetish,burlesque performers (Philadelphia/DV area)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T13:06:07-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3699068083.html">
 <title><![CDATA[Vol. Help Microsoft Acess Program (Montgomery County)]]></title>
@@ -315,23 +492,6 @@ S [...]]]></description>
 <dc:title><![CDATA[Looking for a talented 3d artist for indie game]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T09:36:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3693841808.html">
-<title><![CDATA[&#9658; Computer & Surveillance Sales Representative &#9668;  (Philadelphia)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3693841808.html</link>
-<description><![CDATA[Redcom Computer Service 
-Home of 
-Never Get a Computer Virus Again® 
-www.NeverGetAVirusAgain.com 
-267.581.4191 
-We are currently looking for Sales Representatives in the Philadelphia area to promote our array of Computer and Surveillance products and [...]]]></description>
-<dc:date>2013-03-23T08:23:09-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3693841808.html</dc:source>
-<dc:title><![CDATA[&#9658; Computer & Surveillance Sales Representative &#9668;  (Philadelphia)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T08:23:09-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3698164523.html">
 <title><![CDATA[Social Media Intern Wanted- Great Resume Opportunity! (South Jersey )]]></title>
@@ -403,37 +563,6 @@ We are really low budget right now, however, if we can get our concept developed
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T15:19:59-04:00</dcterms:issued>
 </item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3658067915.html">
-<title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3658067915.html</link>
-<description><![CDATA[Looking for Subcontractor Telecom and IT Networking Field Technicians, Cabling Network Engineers , who have related experience in the following: 
--Data Network Cabling Installation 
--Telephone Wiring & Cabling Installation 
--Cabling Design & Implemen [...]]]></description>
-<dc:date>2013-03-22T15:13:12-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3658067915.html</dc:source>
-<dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T15:13:12-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3697508476.html">
-<title><![CDATA[Need help with Amazon reviews (Philadelphia)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3697508476.html</link>
-<description><![CDATA[I am in need of 50 people to write positive reviews for my products on Amazon.com. I will pay $5 per review. 
-Requirements: 
-1.) you must be registered with Amazon 
-2.) you must have made a purchase of any product on Amazon to leave a review. 
-I will [...]]]></description>
-<dc:date>2013-03-22T15:02:27-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3697508476.html</dc:source>
-<dc:title><![CDATA[Need help with Amazon reviews (Philadelphia)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T15:02:27-04:00</dcterms:issued>
-</item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3697328901.html">
 <title><![CDATA[Business Development for online shopping portal (Exton,PA)]]></title>
 <link>http://philadelphia.craigslist.org/cpg/3697328901.html</link>
@@ -493,21 +622,6 @@ Online Resea [...]]]></description>
 <dc:title><![CDATA[Technician Needed (Philadelphia and surrounding areas)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T21:04:46-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3675700504.html">
-<title><![CDATA[Venture / Consortium Opportunity  (NJ / Phila.))]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3675700504.html</link>
-<description><![CDATA[Venture / Consortium Opportunity 
-A consortium is an association of two or more individuals with the objective of participating in a common activity or pooling their resources for achieving a common goal. 
-We Bring To The Table: 
-Hosting/GoDaddy, pre [...]]]></description>
-<dc:date>2013-03-21T20:33:13-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3675700504.html</dc:source>
-<dc:title><![CDATA[Venture / Consortium Opportunity  (NJ / Phila.))]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T20:33:13-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3695915001.html">
 <title><![CDATA[SharePoint content editor -- JR level (Philadelphia)]]></title>
@@ -585,18 +699,6 @@ If you  [...]]]></description>
 <dc:title><![CDATA[RE: RE: What Has Craigslist Come too?]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T12:57:14-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3688605607.html">
-<title><![CDATA[Telemarketing  - In Office (Langhorne, PA)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3688605607.html</link>
-<description><![CDATA[We are lookng for a telemarketing professional to call residences to set appointments for storm damage repair and also local home improvement sales. We will give you the office, the phone, the prospecting list, and you will get us the lead. We are lo [...]]]></description>
-<dc:date>2013-03-21T10:26:19-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3688605607.html</dc:source>
-<dc:title><![CDATA[Telemarketing  - In Office (Langhorne, PA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T10:26:19-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3694918486.html">
 <title><![CDATA[What Has Craigslist Come too? (Philadelphia, Pa.)]]></title>
@@ -970,20 +1072,6 @@ We are using all of our content from our current website, but want to be able to
 <dc:title><![CDATA[Digital Animator Needed (Philadelphia)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-18T08:45:59-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3687862661.html">
-<title><![CDATA[Im Looking to Buy Smartphones in Bullk!!]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3687862661.html</link>
-<description><![CDATA[Please text or Call 856-796-2616 if you can provide this service or know of someone who can. Finders Appreciation Fee can be paid for arranging this. 
-Very Serious Inquiries Only 
-looking to buy 5-10 New or Used phones a week]]></description>
-<dc:date>2013-03-17T22:03:42-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3687862661.html</dc:source>
-<dc:title><![CDATA[Im Looking to Buy Smartphones in Bullk!!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-17T22:03:42-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://philadelphia.craigslist.org/cpg/3687441033.html">
 <title><![CDATA[TECHNICAL CO-FOUNDER WANTED]]></title>
@@ -1388,100 +1476,5 @@ Only highly experienced people will be considere [...]]]></description>
 <dc:title><![CDATA[RE: WEB PAGE DESIGNER (Stop already!)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-12T19:23:14-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3676413375.html">
-<title><![CDATA[Proprietary Equity Trader - Financial Trading (Media, PA )]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3676413375.html</link>
-<description><![CDATA[Philadelphia Trading 
-With two locations in downtown Philadelphia and Media, PA, Philadelphia Trading is the region's preeminent professional trading floor operation. Our management team has over 30 years of trading experience. Our goal is to become  [...]]]></description>
-<dc:date>2013-03-12T13:13:58-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3676413375.html</dc:source>
-<dc:title><![CDATA[Proprietary Equity Trader - Financial Trading (Media, PA )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T13:13:58-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3676139269.html">
-<title><![CDATA[Windows 7 Migration Tech * CLP031213 (Lansdale, PA Area)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3676139269.html</link>
-<description><![CDATA[Windows 7 Migration Tech * CLP031213 
-Windows 7 Migration Technician 
-Lansdale, PA Area 
-Hours are flexible. Monday -- Thursday usually 11:30 am -- 8:00 pm, Friday 8:30 -- 5:00 
-Potential for overtime 
-Migrating from XP to 7 
-Location: Around the Lan [...]]]></description>
-<dc:date>2013-03-12T11:27:40-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3676139269.html</dc:source>
-<dc:title><![CDATA[Windows 7 Migration Tech * CLP031213 (Lansdale, PA Area)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T11:27:40-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3676070036.html">
-<title><![CDATA[Senior Java (Web) Developer. (Philadelphia, PA)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3676070036.html</link>
-<description><![CDATA[We are having a requirement for the role of a Senior Java (Web) Developer. 
-Essential Job Functions 
-· Design and develop complex applications using the following technologies: 
-Java/J2SE/J2EE, JSP/Servlet, Portal/Portlets, JSF, Ajax, JavaScript, Jav [...]]]></description>
-<dc:date>2013-03-12T10:58:26-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3676070036.html</dc:source>
-<dc:title><![CDATA[Senior Java (Web) Developer. (Philadelphia, PA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T10:58:26-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3675913498.html">
-<title><![CDATA[Help build my adult website local only (collageville pa)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3675913498.html</link>
-<description><![CDATA[Need someone who is local who can meet with me to build my website please have experience doing adult websites]]></description>
-<dc:date>2013-03-12T09:40:44-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3675913498.html</dc:source>
-<dc:title><![CDATA[Help build my adult website local only (collageville pa)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T09:40:44-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3675569834.html">
-<title><![CDATA[Seeking Adventurous Person to Help Combat a Mafia/CIA Plot Against Me (Philadelphia)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3675569834.html</link>
-<description><![CDATA[I need some miscellaneous help combating a bona-fide mafia/cia plot against me. First task I can think of is posting an ad on craigslist for me regarding micro-electrode transmitters in my ears. My computer is hacked so they are blocking all emails I [...]]]></description>
-<dc:date>2013-03-12T01:47:32-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3675569834.html</dc:source>
-<dc:title><![CDATA[Seeking Adventurous Person to Help Combat a Mafia/CIA Plot Against Me (Philadelphia)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T01:47:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3674312967.html">
-<title><![CDATA[Cast needed for Local News Broadcast Filming Segment on "CYBER WORLD" (Lehigh Valley)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3674312967.html</link>
-<description><![CDATA[Volunteers needed for a local news broadcast....If you fall into any of the following categories, and are interested in participating in our news segment please do not hesitate to e-mail us! 
-Looking for Male or Female 40+ with at least 1 Child who a [...]]]></description>
-<dc:date>2013-03-11T14:58:35-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3674312967.html</dc:source>
-<dc:title><![CDATA[Cast needed for Local News Broadcast Filming Segment on "CYBER WORLD" (Lehigh Valley)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-11T14:58:35-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://philadelphia.craigslist.org/cpg/3674082849.html">
-<title><![CDATA[New Automation Software Does Everything For You (All Over Philly)]]></title>
-<link>http://philadelphia.craigslist.org/cpg/3674082849.html</link>
-<description><![CDATA[]]></description>
-<dc:date>2013-03-11T13:35:11-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://philadelphia.craigslist.org/cpg/3674082849.html</dc:source>
-<dc:title><![CDATA[New Automation Software Does Everything For You (All Over Philly)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-11T13:35:11-04:00</dcterms:issued>
 </item>
 </rdf:RDF>

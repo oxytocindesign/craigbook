@@ -23,18 +23,19 @@
 <dc:source>http://rochester.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in rochester, NY</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:25:01-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:45:00-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3682473980.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3699140466.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3691800175.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3702519354.html" />
+  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3682473980.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3698336542.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3696021647.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3694953201.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3692597261.html" />
-  <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3691800175.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3690837308.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3687460080.html" />
   <rdf:li rdf:resource="http://rochester.craigslist.org/cpg/3671815028.html" />
@@ -52,6 +53,43 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://rochester.craigslist.org/cpg/3699140466.html">
+<title><![CDATA[Teach me to flash phones (Rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3699140466.html</link>
+<description><![CDATA[I want to learn how to fully flash any cdma phone to any carrier. If you know how to unlock phones without calling the carrier that's a plus. Willing to purchase whatever software is needed. 
+I'm willing to pay to learn. ]]></description>
+<dc:date>2013-03-25T19:23:10-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3699140466.html</dc:source>
+<dc:title><![CDATA[Teach me to flash phones (Rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T19:23:10-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3691800175.html">
+<title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></title>
+<link>http://rochester.craigslist.org/cpg/3691800175.html</link>
+<description><![CDATA[YEA JUST WANT 2 ERASE ALL DATA NOW THANX!!!! 585 236-0406]]></description>
+<dc:date>2013-03-25T12:38:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3691800175.html</dc:source>
+<dc:title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:38:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://rochester.craigslist.org/cpg/3702519354.html">
+<title><![CDATA[50" plasma tv now has 4 lines across the screen. Can you Fix it? (rochester)]]></title>
+<link>http://rochester.craigslist.org/cpg/3702519354.html</link>
+<description><![CDATA[i have a 50" samsung plasma tv i purchased 2 years ago and right now it has a black line across the screen. iam looking for some one experianced to repair it. reply to my post with what could be the issue and if its fixable and how much?]]></description>
+<dc:date>2013-03-25T10:45:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rochester.craigslist.org/cpg/3702519354.html</dc:source>
+<dc:title><![CDATA[50" plasma tv now has 4 lines across the screen. Can you Fix it? (rochester)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:45:45-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://rochester.craigslist.org/cpg/3682473980.html">
 <title><![CDATA[Making tutorial video / writing tutorial article / posting on the web (Henrietta)]]></title>
 <link>http://rochester.craigslist.org/cpg/3682473980.html</link>
@@ -64,19 +102,6 @@ It would also be good if this person can post the videos and article on web 2.0 
 <dc:title><![CDATA[Making tutorial video / writing tutorial article / posting on the web (Henrietta)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-24T23:19:54-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://rochester.craigslist.org/cpg/3699140466.html">
-<title><![CDATA[Teach me to flash phones (Rochester)]]></title>
-<link>http://rochester.craigslist.org/cpg/3699140466.html</link>
-<description><![CDATA[I want to learn how to fully flash any cdma phone to any carrier. If you know how to unlock phones without calling the carrier that's a plus. Willing to purchase whatever software is needed. 
-I'm willing to pay to learn. ]]></description>
-<dc:date>2013-03-23T12:57:25-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://rochester.craigslist.org/cpg/3699140466.html</dc:source>
-<dc:title><![CDATA[Teach me to flash phones (Rochester)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T12:57:25-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://rochester.craigslist.org/cpg/3698336542.html">
 <title><![CDATA[Spider to calibrate 2 monitors (Rochester New York 14622)]]></title>
@@ -127,18 +152,6 @@ Apparently it also will not stream WMV? If not, any suggestions on conversi [...
 <dc:title><![CDATA[Computer (Marketing/Graphics) Intern (Rochester)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-20T07:24:48-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://rochester.craigslist.org/cpg/3691800175.html">
-<title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></title>
-<link>http://rochester.craigslist.org/cpg/3691800175.html</link>
-<description><![CDATA[YEA JUST WANT 2 ERASE ALL DATA NOW THANX!!!! 585 236-0406]]></description>
-<dc:date>2013-03-19T18:27:41-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://rochester.craigslist.org/cpg/3691800175.html</dc:source>
-<dc:title><![CDATA[CAN SUM 1 ERASE MY MACBOOK SO I CAN REINSTALL ILIFE-11 (236-0406 (ROCHESTER)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T18:27:41-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://rochester.craigslist.org/cpg/3690837308.html">
 <title><![CDATA[Photographer will trade services for Website design (Macedon/Fairport )]]></title>

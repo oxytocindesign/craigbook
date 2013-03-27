@@ -23,13 +23,13 @@
 <dc:source>http://flagstaff.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in flagstaff / sedona</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:30:26-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:36:12-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3701994418.html" />
   <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3692167643.html" />
+  <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3701994418.html" />
   <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3690248890.html" />
   <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3689735367.html" />
   <rdf:li rdf:resource="http://flagstaff.craigslist.org/cpg/3685033019.html" />
@@ -42,6 +42,21 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://flagstaff.craigslist.org/cpg/3692167643.html">
+<title><![CDATA[Computer techs needed! (USA)]]></title>
+<link>http://flagstaff.craigslist.org/cpg/3692167643.html</link>
+<description><![CDATA[Reply to add only if you can reply yes to the following questions. 
+1.I am coachable and teachable and will do what has been set forth before me? 
+2.I am a success oriented individual and looking for real change to my finances? 
+3.I can work at least [...]]]></description>
+<dc:date>2013-03-25T12:28:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flagstaff.craigslist.org/cpg/3692167643.html</dc:source>
+<dc:title><![CDATA[Computer techs needed! (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:28:37-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://flagstaff.craigslist.org/cpg/3701994418.html">
 <title><![CDATA[Internet Sales/Marketing]]></title>
 <link>http://flagstaff.craigslist.org/cpg/3701994418.html</link>
@@ -57,21 +72,6 @@ You can work part time or f [...]]]></description>
 <dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-24T21:01:51-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://flagstaff.craigslist.org/cpg/3692167643.html">
-<title><![CDATA[Computer techs needed! (USA)]]></title>
-<link>http://flagstaff.craigslist.org/cpg/3692167643.html</link>
-<description><![CDATA[Reply to add only if you can reply yes to the following questions. 
-1.I am coachable and teachable and will do what has been set forth before me? 
-2.I am a success oriented individual and looking for real change to my finances? 
-3.I can work at least [...]]]></description>
-<dc:date>2013-03-22T00:43:37-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://flagstaff.craigslist.org/cpg/3692167643.html</dc:source>
-<dc:title><![CDATA[Computer techs needed! (USA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T00:43:37-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://flagstaff.craigslist.org/cpg/3690248890.html">
 <title><![CDATA[Hard Work NO Quiters]]></title>

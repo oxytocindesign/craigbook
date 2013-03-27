@@ -23,11 +23,13 @@
 <dc:source>http://maine.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in maine</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:34:53-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:41:10-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3702842926.html" />
+  <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3702713260.html" />
   <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3684182789.html" />
   <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3674265367.html" />
   <rdf:li rdf:resource="http://maine.craigslist.org/cpg/3683962572.html" />
@@ -42,6 +44,32 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://maine.craigslist.org/cpg/3702842926.html">
+<title><![CDATA[Entry Level IT Project (Augusta, ME)]]></title>
+<link>http://maine.craigslist.org/cpg/3702842926.html</link>
+<description><![CDATA[This is a 2-3 Day Entry Level IT/Electronic Project working in retail stores beginning the week of 4/15/2013. Hours are normal business hours 8am-5pm each day. 
+Description: 
+Swap out batteries in electronic signs and kiosks throughout store location [...]]]></description>
+<dc:date>2013-03-25T13:04:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3702842926.html</dc:source>
+<dc:title><![CDATA[Entry Level IT Project (Augusta, ME)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:04:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://maine.craigslist.org/cpg/3702713260.html">
+<title><![CDATA[Typer (Portland)]]></title>
+<link>http://maine.craigslist.org/cpg/3702713260.html</link>
+<description><![CDATA[Looking for someone to type a 50 page document on my Microsoft word. ]]></description>
+<dc:date>2013-03-25T12:10:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://maine.craigslist.org/cpg/3702713260.html</dc:source>
+<dc:title><![CDATA[Typer (Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:10:34-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://maine.craigslist.org/cpg/3684182789.html">
 <title><![CDATA[Want to be a part of something big? (Remote)]]></title>
 <link>http://maine.craigslist.org/cpg/3684182789.html</link>

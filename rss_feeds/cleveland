@@ -23,13 +23,13 @@
 <dc:source>http://cleveland.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in cleveland</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:03-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:25-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3699911603.html" />
   <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3694980218.html" />
+  <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3699911603.html" />
   <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3694144210.html" />
   <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3691962562.html" />
   <rdf:li rdf:resource="http://cleveland.craigslist.org/cpg/3691638358.html" />
@@ -68,6 +68,19 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://cleveland.craigslist.org/cpg/3694980218.html">
+<title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></title>
+<link>http://cleveland.craigslist.org/cpg/3694980218.html</link>
+<description><![CDATA[Hello: 
+Looking for a professional individual to work a day at my company (in-house) & for future projects here & there. Need to develop 12 simple layouts for our monthly email campaigns. Also, to layout the artwork for our newly designed marketing m [...]]]></description>
+<dc:date>2013-03-25T13:52:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cleveland.craigslist.org/cpg/3694980218.html</dc:source>
+<dc:title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:52:26-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://cleveland.craigslist.org/cpg/3699911603.html">
 <title><![CDATA[Android Developer/Java+C+VB even better (Ohio)]]></title>
 <link>http://cleveland.craigslist.org/cpg/3699911603.html</link>
@@ -79,19 +92,6 @@
 <dc:title><![CDATA[Android Developer/Java+C+VB even better (Ohio)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T19:40:01-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://cleveland.craigslist.org/cpg/3694980218.html">
-<title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></title>
-<link>http://cleveland.craigslist.org/cpg/3694980218.html</link>
-<description><![CDATA[Hello: 
-Looking for a professional individual to work a day at my company (in-house) & for future projects here & there. Need to develop 12 simple layouts for our monthly email campaigns. Also, to layout the artwork for our newly designed marketing m [...]]]></description>
-<dc:date>2013-03-21T10:53:13-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://cleveland.craigslist.org/cpg/3694980218.html</dc:source>
-<dc:title><![CDATA[GRAPHIC DESIGNER ~ 1 Day Job (Mentor, Ohio 44060)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T10:53:13-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://cleveland.craigslist.org/cpg/3694144210.html">
 <title><![CDATA[Lemp work - occasional (US based)]]></title>

@@ -23,7 +23,7 @@
 <dc:source>http://victoria.en.craigslist.ca/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in victoria</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:40:14-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:35:40-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -41,13 +41,13 @@
 <title><![CDATA[Awesome Bloggers! (Anwyhere)]]></title>
 <link>http://victoria.en.craigslist.ca/cpg/3682780102.html</link>
 <description><![CDATA[Looking for some Canadian social media enthusiasts to write about how they use social media for business. Tips for business owners and how-tos and more. If you write for my blog, you will be able to post a link to your web site and/or social media sp [...]]]></description>
-<dc:date>2013-03-22T11:36:08-07:00</dc:date>
+<dc:date>2013-03-25T09:06:39-07:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
 <dc:source>http://victoria.en.craigslist.ca/cpg/3682780102.html</dc:source>
 <dc:title><![CDATA[Awesome Bloggers! (Anwyhere)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T11:36:08-07:00</dcterms:issued>
+<dcterms:issued>2013-03-25T09:06:39-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://victoria.en.craigslist.ca/cpg/3691967855.html">
 <title><![CDATA[Revit Lessons Wanted (Victoria)]]></title>

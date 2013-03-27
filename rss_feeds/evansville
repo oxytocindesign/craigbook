@@ -23,14 +23,13 @@
 <dc:source>http://evansville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in evansville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:37:05-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:41:09-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3564296843.html" />
   <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3625964093.html" />
-  <rdf:li rdf:resource="http://evansville.craigslist.org/cpg/3575243256.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -62,17 +61,5 @@ As [...]]]></description>
 <dc:title><![CDATA[Seeking a Network Analyst -Systems Administrator ( Jasper, IN 47546)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-18T12:12:43-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://evansville.craigslist.org/cpg/3575243256.html">
-<title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></title>
-<link>http://evansville.craigslist.org/cpg/3575243256.html</link>
-<description><![CDATA[A job position is available immediately. The work can be done from your home online, so all you need is an internet connection. $40.00 is all it takes to get started. Turn $40.00 into $2,000.00/week. Email me for more details ]]></description>
-<dc:date>2013-02-07T13:22:21-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://evansville.craigslist.org/cpg/3575243256.html</dc:source>
-<dc:title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T13:22:21-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

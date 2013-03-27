@@ -23,25 +23,25 @@
 <dc:source>http://anchorage.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in anchorage / mat-su</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T21:29:53-08:00</syn:updateBase>
+<syn:updateBase>2013-03-25T18:34:53-08:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://anchorage.craigslist.org/cpg/3685818442.html" />
+  <rdf:li rdf:resource="http://anchorage.craigslist.org/cpg/3703971084.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://anchorage.craigslist.org/cpg/3685818442.html">
-<title><![CDATA[NEED HELP NOW (Anchorage)]]></title>
-<link>http://anchorage.craigslist.org/cpg/3685818442.html</link>
-<description><![CDATA[I am looking for someone who is experienced in web data entry. Work is easy, just time consuming. I need someone who is a fast, hard worker and will get the job done with no complaints. Pay will be based off of performance. Need someone ASAP!! If int [...]]]></description>
-<dc:date>2013-03-16T15:39:16-08:00</dc:date>
+<item rdf:about="http://anchorage.craigslist.org/cpg/3703971084.html">
+<title><![CDATA[can you write code for phone app? (call me)]]></title>
+<link>http://anchorage.craigslist.org/cpg/3703971084.html</link>
+<description><![CDATA[i have an idea that would be very useful for folks who use mass transit. it should not be hard because the two main features are already being used in other apps. if you can sign a non disclosure we can work together and split the revenues. please ca [...]]]></description>
+<dc:date>2013-03-25T18:01:58-08:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://anchorage.craigslist.org/cpg/3685818442.html</dc:source>
-<dc:title><![CDATA[NEED HELP NOW (Anchorage)]]></dc:title>
+<dc:source>http://anchorage.craigslist.org/cpg/3703971084.html</dc:source>
+<dc:title><![CDATA[can you write code for phone app? (call me)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-16T15:39:16-08:00</dcterms:issued>
+<dcterms:issued>2013-03-25T18:01:58-08:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,7 +23,7 @@
 <dc:source>http://dothan.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in dothan, AL</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:34:54-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:34:53-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -31,7 +31,6 @@
   <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3646846095.html" />
   <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3638467657.html" />
   <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3631523624.html" />
-  <rdf:li rdf:resource="http://dothan.craigslist.org/cpg/3537378241.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -73,19 +72,5 @@ facebook.com/jobquestlive]]></description>
 <dc:title><![CDATA[Great Potential (Any)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-20T14:59:08-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dothan.craigslist.org/cpg/3537378241.html">
-<title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></title>
-<link>http://dothan.craigslist.org/cpg/3537378241.html</link>
-<description><![CDATA[Easy to do! Work at home! 
-Basic computer, internet & admin skills a plus! 
-Check out this explanation at www.missyworksinpjs.com - No obligation! ]]></description>
-<dc:date>2013-02-07T14:55:25-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dothan.craigslist.org/cpg/3537378241.html</dc:source>
-<dc:title><![CDATA[Need People Who Are Organized, Computer & Admin Skills (Dothan, AL - USA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T14:55:25-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

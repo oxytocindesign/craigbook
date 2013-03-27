@@ -23,11 +23,12 @@
 <dc:source>http://stockton.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in stockton</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:39:02-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:40:48-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3703082861.html" />
   <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3694544544.html" />
   <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3656444967.html" />
   <rdf:li rdf:resource="http://stockton.craigslist.org/cpg/3692957984.html" />
@@ -44,6 +45,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://stockton.craigslist.org/cpg/3703082861.html">
+<title><![CDATA[Web Design WordPress (Stockton)]]></title>
+<link>http://stockton.craigslist.org/cpg/3703082861.html</link>
+<description><![CDATA[If you have experience and a portfolio or good examples of your potential work, I am looking for you. I want someone who isn't burdened with all the preconceived notions of what a website should be or how it should function. I have one job right now  [...]]]></description>
+<dc:date>2013-03-25T11:41:19-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://stockton.craigslist.org/cpg/3703082861.html</dc:source>
+<dc:title><![CDATA[Web Design WordPress (Stockton)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:41:19-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://stockton.craigslist.org/cpg/3694544544.html">
 <title><![CDATA[Internet Sales/Marketing ]]></title>
 <link>http://stockton.craigslist.org/cpg/3694544544.html</link>

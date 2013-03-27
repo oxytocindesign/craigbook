@@ -23,7 +23,7 @@
 <dc:source>http://frederick.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in frederick</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:30:21-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:13-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -37,7 +37,6 @@
   <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3634180379.html" />
   <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3614727646.html" />
   <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3577335117.html" />
-  <rdf:li rdf:resource="http://frederick.craigslist.org/cpg/3600829543.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -164,19 +163,5 @@ This internship involves managing the companies Social Media sites such as Faceb
 <dc:title><![CDATA[Social Media Intern (Frederick Maryland)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-09T13:05:08-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://frederick.craigslist.org/cpg/3600829543.html">
-<title><![CDATA[iPad / iPhone dev needed (Gaithersburg, MD)]]></title>
-<link>http://frederick.craigslist.org/cpg/3600829543.html</link>
-<description><![CDATA[Am looking for someone to collaborate with on a project to decode data from an FTP site and display on iPad / iPhone. 
-This is a biz opportunity for the right person with iPad/iPhone development talent. 
-email me if you have some time, are a tech gee [...]]]></description>
-<dc:date>2013-02-07T14:05:23-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://frederick.craigslist.org/cpg/3600829543.html</dc:source>
-<dc:title><![CDATA[iPad / iPhone dev needed (Gaithersburg, MD)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T14:05:23-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

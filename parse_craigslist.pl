@@ -5,7 +5,8 @@ use String::Util 'trim';
 use DBI;
 use File::Copy;
 use HTML::Entities;
-	
+
+
 foreach $url (
 'http://auburn.craigslist.org/cpg/index.rss',
 'http://birmingham.craigslist.org/cpg/index.rss',

@@ -23,15 +23,15 @@
 <dc:source>http://indianapolis.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in indianapolis</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:57-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:29:53-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3702400480.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3700550095.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3698174113.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3695462245.html" />
-  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3690817350.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3687474356.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3682305225.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3680486473.html" />
@@ -50,12 +50,23 @@
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3634155843.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3622082110.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3621204934.html" />
-  <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3619121295.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3616519358.html" />
   <rdf:li rdf:resource="http://indianapolis.craigslist.org/cpg/3581649705.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://indianapolis.craigslist.org/cpg/3702400480.html">
+<title><![CDATA[wordpress expert (south Indy)]]></title>
+<link>http://indianapolis.craigslist.org/cpg/3702400480.html</link>
+<description><![CDATA[I (small business) need help posting a video to my wordpress website. Will probably need additional help in the future.]]></description>
+<dc:date>2013-03-25T09:42:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://indianapolis.craigslist.org/cpg/3702400480.html</dc:source>
+<dc:title><![CDATA[wordpress expert (south Indy)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:42:27-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://indianapolis.craigslist.org/cpg/3700550095.html">
 <title><![CDATA[Intern for new Social Website Testing Internship (United States)]]></title>
 <link>http://indianapolis.craigslist.org/cpg/3700550095.html</link>
@@ -98,23 +109,6 @@ Prefer someone who can invoice or provide a receipt, but not a [...]]]></descrip
 <dc:title><![CDATA[Total Derivative Web launch (Broadripple)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T14:25:50-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://indianapolis.craigslist.org/cpg/3690817350.html">
-<title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></title>
-<link>http://indianapolis.craigslist.org/cpg/3690817350.html</link>
-<description><![CDATA[Incentive advertising/marketing company seeking internet savvy ad posters/marketers. 
-This is a simple copy/paste opp. 
-We will provide complete training. 
-Create your own schedule. 
-$100+ daily is very realistic in your spare-time. 
-If you are profi [...]]]></description>
-<dc:date>2013-03-19T11:19:10-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://indianapolis.craigslist.org/cpg/3690817350.html</dc:source>
-<dc:title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T11:19:10-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://indianapolis.craigslist.org/cpg/3687474356.html">
 <title><![CDATA[Python programmer (Indianapolis)]]></title>
@@ -343,18 +337,6 @@ We are a marketing company looking for experience in sales ]]></description>
 <dc:title><![CDATA[web code/design (brownsburg)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-16T09:56:12-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://indianapolis.craigslist.org/cpg/3619121295.html">
-<title><![CDATA[Seeking 2 maybe 3 eBay Copy & Pasters (www)]]></title>
-<link>http://indianapolis.craigslist.org/cpg/3619121295.html</link>
-<description><![CDATA[]]></description>
-<dc:date>2013-02-15T11:43:40-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://indianapolis.craigslist.org/cpg/3619121295.html</dc:source>
-<dc:title><![CDATA[Seeking 2 maybe 3 eBay Copy & Pasters (www)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-15T11:43:40-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://indianapolis.craigslist.org/cpg/3616519358.html">
 <title><![CDATA[***$100 REWARD*** (Indianapolis)]]></title>

@@ -23,7 +23,7 @@
 <dc:source>http://delaware.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in delaware</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:07-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:30:16-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -43,7 +43,6 @@
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3631934147.html" />
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3630603814.html" />
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3626978765.html" />
-  <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3626239347.html" />
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3611980872.html" />
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3620323679.html" />
   <rdf:li rdf:resource="http://delaware.craigslist.org/cpg/3615435442.html" />
@@ -250,21 +249,6 @@ Job Family Description: Designs, analyzes, develops, codes, tests, debugs and do
 <dc:title><![CDATA[Business Systems Analysts Needed! (Wilmington, DE)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-18T18:15:43-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://delaware.craigslist.org/cpg/3626239347.html">
-<title><![CDATA[Need local website designer (Delaware )]]></title>
-<link>http://delaware.craigslist.org/cpg/3626239347.html</link>
-<description><![CDATA[I have a business in Delaware and I am looking for a web designer located in Delaware. 
-Please have a list of websites that you have completed that are active. 
-I am looking for a simple website with maybe 5 pages and a contact form. 
-Send over your  [...]]]></description>
-<dc:date>2013-02-18T13:46:39-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://delaware.craigslist.org/cpg/3626239347.html</dc:source>
-<dc:title><![CDATA[Need local website designer (Delaware )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-18T13:46:39-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://delaware.craigslist.org/cpg/3611980872.html">
 <title><![CDATA[looking for a reasonable price for ipod 4generation screen replacement (new castle county)]]></title>

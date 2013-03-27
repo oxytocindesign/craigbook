@@ -23,29 +23,12 @@
 <dc:source>http://billings.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in billings</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:24:59-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:41:29-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://billings.craigslist.org/cpg/3601520045.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://billings.craigslist.org/cpg/3601520045.html">
-<title><![CDATA[leading company seeking reps (Montana)]]></title>
-<link>http://billings.craigslist.org/cpg/3601520045.html</link>
-<description><![CDATA[Marketing via Social Media (United States) 
-IF YOU'VE EVER WANTED TO BE IN THE RIGHT PLACE AT THE RIGHT TIME, 
-THE MOMENT HAS ARRIVED IF YOU'RE UP FOR THE CHALLENGE 
-Entrepreneurial-minded company is now looking for Professional Reps! 
-Our Educationa [...]]]></description>
-<dc:date>2013-02-07T16:41:20-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://billings.craigslist.org/cpg/3601520045.html</dc:source>
-<dc:title><![CDATA[leading company seeking reps (Montana)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T16:41:20-07:00</dcterms:issued>
-</item>
 </rdf:RDF>

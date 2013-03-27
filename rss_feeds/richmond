@@ -23,11 +23,12 @@
 <dc:source>http://richmond.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in richmond</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:25-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:45:14-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3702363355.html" />
   <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3700482801.html" />
   <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3700106882.html" />
   <rdf:li rdf:resource="http://richmond.craigslist.org/cpg/3691748169.html" />
@@ -65,6 +66,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://richmond.craigslist.org/cpg/3702363355.html">
+<title><![CDATA[Needed: Final Cut Pro X Expert (Richmond, VA)]]></title>
+<link>http://richmond.craigslist.org/cpg/3702363355.html</link>
+<description><![CDATA[My company is looking for a video editor who is proficient in Final Cut Pro X to help us edit a series of corporate training videos we have created. You will be paid well for your work - compensation is negotiable. If you are capable and interested i [...]]]></description>
+<dc:date>2013-03-25T09:18:20-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://richmond.craigslist.org/cpg/3702363355.html</dc:source>
+<dc:title><![CDATA[Needed: Final Cut Pro X Expert (Richmond, VA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:18:20-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://richmond.craigslist.org/cpg/3700482801.html">
 <title><![CDATA[Web Sales (Richmond area)]]></title>
 <link>http://richmond.craigslist.org/cpg/3700482801.html</link>

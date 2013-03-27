@@ -23,15 +23,32 @@
 <dc:source>http://imperial.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in imperial county</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:39:56-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://imperial.craigslist.org/cpg/3703776427.html" />
   <rdf:li rdf:resource="http://imperial.craigslist.org/cpg/3689645525.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://imperial.craigslist.org/cpg/3703776427.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://imperial.craigslist.org/cpg/3703776427.html</link>
+<description><![CDATA[Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or full time. 
+Considerable in [...]]]></description>
+<dc:date>2013-03-25T17:04:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://imperial.craigslist.org/cpg/3703776427.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:04:40-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://imperial.craigslist.org/cpg/3689645525.html">
 <title><![CDATA[Looking for a Guitar Tech (Imperial Valley)]]></title>
 <link>http://imperial.craigslist.org/cpg/3689645525.html</link>

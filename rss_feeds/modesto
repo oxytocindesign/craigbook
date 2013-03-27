@@ -23,11 +23,12 @@
 <dc:source>http://modesto.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in modesto</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:34:57-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3702927137.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3681012556.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3671948492.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3690218837.html" />
@@ -38,7 +39,6 @@
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3658995479.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3658960386.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3656071679.html" />
-  <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3652526271.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3643774279.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3631628191.html" />
   <rdf:li rdf:resource="http://modesto.craigslist.org/cpg/3623816830.html" />
@@ -47,6 +47,22 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://modesto.craigslist.org/cpg/3702927137.html">
+<title><![CDATA[Internet Sales/Marketing ]]></title>
+<link>http://modesto.craigslist.org/cpg/3702927137.html</link>
+<description><![CDATA[Internet Sales/Marketing 
+Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or f [...]]]></description>
+<dc:date>2013-03-25T10:37:55-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://modesto.craigslist.org/cpg/3702927137.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:37:55-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://modesto.craigslist.org/cpg/3681012556.html">
 <title><![CDATA[Internet Sales/Marketing ]]></title>
 <link>http://modesto.craigslist.org/cpg/3681012556.html</link>
@@ -189,21 +205,6 @@ Ideal candidate would have the following
 <dc:title><![CDATA[My MacBook Keyboard needs cleaning (Tracy)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-03T09:40:16-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://modesto.craigslist.org/cpg/3652526271.html">
-<title><![CDATA[Tech Needed  (Dublin, CA)]]></title>
-<link>http://modesto.craigslist.org/cpg/3652526271.html</link>
-<description><![CDATA[We're seeking a PC Technician for service call at major bank in Dublin, CA. The service call is for tomorrow 3/2/13 at 4:45PM. 
-The service call will be disconnecting and reconnecting PC's and Printers. 
-You must have reliable transportation. 
-If you [...]]]></description>
-<dc:date>2013-03-01T14:16:55-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://modesto.craigslist.org/cpg/3652526271.html</dc:source>
-<dc:title><![CDATA[Tech Needed  (Dublin, CA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-01T14:16:55-08:00</dcterms:issued>
 </item>
 <item rdf:about="http://modesto.craigslist.org/cpg/3643774279.html">
 <title><![CDATA[Struggling To Make Money? (modesto)]]></title>

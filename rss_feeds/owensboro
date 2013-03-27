@@ -23,15 +23,36 @@
 <dc:source>http://owensboro.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in owensboro</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:24:58-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:11-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://owensboro.craigslist.org/cpg/3703275453.html" />
   <rdf:li rdf:resource="http://owensboro.craigslist.org/cpg/3650181859.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://owensboro.craigslist.org/cpg/3703275453.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://owensboro.craigslist.org/cpg/3703275453.html</link>
+<description><![CDATA[IF YOU LIKE POSTING BLOGS AND WANT TO GET PAID FOR IT, SIGN UP HERE! 
+http://TheMoneyClub.tk 
+WE ARE LOOKING FOR: 
+TEAM PLAYERS 
+SELF STARTERS 
+POSITIVE ATTITUDES 
+http://TheMoneyClub.tk 
+Join this team, learn how to earn 100% commission 
+http://TheM [...]]]></description>
+<dc:date>2013-03-25T15:02:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://owensboro.craigslist.org/cpg/3703275453.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:02:30-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://owensboro.craigslist.org/cpg/3650181859.html">
 <title><![CDATA[Desktop technician (Owensboro, KY)]]></title>
 <link>http://owensboro.craigslist.org/cpg/3650181859.html</link>

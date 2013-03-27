@@ -23,11 +23,14 @@
 <dc:source>http://milwaukee.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in milwaukee</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:39:48-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:38-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3702928353.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3702850936.html" />
+  <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3702558555.html" />
   <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3701273506.html" />
   <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3698290331.html" />
   <rdf:li rdf:resource="http://milwaukee.craigslist.org/cpg/3697418390.html" />
@@ -68,6 +71,47 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3702928353.html">
+<title><![CDATA[Get a Check Every Friday Using Your Computer Skills (Milwaukee)]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3702928353.html</link>
+<description><![CDATA[Do you hate your job or your boss? Are you in a career transition? Our company is looking for professionals or recent college graduates with an entrepreneur mindset to work in a comfortable, relaxed environment. Complete training provided and no sell [...]]]></description>
+<dc:date>2013-03-25T12:38:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3702928353.html</dc:source>
+<dc:title><![CDATA[Get a Check Every Friday Using Your Computer Skills (Milwaukee)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:38:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3702850936.html">
+<title><![CDATA[Seeking Webmaster Partner]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3702850936.html</link>
+<description><![CDATA[I have a website at http://truewholesalejewelry.com and a great relationship with a long time fine jewelry closeout buyer who sells almost exclusively to jewelers on a wholesale basis. I have a thorough internet marketing understanding and need techn [...]]]></description>
+<dc:date>2013-03-25T12:07:20-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3702850936.html</dc:source>
+<dc:title><![CDATA[Seeking Webmaster Partner]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:07:20-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://milwaukee.craigslist.org/cpg/3702558555.html">
+<title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></title>
+<link>http://milwaukee.craigslist.org/cpg/3702558555.html</link>
+<description><![CDATA[Incentive advertising/marketing company seeking computer savvy ad posters/marketers. 
+This is a simple copy/paste opp. 
+We will provide complete training. 
+Create your own schedule. 
+$100+ daily is very realistic in your spare-time. 
+If you are profi [...]]]></description>
+<dc:date>2013-03-25T10:04:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://milwaukee.craigslist.org/cpg/3702558555.html</dc:source>
+<dc:title><![CDATA[***Ad Post/Marketing Opp - Paid Daily***]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:04:09-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://milwaukee.craigslist.org/cpg/3701273506.html">
 <title><![CDATA[Need a coder (web site)]]></title>
 <link>http://milwaukee.craigslist.org/cpg/3701273506.html</link>

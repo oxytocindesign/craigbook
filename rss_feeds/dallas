@@ -23,13 +23,37 @@
 <dc:source>http://dallas.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in dallas / fort worth</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:35:02-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:32-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3653213041.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3701999614.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3704010669.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3703981696.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3689844072.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3703767864.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3690598217.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703410058.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3692086228.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703387858.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3644136992.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703351553.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3703330005.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3695850000.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703234168.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703131680.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3703124163.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3703078824.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3703057026.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3671123099.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3697726952.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3702902238.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3702869809.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3702809170.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3687136442.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3702497242.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3702425825.html" />
+  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3702398450.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3701806337.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3701691156.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3701493361.html" />
@@ -47,7 +71,6 @@
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3698237795.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3697984070.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3697894214.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3697726952.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3689813442.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3697511409.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3697217842.html" />
@@ -55,13 +78,10 @@
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3696915427.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3696881194.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3696844353.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3690598217.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3696334800.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3665242541.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3696139050.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3687136442.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3695867465.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3695850000.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3695847935.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3695817196.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3695733295.html" />
@@ -84,16 +104,12 @@
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3629783315.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3648600910.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3692115097.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3692086228.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3644136992.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3691444772.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3691400253.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3691332136.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/sdf/cpg/3691202232.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3691187071.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3691132405.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3690067733.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3689844072.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3689693150.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3689642279.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3689172854.html" />
@@ -112,54 +128,368 @@
   <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3684682423.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3657821865.html" />
   <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3683527436.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3683415118.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3683282040.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3682821039.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/mdf/cpg/3682723027.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3682629667.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3682520006.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3682247267.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3671123099.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3681140099.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3681097006.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3680836431.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ftw/cpg/3664208703.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3680774020.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3680603702.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/dal/cpg/3680432970.html" />
-  <rdf:li rdf:resource="http://dallas.craigslist.org/ndf/cpg/3679278163.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3653213041.html">
-<title><![CDATA[Phone tracking/Tracing help]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3653213041.html</link>
-<description><![CDATA[Phone tracking/Tracing help 
-had a bag that was recently stolen that had a phone in it and need help tracing it 
-Thanks]]></description>
-<dc:date>2013-03-25T00:05:03-05:00</dc:date>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3704010669.html">
+<title><![CDATA[help,omaga 5.0 artpath (flower mound)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3704010669.html</link>
+<description><![CDATA[need some one to train me in omega 5.0 and art path ,and to set up and run my gerber dem.200 at a resonable rate 
+houres are flexable for me ,nights and week ends jeff 817 821 9567]]></description>
+<dc:date>2013-03-25T21:28:52-05:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3653213041.html</dc:source>
-<dc:title><![CDATA[Phone tracking/Tracing help]]></dc:title>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3704010669.html</dc:source>
+<dc:title><![CDATA[help,omaga 5.0 artpath (flower mound)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-25T00:05:03-05:00</dcterms:issued>
+<dcterms:issued>2013-03-25T21:28:52-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3701999614.html">
-<title><![CDATA[Wanted Customer Relations/Care Specialist FT/PT (Telecommute)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3701999614.html</link>
-<description><![CDATA[Job Description Looking for Customer Relations Specialists to join our growing team of professionals! Experience preferred but will train the right individuals. 
-What We Offer: 
-Part-time and full-time schedules 
-Opportunities for Advancement 
-Attrac [...]]]></description>
-<dc:date>2013-03-24T23:06:53-05:00</dc:date>
+<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3703981696.html">
+<title><![CDATA[Free credit repair for a website designer (Frisco)]]></title>
+<link>http://dallas.craigslist.org/ndf/cpg/3703981696.html</link>
+<description><![CDATA[I have a credit repair company that needs to redo it's website to be more interactive preferably using word press or another program that will be easy to maintain. Will give 6 months of free credit repair for one person or a couple, plus help you get [...]]]></description>
+<dc:date>2013-03-25T21:09:11-05:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3701999614.html</dc:source>
-<dc:title><![CDATA[Wanted Customer Relations/Care Specialist FT/PT (Telecommute)]]></dc:title>
+<dc:source>http://dallas.craigslist.org/ndf/cpg/3703981696.html</dc:source>
+<dc:title><![CDATA[Free credit repair for a website designer (Frisco)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T23:06:53-05:00</dcterms:issued>
+<dcterms:issued>2013-03-25T21:09:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3689844072.html">
+<title><![CDATA[Web Developer looking for an Awesome Opportunity (McKinney)]]></title>
+<link>http://dallas.craigslist.org/ndf/cpg/3689844072.html</link>
+<description><![CDATA[Hey there guys and girls, 
+I am building a company and I am looking for a talented web developer to take the ride with my group. We are currently looking for someone is willing to work long hours with our team and enjoys having fun and loves music. W [...]]]></description>
+<dc:date>2013-03-25T19:49:50-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/ndf/cpg/3689844072.html</dc:source>
+<dc:title><![CDATA[Web Developer looking for an Awesome Opportunity (McKinney)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T19:49:50-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/mdf/cpg/3703767864.html">
+<title><![CDATA[Need Mobile App Built (Mid-Cities)]]></title>
+<link>http://dallas.craigslist.org/mdf/cpg/3703767864.html</link>
+<description><![CDATA[My idea, your know how. Please read full post before responding. 
+You must be in the DFW area and willing to meet face to face to go over the specifics of my desired app. If you are not in the 
+DFW area, do not respond. Plain and simple. 
+Need a fair [...]]]></description>
+<dc:date>2013-03-25T18:59:59-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/mdf/cpg/3703767864.html</dc:source>
+<dc:title><![CDATA[Need Mobile App Built (Mid-Cities)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:59:59-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3690598217.html">
+<title><![CDATA[Ebay Sales (USA)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3690598217.html</link>
+<description><![CDATA[I have a decorative home furnishings buisness with hundreds of items that need to be listed for sale. 
+I pay listing fees all shipping and you make a commission!! 
+E mail me 
+I pay store fees. You must have your own Ebay store. ]]></description>
+<dc:date>2013-03-25T17:19:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3690598217.html</dc:source>
+<dc:title><![CDATA[Ebay Sales (USA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:19:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703410058.html">
+<title><![CDATA[Network Administrator (NOC) (NW Dallas, TX)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703410058.html</link>
+<description><![CDATA[Seeking a highly motivated and professional NOC Administrator in the NW Dallas area. 
+Job Duties: 
+- Provide Tier 1 Support in a 24x7x365 environment, supporting infrastructure and monitoring client networks. 
+- Configured and administered a defined  [...]]]></description>
+<dc:date>2013-03-25T16:01:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703410058.html</dc:source>
+<dc:title><![CDATA[Network Administrator (NOC) (NW Dallas, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:01:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3692086228.html">
+<title><![CDATA[Software Programmer (Dallas)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3692086228.html</link>
+<description><![CDATA[Hi, 
+I'm very good at working with HTML/CSS and programming languages like Java, C# or Ruby and work with databases too. Please let me know if you need some work done. I charge a flat rate of $25/hr. 
+Thanks. ]]></description>
+<dc:date>2013-03-25T15:59:48-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3692086228.html</dc:source>
+<dc:title><![CDATA[Software Programmer (Dallas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:59:48-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703387858.html">
+<title><![CDATA[Network Engineer (NOC) (NW Dallas, TX)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703387858.html</link>
+<description><![CDATA[Seeking an experience NOC Engineer in the NW Dallas area to utilize their skillset in a professional settting. 
+Job Duties: 
+- Provide Tier 2 support in a 24x7x365 environment, while mentoring Tier 1 technicians and staff - act as SME/POC. 
+- Work on [...]]]></description>
+<dc:date>2013-03-25T15:52:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703387858.html</dc:source>
+<dc:title><![CDATA[Network Engineer (NOC) (NW Dallas, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:52:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/mdf/cpg/3644136992.html">
+<title><![CDATA[Part Time - Looking for people to listen to music and write reviews (Dallas)]]></title>
+<link>http://dallas.craigslist.org/mdf/cpg/3644136992.html</link>
+<description><![CDATA[We are looking for some creative people to listen to music by independent musicians and rate them. You will get paid. The more detailed and knowledgeable you are, the more you will be helping the artists improve their sound, and you will also be paid [...]]]></description>
+<dc:date>2013-03-25T15:51:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/mdf/cpg/3644136992.html</dc:source>
+<dc:title><![CDATA[Part Time - Looking for people to listen to music and write reviews (Dallas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:51:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703351553.html">
+<title><![CDATA[Basic Advertising (Work From Home)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703351553.html</link>
+<description><![CDATA[Need some Extra income? If you have a Computer, Internet Access and can commit 10 hours a week. Join my network. It's basic advertising I do for a company called ZNZ right now they're paying $92 per sign up and $100 for every 5 sign ups. If your inte [...]]]></description>
+<dc:date>2013-03-25T15:35:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703351553.html</dc:source>
+<dc:title><![CDATA[Basic Advertising (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:35:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3703330005.html">
+<title><![CDATA[&gt;&gt;** SEO Expert needed]]></title>
+<link>http://dallas.craigslist.org/ndf/cpg/3703330005.html</link>
+<description><![CDATA[I need a couple of hours of consultation from an SEO Expert 
+I need someone who knows about LOCAL Optimization for small businesses 
+Will pay $40 an hour for qualified person 
+Foward your resume 
+Thanks]]></description>
+<dc:date>2013-03-25T15:26:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/ndf/cpg/3703330005.html</dc:source>
+<dc:title><![CDATA[&gt;&gt;** SEO Expert needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:26:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3695850000.html">
+<title><![CDATA[SharePoint Person to be an instructor (Texas)]]></title>
+<link>http://dallas.craigslist.org/ftw/cpg/3695850000.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-25T15:06:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/ftw/cpg/3695850000.html</dc:source>
+<dc:title><![CDATA[SharePoint Person to be an instructor (Texas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:06:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703234168.html">
+<title><![CDATA[Need a Cell Phone repair/computer repair Technician (richardson)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703234168.html</link>
+<description><![CDATA[Looking for a Computer/Cellphone repair specialist. Opening up a Cellphone Repair business and need an extra person to help out with repairing phones and computers. Mostly phones. Pay will be good. Looking for Only experienced technicians. Store will [...]]]></description>
+<dc:date>2013-03-25T14:44:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703234168.html</dc:source>
+<dc:title><![CDATA[Need a Cell Phone repair/computer repair Technician (richardson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:44:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703131680.html">
+<title><![CDATA[NEED CERTIFIED CELL PHONE TECHS. (DESOTO,DUCANVILLE,CEDAR HILL &amp; DALLAS)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703131680.html</link>
+<description><![CDATA[NEED CERTIFIED PHONE TECHS OR. EXPERIENCED IN IPHONES, HTC, SAMSUNG, MOTOROLLA AND ETC. CUSTOMERS AND CLIENTELE IS NOT AN ISSUE. 
+PLEASE RAYNARD @ 469.834.0574 IF YOU'RE NOT SERIOUS PLEASE DON'T CALL !!!!! 
+THANK YOU,]]></description>
+<dc:date>2013-03-25T14:01:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703131680.html</dc:source>
+<dc:title><![CDATA[NEED CERTIFIED CELL PHONE TECHS. (DESOTO,DUCANVILLE,CEDAR HILL &amp; DALLAS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:01:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/mdf/cpg/3703124163.html">
+<title><![CDATA[Office Help (Arlington)]]></title>
+<link>http://dallas.craigslist.org/mdf/cpg/3703124163.html</link>
+<description><![CDATA[Looking for someone to assist in office environment. Entry-Level Position. 
+* Daily shipment of small packages 
+* Inputting data into accounting software 
+* Handling phone calls- incoming & outgoing 
+* Maintain office cleanliness 
+* Filing 
+* Be a Te [...]]]></description>
+<dc:date>2013-03-25T13:58:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/mdf/cpg/3703124163.html</dc:source>
+<dc:title><![CDATA[Office Help (Arlington)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:58:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3703078824.html">
+<title><![CDATA[Pandora style music video app (Dallas)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3703078824.html</link>
+<description><![CDATA[Please see the demo @musicfire.org 
+Demo uses the youtube api along with a music database to select and play music for users. 
+32 Members with 100 page views a day. 
+I am asking $200 for the domain and App. I am looking to move on so make an offer. T [...]]]></description>
+<dc:date>2013-03-25T13:39:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3703078824.html</dc:source>
+<dc:title><![CDATA[Pandora style music video app (Dallas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:39:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3703057026.html">
+<title><![CDATA[SR .NET DEVELOPER NEEDED (Fort Worth,TX)]]></title>
+<link>http://dallas.craigslist.org/ftw/cpg/3703057026.html</link>
+<description><![CDATA[Im needing a Sr. Level C# Developer to help out with a web application. Needing somone with C#, ASP.NET, SQL, Jquery, MVC. This is a great opportunity to help another team grow. Please email resume to email address to apply or feel free to reach out  [...]]]></description>
+<dc:date>2013-03-25T13:30:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/ftw/cpg/3703057026.html</dc:source>
+<dc:title><![CDATA[SR .NET DEVELOPER NEEDED (Fort Worth,TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:30:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3671123099.html">
+<title><![CDATA[Ruby on Rails Startup Developer (DFW)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3671123099.html</link>
+<description><![CDATA[I am creating a startup and looking for an extremely skilled web programmer, you must be a freelance developer and know php and ruby on rails extremely well you must be able to code from scratch and have clean code. It would be a plus if you can desi [...]]]></description>
+<dc:date>2013-03-25T12:50:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3671123099.html</dc:source>
+<dc:title><![CDATA[Ruby on Rails Startup Developer (DFW)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:50:27-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3697726952.html">
+<title><![CDATA[IT Field Technician (NW Dallas)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3697726952.html</link>
+<description><![CDATA[Actively seeking a customer-facing IT Field Technician in the NW Dallas area. 
+Job Duties: 
+- Work with a Tier 1 NOC environment, handling escalated tickets and providing Tier 2 support for customers throughout the DFW area. 
+- Work in a 24/7/365 env [...]]]></description>
+<dc:date>2013-03-25T12:30:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3697726952.html</dc:source>
+<dc:title><![CDATA[IT Field Technician (NW Dallas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:30:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3702902238.html">
+<title><![CDATA[Marketing Intern]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3702902238.html</link>
+<description><![CDATA[We are currently looking for an innovative, passionate and creative self-starter with unique ideas to maintain / enhance web presence. If you can blog from a tag line, and want to work in a dynamic creative space for one or more days a week, please a [...]]]></description>
+<dc:date>2013-03-25T12:28:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3702902238.html</dc:source>
+<dc:title><![CDATA[Marketing Intern]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:28:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3702869809.html">
+<title><![CDATA[Experienced Web Design Coder Needed (DFW)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3702869809.html</link>
+<description><![CDATA[I need an experienced HTML, XML and CSS web coder to help me implement my Adobe Muse design into EKMPowershop. EKMPowershop is an online e-commerce store that allows adding fully customizable web code. This should be simple to an experienced coder wi [...]]]></description>
+<dc:date>2013-03-25T12:14:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3702869809.html</dc:source>
+<dc:title><![CDATA[Experienced Web Design Coder Needed (DFW)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:14:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3702809170.html">
+<title><![CDATA[PhP Developer/Wordpress (Dallas)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3702809170.html</link>
+<description><![CDATA[Looking for PhP programmer with lots of WordPress experience for several freelance projects. Must be local and able to meet face to face in downtown Dallas. Reply email with your full contact info and list of URLs you've developed start-to-finish. ]]></description>
+<dc:date>2013-03-25T11:50:23-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3702809170.html</dc:source>
+<dc:title><![CDATA[PhP Developer/Wordpress (Dallas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:50:23-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3687136442.html">
+<title><![CDATA[Senior Citrix Engineer (Addison, TX)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3687136442.html</link>
+<description><![CDATA[Senior Citrix Engineer (Addison, TX) 
+Please forward a Word resume. 
+Sr Citrix Engineer reports to the Director of Application Architecture & Delivery and is responsible for maintaining Citrix systems to ensure reliability and optimization to the bus [...]]]></description>
+<dc:date>2013-03-25T11:18:21-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3687136442.html</dc:source>
+<dc:title><![CDATA[Senior Citrix Engineer (Addison, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:18:21-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3702497242.html">
+<title><![CDATA[iPhone Repair Tech Wanted - Will Train (Arlington, TX)]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3702497242.html</link>
+<description><![CDATA[iPhone, iPad and iPod Repair Technician Wanted - Will Train 
+Some technical experience is a plus. Excellent customer service skills, punctuality and reliable transportation are a must. 
+Apply in person only. 
+702 I-20 #104 
+Arlington, TX 76017]]></description>
+<dc:date>2013-03-25T09:34:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3702497242.html</dc:source>
+<dc:title><![CDATA[iPhone Repair Tech Wanted - Will Train (Arlington, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:34:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/dal/cpg/3702425825.html">
+<title><![CDATA[Proficiency in Photo Shop or Illustration]]></title>
+<link>http://dallas.craigslist.org/dal/cpg/3702425825.html</link>
+<description><![CDATA[Proficiency in Photo Shop or Illustration 
+Interior designer seeking someone to make 6 to 8 presentation boards for design project proposal. 
+Deadline will be April 8. 
+Foam core or canvas. ]]></description>
+<dc:date>2013-03-25T08:57:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/dal/cpg/3702425825.html</dc:source>
+<dc:title><![CDATA[Proficiency in Photo Shop or Illustration]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:57:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3702398450.html">
+<title><![CDATA[Software Support Technician (Westlake, TX)]]></title>
+<link>http://dallas.craigslist.org/ftw/cpg/3702398450.html</link>
+<description><![CDATA[Title: Software Support Technician 
+Type: Contract 
+Location: Westlake, TX 
+Duration: 6 months 
+Rate: $14hr. 
+Our client, a $2B global solutions provider of IT Outsource Services, seeks a Software Support Technician to analyze raw data in relational  [...]]]></description>
+<dc:date>2013-03-25T08:41:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://dallas.craigslist.org/ftw/cpg/3702398450.html</dc:source>
+<dc:title><![CDATA[Software Support Technician (Westlake, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:41:13-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://dallas.craigslist.org/dal/cpg/3701806337.html">
 <title><![CDATA[PhP Developer/Wordpress (Dallas)]]></title>
@@ -374,21 +704,6 @@ Windows 2005 ]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T17:13:10-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3697726952.html">
-<title><![CDATA[IT Field Technician (NW Dallas)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3697726952.html</link>
-<description><![CDATA[Actively seeking a customer-facing IT Field Technician in the NW Dallas area. 
-Job Duties: 
-- Work with a Tier 1 NOC environment, handling escalated tickets and providing Tier 2 support for customers throughout the DFW area. 
-- Work in a 24/7/365 env [...]]]></description>
-<dc:date>2013-03-22T15:46:44-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3697726952.html</dc:source>
-<dc:title><![CDATA[IT Field Technician (NW Dallas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T15:46:44-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://dallas.craigslist.org/ftw/cpg/3689813442.html">
 <title><![CDATA[Web Design and Programming for Expanding eCommerce Store (Ft Worth )]]></title>
 <link>http://dallas.craigslist.org/ftw/cpg/3689813442.html</link>
@@ -485,21 +800,6 @@ W [...]]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T09:02:23-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3690598217.html">
-<title><![CDATA[Ebay Sales (USA)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3690598217.html</link>
-<description><![CDATA[I have a decorative home furnishings buisness with hundreds of items that need to be listed for sale. 
-I pay listing fees all shipping and you make a commission!! 
-E mail me 
-I pay store fees. You must have your own Ebay store. ]]></description>
-<dc:date>2013-03-22T08:03:26-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3690598217.html</dc:source>
-<dc:title><![CDATA[Ebay Sales (USA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T08:03:26-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://dallas.craigslist.org/ftw/cpg/3696334800.html">
 <title><![CDATA[I need someone with a Tech-II to unlock a radio! (Fort Worth)]]></title>
 <link>http://dallas.craigslist.org/ftw/cpg/3696334800.html</link>
@@ -538,20 +838,6 @@ Pay can [...]]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T19:12:39-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3687136442.html">
-<title><![CDATA[Senior Citrix Engineer (Addison, TX)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3687136442.html</link>
-<description><![CDATA[Senior Citrix Engineer (Addison, TX) 
-Please forward a Word resume. 
-Sr Citrix Engineer reports to the Director of Application Architecture & Delivery and is responsible for maintaining Citrix systems to ensure reliability and optimization to the bus [...]]]></description>
-<dc:date>2013-03-21T18:11:27-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3687136442.html</dc:source>
-<dc:title><![CDATA[Senior Citrix Engineer (Addison, TX)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T18:11:27-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://dallas.craigslist.org/mdf/cpg/3695867465.html">
 <title><![CDATA[Office Help Wanted (North Arlington)]]></title>
 <link>http://dallas.craigslist.org/mdf/cpg/3695867465.html</link>
@@ -574,18 +860,6 @@ S [...]]]></description>
 <dc:title><![CDATA[Office Help Wanted (North Arlington)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T16:36:49-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3695850000.html">
-<title><![CDATA[SharePoint Person to be an instructor (Texas)]]></title>
-<link>http://dallas.craigslist.org/ftw/cpg/3695850000.html</link>
-<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
-<dc:date>2013-03-21T16:27:48-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ftw/cpg/3695850000.html</dc:source>
-<dc:title><![CDATA[SharePoint Person to be an instructor (Texas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T16:27:48-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://dallas.craigslist.org/dal/cpg/3695847935.html">
 <title><![CDATA[BILINGUAL PROPERTY MANAGER (GARLAND/MESQUITE)]]></title>
@@ -885,32 +1159,6 @@ I'm a 30 year old CPA/CFP looking to change my career to web development. Over t
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T20:21:56-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3692086228.html">
-<title><![CDATA[Software Programmer (Dallas)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3692086228.html</link>
-<description><![CDATA[Hi, 
-I'm very good at working with HTML/CSS and programming languages like Java, C# or Ruby and work with databases too. Please let me know if you need some work done. I charge a flat rate of $25/hr. 
-Thanks. ]]></description>
-<dc:date>2013-03-19T20:03:49-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3692086228.html</dc:source>
-<dc:title><![CDATA[Software Programmer (Dallas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T20:03:49-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/mdf/cpg/3644136992.html">
-<title><![CDATA[Part Time - Looking for people to listen to music and write reviews (Dallas)]]></title>
-<link>http://dallas.craigslist.org/mdf/cpg/3644136992.html</link>
-<description><![CDATA[We are looking for some creative people to listen to music by independent musicians and rate them. You will get paid. The more detailed and knowledgeable you are, the more you will be helping the artists improve their sound, and you will also be paid [...]]]></description>
-<dc:date>2013-03-19T19:17:24-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/mdf/cpg/3644136992.html</dc:source>
-<dc:title><![CDATA[Part Time - Looking for people to listen to music and write reviews (Dallas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T19:17:24-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://dallas.craigslist.org/dal/cpg/3691444772.html">
 <title><![CDATA[** Wanted: Gaming Testers In Dallas ** (Dallas Area)]]></title>
 <link>http://dallas.craigslist.org/dal/cpg/3691444772.html</link>
@@ -1002,31 +1250,6 @@ Need a developer to upgrade our existing word game app "All Words Up" to have mu
 <dc:title><![CDATA[iPhone Word Game Design (Dallas)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T12:30:26-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3690067733.html">
-<title><![CDATA[plan designer (roanoke tx.)]]></title>
-<link>http://dallas.craigslist.org/ndf/cpg/3690067733.html</link>
-<description><![CDATA[i have a house i need 7x11 blueprints and a new garage 20 x22 drawn,this is for the city of dallas i need in morning.must provide floor plan roof elevation,and side shots.if you have a mobile computer and cad you can do this in 3hrs. pay 300.00 these [...]]]></description>
-<dc:date>2013-03-18T21:06:52-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ndf/cpg/3690067733.html</dc:source>
-<dc:title><![CDATA[plan designer (roanoke tx.)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T21:06:52-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3689844072.html">
-<title><![CDATA[Web Developer looking for an Awesome Opportunity (McKinney)]]></title>
-<link>http://dallas.craigslist.org/ndf/cpg/3689844072.html</link>
-<description><![CDATA[Hey there guys and girls, 
-I am building a company and I am looking for a talented web developer to take the ride with my group. We are currently looking for someone is willing to work long hours with our team and enjoys having fun and loves music. W [...]]]></description>
-<dc:date>2013-03-18T18:55:54-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ndf/cpg/3689844072.html</dc:source>
-<dc:title><![CDATA[Web Developer looking for an Awesome Opportunity (McKinney)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T18:55:54-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://dallas.craigslist.org/ndf/cpg/3689693150.html">
 <title><![CDATA[Web design intern needed (dfw)]]></title>
@@ -1273,215 +1496,5 @@ Great depth of experience assessing HIPAA compliance in a large organization
 <dc:title><![CDATA[HIPAA Compliance Manager * DDT020413 (Dallas, TX)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-15T16:08:10-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3683415118.html">
-<title><![CDATA[Entry-level Helpdesk position!!!! (DFW)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3683415118.html</link>
-<description><![CDATA[Established IT solutions company is seeking to fill 5(five) level 1 support positions. We're looking for individuals with 2 years of experience in IT. 
-We need someone who has a strong understanding of Microsoft systems and network environments. The  [...]]]></description>
-<dc:date>2013-03-15T15:16:13-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3683415118.html</dc:source>
-<dc:title><![CDATA[Entry-level Helpdesk position!!!! (DFW)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T15:16:13-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3683282040.html">
-<title><![CDATA[Part-Time Work from Home Customer Care Representative (Carrollton, Texas )]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3683282040.html</link>
-<description><![CDATA[The part-time Customer Care Representative is a work-from-home/virtual position working approximately 20 hours per week. This position is primarily responsible for providing world-class customer service to Directors, Consultants, and clients to ensur [...]]]></description>
-<dc:date>2013-03-15T14:16:11-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3683282040.html</dc:source>
-<dc:title><![CDATA[Part-Time Work from Home Customer Care Representative (Carrollton, Texas )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T14:16:11-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3682821039.html">
-<title><![CDATA[Need Help Creating a Company Database (Dallas)]]></title>
-<link>http://dallas.craigslist.org/ndf/cpg/3682821039.html</link>
-<description><![CDATA[I started a company buying and selling laptops. I have employees who are all selling laptops and parts on my eBay account. 
-I need to write a Web-enabled database that will track each laptop or laptop part that I buy all the way through the process f [...]]]></description>
-<dc:date>2013-03-15T11:01:16-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ndf/cpg/3682821039.html</dc:source>
-<dc:title><![CDATA[Need Help Creating a Company Database (Dallas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T11:01:16-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/mdf/cpg/3682723027.html">
-<title><![CDATA[HTML Email Coder / Email Developer (Irving, TX)]]></title>
-<link>http://dallas.craigslist.org/mdf/cpg/3682723027.html</link>
-<description><![CDATA[EMAIL CODER / EMAIL DEVELOPER 
-Please note: This is strictly coding, no web, no design... 
-____________________________________________ 
-The Email Coder / Developer is responsible for coding Email's from scratch. Company produces a high volume of dir [...]]]></description>
-<dc:date>2013-03-15T10:19:07-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/mdf/cpg/3682723027.html</dc:source>
-<dc:title><![CDATA[HTML Email Coder / Email Developer (Irving, TX)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T10:19:07-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3682629667.html">
-<title><![CDATA[Android App Promoter (anywhere)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3682629667.html</link>
-<description><![CDATA[Promote our Android app ( http://fantasy-finder.com ) and get USD0.25 for each install. 
-You will be the exclusive promoter. 
-If you are interested, please visit the site and tell me why this app is challenging to promote (should be easy for anyone w [...]]]></description>
-<dc:date>2013-03-15T09:34:50-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3682629667.html</dc:source>
-<dc:title><![CDATA[Android App Promoter (anywhere)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T09:34:50-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3682520006.html">
-<title><![CDATA[Experienced .NET Developer  (Downtown Fort Worth)]]></title>
-<link>http://dallas.craigslist.org/ftw/cpg/3682520006.html</link>
-<description><![CDATA[I'm looking for an experienced .NET developer to join our team of developers working on new development. This is a great opportunity for someone looking for long term employment. Our project consists new development, including developing a tablet bas [...]]]></description>
-<dc:date>2013-03-15T08:32:27-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ftw/cpg/3682520006.html</dc:source>
-<dc:title><![CDATA[Experienced .NET Developer  (Downtown Fort Worth)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T08:32:27-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3682247267.html">
-<title><![CDATA[Cisco Freelancer (Dallas and Surrounding)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3682247267.html</link>
-<description><![CDATA[Looking for a Cisco Freelancer for a large project which includes routing, switching, wireless, and Voip at multiple sites.]]></description>
-<dc:date>2013-03-15T01:41:42-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3682247267.html</dc:source>
-<dc:title><![CDATA[Cisco Freelancer (Dallas and Surrounding)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T01:41:42-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3671123099.html">
-<title><![CDATA[Web Programmer Ruby on Rails/PHP (DFW)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3671123099.html</link>
-<description><![CDATA[I am creating a startup and looking for an extremely skilled web programmer, you must know php and ruby on rails extremely well you must be able to code from scratch and have clean code. It would be a plus if you can design but not required. I have a [...]]]></description>
-<dc:date>2013-03-14T19:20:51-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3671123099.html</dc:source>
-<dc:title><![CDATA[Web Programmer Ruby on Rails/PHP (DFW)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T19:20:51-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3681140099.html">
-<title><![CDATA[VB.Net Installation Program Needed (Anywhere)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3681140099.html</link>
-<description><![CDATA[I'm looking for someone who can write a Windows installation program for a simple "Hello World" VB.NET program (Visual Studio 2010). It must handle the installation of the program along with the .Net Framework and provide for a way to update itself f [...]]]></description>
-<dc:date>2013-03-14T14:05:37-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3681140099.html</dc:source>
-<dc:title><![CDATA[VB.Net Installation Program Needed (Anywhere)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T14:05:37-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3681097006.html">
-<title><![CDATA[Content writer (Lewisville)]]></title>
-<link>http://dallas.craigslist.org/ndf/cpg/3681097006.html</link>
-<description><![CDATA[Are you living around Lewisville near the I35/121hwy area? I have an easy job for you. I need someone who is a good writer and learn about SEO. I work at a Starbucks so you will need to be out there too. Send me your resume to anthonyakalop at yahoo. [...]]]></description>
-<dc:date>2013-03-14T13:47:48-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ndf/cpg/3681097006.html</dc:source>
-<dc:title><![CDATA[Content writer (Lewisville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T13:47:48-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3680836431.html">
-<title><![CDATA[AutoCAD Work (Fort Worth/remote)]]></title>
-<link>http://dallas.craigslist.org/ftw/cpg/3680836431.html</link>
-<description><![CDATA[Wanted person to do AutoCAD work for Furniture & Cabinetry Company in Fort Worth. You would be following our hand drawings(with dimensions) and utilizing our standard Blocks in AutoCAD. You could do the work from our office or remotely. Pay could be  [...]]]></description>
-<dc:date>2013-03-14T11:59:35-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ftw/cpg/3680836431.html</dc:source>
-<dc:title><![CDATA[AutoCAD Work (Fort Worth/remote)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T11:59:35-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ftw/cpg/3664208703.html">
-<title><![CDATA[NEED HELP LEARNING MY MAC BOOK PRO (FtWorth)]]></title>
-<link>http://dallas.craigslist.org/ftw/cpg/3664208703.html</link>
-<description><![CDATA[Want to learn all the operations of my MAC........all aspects.]]></description>
-<dc:date>2013-03-14T11:35:15-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ftw/cpg/3664208703.html</dc:source>
-<dc:title><![CDATA[NEED HELP LEARNING MY MAC BOOK PRO (FtWorth)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T11:35:15-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3680774020.html">
-<title><![CDATA[BILLINGUAL RECEPIONIST  (DALLAS)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3680774020.html</link>
-<description><![CDATA[LOOKING FOR A BILLINGUAL RECEPTIONIST 
-BILLINGUAL (ENGLISH/SPANISH) 
-ABILITY TO MULTITASK 
-CUSTOMER SERVICE IS A + 
-IF YOU ARE INTERESTED PLEASE CALL AND LEAVE A MESSAGE 
-214-432-8999]]></description>
-<dc:date>2013-03-14T11:33:43-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3680774020.html</dc:source>
-<dc:title><![CDATA[BILLINGUAL RECEPIONIST  (DALLAS)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T11:33:43-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3680603702.html">
-<title><![CDATA[Bookkeeper Needed | Input Data in Quickbooks (Las Colinas, Irving)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3680603702.html</link>
-<description><![CDATA[We are looking for a part time bookkeeper to help daily transactions. Must know how to use quickbooks and be able to bank reconciliation, enter receipts, journal entries, account coding, invoicing etc 
-Candidate Requirements: 
-Formal bookkeeping trai [...]]]></description>
-<dc:date>2013-03-14T10:19:49-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3680603702.html</dc:source>
-<dc:title><![CDATA[Bookkeeper Needed | Input Data in Quickbooks (Las Colinas, Irving)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T10:19:49-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/dal/cpg/3680432970.html">
-<title><![CDATA[RE: Computer Gig (Dallas Area) (DFW)]]></title>
-<link>http://dallas.craigslist.org/dal/cpg/3680432970.html</link>
-<description><![CDATA[Dustinsstang/weebly.com is not a valid URL link. 
-It seems you might need more IT help than you thought, eh? Try again. There are many of us out here that can help you.]]></description>
-<dc:date>2013-03-14T08:51:23-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/dal/cpg/3680432970.html</dc:source>
-<dc:title><![CDATA[RE: Computer Gig (Dallas Area) (DFW)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T08:51:23-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://dallas.craigslist.org/ndf/cpg/3679278163.html">
-<title><![CDATA[Help with Apple g4 power book set up (unt denton)]]></title>
-<link>http://dallas.craigslist.org/ndf/cpg/3679278163.html</link>
-<description><![CDATA[Hi, 
-I have an apple g4 power book that I need to get some files organized on. I'm sure it's simple but I don't know macs. 
-I think it will only take an hour. This would be perfect for someone in Denton or a student going to UNT. 
-I can pay $10.00 pe [...]]]></description>
-<dc:date>2013-03-13T16:03:02-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://dallas.craigslist.org/ndf/cpg/3679278163.html</dc:source>
-<dc:title><![CDATA[Help with Apple g4 power book set up (unt denton)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T16:03:02-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

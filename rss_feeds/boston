@@ -23,11 +23,25 @@
 <dc:source>http://boston.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in boston</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:59-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:33:05-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703972375.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3703967741.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3703807502.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703780599.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703347652.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703216700.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703139892.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703052750.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703010247.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3703008667.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3702544181.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3702425577.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3693742567.html" />
+  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3702205226.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/nos/cpg/3701768655.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3701247972.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3700861513.html" />
@@ -80,7 +94,6 @@
   <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3694079520.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3694001559.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3693804789.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3693742567.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3693611437.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3693610277.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3693129488.html" />
@@ -115,22 +128,184 @@
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3683430743.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/nwb/cpg/3683127639.html" />
   <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3682868104.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3681959490.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/nwb/cpg/3681544042.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3681355817.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3649859339.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/bmw/cpg/3680863301.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/nos/cpg/3680779903.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3680766988.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3680670299.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3680560719.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3680556114.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3680290466.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3679928503.html" />
-  <rdf:li rdf:resource="http://boston.craigslist.org/gbs/cpg/3678616308.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703972375.html">
+<title><![CDATA[Help w/ Wordpress (Super easy!!) (Brookline)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703972375.html</link>
+<description><![CDATA[Hello! I am starting a blog on wordpress and basically don't want it to look like a tacky blog on wordpress! I need some help resizing photos, changing fonts, etc. For anyone who knows anything more than how to turn on a computer I imagine this would [...]]]></description>
+<dc:date>2013-03-25T22:02:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703972375.html</dc:source>
+<dc:title><![CDATA[Help w/ Wordpress (Super easy!!) (Brookline)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T22:02:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/bmw/cpg/3703967741.html">
+<title><![CDATA[NEED COMPUTER HELP (WALTHAM)]]></title>
+<link>http://boston.craigslist.org/bmw/cpg/3703967741.html</link>
+<description><![CDATA[I am looking for a web designer to help build host and general help getting my idea of the ground on contingency ONLY please reply to me via e mail and I will contact you to discuss !!! Thank you ]]></description>
+<dc:date>2013-03-25T21:59:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/bmw/cpg/3703967741.html</dc:source>
+<dc:title><![CDATA[NEED COMPUTER HELP (WALTHAM)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T21:59:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/bmw/cpg/3703807502.html">
+<title><![CDATA[Excel & Typing help needed asap $25/hr (Waltham)]]></title>
+<link>http://boston.craigslist.org/bmw/cpg/3703807502.html</link>
+<description><![CDATA[Small project. 4-6 hours needed to expedite completion of an excel spreadsheet. Typing speed is primary strength needed, excel familiarity is second. Ideally need help tomorrow 3/26 in Waltham on Winter Street in professional office bldg. Please resp [...]]]></description>
+<dc:date>2013-03-25T20:22:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/bmw/cpg/3703807502.html</dc:source>
+<dc:title><![CDATA[Excel & Typing help needed asap $25/hr (Waltham)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:22:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703780599.html">
+<title><![CDATA[Fix My iPhone 4 - My Screen is Cracked (North End)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703780599.html</link>
+<description><![CDATA[I am looking for someone who can fix a broken screen on an iPhone 4.]]></description>
+<dc:date>2013-03-25T20:07:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703780599.html</dc:source>
+<dc:title><![CDATA[Fix My iPhone 4 - My Screen is Cracked (North End)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:07:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703347652.html">
+<title><![CDATA[Looking for amateur graphic designer (Waltham, MA)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703347652.html</link>
+<description><![CDATA[I'm starting my business of t-shirt design and I need someone with some experience in AI. Looking to build up its résumé 
+My budget is extremely limited, as I just staring, so I need a fairly flat rate, until my business grow as it will many other de [...]]]></description>
+<dc:date>2013-03-25T16:34:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703347652.html</dc:source>
+<dc:title><![CDATA[Looking for amateur graphic designer (Waltham, MA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:34:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703216700.html">
+<title><![CDATA[Answer Question About Polymers (Boston)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703216700.html</link>
+<description><![CDATA[I need someone to answer a materials science question regarding polymers. 
+Please tell me your background and I'll email you my question. 
+I'll pay you $70 to answer it.]]></description>
+<dc:date>2013-03-25T15:37:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703216700.html</dc:source>
+<dc:title><![CDATA[Answer Question About Polymers (Boston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:37:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703139892.html">
+<title><![CDATA[WEBSITE, VIDEO, BROCHURE]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703139892.html</link>
+<description><![CDATA[CCM is looking for a website, brochure, and product demonstration video/infomercial. CCM is a new patented beverage can top groove cover targetting consumer beverage companies (pepsico, coke, monster, budweiser. . .) to license Clean Can Technology f [...]]]></description>
+<dc:date>2013-03-25T15:04:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703139892.html</dc:source>
+<dc:title><![CDATA[WEBSITE, VIDEO, BROCHURE]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:04:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703052750.html">
+<title><![CDATA[web design and logo]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703052750.html</link>
+<description><![CDATA[we are a started company making healthy dog treats. looking to build a wordpress page with a shopping cart. need a logo done for the company. please submit your offer ]]></description>
+<dc:date>2013-03-25T14:28:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703052750.html</dc:source>
+<dc:title><![CDATA[web design and logo]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:28:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703010247.html">
+<title><![CDATA[Seeking Web Development Pro (NH)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703010247.html</link>
+<description><![CDATA[This is an offering for a partnership/equity stake in my company - it's not a paid position. Please, only those interested in an equity stake reply. 
+Men's health information and eCommerce website looking for a web development pro. WordPress & SEO ex [...]]]></description>
+<dc:date>2013-03-25T14:11:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703010247.html</dc:source>
+<dc:title><![CDATA[Seeking Web Development Pro (NH)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:11:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3703008667.html">
+<title><![CDATA[architecture website (boston)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3703008667.html</link>
+<description><![CDATA[Small architecture firm looking to hire a talented designer to redesign our website. 
+Please respond with links to previously designed sites and desired compensation. 
+Thank you.]]></description>
+<dc:date>2013-03-25T14:11:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3703008667.html</dc:source>
+<dc:title><![CDATA[architecture website (boston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:11:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3702544181.html">
+<title><![CDATA[Web Page Designer (South End)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3702544181.html</link>
+<description><![CDATA[Hello, 
+I'm currently looking for a web designer. Possibly someone who is seasoned in the area of designing pages for musicians or other musical talents. It would be greatly appreciated if you have portfolios of previous work. This is very good expos [...]]]></description>
+<dc:date>2013-03-25T10:57:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3702544181.html</dc:source>
+<dc:title><![CDATA[Web Page Designer (South End)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:57:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3702425577.html">
+<title><![CDATA[Freelance web developer needed immediately  (Anywhere )]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3702425577.html</link>
+<description><![CDATA[I need help finishing a web design project. The person must have database experience and experience with Open X. If you can help me out, please email me. Project needs to be completed in a couple of days. We will not work with offshore companies.]]></description>
+<dc:date>2013-03-25T09:57:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3702425577.html</dc:source>
+<dc:title><![CDATA[Freelance web developer needed immediately  (Anywhere )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:57:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3693742567.html">
+<title><![CDATA[Real Estate Ads Data Entry (Boston)]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3693742567.html</link>
+<description><![CDATA[Looking to hire a computer savvy individual to create and post ads in various industry websites for our rental apartments. The job requires basic computer knowledge and can be done eventually from home. The ideal candidate is a detail oriented person [...]]]></description>
+<dc:date>2013-03-25T08:54:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3693742567.html</dc:source>
+<dc:title><![CDATA[Real Estate Ads Data Entry (Boston)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:54:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://boston.craigslist.org/gbs/cpg/3702205226.html">
+<title><![CDATA[Web Designers and DB architects  (Boston, Mass )]]></title>
+<link>http://boston.craigslist.org/gbs/cpg/3702205226.html</link>
+<description><![CDATA[Our team is growing and we are still in search of talented developers. HTML5, CF, CSS, JQUERY, SQL engineers. We are looking for creative open minded programmers and conceptual thinkers. Progressive pay plan and equity positions available. ]]></description>
+<dc:date>2013-03-25T05:58:03-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boston.craigslist.org/gbs/cpg/3702205226.html</dc:source>
+<dc:title><![CDATA[Web Designers and DB architects  (Boston, Mass )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T05:58:03-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://boston.craigslist.org/nos/cpg/3701768655.html">
 <title><![CDATA[Network / LAN HELP NEEDED (LYNN)]]></title>
 <link>http://boston.craigslist.org/nos/cpg/3701768655.html</link>
@@ -844,18 +1019,6 @@ Need a developer to upgrade our existing word game app "All Words Up" to have mu
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-20T17:36:03-04:00</dcterms:issued>
 </item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3693742567.html">
-<title><![CDATA[Real Estate Ads Data Entry (Boston)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3693742567.html</link>
-<description><![CDATA[Looking to hire a computer savvy individual to create and post ads in various industry websites for our rental apartments. The job requires basic computer knowledge and can be done eventually from home. The ideal candidate is a detail oriented person [...]]]></description>
-<dc:date>2013-03-20T17:05:55-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3693742567.html</dc:source>
-<dc:title><![CDATA[Real Estate Ads Data Entry (Boston)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-20T17:05:55-04:00</dcterms:issued>
-</item>
 <item rdf:about="http://boston.craigslist.org/gbs/cpg/3693611437.html">
 <title><![CDATA[Android Developer Contractor Needed for App (Boston Area)]]></title>
 <link>http://boston.craigslist.org/gbs/cpg/3693611437.html</link>
@@ -1305,172 +1468,5 @@ So, please tell me your experience in human gen [...]]]></description>
 <dc:title><![CDATA[Need a Professional Human Genetics Opinion  (Boston)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-15T12:21:15-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/bmw/cpg/3681959490.html">
-<title><![CDATA[Design Student (Newton)]]></title>
-<link>http://boston.craigslist.org/bmw/cpg/3681959490.html</link>
-<description><![CDATA[Hi 
-I'm looking for a college age guy/lady that can build a website and or logo for my new business. Obviously I will pay you. Maybe you can apply the project to your schooling for credit as well. Im open to ideas.. 
-Thanks!]]></description>
-<dc:date>2013-03-14T22:09:57-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/bmw/cpg/3681959490.html</dc:source>
-<dc:title><![CDATA[Design Student (Newton)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T22:09:57-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/nwb/cpg/3681544042.html">
-<title><![CDATA[Software Marketing/Office Admin (North Andover)]]></title>
-<link>http://boston.craigslist.org/nwb/cpg/3681544042.html</link>
-<description><![CDATA[Well established Software Serivces providing company looking for Marketing personals / Trainees. 
-Need help developing the Web content and Marketing Brochures. 
-Qualified candidates should have good presentation skills. should be able to articulate c [...]]]></description>
-<dc:date>2013-03-14T18:11:42-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/nwb/cpg/3681544042.html</dc:source>
-<dc:title><![CDATA[Software Marketing/Office Admin (North Andover)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T18:11:42-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3681355817.html">
-<title><![CDATA[Mobile Developer (Boston)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3681355817.html</link>
-<description><![CDATA[For the past three years I have been working as an independent iPhone developer and Entrepreneur. In that time I've come up with a reasonably successful formula for generating app sales and mining the app store for opportunity. 
-I'm not one of the id [...]]]></description>
-<dc:date>2013-03-14T16:40:55-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3681355817.html</dc:source>
-<dc:title><![CDATA[Mobile Developer (Boston)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T16:40:55-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3649859339.html">
-<title><![CDATA[MS Access trainer wanted - Boston]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3649859339.html</link>
-<description><![CDATA[We are a training firm looking for a Microsoft Access trainer. Must have past training experience. 
-Please reply with your bio or resume. Local candidates only, thanks. 
-Thank you.]]></description>
-<dc:date>2013-03-14T13:18:31-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3649859339.html</dc:source>
-<dc:title><![CDATA[MS Access trainer wanted - Boston]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T13:18:31-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/bmw/cpg/3680863301.html">
-<title><![CDATA[Real Estate Agent Reporting Help (Anywhere in MA)]]></title>
-<link>http://boston.craigslist.org/bmw/cpg/3680863301.html</link>
-<description><![CDATA[I am looking for a real estate agent or broker who is willing to send us a daily MLS report of homes that have gone under agreement in MA. I would want this report emailed to me in an excel spread sheet every morning. Weekends would not be required a [...]]]></description>
-<dc:date>2013-03-14T13:10:51-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/bmw/cpg/3680863301.html</dc:source>
-<dc:title><![CDATA[Real Estate Agent Reporting Help (Anywhere in MA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T13:10:51-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/nos/cpg/3680779903.html">
-<title><![CDATA[Looking for help with Word Press (Salem)]]></title>
-<link>http://boston.craigslist.org/nos/cpg/3680779903.html</link>
-<description><![CDATA[I currently have a word press web site and I'm looking to make some changes. The first thing I want to do is set up a new email address and have our information form that customers fill out when they have questions forwarded to that (it currently goe [...]]]></description>
-<dc:date>2013-03-14T12:36:12-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/nos/cpg/3680779903.html</dc:source>
-<dc:title><![CDATA[Looking for help with Word Press (Salem)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T12:36:12-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3680766988.html">
-<title><![CDATA[NEED OLDER WINDOWS INSTALLED (Somerville)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3680766988.html</link>
-<description><![CDATA[I have a laptop with that new horrible windows on it...I need someone to install older windows and quickbooks (I have the quickbooks but not older windows) asap...U must have windows 2000 or something like that to install. Paying $50 today asap!]]></description>
-<dc:date>2013-03-14T12:30:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3680766988.html</dc:source>
-<dc:title><![CDATA[NEED OLDER WINDOWS INSTALLED (Somerville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T12:30:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3680670299.html">
-<title><![CDATA[Web Content Entry (Andover)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3680670299.html</link>
-<description><![CDATA[We are getting ready to launch a redesigned site. As part of this, we are looking for content entry support to move content from our old site to our new site. 
-Requirements: 
-Willing and able to spend the next 6-8 weeks as a full-time or part-time te [...]]]></description>
-<dc:date>2013-03-14T11:49:18-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3680670299.html</dc:source>
-<dc:title><![CDATA[Web Content Entry (Andover)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T11:49:18-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3680560719.html">
-<title><![CDATA[lookin for someone familiar with quickbooks (stoneham)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3680560719.html</link>
-<description><![CDATA[lookinf for someone familiar with quickbooks 2010 contractor edition to help me do a P & L ]]></description>
-<dc:date>2013-03-14T10:59:45-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3680560719.html</dc:source>
-<dc:title><![CDATA[lookin for someone familiar with quickbooks (stoneham)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T10:59:45-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3680556114.html">
-<title><![CDATA[Online Dating Chatters Wanted (Online)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3680556114.html</link>
-<description><![CDATA[We are looking for people (MALE) between the ages of 18 and 45 to promote our brand new dating website. We have launched our new dating website a couple months ago and are currently running a promotion paying $100 for 5-10 hours of online chat time t [...]]]></description>
-<dc:date>2013-03-14T10:57:32-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3680556114.html</dc:source>
-<dc:title><![CDATA[Online Dating Chatters Wanted (Online)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T10:57:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3680290466.html">
-<title><![CDATA[Great with Editing Docs (boston)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3680290466.html</link>
-<description><![CDATA[Looking for someone that is great at proofreading editing scaning and redoing major changes to documents and papers. ]]></description>
-<dc:date>2013-03-14T07:52:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3680290466.html</dc:source>
-<dc:title><![CDATA[Great with Editing Docs (boston)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T07:52:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3679928503.html">
-<title><![CDATA[Help with creating Amazon Listings  (North of Boston)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3679928503.html</link>
-<description><![CDATA[Local ONLY 
-Hello 
-I am looking for a someone who has experience with creating listing for products on Amazon. Please send me your resume and info about yourself and we can go from there. Would like to only deal with someone locally. ]]></description>
-<dc:date>2013-03-13T23:02:54-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3679928503.html</dc:source>
-<dc:title><![CDATA[Help with creating Amazon Listings  (North of Boston)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T23:02:54-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://boston.craigslist.org/gbs/cpg/3678616308.html">
-<title><![CDATA[ASP.NET/VB.NET/SQL Server  (Boston)]]></title>
-<link>http://boston.craigslist.org/gbs/cpg/3678616308.html</link>
-<description><![CDATA[We are looking for a seasoned developer with extensive experience with ASP.NET, VB.NET and SQL Server. This will be a minimum 3 month engagement but more likely a 15 month engagement. This is an on site position, sorry no (maybe minimal) remote work. [...]]]></description>
-<dc:date>2013-03-13T12:32:27-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://boston.craigslist.org/gbs/cpg/3678616308.html</dc:source>
-<dc:title><![CDATA[ASP.NET/VB.NET/SQL Server  (Boston)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T12:32:27-04:00</dcterms:issued>
 </item>
 </rdf:RDF>

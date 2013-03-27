@@ -23,14 +23,14 @@
 <dc:source>http://gainesville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in gainesville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:33:43-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3700163470.html" />
-  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3696988660.html" />
   <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3649287780.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3702196490.html" />
+  <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3700163470.html" />
   <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3691687544.html" />
   <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3671445623.html" />
   <rdf:li rdf:resource="http://gainesville.craigslist.org/cpg/3681540389.html" />
@@ -50,6 +50,36 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3649287780.html">
+<title><![CDATA[Looking for person to market a new product (Gainesville)]]></title>
+<link>http://gainesville.craigslist.org/cpg/3649287780.html</link>
+<description><![CDATA[Looking for someone to market a cutting edge product. 
+Must be motivated to make money and share an awesome product that retailers will sell like hotcakes! 
+You can also sell this product through the website and earn commissions. 
+This is an amazing  [...]]]></description>
+<dc:date>2013-03-25T13:56:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3649287780.html</dc:source>
+<dc:title><![CDATA[Looking for person to market a new product (Gainesville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:56:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://gainesville.craigslist.org/cpg/3702196490.html">
+<title><![CDATA[PC Sales Company Seeks Professional Tech]]></title>
+<link>http://gainesville.craigslist.org/cpg/3702196490.html</link>
+<description><![CDATA[Hi, 
+I need some help in the back end of the store here. I need someone who can load computers, wrap in bubble wrap, and box up and ship out, without making any mistakes. 
+Part time work, could turn into full time, if it really takes off.. 
+Must be a [...]]]></description>
+<dc:date>2013-03-25T05:38:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://gainesville.craigslist.org/cpg/3702196490.html</dc:source>
+<dc:title><![CDATA[PC Sales Company Seeks Professional Tech]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T05:38:13-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://gainesville.craigslist.org/cpg/3700163470.html">
 <title><![CDATA[Need help with Website design!]]></title>
 <link>http://gainesville.craigslist.org/cpg/3700163470.html</link>
@@ -61,34 +91,6 @@
 <dc:title><![CDATA[Need help with Website design!]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T22:54:50-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://gainesville.craigslist.org/cpg/3696988660.html">
-<title><![CDATA[   computer repairer needed urgently...!!!!]]></title>
-<link>http://gainesville.craigslist.org/cpg/3696988660.html</link>
-<description><![CDATA[Are you handy with personal computer/laptop troubleshooting and repair? We have positions open RIGHT NOW in the field of computer repair. 
-Established company is looking for Techs who can troubleshoot, isolate, and repair hardware issues with Persona [...]]]></description>
-<dc:date>2013-03-22T11:15:33-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://gainesville.craigslist.org/cpg/3696988660.html</dc:source>
-<dc:title><![CDATA[   computer repairer needed urgently...!!!!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T11:15:33-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://gainesville.craigslist.org/cpg/3649287780.html">
-<title><![CDATA[Looking for person to market a new product (Gainesville)]]></title>
-<link>http://gainesville.craigslist.org/cpg/3649287780.html</link>
-<description><![CDATA[Looking for someone to market a cutting edge product. 
-Must be motivated to make money and share an awesome product that retailers will sell like hotcakes! 
-You can also sell this product through the website and earn commissions. 
-This is an amazing  [...]]]></description>
-<dc:date>2013-03-20T14:07:46-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://gainesville.craigslist.org/cpg/3649287780.html</dc:source>
-<dc:title><![CDATA[Looking for person to market a new product (Gainesville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-20T14:07:46-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://gainesville.craigslist.org/cpg/3691687544.html">
 <title><![CDATA[Videomaking Consultation (Gainesville)]]></title>

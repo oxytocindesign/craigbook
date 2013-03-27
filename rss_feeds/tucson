@@ -23,15 +23,15 @@
 <dc:source>http://tucson.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in tucson</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:40:41-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3694120402.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3703484486.html" />
+  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3696139014.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3697600613.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3696495682.html" />
-  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3696139014.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3691161856.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3682850626.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3678634333.html" />
@@ -49,22 +49,37 @@
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3614316850.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3613595853.html" />
   <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3610970627.html" />
-  <rdf:li rdf:resource="http://tucson.craigslist.org/cpg/3571561421.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://tucson.craigslist.org/cpg/3694120402.html">
-<title><![CDATA[Sales Help]]></title>
-<link>http://tucson.craigslist.org/cpg/3694120402.html</link>
-<description><![CDATA[I am overwhelmed with incoming leads for my software company that I need help following up on via phone and email. 
-I can pay you $100-$300 per sale, and provide all the leads you can handle. You can choose the hours/schedule you like, and are free t [...]]]></description>
-<dc:date>2013-03-23T14:05:09-07:00</dc:date>
+<item rdf:about="http://tucson.craigslist.org/cpg/3703484486.html">
+<title><![CDATA[Help with Final Cut Pro X (midtown)]]></title>
+<link>http://tucson.craigslist.org/cpg/3703484486.html</link>
+<description><![CDATA[Looking for a tutor in FCPX media management and backup. 
+I'm getting loaded up with large files and need to clean house 
+Please email your times avail and rates 
+thanks ]]></description>
+<dc:date>2013-03-25T14:35:53-07:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tucson.craigslist.org/cpg/3694120402.html</dc:source>
-<dc:title><![CDATA[Sales Help]]></dc:title>
+<dc:source>http://tucson.craigslist.org/cpg/3703484486.html</dc:source>
+<dc:title><![CDATA[Help with Final Cut Pro X (midtown)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T14:05:09-07:00</dcterms:issued>
+<dcterms:issued>2013-03-25T14:35:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://tucson.craigslist.org/cpg/3696139014.html">
+<title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></title>
+<link>http://tucson.craigslist.org/cpg/3696139014.html</link>
+<description><![CDATA[I bought a new CNC machine, with Mach 3 software. 
+Wanting to use it to carve pictures into wood. 
+Looking for someone to show me how to run it.]]></description>
+<dc:date>2013-03-25T07:25:32-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tucson.craigslist.org/cpg/3696139014.html</dc:source>
+<dc:title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T07:25:32-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://tucson.craigslist.org/cpg/3697600613.html">
 <title><![CDATA[Sync Audio/Video 15 min video (Tucson)]]></title>
@@ -91,20 +106,6 @@ Email me! I have a business opportunity for you! ]]></description>
 <dc:title><![CDATA[Need a sales guy]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T22:04:32-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://tucson.craigslist.org/cpg/3696139014.html">
-<title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></title>
-<link>http://tucson.craigslist.org/cpg/3696139014.html</link>
-<description><![CDATA[I bought a new CNC machine, with Mach 3 software. 
-Wanting to use it to carve pictures into wood. 
-Looking for someone to show me how to run it.]]></description>
-<dc:date>2013-03-21T17:12:37-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tucson.craigslist.org/cpg/3696139014.html</dc:source>
-<dc:title><![CDATA[Help with CNC machine...Mach 3 software (East Tucson)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T17:12:37-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://tucson.craigslist.org/cpg/3691161856.html">
 <title><![CDATA[Caterease Software (Oro Valley)]]></title>
@@ -315,17 +316,5 @@ Please reply with you email or phone number]]></description>
 <dc:title><![CDATA[need webdesigner  (tucson )]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-11T18:43:48-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://tucson.craigslist.org/cpg/3571561421.html">
-<title><![CDATA[Phone Tech Needed (Tucson, AZ.)]]></title>
-<link>http://tucson.craigslist.org/cpg/3571561421.html</link>
-<description><![CDATA[We are looking to hire phone techs who have mobile access and experience in fixing iPhones, Htc's and other smart phones. It is required that the tech can at least change the screen to an iPhone, repair camera, swap out the battery, etc. Serious Inqu [...]]]></description>
-<dc:date>2013-02-07T15:20:49-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tucson.craigslist.org/cpg/3571561421.html</dc:source>
-<dc:title><![CDATA[Phone Tech Needed (Tucson, AZ.)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T15:20:49-07:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,28 +23,15 @@
 <dc:source>http://lawton.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in lawton</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:40:04-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:34:03-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://lawton.craigslist.org/cpg/3690945120.html" />
   <rdf:li rdf:resource="http://lawton.craigslist.org/cpg/3688984039.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://lawton.craigslist.org/cpg/3690945120.html">
-<title><![CDATA[PC Techs - Needed (Lawton, OK)]]></title>
-<link>http://lawton.craigslist.org/cpg/3690945120.html</link>
-<description><![CDATA[We are looking for PC Technicians to assist with the rollout of new computer related hardware (Desktops and Laptops), packing up of older equipment and making sure everything is connected correctly to the network. The client is located in Lawon, OK a [...]]]></description>
-<dc:date>2013-03-19T10:13:44-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://lawton.craigslist.org/cpg/3690945120.html</dc:source>
-<dc:title><![CDATA[PC Techs - Needed (Lawton, OK)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T10:13:44-06:00</dcterms:issued>
-</item>
 <item rdf:about="http://lawton.craigslist.org/cpg/3688984039.html">
 <title><![CDATA[PC Technicians (Lawton, OK)]]></title>
 <link>http://lawton.craigslist.org/cpg/3688984039.html</link>

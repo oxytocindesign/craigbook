@@ -23,11 +23,12 @@
 <dc:source>http://boise.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in boise</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:33:45-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:41:04-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3703773267.html" />
   <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3696341785.html" />
   <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3698139242.html" />
   <rdf:li rdf:resource="http://boise.craigslist.org/cpg/3694348386.html" />
@@ -51,6 +52,22 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://boise.craigslist.org/cpg/3703773267.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://boise.craigslist.org/cpg/3703773267.html</link>
+<description><![CDATA[Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or full time. 
+Considerable in [...]]]></description>
+<dc:date>2013-03-25T18:02:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://boise.craigslist.org/cpg/3703773267.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:02:55-06:00</dcterms:issued>
+</item>
 <item rdf:about="http://boise.craigslist.org/cpg/3696341785.html">
 <title><![CDATA[Work From Home Selling on eBay (Boise/Nampa/Caldwell)]]></title>
 <link>http://boise.craigslist.org/cpg/3696341785.html</link>

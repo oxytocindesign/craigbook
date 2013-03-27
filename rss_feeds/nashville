@@ -23,13 +23,11 @@
 <dc:source>http://nashville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in nashville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:35:10-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:45:10-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3701968264.html" />
-  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3698033435.html" />
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3692076995.html" />
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3691106107.html" />
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3687490896.html" />
@@ -66,35 +64,9 @@
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3617433575.html" />
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3612889425.html" />
   <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3611290225.html" />
-  <rdf:li rdf:resource="http://nashville.craigslist.org/cpg/3601535204.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://nashville.craigslist.org/cpg/3701968264.html">
-<title><![CDATA[We Are Now Looking For A Good Team! (TN)]]></title>
-<link>http://nashville.craigslist.org/cpg/3701968264.html</link>
-<description><![CDATA[]]></description>
-<dc:date>2013-03-24T22:36:58-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://nashville.craigslist.org/cpg/3701968264.html</dc:source>
-<dc:title><![CDATA[We Are Now Looking For A Good Team! (TN)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T22:36:58-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://nashville.craigslist.org/cpg/3698033435.html">
-<title><![CDATA[Web Site Sales (Franklin/Spring Hill)]]></title>
-<link>http://nashville.craigslist.org/cpg/3698033435.html</link>
-<description><![CDATA[Are a you Craigslist guru? Do you know alot of other sites you can use for jobs? Want to make some serious cash? I've got the perfect job for you. 
-We are Kasper Door and Hardware. We sell, service and repair commercial doors as well as architectural [...]]]></description>
-<dc:date>2013-03-24T21:31:19-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://nashville.craigslist.org/cpg/3698033435.html</dc:source>
-<dc:title><![CDATA[Web Site Sales (Franklin/Spring Hill)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T21:31:19-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://nashville.craigslist.org/cpg/3692076995.html">
 <title><![CDATA[Need Website design help. (Murfreesboro)]]></title>
 <link>http://nashville.craigslist.org/cpg/3692076995.html</link>
@@ -561,17 +533,5 @@ Must follow us on twitter ]]></description>
 <dc:title><![CDATA[RE: RE: Website Design (Nashville)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-11T23:01:28-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://nashville.craigslist.org/cpg/3601535204.html">
-<title><![CDATA[Need help with Google Adwords (Nashville area)]]></title>
-<link>http://nashville.craigslist.org/cpg/3601535204.html</link>
-<description><![CDATA[I need help posting ads on Google Adwords. I am in the pay per call business, so I need ads that utilize the "click to call" feature only.]]></description>
-<dc:date>2013-02-07T17:48:29-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://nashville.craigslist.org/cpg/3601535204.html</dc:source>
-<dc:title><![CDATA[Need help with Google Adwords (Nashville area)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T17:48:29-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

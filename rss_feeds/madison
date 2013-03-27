@@ -23,11 +23,12 @@
 <dc:source>http://madison.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in madison</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:12-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:38-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3703929927.html" />
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3701914990.html" />
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3701475916.html" />
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3694159605.html" />
@@ -50,10 +51,21 @@
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3609740813.html" />
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3591157758.html" />
   <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3603603852.html" />
-  <rdf:li rdf:resource="http://madison.craigslist.org/cpg/3600130577.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://madison.craigslist.org/cpg/3703929927.html">
+<title><![CDATA[Newspaper looking for website help!! (Madison, WI)]]></title>
+<link>http://madison.craigslist.org/cpg/3703929927.html</link>
+<description><![CDATA[Small newspaper is looking for creative minds for the following positions. Application is very simple, and once you email your interest, interviews will shortly follow. Please note that we are a not-for profit, looking for team members to help grow o [...]]]></description>
+<dc:date>2013-03-25T20:35:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://madison.craigslist.org/cpg/3703929927.html</dc:source>
+<dc:title><![CDATA[Newspaper looking for website help!! (Madison, WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:35:36-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://madison.craigslist.org/cpg/3701914990.html">
 <title><![CDATA[&gt;&gt;&gt; Struggling With Online Income??? &lt;&lt;&lt; (national / international)]]></title>
 <link>http://madison.craigslist.org/cpg/3701914990.html</link>
@@ -334,17 +346,5 @@ Please send an updated version of your resume to be considered for this position
 <dc:title><![CDATA[Business Analyst (Madison, WI)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-08T15:24:37-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://madison.craigslist.org/cpg/3600130577.html">
-<title><![CDATA[Help Desk Support (Madison WI.)]]></title>
-<link>http://madison.craigslist.org/cpg/3600130577.html</link>
-<description><![CDATA[I am currently hiring teir 1 help desk techs. We are moving quickly in this hiring process and are looking for multiple technicians for this role, so the sooner you apply the better your candidacy will be for these positions. Below is a list of all t [...]]]></description>
-<dc:date>2013-02-07T08:23:03-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://madison.craigslist.org/cpg/3600130577.html</dc:source>
-<dc:title><![CDATA[Help Desk Support (Madison WI.)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T08:23:03-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,14 +23,14 @@
 <dc:source>http://omaha.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in omaha / council bluffs</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:37:49-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:41:31-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3664245952.html" />
   <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3697625511.html" />
   <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3695550152.html" />
-  <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3664245952.html" />
   <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3691737555.html" />
   <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3657156501.html" />
   <rdf:li rdf:resource="http://omaha.craigslist.org/cpg/3653155825.html" />
@@ -46,6 +46,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://omaha.craigslist.org/cpg/3664245952.html">
+<title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></title>
+<link>http://omaha.craigslist.org/cpg/3664245952.html</link>
+<description><![CDATA[Need part time PC tech. 10-30 hours per week. Reply with resume. ]]></description>
+<dc:date>2013-03-25T07:33:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://omaha.craigslist.org/cpg/3664245952.html</dc:source>
+<dc:title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T07:33:22-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://omaha.craigslist.org/cpg/3697625511.html">
 <title><![CDATA[Testers needed (Usability test) (Mutual of Omaha Plz, Omaha, NE 68175)]]></title>
 <link>http://omaha.craigslist.org/cpg/3697625511.html</link>
@@ -71,18 +83,6 @@ Ea [...]]]></description>
 <dc:title><![CDATA[Make Some Quick Weekday Cash (Omaha, NE)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T14:04:36-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://omaha.craigslist.org/cpg/3664245952.html">
-<title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></title>
-<link>http://omaha.craigslist.org/cpg/3664245952.html</link>
-<description><![CDATA[Need part time PC tech. 10-30 hours per week. Reply with resume. ]]></description>
-<dc:date>2013-03-21T07:43:01-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://omaha.craigslist.org/cpg/3664245952.html</dc:source>
-<dc:title><![CDATA[Need part time PC tech.   10-30 hours per week. (Omaha, NE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T07:43:01-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://omaha.craigslist.org/cpg/3691737555.html">
 <title><![CDATA[need some typeing done (Omaha)]]></title>

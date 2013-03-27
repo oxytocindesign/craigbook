@@ -23,7 +23,7 @@
 <dc:source>http://pittsburgh.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in pittsburgh</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:36:53-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:45:07-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -81,7 +81,6 @@
   <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3609883045.html" />
   <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3608032385.html" />
   <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3599574863.html" />
-  <rdf:li rdf:resource="http://pittsburgh.craigslist.org/cpg/3600440613.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -785,17 +784,5 @@ We are looking for volunteers with Wordpress experience to help us with a nonpro
 <dc:title><![CDATA[Need help with a php script we purchased from codecanyon.net (pittsburgh-tri-state)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-09T01:58:09-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://pittsburgh.craigslist.org/cpg/3600440613.html">
-<title><![CDATA[Looking for a Software Engineer (Pittsburgh)]]></title>
-<link>http://pittsburgh.craigslist.org/cpg/3600440613.html</link>
-<description><![CDATA[I am looking for a software engineer to help me build a service platform to aid freelancers and their clients more easily communicate with each other. I am currently looking for an engineer to aid me while I attend to business and sales. Currently I' [...]]]></description>
-<dc:date>2013-02-07T11:40:22-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://pittsburgh.craigslist.org/cpg/3600440613.html</dc:source>
-<dc:title><![CDATA[Looking for a Software Engineer (Pittsburgh)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T11:40:22-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

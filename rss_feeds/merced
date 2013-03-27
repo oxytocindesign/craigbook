@@ -23,11 +23,12 @@
 <dc:source>http://merced.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in merced</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:24:55-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:40:45-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3703513395.html" />
   <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3677842620.html" />
   <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3635960567.html" />
   <rdf:li rdf:resource="http://merced.craigslist.org/cpg/3625219507.html" />
@@ -36,6 +37,21 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://merced.craigslist.org/cpg/3703513395.html">
+<title><![CDATA[PC Tech - Needed (Irvine, CA)]]></title>
+<link>http://merced.craigslist.org/cpg/3703513395.html</link>
+<description><![CDATA[We're seeking a PC Technician for service call at major bank in Irvine, CA. The service call will be tomorrow 3/26 at 8:30AM. 
+The service call will be disconnecting and reconnecting PC's and Printers. 
+You must have reliable transportation. 
+If you  [...]]]></description>
+<dc:date>2013-03-25T14:49:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://merced.craigslist.org/cpg/3703513395.html</dc:source>
+<dc:title><![CDATA[PC Tech - Needed (Irvine, CA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:49:21-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://merced.craigslist.org/cpg/3677842620.html">
 <title><![CDATA[Video project (edit a video recording) (Los banos)]]></title>
 <link>http://merced.craigslist.org/cpg/3677842620.html</link>

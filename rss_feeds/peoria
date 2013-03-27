@@ -23,11 +23,12 @@
 <dc:source>http://peoria.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in peoria</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:24:57-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:07-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3703963809.html" />
   <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3694957855.html" />
   <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3694902178.html" />
   <rdf:li rdf:resource="http://peoria.craigslist.org/cpg/3693526448.html" />
@@ -38,6 +39,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://peoria.craigslist.org/cpg/3703963809.html">
+<title><![CDATA[Seeking 2 or 3 ebay copy and pasters (Hot 4 spring)]]></title>
+<link>http://peoria.craigslist.org/cpg/3703963809.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-25T20:57:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://peoria.craigslist.org/cpg/3703963809.html</dc:source>
+<dc:title><![CDATA[Seeking 2 or 3 ebay copy and pasters (Hot 4 spring)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:57:06-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://peoria.craigslist.org/cpg/3694957855.html">
 <title><![CDATA[Setup Surveillance Camera. (Peoria)]]></title>
 <link>http://peoria.craigslist.org/cpg/3694957855.html</link>

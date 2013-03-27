@@ -23,11 +23,12 @@
 <dc:source>http://fayetteville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in fayetteville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:25:01-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:23-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3702986992.html" />
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3701884152.html" />
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3658459479.html" />
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3650350227.html" />
@@ -37,10 +38,24 @@
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3632858741.html" />
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3621538489.html" />
   <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3603619056.html" />
-  <rdf:li rdf:resource="http://fayetteville.craigslist.org/cpg/3601968345.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://fayetteville.craigslist.org/cpg/3702986992.html">
+<title><![CDATA[Field Systems Technician (Fayetteville, NC)]]></title>
+<link>http://fayetteville.craigslist.org/cpg/3702986992.html</link>
+<description><![CDATA[Tier ll - Desk Top Support - please contact via email for additional information 
+A+ Certification 
+MCP 
+Computer Science Degree]]></description>
+<dc:date>2013-03-25T14:02:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://fayetteville.craigslist.org/cpg/3702986992.html</dc:source>
+<dc:title><![CDATA[Field Systems Technician (Fayetteville, NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:02:17-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://fayetteville.craigslist.org/cpg/3701884152.html">
 <title><![CDATA[password hacker  (fayetteville)]]></title>
 <link>http://fayetteville.craigslist.org/cpg/3701884152.html</link>
@@ -156,23 +171,5 @@ I am in the process of restructuring my company and rebuilding my website. I wan
 <dc:title><![CDATA[Website Developers and SEO specialists]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-08T16:30:36-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://fayetteville.craigslist.org/cpg/3601968345.html">
-<title><![CDATA[IT/Computer Sales]]></title>
-<link>http://fayetteville.craigslist.org/cpg/3601968345.html</link>
-<description><![CDATA[IT/Computer Business Sales Professional Needed 
-- At least 1 year sales experience. Computer knowledge required. 
-- Ability to close 
-- Self starter 
-- Reliable transportation 
-- Highest commissions paid in the area 
-This position will be filled by M [...]]]></description>
-<dc:date>2013-02-07T22:46:37-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://fayetteville.craigslist.org/cpg/3601968345.html</dc:source>
-<dc:title><![CDATA[IT/Computer Sales]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T22:46:37-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

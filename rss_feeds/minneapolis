@@ -23,19 +23,20 @@
 <dc:source>http://minneapolis.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in minneapolis / st paul</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:39:45-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:41:24-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3703191496.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3696871441.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3702599557.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3701843235.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3701216374.html" />
-  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3697409664.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3700966156.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3700186363.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/cpg/3700122577.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/ank/cpg/3699785006.html" />
-  <rdf:li rdf:resource="http://minneapolis.craigslist.org/wsh/cpg/3699422385.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3699359516.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3699298949.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3698655356.html" />
@@ -43,9 +44,7 @@
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3679823169.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3697164637.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3697151160.html" />
-  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3697124876.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3696968880.html" />
-  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3696871441.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/csw/cpg/3694419961.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3694299244.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/ram/cpg/3693999938.html" />
@@ -128,9 +127,46 @@
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/dak/cpg/3648161308.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3646873834.html" />
   <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3646366775.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/cpg/3645513856.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3703191496.html">
+<title><![CDATA[COMPUTER INTERNS WANTED (EDINA)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/cpg/3703191496.html</link>
+<description><![CDATA[To support sales, marketing, and computer systems development within this $50 million Twin Cities company- opportunities for domestic and international travel--send resume. Interviews now being schediuled. ]]></description>
+<dc:date>2013-03-25T14:26:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3703191496.html</dc:source>
+<dc:title><![CDATA[COMPUTER INTERNS WANTED (EDINA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:26:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3696871441.html">
+<title><![CDATA[COMPUTER INTERNS NEEDED (RICHFIELD)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/cpg/3696871441.html</link>
+<description><![CDATA[To support sales, marketing, and computer systems development within this $50 million Twin Cities company- opportunities for domestic and international travel--send resume and your near-term availability for interview! ]]></description>
+<dc:date>2013-03-25T12:02:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3696871441.html</dc:source>
+<dc:title><![CDATA[COMPUTER INTERNS NEEDED (RICHFIELD)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:02:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3702599557.html">
+<title><![CDATA[Replace Laptop Screen and Clean Internally (Hopkins)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/cpg/3702599557.html</link>
+<description><![CDATA[I have an ASUS n61jq laptop and it needs to have the screen replaced. I already have the new screen, I just need somebody that is familiar with this type of laptop who can put in this new screen for me. I talked to our IT guys and they said it can be [...]]]></description>
+<dc:date>2013-03-25T10:22:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3702599557.html</dc:source>
+<dc:title><![CDATA[Replace Laptop Screen and Clean Internally (Hopkins)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:22:24-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3701843235.html">
 <title><![CDATA[Build PXE Boot Computer/Server for Windows 7 Images (MSP)]]></title>
 <link>http://minneapolis.craigslist.org/hnp/cpg/3701843235.html</link>
@@ -155,19 +191,6 @@ Or if you can do this, you can build it while at your location, test it, then br
 <dc:title><![CDATA[Re: IT pro / PC tech  (St. Michael / Elk River)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-24T14:44:10-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3697409664.html">
-<title><![CDATA[SALES ASSOCIATE-ADMIN COMPUTER WORK (160 N GLENWOOD AVE)]]></title>
-<link>http://minneapolis.craigslist.org/hnp/cpg/3697409664.html</link>
-<description><![CDATA[We are currently interviewing applicants for a Sales Associate position, one who helps the customer from the moment they enter the store to when they exit. To summarize the sales associate job description: 
-• Sales (furniture, lighting, rugs, accesso [...]]]></description>
-<dc:date>2013-03-24T14:02:31-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3697409664.html</dc:source>
-<dc:title><![CDATA[SALES ASSOCIATE-ADMIN COMPUTER WORK (160 N GLENWOOD AVE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T14:02:31-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3700966156.html">
 <title><![CDATA[COMPUTER INTERNS NEEDED (EDINA)]]></title>
@@ -226,19 +249,6 @@ Bad reviews= Actual customer [...]]]></description>
 <dc:title><![CDATA[IT pro / PC tech (St. Michael)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T17:20:03-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://minneapolis.craigslist.org/wsh/cpg/3699422385.html">
-<title><![CDATA[Christian app designer? (Out of area)]]></title>
-<link>http://minneapolis.craigslist.org/wsh/cpg/3699422385.html</link>
-<description><![CDATA[I've played with app creation but need someone more proficient. Id like to find a partner with whom to make an app available for the google/android market. 
-My app design is perhaps a simple flow chart design and could be used as an aide for christia [...]]]></description>
-<dc:date>2013-03-23T14:07:49-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://minneapolis.craigslist.org/wsh/cpg/3699422385.html</dc:source>
-<dc:title><![CDATA[Christian app designer? (Out of area)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T14:07:49-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3699359516.html">
 <title><![CDATA[PHP/Codeigniter Developer  (Minnetonka, MN)]]></title>
@@ -339,19 +349,6 @@ please reply to this email if th [...]]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T11:26:39-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3697124876.html">
-<title><![CDATA[SEO Help Needed, Result-based Payments (Minneapolis)]]></title>
-<link>http://minneapolis.craigslist.org/hnp/cpg/3697124876.html</link>
-<description><![CDATA[Hello SEO Gurus! 
-I own a small business mainly selling products online. My website has been up and running for only a short amount of time. I would like to see the website move up in the search engine rankings sooner than later, especially since thi [...]]]></description>
-<dc:date>2013-03-22T11:15:24-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3697124876.html</dc:source>
-<dc:title><![CDATA[SEO Help Needed, Result-based Payments (Minneapolis)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T11:15:24-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3696968880.html">
 <title><![CDATA[Business Analyst Associate (Golden Valley)]]></title>
 <link>http://minneapolis.craigslist.org/hnp/cpg/3696968880.html</link>
@@ -364,18 +361,6 @@ I own a small business mainly selling products online. My website has been up an
 <dc:title><![CDATA[Business Analyst Associate (Golden Valley)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T10:06:14-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3696871441.html">
-<title><![CDATA[COMPUTER INTERNS NEEDED (RICHFIELD)]]></title>
-<link>http://minneapolis.craigslist.org/hnp/cpg/3696871441.html</link>
-<description><![CDATA[To support sales, marketing, and computer systems development within this $50 million Twin Cities company- opportunities for domestic and international travel--send resume and your near-term availability for interview! ]]></description>
-<dc:date>2013-03-22T09:17:32-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3696871441.html</dc:source>
-<dc:title><![CDATA[COMPUTER INTERNS NEEDED (RICHFIELD)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T09:17:32-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://minneapolis.craigslist.org/csw/cpg/3694419961.html">
 <title><![CDATA[RE: I need someone to complete an online algebra course]]></title>
@@ -1487,5 +1472,18 @@ Reports:
 <dc:title><![CDATA[Need Web Developer]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-26T23:08:39-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/cpg/3645513856.html">
+<title><![CDATA[PPC Optimizer (Your Location - We are in Plymouth, MN)]]></title>
+<link>http://minneapolis.craigslist.org/hnp/cpg/3645513856.html</link>
+<description><![CDATA[We are looking for a person to manage our pay per click accounts at Google and Bing on an ongoing basis. This would be a contract position. 
+We have an existing account, but it needs to be optimized: re-set-up, organized, additional keywords added, a [...]]]></description>
+<dc:date>2013-02-26T15:33:06-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/cpg/3645513856.html</dc:source>
+<dc:title><![CDATA[PPC Optimizer (Your Location - We are in Plymouth, MN)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-26T15:33:06-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,20 +23,32 @@
 <dc:source>http://brownsville.en.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in brownsville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:45:10-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3677306324.html" />
   <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3701999510.html" />
   <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3688740856.html" />
-  <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3677306324.html" />
   <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3676546269.html" />
   <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3646530136.html" />
   <rdf:li rdf:resource="http://brownsville.en.craigslist.org/cpg/3610050710.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://brownsville.en.craigslist.org/cpg/3677306324.html">
+<title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></title>
+<link>http://brownsville.en.craigslist.org/cpg/3677306324.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-25T15:28:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://brownsville.en.craigslist.org/cpg/3677306324.html</dc:source>
+<dc:title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:28:15-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://brownsville.en.craigslist.org/cpg/3701999510.html">
 <title><![CDATA[Internet Sales/Marketing]]></title>
 <link>http://brownsville.en.craigslist.org/cpg/3701999510.html</link>
@@ -65,18 +77,6 @@ Android system image for the emulator. Pay varies depending on the successful ap
 <dc:title><![CDATA[Adroid APP Developer (La feria)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-18T10:58:45-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://brownsville.en.craigslist.org/cpg/3677306324.html">
-<title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></title>
-<link>http://brownsville.en.craigslist.org/cpg/3677306324.html</link>
-<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
-<dc:date>2013-03-15T12:04:31-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://brownsville.en.craigslist.org/cpg/3677306324.html</dc:source>
-<dc:title><![CDATA[SharePoint Person for Teaching ((Around Texas))]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T12:04:31-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://brownsville.en.craigslist.org/cpg/3676546269.html">
 <title><![CDATA[PC Tech (San Benito)]]></title>

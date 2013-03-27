@@ -23,17 +23,30 @@
 <dc:source>http://annapolis.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in annapolis</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:31:58-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:12-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3702872494.html" />
   <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3649614504.html" />
   <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3634197953.html" />
   <rdf:li rdf:resource="http://annapolis.craigslist.org/cpg/3612569080.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://annapolis.craigslist.org/cpg/3702872494.html">
+<title><![CDATA[*Speed up a pc and a Mac and help with File Maker Pro*** (Annapolis, Md)]]></title>
+<link>http://annapolis.craigslist.org/cpg/3702872494.html</link>
+<description><![CDATA[I have a small business. I'm currently using two computers. They're both old and one is a pc and the other is a Macbook. They both are working, but I'd like them to work a little bit better. I know the pc could be sped up tremendously if a pro were t [...]]]></description>
+<dc:date>2013-03-25T13:16:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://annapolis.craigslist.org/cpg/3702872494.html</dc:source>
+<dc:title><![CDATA[*Speed up a pc and a Mac and help with File Maker Pro*** (Annapolis, Md)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:16:02-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://annapolis.craigslist.org/cpg/3649614504.html">
 <title><![CDATA[Professional in Microsoft Project or 365 (MD - VA)]]></title>
 <link>http://annapolis.craigslist.org/cpg/3649614504.html</link>

@@ -23,13 +23,12 @@
 <dc:source>http://kokomo.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in kokomo</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:57-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:31:51-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://kokomo.craigslist.org/cpg/3643866487.html" />
-  <rdf:li rdf:resource="http://kokomo.craigslist.org/cpg/3601871392.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -46,17 +45,5 @@ Please fill out the form at our site to Apply. ]]></description>
 <dc:title><![CDATA[Looking to hire people with free time (Kokomo)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-25T22:40:26-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://kokomo.craigslist.org/cpg/3601871392.html">
-<title><![CDATA[Web site help (Live in Elkhart, IN Work at Grissom ARB,)]]></title>
-<link>http://kokomo.craigslist.org/cpg/3601871392.html</link>
-<description><![CDATA[Web page for stand up co.median partially done in the WIX format and would like someone to help me complete it]]></description>
-<dc:date>2013-02-07T21:44:19-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://kokomo.craigslist.org/cpg/3601871392.html</dc:source>
-<dc:title><![CDATA[Web site help (Live in Elkhart, IN Work at Grissom ARB,)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T21:44:19-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

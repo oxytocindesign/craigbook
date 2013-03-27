@@ -23,7 +23,7 @@
 <dc:source>http://valdosta.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in valdosta</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:19-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:06-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -43,13 +43,13 @@
 <title><![CDATA[Listen to music $$$]]></title>
 <link>http://valdosta.craigslist.org/cpg/3661983279.html</link>
 <description><![CDATA[If you enjoy music or just need something to do in your spare time (AND earn pay) go to http://www.slicethepie.com/?wyd=515418 and get started! All you have to do is listen to and rate music. You may email me if you have any questions.]]></description>
-<dc:date>2013-03-12T23:15:41-04:00</dc:date>
+<dc:date>2013-03-25T13:43:33-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
 <dc:source>http://valdosta.craigslist.org/cpg/3661983279.html</dc:source>
 <dc:title><![CDATA[Listen to music $$$]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T23:15:41-04:00</dcterms:issued>
+<dcterms:issued>2013-03-25T13:43:33-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://valdosta.craigslist.org/cpg/3611488345.html">
 <title><![CDATA[Vending Machine Repair (Valdosta,GA)]]></title>

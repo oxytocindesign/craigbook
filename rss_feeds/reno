@@ -23,7 +23,7 @@
 <dc:source>http://reno.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in reno / tahoe</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:25:00-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:41:32-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -33,7 +33,6 @@
   <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3683334219.html" />
   <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3676014681.html" />
   <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3645148997.html" />
-  <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3625132624.html" />
   <rdf:li rdf:resource="http://reno.craigslist.org/cpg/3608835527.html" />
  </rdf:Seq>
 </items>
@@ -103,18 +102,6 @@ Thursday, 2/28 @ 9pm. Tech will be assisting a lead technician with the inst [..
 <dc:title><![CDATA[Point of Sale Technician needed for 2 seperate installs on 2/28 & 3/13 (Winnemucca, NV)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-26T11:13:52-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://reno.craigslist.org/cpg/3625132624.html">
-<title><![CDATA[Custom Software Wanted (Fallon, NV)]]></title>
-<link>http://reno.craigslist.org/cpg/3625132624.html</link>
-<description><![CDATA[I am looking for someone that can tell me where I can buy or someone that can create custom software for me that can auto log into a website account that I have and go to certain links within the site that I have indicated all automatically at whatev [...]]]></description>
-<dc:date>2013-02-17T21:29:29-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://reno.craigslist.org/cpg/3625132624.html</dc:source>
-<dc:title><![CDATA[Custom Software Wanted (Fallon, NV)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-17T21:29:29-08:00</dcterms:issued>
 </item>
 <item rdf:about="http://reno.craigslist.org/cpg/3608835527.html">
 <title><![CDATA[BUILD CUSTOM LAPTOPS, PCs, STORAGE FOR US (CARSON CITY)]]></title>

@@ -23,18 +23,43 @@
 <dc:source>http://waco.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in waco</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:09-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:45:13-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3703639807.html" />
+  <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3703074073.html" />
   <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3701967374.html" />
   <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3679478979.html" />
   <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3666348266.html" />
-  <rdf:li rdf:resource="http://waco.craigslist.org/cpg/3600099516.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://waco.craigslist.org/cpg/3703639807.html">
+<title><![CDATA[Computer Geek Needed (Waco,Tx.)]]></title>
+<link>http://waco.craigslist.org/cpg/3703639807.html</link>
+<description><![CDATA[I need someone to come to my office and do computer work,once a week.Taking Pictures,as well....Please send me your name and number,stats etc.]]></description>
+<dc:date>2013-03-25T17:51:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://waco.craigslist.org/cpg/3703639807.html</dc:source>
+<dc:title><![CDATA[Computer Geek Needed (Waco,Tx.)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:51:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://waco.craigslist.org/cpg/3703074073.html">
+<title><![CDATA[Easy investigative work needed]]></title>
+<link>http://waco.craigslist.org/cpg/3703074073.html</link>
+<description><![CDATA[I need someone to find the street address of a particular individual. I can give you more details if you're able to do this and am hoping I can find someone kind enough to do it for free. Thanks in advance!]]></description>
+<dc:date>2013-03-25T13:37:44-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://waco.craigslist.org/cpg/3703074073.html</dc:source>
+<dc:title><![CDATA[Easy investigative work needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:37:44-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://waco.craigslist.org/cpg/3701967374.html">
 <title><![CDATA[I need people]]></title>
 <link>http://waco.craigslist.org/cpg/3701967374.html</link>
@@ -74,17 +99,5 @@ We have the ability to fulfill as much as necessary. Would like to have t [...]]
 <dc:title><![CDATA[xbox problems]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-07T19:38:45-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://waco.craigslist.org/cpg/3600099516.html">
-<title><![CDATA[NEED SECURITY SYSTEM INSTALLED]]></title>
-<link>http://waco.craigslist.org/cpg/3600099516.html</link>
-<description><![CDATA[Please email contact info and quote if possible to install 8 camera security system and DVR]]></description>
-<dc:date>2013-02-07T08:04:34-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://waco.craigslist.org/cpg/3600099516.html</dc:source>
-<dc:title><![CDATA[NEED SECURITY SYSTEM INSTALLED]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T08:04:34-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

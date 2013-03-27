@@ -23,11 +23,13 @@
 <dc:source>http://asheville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in asheville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:00-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:39:58-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3704004306.html" />
+  <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3702527576.html" />
   <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3695771054.html" />
   <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3666132336.html" />
   <rdf:li rdf:resource="http://asheville.craigslist.org/cpg/3650076077.html" />
@@ -43,6 +45,30 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://asheville.craigslist.org/cpg/3704004306.html">
+<title><![CDATA[Need Graphic Artist  (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3704004306.html</link>
+<description><![CDATA[Need Graphic Artist who can convert a freehand document to Adobe Illustrator. Email rates/fees and resume. I will contact you to schedule an appointment. ]]></description>
+<dc:date>2013-03-25T22:24:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3704004306.html</dc:source>
+<dc:title><![CDATA[Need Graphic Artist  (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T22:24:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://asheville.craigslist.org/cpg/3702527576.html">
+<title><![CDATA[Web Developer to help create small business' website (Asheville)]]></title>
+<link>http://asheville.craigslist.org/cpg/3702527576.html</link>
+<description><![CDATA[I'm a small business owner seeking help to create an attractive but basic (in terms of functionality) website for a new business. It is a part developer, part tutoring project, because I will need to be taught how to change basic text and pictures on [...]]]></description>
+<dc:date>2013-03-25T10:49:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://asheville.craigslist.org/cpg/3702527576.html</dc:source>
+<dc:title><![CDATA[Web Developer to help create small business' website (Asheville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:49:37-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://asheville.craigslist.org/cpg/3695771054.html">
 <title><![CDATA[CCTV set up (Asheville NC)]]></title>
 <link>http://asheville.craigslist.org/cpg/3695771054.html</link>

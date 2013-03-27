@@ -23,11 +23,16 @@
 <dc:source>http://detroit.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in detroit metro</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:30:25-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:43:02-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3703845249.html" />
+  <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3703450406.html" />
+  <rdf:li rdf:resource="http://detroit.craigslist.org/mcb/cpg/3702910495.html" />
+  <rdf:li rdf:resource="http://detroit.craigslist.org/mcb/cpg/3702886141.html" />
+  <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3702136208.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3701021380.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3701015857.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3700412810.html" />
@@ -40,7 +45,6 @@
   <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3698601763.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3682008821.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3697941884.html" />
-  <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3697797025.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3697769143.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/mcb/cpg/3678955934.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3697123425.html" />
@@ -118,10 +122,79 @@
   <rdf:li rdf:resource="http://detroit.craigslist.org/mcb/cpg/3606895047.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/okl/cpg/3589545047.html" />
   <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3603870264.html" />
-  <rdf:li rdf:resource="http://detroit.craigslist.org/wyn/cpg/3585400252.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://detroit.craigslist.org/wyn/cpg/3703845249.html">
+<title><![CDATA[NOW HIRING GREAT PAY (ANYWHERE)]]></title>
+<link>http://detroit.craigslist.org/wyn/cpg/3703845249.html</link>
+<description><![CDATA[HELLO ARE YOU LOOKING FOR A JOB WHERE YOU CAN WORK PART TIME BUT MAKE FULL TIME PAY? 
+ARE YOU LOOKING FOR A JOB WHERE YOU CAN MAKE DOUBLE COMMISSIONS AND GET PAID EVERY WEEK FOR IT? 
+ARE YOU LOOKING FOR NEW WAYS TO SECURE YOUR FINANCIAL FUTURE? CHECK [...]]]></description>
+<dc:date>2013-03-25T20:43:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://detroit.craigslist.org/wyn/cpg/3703845249.html</dc:source>
+<dc:title><![CDATA[NOW HIRING GREAT PAY (ANYWHERE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:43:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://detroit.craigslist.org/wyn/cpg/3703450406.html">
+<title><![CDATA[Survey Takers Wanted (Work From Home)]]></title>
+<link>http://detroit.craigslist.org/wyn/cpg/3703450406.html</link>
+<description><![CDATA[This is a great opportunity to make money in your spare time. 
+Taking a wide variety of surveys for varying pay. Payments are sent directly to you. 
+Please review and see for yourself http://tryvindale.com/VPH7cfIC]]></description>
+<dc:date>2013-03-25T17:20:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://detroit.craigslist.org/wyn/cpg/3703450406.html</dc:source>
+<dc:title><![CDATA[Survey Takers Wanted (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:20:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://detroit.craigslist.org/mcb/cpg/3702910495.html">
+<title><![CDATA[Business Website (Onine)]]></title>
+<link>http://detroit.craigslist.org/mcb/cpg/3702910495.html</link>
+<description><![CDATA[Hi everyone! 
+I am an affordable Web and Graphic Designer who builds websites for small businesses and organizations. 
+Please view my website/resume/portfolio, www.484designs.com. 
+Live chat with us on our website and save!]]></description>
+<dc:date>2013-03-25T13:31:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://detroit.craigslist.org/mcb/cpg/3702910495.html</dc:source>
+<dc:title><![CDATA[Business Website (Onine)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:31:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://detroit.craigslist.org/mcb/cpg/3702886141.html">
+<title><![CDATA[Multiple Techs Needed (Tri-County Areas)]]></title>
+<link>http://detroit.craigslist.org/mcb/cpg/3702886141.html</link>
+<description><![CDATA[I own a technology company that handles IT/Telephony/Security systems for clients all over Michigan and the midwest. As such we require the skills of technicians with varying skill sets to accomplish the goals of our clients. We currently need techs  [...]]]></description>
+<dc:date>2013-03-25T13:21:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://detroit.craigslist.org/mcb/cpg/3702886141.html</dc:source>
+<dc:title><![CDATA[Multiple Techs Needed (Tri-County Areas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:21:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://detroit.craigslist.org/okl/cpg/3702136208.html">
+<title><![CDATA[Install spyware on Iphone more work possible  (novi)]]></title>
+<link>http://detroit.craigslist.org/okl/cpg/3702136208.html</link>
+<description><![CDATA[Looking for someone capable of installing software to monitor employees using company iphones and computers 
+Also looking for remote access to those company owned devices 
+Looking to find a dedicated pro who can provide results 
+Pay is negotiable but [...]]]></description>
+<dc:date>2013-03-25T03:17:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://detroit.craigslist.org/okl/cpg/3702136208.html</dc:source>
+<dc:title><![CDATA[Install spyware on Iphone more work possible  (novi)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T03:17:25-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://detroit.craigslist.org/okl/cpg/3701021380.html">
 <title><![CDATA[Talented Java Developer Needed (Metro Detroit)]]></title>
 <link>http://detroit.craigslist.org/okl/cpg/3701021380.html</link>
@@ -186,7 +259,7 @@
 <title><![CDATA[I need someone to redesign my blog (Royal Oak)]]></title>
 <link>http://detroit.craigslist.org/okl/cpg/3693625577.html</link>
 <description><![CDATA[I need someone to redesign my blog joevenuto.com. 
-Call or text 586-381-229six. You MUST be located in MICHIGAN. Do NOT contact me if you are outside the state of Michigan. ]]></description>
+Email samples of your work to venuto.joseph at [gmail] dot com. You MUST be located in MICHIGAN. Do NOT contact me if you are outside the state of Michigan. ]]></description>
 <dc:date>2013-03-23T21:49:02-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
@@ -268,18 +341,6 @@ Need: good communication skills, coach-able, willing to put forth ef [...]]]></d
 <dc:title><![CDATA[Data Recovery (Milford)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T18:39:29-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://detroit.craigslist.org/okl/cpg/3697797025.html">
-<title><![CDATA[Technicians w/ Data Cabling experience]]></title>
-<link>http://detroit.craigslist.org/okl/cpg/3697797025.html</link>
-<description><![CDATA[Looking for Field Techs with Avaya Phone experience. Must have full tool set and knowledge of TTIng phones and cabling experience etc. Please reply with your resume, what you charge hourly, and what you consider to be your strongest technical skill.  [...]]]></description>
-<dc:date>2013-03-22T17:21:54-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://detroit.craigslist.org/okl/cpg/3697797025.html</dc:source>
-<dc:title><![CDATA[Technicians w/ Data Cabling experience]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T17:21:54-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://detroit.craigslist.org/wyn/cpg/3697769143.html">
 <title><![CDATA[Seeking Talented Web Designer (Michigan)]]></title>
@@ -1260,19 +1321,5 @@ Our budget is tight, so we need to find an affordable option. We would be partic
 <dc:title><![CDATA[POSTING HELP (DETROIT)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-08T18:17:20-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://detroit.craigslist.org/wyn/cpg/3585400252.html">
-<title><![CDATA[Administrative - Customer Service (Howell  Livingston County)]]></title>
-<link>http://detroit.craigslist.org/wyn/cpg/3585400252.html</link>
-<description><![CDATA[Administrative- Customer Service 
-We are looking for dynamic office assistant with a positive attitude, detail-oriented, and very accurate. Must have strong computer and phone skills. 
-Responsibilities include answering phones, maintaining files, cor [...]]]></description>
-<dc:date>2013-02-07T19:19:27-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://detroit.craigslist.org/wyn/cpg/3585400252.html</dc:source>
-<dc:title><![CDATA[Administrative - Customer Service (Howell  Livingston County)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T19:19:27-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,15 +23,16 @@
 <dc:source>http://jackson.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in jackson, MS</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:42-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:17-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3687620220.html" />
-  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3647670821.html" />
-  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3638571814.html" />
+  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3703105201.html" />
   <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3647352753.html" />
+  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3638571814.html" />
+  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3647670821.html" />
+  <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3687620220.html" />
   <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3669793355.html" />
   <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3644966423.html" />
   <rdf:li rdf:resource="http://jackson.craigslist.org/cpg/3589800444.html" />
@@ -41,6 +42,54 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://jackson.craigslist.org/cpg/3703105201.html">
+<title><![CDATA[Need TV repair tech]]></title>
+<link>http://jackson.craigslist.org/cpg/3703105201.html</link>
+<description><![CDATA[Need TV repair tech... call 601-398-7685]]></description>
+<dc:date>2013-03-25T14:50:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jackson.craigslist.org/cpg/3703105201.html</dc:source>
+<dc:title><![CDATA[Need TV repair tech]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:50:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jackson.craigslist.org/cpg/3647352753.html">
+<title><![CDATA[Cell phone repair person (Jackson, Ms)]]></title>
+<link>http://jackson.craigslist.org/cpg/3647352753.html</link>
+<description><![CDATA[George's thrift shop is in immediate need of a phone tech for our store. Background check will be done and you must be profession and ready to work. Feel free to stop by our store on 2460 Terry Rd in Jackson Square between 9 am til 7pm. Its right off [...]]]></description>
+<dc:date>2013-03-25T14:44:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jackson.craigslist.org/cpg/3647352753.html</dc:source>
+<dc:title><![CDATA[Cell phone repair person (Jackson, Ms)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:44:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jackson.craigslist.org/cpg/3638571814.html">
+<title><![CDATA[Looking for retail personel (Jackson, MS)]]></title>
+<link>http://jackson.craigslist.org/cpg/3638571814.html</link>
+<description><![CDATA[George's thrift Shop is hiring for someone that knows about electronics and little of everything. More you know the better. Must be dependable (we do background checks), our hours are Everyday from 9 am til 7 pm, and we need someone that is ready to  [...]]]></description>
+<dc:date>2013-03-25T14:43:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jackson.craigslist.org/cpg/3638571814.html</dc:source>
+<dc:title><![CDATA[Looking for retail personel (Jackson, MS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:43:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jackson.craigslist.org/cpg/3647670821.html">
+<title><![CDATA[TV repair person (Jackson, Ms)]]></title>
+<link>http://jackson.craigslist.org/cpg/3647670821.html</link>
+<description><![CDATA[George's thrift shop is looking for an experienced person to fix tvs. Please apply in person at our store. 2460 Terry Rd. Off Mcdowell Rd. exit. We are in Jackson Square. Our number is 601-345-8198. We need someone who knows there stuff and reliable. [...]]]></description>
+<dc:date>2013-03-25T14:43:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jackson.craigslist.org/cpg/3647670821.html</dc:source>
+<dc:title><![CDATA[TV repair person (Jackson, Ms)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:43:44-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://jackson.craigslist.org/cpg/3687620220.html">
 <title><![CDATA[BE YOUR OWN BOSS! (All Location)]]></title>
 <link>http://jackson.craigslist.org/cpg/3687620220.html</link>
@@ -52,42 +101,6 @@
 <dc:title><![CDATA[BE YOUR OWN BOSS! (All Location)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T10:47:42-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://jackson.craigslist.org/cpg/3647670821.html">
-<title><![CDATA[TV repair person (Jackson, Ms)]]></title>
-<link>http://jackson.craigslist.org/cpg/3647670821.html</link>
-<description><![CDATA[George's thrift shop is looking for an experienced person to fix tvs. Please apply in person at our store. 2460 Terry Rd. Off Mcdowell Rd. exit. We are in Jackson Square. Our number is 601-345-8198. We need someone who knows there stuff and reliable. [...]]]></description>
-<dc:date>2013-03-21T15:38:28-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://jackson.craigslist.org/cpg/3647670821.html</dc:source>
-<dc:title><![CDATA[TV repair person (Jackson, Ms)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T15:38:28-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://jackson.craigslist.org/cpg/3638571814.html">
-<title><![CDATA[Looking for retail personel (Jackson, MS)]]></title>
-<link>http://jackson.craigslist.org/cpg/3638571814.html</link>
-<description><![CDATA[George's thrift Shop is hiring for someone that knows about electronics and little of everything. More you know the better. Must be dependable (we do background checks), our hours are Everyday from 9 am til 7 pm, and we need someone that is ready to  [...]]]></description>
-<dc:date>2013-03-18T14:48:16-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://jackson.craigslist.org/cpg/3638571814.html</dc:source>
-<dc:title><![CDATA[Looking for retail personel (Jackson, MS)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T14:48:16-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://jackson.craigslist.org/cpg/3647352753.html">
-<title><![CDATA[Cell phone repair person (Jackson, Ms)]]></title>
-<link>http://jackson.craigslist.org/cpg/3647352753.html</link>
-<description><![CDATA[George's thrift shop is in immediate need of a phone tech for our store. Background check will be done and you must be profession and ready to work. Feel free to stop by our store on 2460 Terry Rd in Jackson Square between 9 am til 7pm. Its right off [...]]]></description>
-<dc:date>2013-03-18T14:47:44-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://jackson.craigslist.org/cpg/3647352753.html</dc:source>
-<dc:title><![CDATA[Cell phone repair person (Jackson, Ms)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T14:47:44-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://jackson.craigslist.org/cpg/3669793355.html">
 <title><![CDATA[Need freelance coder (Jackson metro)]]></title>

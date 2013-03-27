@@ -23,12 +23,12 @@
 <dc:source>http://eugene.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in eugene</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:40:04-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:45:05-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3701833189.html" />
+  <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3703540264.html" />
   <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3700136411.html" />
   <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3699528623.html" />
   <rdf:li rdf:resource="http://eugene.craigslist.org/cpg/3696403138.html" />
@@ -48,17 +48,18 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://eugene.craigslist.org/cpg/3701833189.html">
-<title><![CDATA[We Have A Great Gig - Needing Staff! (OR)]]></title>
-<link>http://eugene.craigslist.org/cpg/3701833189.html</link>
-<description><![CDATA[]]></description>
-<dc:date>2013-03-24T18:47:54-07:00</dc:date>
+<item rdf:about="http://eugene.craigslist.org/cpg/3703540264.html">
+<title><![CDATA[Cell Phone "Tutor" Wanted (Cottage Grove)]]></title>
+<link>http://eugene.craigslist.org/cpg/3703540264.html</link>
+<description><![CDATA[Hi! 
+My dad just got a Smartphone (Droid RAZR) and needs some help figuring it out. He is trying to build a little bit of a social network for his business (Facebook, email etc.). I am looking for someone who would be interested in meeting with him a [...]]]></description>
+<dc:date>2013-03-25T15:02:17-07:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://eugene.craigslist.org/cpg/3701833189.html</dc:source>
-<dc:title><![CDATA[We Have A Great Gig - Needing Staff! (OR)]]></dc:title>
+<dc:source>http://eugene.craigslist.org/cpg/3703540264.html</dc:source>
+<dc:title><![CDATA[Cell Phone "Tutor" Wanted (Cottage Grove)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T18:47:54-07:00</dcterms:issued>
+<dcterms:issued>2013-03-25T15:02:17-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://eugene.craigslist.org/cpg/3700136411.html">
 <title><![CDATA[In need of website development (Glenwood)]]></title>

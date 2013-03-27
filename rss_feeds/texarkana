@@ -23,16 +23,29 @@
 <dc:source>http://texarkana.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in texarkana</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:24:55-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:34:56-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://texarkana.craigslist.org/cpg/3703702206.html" />
   <rdf:li rdf:resource="http://texarkana.craigslist.org/cpg/3665866599.html" />
   <rdf:li rdf:resource="http://texarkana.craigslist.org/cpg/3636394234.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://texarkana.craigslist.org/cpg/3703702206.html">
+<title><![CDATA[C++ Program Needed]]></title>
+<link>http://texarkana.craigslist.org/cpg/3703702206.html</link>
+<description><![CDATA[I need a multithreaded program written in C++. I have exact specs I can send to interested parties. It's not a large project.]]></description>
+<dc:date>2013-03-25T18:24:19-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://texarkana.craigslist.org/cpg/3703702206.html</dc:source>
+<dc:title><![CDATA[C++ Program Needed]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:24:19-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://texarkana.craigslist.org/cpg/3665866599.html">
 <title><![CDATA[online, part time]]></title>
 <link>http://texarkana.craigslist.org/cpg/3665866599.html</link>

@@ -23,12 +23,42 @@
 <dc:source>http://roseburg.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in roseburg</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:35:03-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:45:06-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://roseburg.craigslist.org/cpg/3703786659.html" />
+  <rdf:li rdf:resource="http://roseburg.craigslist.org/cpg/3702578549.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://roseburg.craigslist.org/cpg/3703786659.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://roseburg.craigslist.org/cpg/3703786659.html</link>
+<description><![CDATA[Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or full time. 
+Considerable in [...]]]></description>
+<dc:date>2013-03-25T17:10:26-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://roseburg.craigslist.org/cpg/3703786659.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:10:26-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://roseburg.craigslist.org/cpg/3702578549.html">
+<title><![CDATA[Power Point Help (Roseburg)]]></title>
+<link>http://roseburg.craigslist.org/cpg/3702578549.html</link>
+<description><![CDATA[Need help putting together a Power Point Slide Show. Mostly with 3 X 5 photos with a few facts in between each slide. Probably about 25 photos. Please email if you can help. ]]></description>
+<dc:date>2013-03-25T08:13:12-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://roseburg.craigslist.org/cpg/3702578549.html</dc:source>
+<dc:title><![CDATA[Power Point Help (Roseburg)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:13:12-07:00</dcterms:issued>
+</item>
 </rdf:RDF>

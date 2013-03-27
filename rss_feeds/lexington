@@ -23,21 +23,33 @@
 <dc:source>http://lexington.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in lexington, KY</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:57-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:34:15-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3703658976.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3695872505.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3680418042.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3667515088.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3620441750.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3619574272.html" />
   <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3613467611.html" />
-  <rdf:li rdf:resource="http://lexington.craigslist.org/cpg/3601547311.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://lexington.craigslist.org/cpg/3703658976.html">
+<title><![CDATA[E-Learning Course Developer]]></title>
+<link>http://lexington.craigslist.org/cpg/3703658976.html</link>
+<description><![CDATA[Small business seeking an eLearning course developer to create a 6 hour SCORM compliant course related to NEC or other electrical codes incorporated into the Kentucky Building Code or Kentucky Residential Code or to safety practices and procedures. T [...]]]></description>
+<dc:date>2013-03-25T19:01:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lexington.craigslist.org/cpg/3703658976.html</dc:source>
+<dc:title><![CDATA[E-Learning Course Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T19:01:42-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://lexington.craigslist.org/cpg/3695872505.html">
 <title><![CDATA[Web Assistant ASAP (Lexington, KY)]]></title>
 <link>http://lexington.craigslist.org/cpg/3695872505.html</link>
@@ -116,20 +128,5 @@ we are having issues with the theme -- the Jquery slider is not working - not su
 <dc:title><![CDATA[web help wanted (lexington)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-12T20:41:19-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://lexington.craigslist.org/cpg/3601547311.html">
-<title><![CDATA[ActionScript / Flash help needed (Lexington)]]></title>
-<link>http://lexington.craigslist.org/cpg/3601547311.html</link>
-<description><![CDATA[Actionscript 3.0 / Flash / Adobe Builder help needed 
-Feb 9 / 10 (weekends only preferred) 
-859-four75-2733 
-text / email only]]></description>
-<dc:date>2013-02-07T18:53:51-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://lexington.craigslist.org/cpg/3601547311.html</dc:source>
-<dc:title><![CDATA[ActionScript / Flash help needed (Lexington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T18:53:51-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

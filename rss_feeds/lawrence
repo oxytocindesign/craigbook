@@ -23,17 +23,32 @@
 <dc:source>http://lawrence.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in lawrence</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:39:27-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:10-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3703458185.html" />
   <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3698826041.html" />
   <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3679358789.html" />
   <rdf:li rdf:resource="http://lawrence.craigslist.org/cpg/3604745727.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://lawrence.craigslist.org/cpg/3703458185.html">
+<title><![CDATA[Give Things Away and earn $!]]></title>
+<link>http://lawrence.craigslist.org/cpg/3703458185.html</link>
+<description><![CDATA[Give Things Away and Get paid! 
+Loyaltepays is looking for full or part time people to give away FREE audios, videos, ebooks, and more! You can work from home, grow with us and make some money! Make some extra money quick... and it's FREE to join! 
+Y [...]]]></description>
+<dc:date>2013-03-25T16:23:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lawrence.craigslist.org/cpg/3703458185.html</dc:source>
+<dc:title><![CDATA[Give Things Away and earn $!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:23:39-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://lawrence.craigslist.org/cpg/3698826041.html">
 <title><![CDATA[program electronic LED moving sign]]></title>
 <link>http://lawrence.craigslist.org/cpg/3698826041.html</link>

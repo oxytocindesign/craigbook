@@ -23,11 +23,12 @@
 <dc:source>http://flint.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in flint</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:58-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:14-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3702481982.html" />
   <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3647193377.html" />
   <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3690604818.html" />
   <rdf:li rdf:resource="http://flint.craigslist.org/cpg/3669248264.html" />
@@ -35,6 +36,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://flint.craigslist.org/cpg/3702481982.html">
+<title><![CDATA[Need a Writer for Business Plan (Flint)]]></title>
+<link>http://flint.craigslist.org/cpg/3702481982.html</link>
+<description><![CDATA[Need someone to write my business plan for me since I do not have time to do it due to school and work. pay can be negotiated depending on outcome of the plan I already have some work completed like profit loss etc. PLEASE RESPOND BY E-MAIL. I will b [...]]]></description>
+<dc:date>2013-03-25T10:27:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://flint.craigslist.org/cpg/3702481982.html</dc:source>
+<dc:title><![CDATA[Need a Writer for Business Plan (Flint)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:27:21-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://flint.craigslist.org/cpg/3647193377.html">
 <title><![CDATA[Connecting wifi  (Grand Blanc)]]></title>
 <link>http://flint.craigslist.org/cpg/3647193377.html</link>

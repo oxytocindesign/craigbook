@@ -23,7 +23,7 @@
 <dc:source>http://lubbock.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in lubbock</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:09-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:45:12-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -33,7 +33,6 @@
   <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3639443219.html" />
   <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3630211523.html" />
   <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3614979143.html" />
-  <rdf:li rdf:resource="http://lubbock.craigslist.org/cpg/3600596132.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -106,17 +105,5 @@ Our team of professional designers will create a nice logo design for your Busin
 <dc:title><![CDATA[Professional, Custom Logo Design only $79.99]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-13T13:16:29-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://lubbock.craigslist.org/cpg/3600596132.html">
-<title><![CDATA[Short Term Assistant]]></title>
-<link>http://lubbock.craigslist.org/cpg/3600596132.html</link>
-<description><![CDATA[I need someone who is diligent and can help me with finding a new tenant to have take over my apartment lease. Message me if you're interested in the job for more details on pay etc. ]]></description>
-<dc:date>2013-02-07T11:38:58-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://lubbock.craigslist.org/cpg/3600596132.html</dc:source>
-<dc:title><![CDATA[Short Term Assistant]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T11:38:58-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

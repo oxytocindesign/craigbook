@@ -23,17 +23,26 @@
 <dc:source>http://portland.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in portland, OR</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:30:41-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:44:02-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://portland.craigslist.org/grg/cpg/3701868225.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3703798950.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3703732885.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/yam/cpg/3703503839.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3703338691.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3703185116.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3703124867.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3690049467.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3702938757.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3678658638.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3698219228.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3688238834.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3700825165.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/clk/cpg/3700819712.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3699280618.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/clc/cpg/3698373993.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3698219228.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3697837680.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3697724372.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3697296028.html" />
@@ -48,7 +57,6 @@
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3695581268.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3695502993.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3695273610.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3678658638.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3694518985.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3694329311.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3694304301.html" />
@@ -65,7 +73,6 @@
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3690447957.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3690286219.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3690243546.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3690049467.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3690018264.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3689992061.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3689941439.html" />
@@ -73,9 +80,9 @@
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3689717478.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3689638560.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3689630646.html" />
+  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3689176955.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3688948038.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3678781041.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3688238834.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3687769335.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3687029838.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3685686808.html" />
@@ -121,30 +128,162 @@
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3665684809.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/clc/cpg/3664931485.html" />
   <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3664378355.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3664073154.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/clk/cpg/3663992131.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3663373348.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/wsc/cpg/3645799833.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/mlt/cpg/3661347367.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/clk/cpg/3660567177.html" />
-  <rdf:li rdf:resource="http://portland.craigslist.org/clc/cpg/3659494294.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://portland.craigslist.org/grg/cpg/3701868225.html">
-<title><![CDATA[F/T OR P/T REFERRAL AGENTS NEEDED ASAP (IN-HOME)]]></title>
-<link>http://portland.craigslist.org/grg/cpg/3701868225.html</link>
-<description><![CDATA[If you're looking for a legitimate way to make money online, you've come to the right place. 
-We are rated one of the top programs online . 
-We are looking for people to join our team TODAY in this step-by-step 
-proven system for making money online  [...]]]></description>
-<dc:date>2013-03-24T19:13:44-07:00</dc:date>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3703798950.html">
+<title><![CDATA[looking for people wanting to make extra cash in the mobile app market (portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3703798950.html</link>
+<description><![CDATA[if you are looking to make some extra cash this is a great opportunity. 
+DON'T miss out out!!! 
+www.iLArevolution.com 
+email with questions 
+or watch the webinar: www.ilaoverview.net ]]></description>
+<dc:date>2013-03-25T17:17:15-07:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/grg/cpg/3701868225.html</dc:source>
-<dc:title><![CDATA[F/T OR P/T REFERRAL AGENTS NEEDED ASAP (IN-HOME)]]></dc:title>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3703798950.html</dc:source>
+<dc:title><![CDATA[looking for people wanting to make extra cash in the mobile app market (portland)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T19:13:44-07:00</dcterms:issued>
+<dcterms:issued>2013-03-25T17:17:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3703732885.html">
+<title><![CDATA[Licensed Realtor assistant needed for various ongoing Admin tasks. (NE / SE Portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3703732885.html</link>
+<description><![CDATA[Various listing and buyer needs. 
+Must be available to jump on things the instant there is a need. Quick follow up and general "on top of itness" required at all times. 
+Proficiency with Docusign and exellent marketing abilities are required. 
+Intere [...]]]></description>
+<dc:date>2013-03-25T16:40:54-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3703732885.html</dc:source>
+<dc:title><![CDATA[Licensed Realtor assistant needed for various ongoing Admin tasks. (NE / SE Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:40:54-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/yam/cpg/3703503839.html">
+<title><![CDATA[Website Designer - Cake PHP? (Dundee, OR)]]></title>
+<link>http://portland.craigslist.org/yam/cpg/3703503839.html</link>
+<description><![CDATA[I may have a need for a new designer for a website which has already been up for almost 2 years. 
+It was created with HTML, has a database, and an interactive map, and provides a service for a fee through PayPal. 
+I hired a designer, and it has been  [...]]]></description>
+<dc:date>2013-03-25T14:44:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/yam/cpg/3703503839.html</dc:source>
+<dc:title><![CDATA[Website Designer - Cake PHP? (Dundee, OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:44:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/wsc/cpg/3703338691.html">
+<title><![CDATA[Housekeeper/Personal Assistant Wanted (portland)]]></title>
+<link>http://portland.craigslist.org/wsc/cpg/3703338691.html</link>
+<description><![CDATA[Our family is looking for a part-time housekeeper and personal assistant to help us keep our house and lives organized. Duties would include cleaning the house, some room organization, and other personal assistant type duties like errands, etc should [...]]]></description>
+<dc:date>2013-03-25T13:30:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/wsc/cpg/3703338691.html</dc:source>
+<dc:title><![CDATA[Housekeeper/Personal Assistant Wanted (portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:30:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3703185116.html">
+<title><![CDATA[Web designer/computer guru for Village Building Convergence! (SE Portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3703185116.html</link>
+<description><![CDATA[Greetings and Salutations!! The Village Building Convergence is in search of one (or more) incredible people who can help us put together the catalog of annual placemaking and event gatherings for this year. The VBC is a unique and wonderfully Portla [...]]]></description>
+<dc:date>2013-03-25T12:23:47-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3703185116.html</dc:source>
+<dc:title><![CDATA[Web designer/computer guru for Village Building Convergence! (SE Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:23:47-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/wsc/cpg/3703124867.html">
+<title><![CDATA[Exuberant Staff Needed For Our Team! (OR)]]></title>
+<link>http://portland.craigslist.org/wsc/cpg/3703124867.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-25T11:58:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/wsc/cpg/3703124867.html</dc:source>
+<dc:title><![CDATA[Exuberant Staff Needed For Our Team! (OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:58:41-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3690049467.html">
+<title><![CDATA[Experienced Unity Engine Programmer (Wilsonville)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3690049467.html</link>
+<description><![CDATA[We are currently seeking programmers that know the Unity game engine platform and have experience. We would be open to speaking with anyone who has experience with game development on Unreal or Crytek engines as well. If you have experience with 3d m [...]]]></description>
+<dc:date>2013-03-25T10:56:59-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3690049467.html</dc:source>
+<dc:title><![CDATA[Experienced Unity Engine Programmer (Wilsonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:56:59-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3702938757.html">
+<title><![CDATA[Need Part time bookkeeper  (SW Portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3702938757.html</link>
+<description><![CDATA[I am looking for a bookkeeper who can take all of my online bank statements from 2009 - Present and put them into either Quicken or Quickbooks. Must know MAC! I have saved ALL of my statements to my computer and would like to have them downloaded to  [...]]]></description>
+<dc:date>2013-03-25T10:42:34-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3702938757.html</dc:source>
+<dc:title><![CDATA[Need Part time bookkeeper  (SW Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:42:34-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/wsc/cpg/3678658638.html">
+<title><![CDATA[Linux System Administrator - Flex Hours (Portland, OR)]]></title>
+<link>http://portland.craigslist.org/wsc/cpg/3678658638.html</link>
+<description><![CDATA[We are seeking a mid-level Linux System Adminsitrator to support 30 Linux Servers, mostly Red Hat (with a mix of others). Duties will include server clean up, security patching, Apache upgrades, etc. There is the potential for flexible hours, and thi [...]]]></description>
+<dc:date>2013-03-25T09:18:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/wsc/cpg/3678658638.html</dc:source>
+<dc:title><![CDATA[Linux System Administrator - Flex Hours (Portland, OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:18:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3698219228.html">
+<title><![CDATA[ebaY seller wanted]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3698219228.html</link>
+<description><![CDATA[ebay volume seller / power seller wanted 
+Ebay Volume / power Seller Wanted (vanc area) 
+I am looking for someone to sell my items on ebay... 
+I am a picker and looking for someone to sell my merchandise.. You do all the listing, selling, shipping..  [...]]]></description>
+<dc:date>2013-03-24T23:43:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3698219228.html</dc:source>
+<dc:title><![CDATA[ebaY seller wanted]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:43:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3688238834.html">
+<title><![CDATA[Bookkeeper Part-Time (SE Portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3688238834.html</link>
+<description><![CDATA[Small consulting business seeks a part-time bookkeeper approx 16 hrs. per month 
+enter receipts 
+enter bills 
+post payments 
+reconcile banking and cc accounts 
+monthly payroll 
+quarterly reports 
+1099s 
+W2s 
+P&L, Balance Sheet, General Ledger 
+Year - [...]]]></description>
+<dc:date>2013-03-24T23:36:41-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3688238834.html</dc:source>
+<dc:title><![CDATA[Bookkeeper Part-Time (SE Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:36:41-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://portland.craigslist.org/mlt/cpg/3700825165.html">
 <title><![CDATA[Need to troubleshoot a podcast (Vancouver/online)]]></title>
@@ -193,21 +332,6 @@ proven system for making money online  [...]]]></description>
 <dc:title><![CDATA[local wordpress website ace wanted (Clackamas)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T20:45:24-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3698219228.html">
-<title><![CDATA[ebaY seller wanted]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3698219228.html</link>
-<description><![CDATA[ebay volume seller / power seller wanted 
-Ebay Volume / power Seller Wanted (vanc area) 
-I am looking for someone to sell my items on ebay... 
-I am a picker and looking for someone to sell my merchandise.. You do all the listing, selling, shipping..  [...]]]></description>
-<dc:date>2013-03-22T18:36:33-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3698219228.html</dc:source>
-<dc:title><![CDATA[ebaY seller wanted]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T18:36:33-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://portland.craigslist.org/mlt/cpg/3697837680.html">
 <title><![CDATA[Need 4s screen replaced (Portland)]]></title>
@@ -383,18 +507,6 @@ We are a small innovative start-up which develops cloud based systems for motion
 <dc:title><![CDATA[Javascript Programmer]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T10:03:27-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/wsc/cpg/3678658638.html">
-<title><![CDATA[Linux System Administrator - Flex Hours (Portland, OR)]]></title>
-<link>http://portland.craigslist.org/wsc/cpg/3678658638.html</link>
-<description><![CDATA[We are seeking a mid-level Linux System Adminsitrator to support 30 Linux Servers, mostly Red Hat (with a mix of others). Duties will include server clean up, security patching, Apache upgrades, etc. There is the potential for flexible hours, and thi [...]]]></description>
-<dc:date>2013-03-21T07:33:26-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/wsc/cpg/3678658638.html</dc:source>
-<dc:title><![CDATA[Linux System Administrator - Flex Hours (Portland, OR)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T07:33:26-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://portland.craigslist.org/wsc/cpg/3694518985.html">
 <title><![CDATA[Atmel Studio Programming AVR Atmega328 (Portland Hillsboro Beaverton)]]></title>
@@ -602,18 +714,6 @@ I'm looking for someone to install ethernet cables in a 2 story townhouse (cabli
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-18T21:18:36-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3690049467.html">
-<title><![CDATA[Experienced Unity Engine Programmer (Wilsonville)]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3690049467.html</link>
-<description><![CDATA[We are currently seeking programmers that know the Unity game engine platform and have experience. We would be open to speaking with anyone who has experience with game development on Unreal or Crytek engines as well. If you have experience with 3d m [...]]]></description>
-<dc:date>2013-03-18T18:55:20-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3690049467.html</dc:source>
-<dc:title><![CDATA[Experienced Unity Engine Programmer (Wilsonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T18:55:20-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://portland.craigslist.org/mlt/cpg/3690018264.html">
 <title><![CDATA[Squarespace Developer Needed (Portland)]]></title>
 <link>http://portland.craigslist.org/mlt/cpg/3690018264.html</link>
@@ -702,6 +802,18 @@ We need help at present with Wordpress CMS, social media management and outreach
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-18T15:05:41-07:00</dcterms:issued>
 </item>
+<item rdf:about="http://portland.craigslist.org/mlt/cpg/3689176955.html">
+<title><![CDATA[Ruby Developer Contract (Portland)]]></title>
+<link>http://portland.craigslist.org/mlt/cpg/3689176955.html</link>
+<description><![CDATA[Dachis Group is looking for an experienced Ruby developer to join our team and start contributing on high-profile projects for national and global clients right away. This isn't just another boring developer job. At Dachis Group, we're focused on cre [...]]]></description>
+<dc:date>2013-03-18T11:48:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://portland.craigslist.org/mlt/cpg/3689176955.html</dc:source>
+<dc:title><![CDATA[Ruby Developer Contract (Portland)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-18T11:48:53-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://portland.craigslist.org/mlt/cpg/3688948038.html">
 <title><![CDATA[Help A Visual Artist With Social Networking! (St Johns)]]></title>
 <link>http://portland.craigslist.org/mlt/cpg/3688948038.html</link>
@@ -725,28 +837,6 @@ We need help at present with Wordpress CMS, social media management and outreach
 <dc:title><![CDATA[Seeking Certified VMWare Professional (Portland, Vancouver, Salem)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-18T08:54:46-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3688238834.html">
-<title><![CDATA[Bookkeeper Part-Time (SE Portland)]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3688238834.html</link>
-<description><![CDATA[Small consulting business seeks a part-time bookkeeper approx 16 hrs. per month 
-enter receipts 
-enter bills 
-post payments 
-reconcile banking and cc accounts 
-monthly payroll 
-quarterly reports 
-1099s 
-W2s 
-P&L, Balance Sheet, General Ledger 
-Year - [...]]]></description>
-<dc:date>2013-03-18T02:59:16-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3688238834.html</dc:source>
-<dc:title><![CDATA[Bookkeeper Part-Time (SE Portland)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-18T02:59:16-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://portland.craigslist.org/wsc/cpg/3687769335.html">
 <title><![CDATA[Bookkeeping on Quickbooks (Portland)]]></title>
@@ -1336,98 +1426,5 @@ Accommodations will be provided in Lincoln City and Seaside. ]]></description>
 <dc:title><![CDATA[Online Traffic Builder (tele-commute)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-06T21:07:28-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3664073154.html">
-<title><![CDATA[FFmpeg Consulting Opportunity (Portland)]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3664073154.html</link>
-<description><![CDATA[Looking for an engineer experienced in customizing and optimizing FFmpeg. We need you to come in, view our FFmpeg deployment, suggest ways to optimize/customize, and then implement. Thinking ~20 hours to start. Will be 1099.]]></description>
-<dc:date>2013-03-06T17:38:02-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3664073154.html</dc:source>
-<dc:title><![CDATA[FFmpeg Consulting Opportunity (Portland)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-06T17:38:02-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/clk/cpg/3663992131.html">
-<title><![CDATA[SEO (portland/vancouver)]]></title>
-<link>http://portland.craigslist.org/clk/cpg/3663992131.html</link>
-<description><![CDATA[Small Advertising firm in search of a champion to join our team. 
-We are located in Vancouver Wa, but server clients all over the nation. . 
-Our clients need on and off page optimization. 
-SEO: The basics are laid out but we are looking for someone w [...]]]></description>
-<dc:date>2013-03-06T16:54:12-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/clk/cpg/3663992131.html</dc:source>
-<dc:title><![CDATA[SEO (portland/vancouver)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-06T16:54:12-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3663373348.html">
-<title><![CDATA[Help editing an existing Excel worksheet (Portland)]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3663373348.html</link>
-<description><![CDATA[I need help manipulating an existing excel spreadsheet. Need to be able to program macros, working with exported CSV files, and be able to see the big picture. Have to be able to translate tech language to something that can work for my business. I d [...]]]></description>
-<dc:date>2013-03-06T12:19:59-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3663373348.html</dc:source>
-<dc:title><![CDATA[Help editing an existing Excel worksheet (Portland)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-06T12:19:59-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/wsc/cpg/3645799833.html">
-<title><![CDATA[Silverlight Developer (Portland, OR)]]></title>
-<link>http://portland.craigslist.org/wsc/cpg/3645799833.html</link>
-<description><![CDATA[Seeking an expereinced developer with Silverlight, MVVM and T-SQL experience. Please forward a Word resume for consideration and details. ]]></description>
-<dc:date>2013-03-06T09:56:13-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/wsc/cpg/3645799833.html</dc:source>
-<dc:title><![CDATA[Silverlight Developer (Portland, OR)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-06T09:56:13-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/mlt/cpg/3661347367.html">
-<title><![CDATA[iOS Engineer (Portland)]]></title>
-<link>http://portland.craigslist.org/mlt/cpg/3661347367.html</link>
-<description><![CDATA[The iOS Engineer will work in a team to define, design, develop and support our growing suite of iPhone/iPad apps for the educational market. The successful candidate will be able to jump into an existing team and help drive the evolution and expansi [...]]]></description>
-<dc:date>2013-03-05T14:27:38-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/mlt/cpg/3661347367.html</dc:source>
-<dc:title><![CDATA[iOS Engineer (Portland)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-05T14:27:38-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/clk/cpg/3660567177.html">
-<title><![CDATA[Wordpress/PHP Expert (Vancouver WA)]]></title>
-<link>http://portland.craigslist.org/clk/cpg/3660567177.html</link>
-<description><![CDATA[We are a local Property Management Company looking for an expert in Wordpress and PHP Programming to assist our Marketing Director. You must be in the Portland or Vancouver area and be able to meet at times in our office to assist and help our Market [...]]]></description>
-<dc:date>2013-03-05T09:25:57-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/clk/cpg/3660567177.html</dc:source>
-<dc:title><![CDATA[Wordpress/PHP Expert (Vancouver WA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-05T09:25:57-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://portland.craigslist.org/clc/cpg/3659494294.html">
-<title><![CDATA[Web Designer Full/Part (Portland, OR)]]></title>
-<link>http://portland.craigslist.org/clc/cpg/3659494294.html</link>
-<description><![CDATA[We are a local internet marketing solutions company looking to hire on 1-2 contractors for Part-Time to possible Full-Time website development work. 
-Skills include: 
-Wordpress [required] 
-HTML 
-DreamWeaver 
-Joomla 
-We request that only local designe [...]]]></description>
-<dc:date>2013-03-04T18:34:17-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://portland.craigslist.org/clc/cpg/3659494294.html</dc:source>
-<dc:title><![CDATA[Web Designer Full/Part (Portland, OR)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-04T18:34:17-08:00</dcterms:issued>
 </item>
 </rdf:RDF>

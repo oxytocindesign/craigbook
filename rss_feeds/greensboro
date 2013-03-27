@@ -23,14 +23,13 @@
 <dc:source>http://greensboro.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in greensboro</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:35:06-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:45:01-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3700812116.html" />
   <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3697039144.html" />
-  <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3677431483.html" />
   <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3671534739.html" />
   <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3664756237.html" />
   <rdf:li rdf:resource="http://greensboro.craigslist.org/cpg/3635641533.html" />
@@ -65,18 +64,6 @@
 <dc:title><![CDATA[Internet and ecommerce help (Winston Salem)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T11:37:56-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://greensboro.craigslist.org/cpg/3677431483.html">
-<title><![CDATA[Need Crash Course in Word Press (Greensboro)]]></title>
-<link>http://greensboro.craigslist.org/cpg/3677431483.html</link>
-<description><![CDATA[I have a new site that I'm launching that was created in Word Press. Since I will do the updates, I need a crash course in how to do the basics for now. Looking to learn how to do basic updates to the pages. Will probably need about 5-8 hours of trai [...]]]></description>
-<dc:date>2013-03-12T20:18:35-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://greensboro.craigslist.org/cpg/3677431483.html</dc:source>
-<dc:title><![CDATA[Need Crash Course in Word Press (Greensboro)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-12T20:18:35-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://greensboro.craigslist.org/cpg/3671534739.html">
 <title><![CDATA[Photocopier needs service  (Mebane)]]></title>

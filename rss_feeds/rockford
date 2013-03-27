@@ -23,11 +23,12 @@
 <dc:source>http://rockford.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in rockford</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:24:57-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:41:08-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3703165236.html" />
   <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3695635492.html" />
   <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3649563898.html" />
   <rdf:li rdf:resource="http://rockford.craigslist.org/cpg/3611451573.html" />
@@ -35,6 +36,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://rockford.craigslist.org/cpg/3703165236.html">
+<title><![CDATA[Software BETA Testers Needed (Hampshire)]]></title>
+<link>http://rockford.craigslist.org/cpg/3703165236.html</link>
+<description><![CDATA[We are a new company looking for BETA testers for a new software suite. It is agricultural based and centers around optimizing farming operations. We are looking mainly for farmers or farm hands to test the software and let us know what they think. W [...]]]></description>
+<dc:date>2013-03-25T14:15:27-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://rockford.craigslist.org/cpg/3703165236.html</dc:source>
+<dc:title><![CDATA[Software BETA Testers Needed (Hampshire)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:15:27-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://rockford.craigslist.org/cpg/3695635492.html">
 <title><![CDATA[Computer Reps. NEDDED&gt;&gt;&gt;Hire on the SPOT!!]]></title>
 <link>http://rockford.craigslist.org/cpg/3695635492.html</link>

@@ -23,11 +23,12 @@
 <dc:source>http://missoula.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in missoula</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:24:59-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:34:40-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3703775030.html" />
   <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3695616908.html" />
   <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3687714468.html" />
   <rdf:li rdf:resource="http://missoula.craigslist.org/cpg/3661779700.html" />
@@ -39,6 +40,22 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://missoula.craigslist.org/cpg/3703775030.html">
+<title><![CDATA[Internet Sales/Marketing]]></title>
+<link>http://missoula.craigslist.org/cpg/3703775030.html</link>
+<description><![CDATA[Seeking an ambitious self-sufficient person. 
+Must be responsible, self-motivated and team oriented, willing to help people. 
+Must be able to accept direction. Personal training will be provided. 
+You can work part time or full time. 
+Considerable in [...]]]></description>
+<dc:date>2013-03-25T18:03:55-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://missoula.craigslist.org/cpg/3703775030.html</dc:source>
+<dc:title><![CDATA[Internet Sales/Marketing]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:03:55-06:00</dcterms:issued>
+</item>
 <item rdf:about="http://missoula.craigslist.org/cpg/3695616908.html">
 <title><![CDATA[Need simple app built for small biz (Missoula (anywhere))]]></title>
 <link>http://missoula.craigslist.org/cpg/3695616908.html</link>

@@ -23,11 +23,13 @@
 <dc:source>http://jacksonville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in jacksonville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:34:57-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:40:55-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3703438768.html" />
+  <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3702761062.html" />
   <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3681079430.html" />
   <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3665008293.html" />
   <rdf:li rdf:resource="http://jacksonville.craigslist.org/cpg/3639876879.html" />
@@ -59,6 +61,31 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3703438768.html">
+<title><![CDATA[&gt;&gt;&gt;&gt;Every Friday is PayDay&lt;&lt;&lt;&lt; (Jacksonville)]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3703438768.html</link>
+<description><![CDATA[Did you lose your job? Are you in a career transition? Do you hate your job or your boss? Our company is looking for professionals or recent college graduates with an entrepreneur mindset to work in a comfortable, relaxed environment. Complete traini [...]]]></description>
+<dc:date>2013-03-25T17:14:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3703438768.html</dc:source>
+<dc:title><![CDATA[&gt;&gt;&gt;&gt;Every Friday is PayDay&lt;&lt;&lt;&lt; (Jacksonville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:14:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://jacksonville.craigslist.org/cpg/3702761062.html">
+<title><![CDATA[Play a fun and free Android game]]></title>
+<link>http://jacksonville.craigslist.org/cpg/3702761062.html</link>
+<description><![CDATA[We're launching a game to the Google Play store in June and are looking for Android phone/tablet users to try it out before we go live. The gig is unpaid but we'll be giving away daily prizes of $30-$50 value to players for the next eight weeks. 
+Int [...]]]></description>
+<dc:date>2013-03-25T12:30:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://jacksonville.craigslist.org/cpg/3702761062.html</dc:source>
+<dc:title><![CDATA[Play a fun and free Android game]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:30:30-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://jacksonville.craigslist.org/cpg/3681079430.html">
 <title><![CDATA[Internet Sales/Marketing]]></title>
 <link>http://jacksonville.craigslist.org/cpg/3681079430.html</link>

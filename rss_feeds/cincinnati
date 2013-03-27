@@ -23,14 +23,16 @@
 <dc:source>http://cincinnati.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in cincinnati, OH</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:03-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:25-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3702016331.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3694245075.html" />
-  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3699000794.html" />
+  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3702451778.html" />
+  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3702409318.html" />
+  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3702129832.html" />
+  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3702016331.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3696950798.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3696882950.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3692768211.html" />
@@ -54,11 +56,61 @@
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3620709395.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3612960040.html" />
   <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3607546501.html" />
-  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3578450349.html" />
-  <rdf:li rdf:resource="http://cincinnati.craigslist.org/cpg/3600583250.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://cincinnati.craigslist.org/cpg/3694245075.html">
+<title><![CDATA[Tech Support (Cincinnati)]]></title>
+<link>http://cincinnati.craigslist.org/cpg/3694245075.html</link>
+<description><![CDATA[Need someone that can provide basic trouble shooting pc's and laptops over the phone. Some service calls to the clients location maybe required. 
+Send contact information and rates ]]></description>
+<dc:date>2013-03-25T20:07:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cincinnati.craigslist.org/cpg/3694245075.html</dc:source>
+<dc:title><![CDATA[Tech Support (Cincinnati)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:07:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cincinnati.craigslist.org/cpg/3702451778.html">
+<title><![CDATA[Entry Level IT Project (Cincinnati)]]></title>
+<link>http://cincinnati.craigslist.org/cpg/3702451778.html</link>
+<description><![CDATA[This is a 2-3 Day Entry Level IT/Electronic Project working in retail stores beginning the week of 4/15/2013. Hours are normal business hours 8am-5pm each day. 
+Description: 
+Swap out batteries in electronic signs and kiosks throughout store location [...]]]></description>
+<dc:date>2013-03-25T10:11:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cincinnati.craigslist.org/cpg/3702451778.html</dc:source>
+<dc:title><![CDATA[Entry Level IT Project (Cincinnati)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:11:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cincinnati.craigslist.org/cpg/3702409318.html">
+<title><![CDATA[PHP Developer Needed (Florence, KY)]]></title>
+<link>http://cincinnati.craigslist.org/cpg/3702409318.html</link>
+<description><![CDATA[I need an immediate contract php developer with wordpress experience. $20 dollars an hour on contract. Regular work. All response should be sent to email with a resume and relevant work experience or portfolio options you have]]></description>
+<dc:date>2013-03-25T09:47:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cincinnati.craigslist.org/cpg/3702409318.html</dc:source>
+<dc:title><![CDATA[PHP Developer Needed (Florence, KY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:47:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://cincinnati.craigslist.org/cpg/3702129832.html">
+<title><![CDATA[CadCam Designer Looking For somone to Draw 3d cad drawings. Cash$$$  (Lawrenceburg Indiana)]]></title>
+<link>http://cincinnati.craigslist.org/cpg/3702129832.html</link>
+<description><![CDATA[Looking for an Mechanical Engineering Student, That has experience With Cad Cam. MasterCam, Autocad, Mechanical Desktop, Solidworks Ect. 
+I used to Know how to draw 3d prints but its been 13 years and i forgot commands and dont have time to waste. I  [...]]]></description>
+<dc:date>2013-03-25T03:03:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://cincinnati.craigslist.org/cpg/3702129832.html</dc:source>
+<dc:title><![CDATA[CadCam Designer Looking For somone to Draw 3d cad drawings. Cash$$$  (Lawrenceburg Indiana)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T03:03:59-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://cincinnati.craigslist.org/cpg/3702016331.html">
 <title><![CDATA[&gt;&gt;Ad Post/Marketing Opp - Daily Pay&lt;&lt; (Greater Cincinnati Area)]]></title>
 <link>http://cincinnati.craigslist.org/cpg/3702016331.html</link>
@@ -75,34 +127,6 @@ If you are profic [...]]]></description>
 <dc:title><![CDATA[&gt;&gt;Ad Post/Marketing Opp - Daily Pay&lt;&lt; (Greater Cincinnati Area)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-25T00:23:56-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://cincinnati.craigslist.org/cpg/3694245075.html">
-<title><![CDATA[Tech Support (Cincinnati)]]></title>
-<link>http://cincinnati.craigslist.org/cpg/3694245075.html</link>
-<description><![CDATA[Need someone that can provide basic trouble shooting pc's and laptops over the phone. Some service calls to the clients location maybe required. 
-Send contact information and rates ]]></description>
-<dc:date>2013-03-23T15:34:32-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://cincinnati.craigslist.org/cpg/3694245075.html</dc:source>
-<dc:title><![CDATA[Tech Support (Cincinnati)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T15:34:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://cincinnati.craigslist.org/cpg/3699000794.html">
-<title><![CDATA[Business Website (Online)]]></title>
-<link>http://cincinnati.craigslist.org/cpg/3699000794.html</link>
-<description><![CDATA[Hi everyone! 
-I am an affordable Web and Graphic Designer who builds websites for small businesses and organizations. 
-Please view my website/resume/portfolio, www.484designs.com. 
-Live chat with us on our website and save! ]]></description>
-<dc:date>2013-03-23T11:52:19-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://cincinnati.craigslist.org/cpg/3699000794.html</dc:source>
-<dc:title><![CDATA[Business Website (Online)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T11:52:19-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://cincinnati.craigslist.org/cpg/3696950798.html">
 <title><![CDATA[clerical help needed (Madeira adjacent)]]></title>
@@ -396,30 +420,5 @@ Provides support to end users on a variety of issues. Identifies, researches, an
 <dc:title><![CDATA[Computer Help (Fairfield,ohio)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-10T13:28:45-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://cincinnati.craigslist.org/cpg/3578450349.html">
-<title><![CDATA[Seeking a Ruby on Rails Individual to teach (ONLINE)]]></title>
-<link>http://cincinnati.craigslist.org/cpg/3578450349.html</link>
-<description><![CDATA[We are a training facility based out of Austin that is currently seeking a professional who has over 5 years experience working in web design, and has used Ruby on Rails on a professional basis. 
-We prefer people who are self employed or has control  [...]]]></description>
-<dc:date>2013-02-07T15:24:21-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://cincinnati.craigslist.org/cpg/3578450349.html</dc:source>
-<dc:title><![CDATA[Seeking a Ruby on Rails Individual to teach (ONLINE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T15:24:21-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://cincinnati.craigslist.org/cpg/3600583250.html">
-<title><![CDATA[LOCAL ENTREPRENEUR LOOKING FOR PARTNER TO MAKE A WEBSITE (LOVELAND)]]></title>
-<link>http://cincinnati.craigslist.org/cpg/3600583250.html</link>
-<description><![CDATA[Hello, my name is Danny and I'm an entrepreneur and business owner. I have a new idea for an online business but don't know a whole lot about the actual, "we design" side of things. I'm looking for a partner to help me bring this idea to life. I do n [...]]]></description>
-<dc:date>2013-02-07T12:34:10-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://cincinnati.craigslist.org/cpg/3600583250.html</dc:source>
-<dc:title><![CDATA[LOCAL ENTREPRENEUR LOOKING FOR PARTNER TO MAKE A WEBSITE (LOVELAND)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T12:34:10-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

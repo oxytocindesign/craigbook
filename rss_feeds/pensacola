@@ -23,7 +23,7 @@
 <dc:source>http://pensacola.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in pensacola</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:32:27-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -32,7 +32,6 @@
   <rdf:li rdf:resource="http://pensacola.craigslist.org/cpg/3679300414.html" />
   <rdf:li rdf:resource="http://pensacola.craigslist.org/cpg/3659007177.html" />
   <rdf:li rdf:resource="http://pensacola.craigslist.org/cpg/3634253300.html" />
-  <rdf:li rdf:resource="http://pensacola.craigslist.org/cpg/3585893704.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -87,17 +86,5 @@ Please contact via email ]]></description>
 <dc:title><![CDATA[Simsol Writer (Mobile, AL)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-21T17:10:16-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://pensacola.craigslist.org/cpg/3585893704.html">
-<title><![CDATA[E-COMMERCE AND SALES EXPERIENCE (PENSACOLA)]]></title>
-<link>http://pensacola.craigslist.org/cpg/3585893704.html</link>
-<description><![CDATA[I have a e-commerce website dealing in the automotive accessory industry. I am needing someone who has experience and knows how to market and advertise possibly a buisness partnership. It will be commission based as I get off the ground starting out  [...]]]></description>
-<dc:date>2013-02-07T13:41:41-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://pensacola.craigslist.org/cpg/3585893704.html</dc:source>
-<dc:title><![CDATA[E-COMMERCE AND SALES EXPERIENCE (PENSACOLA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T13:41:41-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

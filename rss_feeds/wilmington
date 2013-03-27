@@ -23,11 +23,12 @@
 <dc:source>http://wilmington.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in wilmington, NC</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:38:45-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:39:59-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3703545270.html" />
   <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3701975456.html" />
   <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3701684169.html" />
   <rdf:li rdf:resource="http://wilmington.craigslist.org/cpg/3692824907.html" />
@@ -39,6 +40,19 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://wilmington.craigslist.org/cpg/3703545270.html">
+<title><![CDATA[Website Developer Wordpress Dev (Jacksonville NC)]]></title>
+<link>http://wilmington.craigslist.org/cpg/3703545270.html</link>
+<description><![CDATA[Hi my name is Johan Beaucicaut. 
+I am an aspiring web developer/ programmer and i am self-educated in the trade. I am currently studying: html, css, javascript, jquery, php, mysql, ajax, and wordpress theme development. I am 5 months into my studies  [...]]]></description>
+<dc:date>2013-03-25T18:04:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://wilmington.craigslist.org/cpg/3703545270.html</dc:source>
+<dc:title><![CDATA[Website Developer Wordpress Dev (Jacksonville NC)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:04:48-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://wilmington.craigslist.org/cpg/3701975456.html">
 <title><![CDATA[Newly Open Positions -- Staff Wanted! (Wilm)]]></title>
 <link>http://wilmington.craigslist.org/cpg/3701975456.html</link>

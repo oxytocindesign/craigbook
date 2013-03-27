@@ -23,11 +23,14 @@
 <dc:source>http://baltimore.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in baltimore</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:29:56-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:29:54-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3703412036.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3703275080.html" />
+  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3702947133.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3698930426.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3691754807.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3695803183.html" />
@@ -48,7 +51,6 @@
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3679517403.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3678174251.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675975781.html" />
-  <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675427155.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675412300.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3675020351.html" />
   <rdf:li rdf:resource="http://baltimore.craigslist.org/cpg/3672880042.html" />
@@ -92,6 +94,48 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3703412036.html">
+<title><![CDATA[Web development project (Baltimore)]]></title>
+<link>http://baltimore.craigslist.org/cpg/3703412036.html</link>
+<description><![CDATA[Seeking an experienced Web developer local to Baltimore for a short term project. Contact this posting with your resume and portfolio. ]]></description>
+<dc:date>2013-03-25T17:02:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3703412036.html</dc:source>
+<dc:title><![CDATA[Web development project (Baltimore)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:02:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3703275080.html">
+<title><![CDATA[&#9600;&#9608;&#9600; ~~groupon or livingsocial experience]]></title>
+<link>http://baltimore.craigslist.org/cpg/3703275080.html</link>
+<description><![CDATA[Looking for some one with sale and marketing experience in the daily deal industry 
+This is an opportunity for some one with sale and marketing experience in the daily deal industry 
+We have a great opportunity for U to make a lot of money 
+leave con [...]]]></description>
+<dc:date>2013-03-25T16:02:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3703275080.html</dc:source>
+<dc:title><![CDATA[&#9600;&#9608;&#9600; ~~groupon or livingsocial experience]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:02:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://baltimore.craigslist.org/cpg/3702947133.html">
+<title><![CDATA[USING NEW PHONE BOOK DISTRIBUTED TELEMARKETING]]></title>
+<link>http://baltimore.craigslist.org/cpg/3702947133.html</link>
+<description><![CDATA[CO. NEEDS TELEMARKETER GOOD PHONE VOICE TO WORK FROM HOME, USE NEW PHONE BOOK TO CALL BUSINESSES UP AND GET THEIR EMAIL ADDRESS. 
+MUST HAVE GOOD PHONE VOICE. 
+CONTACT 
+410-929-9111 ]]></description>
+<dc:date>2013-03-25T13:45:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://baltimore.craigslist.org/cpg/3702947133.html</dc:source>
+<dc:title><![CDATA[USING NEW PHONE BOOK DISTRIBUTED TELEMARKETING]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:45:57-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://baltimore.craigslist.org/cpg/3698930426.html">
 <title><![CDATA[Convert To Vector (Baltimore)]]></title>
 <link>http://baltimore.craigslist.org/cpg/3698930426.html</link>
@@ -364,19 +408,6 @@ o Kn [...]]]></description>
 <dc:title><![CDATA[An App Builder Needed Asap (Baltimore )]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-12T10:14:30-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://baltimore.craigslist.org/cpg/3675427155.html">
-<title><![CDATA[exchange server (Nottingham  )]]></title>
-<link>http://baltimore.craigslist.org/cpg/3675427155.html</link>
-<description><![CDATA[Looking for Exchange Server gig to configure my small Business Server to send and receive emails from internet. Please do not respond to this posting if you do not have the experience in this area of Microsoft technology. 
-Call me Jerry at 410-900-42 [...]]]></description>
-<dc:date>2013-03-11T23:39:03-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://baltimore.craigslist.org/cpg/3675427155.html</dc:source>
-<dc:title><![CDATA[exchange server (Nottingham  )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-11T23:39:03-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://baltimore.craigslist.org/cpg/3675412300.html">
 <title><![CDATA[CSS designer to make CMS ecommerce store with SSL]]></title>

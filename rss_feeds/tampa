@@ -23,13 +23,19 @@
 <dc:source>http://tampa.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in tampa bay area</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:35:17-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:04-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3701827615.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/psc/cpg/3701053527.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3703742521.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3703570828.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3680346901.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3664858423.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3703178308.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3702334851.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/psc/cpg/3702320341.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3689750542.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3700923562.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3679412071.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/psc/cpg/3694363698.html" />
@@ -43,16 +49,12 @@
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3695656410.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3695623246.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3695281151.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3695214752.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3664858423.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3689750542.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3630983048.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3692506903.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3691712882.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3691354916.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3691116530.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3690875684.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3690737834.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3690310303.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3689367348.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3689272377.html" />
@@ -67,8 +69,6 @@
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3681584239.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3681579390.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3680905262.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3680348146.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3680346901.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3679917144.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/psc/cpg/3679348627.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3678859166.html" />
@@ -126,38 +126,121 @@
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3637287287.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3637080883.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/pnl/cpg/3636269252.html" />
+  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3634814095.html" />
   <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3634533285.html" />
-  <rdf:li rdf:resource="http://tampa.craigslist.org/hil/cpg/3633087476.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3701827615.html">
-<title><![CDATA[&#9819;windows 7 Professional and microsoft office 2010 installed (tampa bay)]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3701827615.html</link>
-<description><![CDATA[You will have genuine activation keys - You can install either the 32 or 64-bit version - You can choose an upgrade or clean installation - You can install to as many computers as you want - You will receive all current and future updates 
-Microsoft  [...]]]></description>
-<dc:date>2013-03-24T21:43:52-04:00</dc:date>
+<item rdf:about="http://tampa.craigslist.org/pnl/cpg/3703742521.html">
+<title><![CDATA[needed network marketers earn top$ as you go]]></title>
+<link>http://tampa.craigslist.org/pnl/cpg/3703742521.html</link>
+<description><![CDATA[Start your own business and learn from Anthony Robbins mentor,make $ as you learn from the top in the business 
+with a no fail success system,be financial free in at most 18months,earn as you go 
+www.mylifevantage.com/stevenbritt 
+copy and paste abov [...]]]></description>
+<dc:date>2013-03-25T19:46:07-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3701827615.html</dc:source>
-<dc:title><![CDATA[&#9819;windows 7 Professional and microsoft office 2010 installed (tampa bay)]]></dc:title>
+<dc:source>http://tampa.craigslist.org/pnl/cpg/3703742521.html</dc:source>
+<dc:title><![CDATA[needed network marketers earn top$ as you go]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T21:43:52-04:00</dcterms:issued>
+<dcterms:issued>2013-03-25T19:46:07-04:00</dcterms:issued>
 </item>
-<item rdf:about="http://tampa.craigslist.org/psc/cpg/3701053527.html">
-<title><![CDATA[friday girl  (4420 devon dr new port richey fl,34653)]]></title>
-<link>http://tampa.craigslist.org/psc/cpg/3701053527.html</link>
-<description><![CDATA[Can work out a day that works best to qualified helper( 4 hours one day weekly) 
-No W2 forms filed 
-$7.00 per hour perfect for stay at home mom, student,unemployed,disabled 
-Job entails entering information into quicken books(Small real estate manage [...]]]></description>
-<dc:date>2013-03-24T14:20:55-04:00</dc:date>
+<item rdf:about="http://tampa.craigslist.org/pnl/cpg/3703570828.html">
+<title><![CDATA[&#10102; micosoft word 2010 and windows 7 professional installed 50$ (on site to your home or office)]]></title>
+<link>http://tampa.craigslist.org/pnl/cpg/3703570828.html</link>
+<description><![CDATA[I install a clean operating system or upgrade your current operating system 
+I have XP/windows 7 Ultimate/windows 8 professional 
+and Microsoft Word 2010, photoshop CS5, and powerdvd ultra 12 
+For Mac I have final cut pro 
+Word for Mac 
+Password remo [...]]]></description>
+<dc:date>2013-03-25T18:17:20-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/psc/cpg/3701053527.html</dc:source>
-<dc:title><![CDATA[friday girl  (4420 devon dr new port richey fl,34653)]]></dc:title>
+<dc:source>http://tampa.craigslist.org/pnl/cpg/3703570828.html</dc:source>
+<dc:title><![CDATA[&#10102; micosoft word 2010 and windows 7 professional installed 50$ (on site to your home or office)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T14:20:55-04:00</dcterms:issued>
+<dcterms:issued>2013-03-25T18:17:20-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/hil/cpg/3680346901.html">
+<title><![CDATA[Web Project Manager (Tampa)]]></title>
+<link>http://tampa.craigslist.org/hil/cpg/3680346901.html</link>
+<description><![CDATA[Looking to hire a web project manager for our company 
+You will need to know how to code, create and do multiple projects at once. You must be able to create back end admin and e-commerce. 
+We are looking to hire a free lancer to start that will turn [...]]]></description>
+<dc:date>2013-03-25T16:10:45-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/hil/cpg/3680346901.html</dc:source>
+<dc:title><![CDATA[Web Project Manager (Tampa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:10:45-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/hil/cpg/3664858423.html">
+<title><![CDATA[WEB PROFESSIONAL (TAMPA)]]></title>
+<link>http://tampa.craigslist.org/hil/cpg/3664858423.html</link>
+<description><![CDATA[A local company looking for a local web ecommerce professional. 
+Someone that knows hot to create back end reporting on ecommerce, post sales, deal with the details of a 
+ecommerce site with our own merchant accounts. We would like someone who is est [...]]]></description>
+<dc:date>2013-03-25T16:09:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/hil/cpg/3664858423.html</dc:source>
+<dc:title><![CDATA[WEB PROFESSIONAL (TAMPA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:09:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/hil/cpg/3703178308.html">
+<title><![CDATA[housekeeping (tampa-brandon area)]]></title>
+<link>http://tampa.craigslist.org/hil/cpg/3703178308.html</link>
+<description><![CDATA[CLEANING ROOMS, ASSISTING WITH LAUNDRY AND OCCASIONALLY HELPING WITH SETTING UP BREAKFAST BUFFET 
+BREAKFAST - AS EARLY AS 5AM ON WEEKDAYS AND 6AM ON WEEKENDS. ]]></description>
+<dc:date>2013-03-25T15:20:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/hil/cpg/3703178308.html</dc:source>
+<dc:title><![CDATA[housekeeping (tampa-brandon area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:20:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/hil/cpg/3702334851.html">
+<title><![CDATA[Openings for Help Desk in Tampa!]]></title>
+<link>http://tampa.craigslist.org/hil/cpg/3702334851.html</link>
+<description><![CDATA[Expand your knowledge with a Help Desk-Tier I position in Tampa!]]></description>
+<dc:date>2013-03-25T08:56:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/hil/cpg/3702334851.html</dc:source>
+<dc:title><![CDATA[Openings for Help Desk in Tampa!]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:56:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/psc/cpg/3702320341.html">
+<title><![CDATA[Startup Needs Help (North Tampa)]]></title>
+<link>http://tampa.craigslist.org/psc/cpg/3702320341.html</link>
+<description><![CDATA[Hi - we are a startup company in North Tampa that sells software online. We are looking with some help managing our Facebook, twitter and other social sites as well as minor customer support & management (nothing technical). Would love for this to be [...]]]></description>
+<dc:date>2013-03-25T08:44:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/psc/cpg/3702320341.html</dc:source>
+<dc:title><![CDATA[Startup Needs Help (North Tampa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:44:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://tampa.craigslist.org/pnl/cpg/3689750542.html">
+<title><![CDATA[Java Web Application Developer Needed Part-Time (Tampa Bay, Florida)]]></title>
+<link>http://tampa.craigslist.org/pnl/cpg/3689750542.html</link>
+<description><![CDATA[Currently seeking an Java Web Application Developer. The job is part-time and pays. 
+You will be working on a new type of website called Syncalink.com alongside other developers who are working on other parts of the site. 
+You will have the option to [...]]]></description>
+<dc:date>2013-03-25T03:11:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/pnl/cpg/3689750542.html</dc:source>
+<dc:title><![CDATA[Java Web Application Developer Needed Part-Time (Tampa Bay, Florida)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T03:11:34-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://tampa.craigslist.org/pnl/cpg/3700923562.html">
 <title><![CDATA[Cad -Game Piece Designer ( home based)]]></title>
@@ -332,46 +415,6 @@ Partner [...]]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T13:06:46-04:00</dcterms:issued>
 </item>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3695214752.html">
-<title><![CDATA[Great Tech Support Opportunity in Tampa, FL!]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3695214752.html</link>
-<description><![CDATA[Expand your knowledge to System Admin Roles!]]></description>
-<dc:date>2013-03-21T12:37:50-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3695214752.html</dc:source>
-<dc:title><![CDATA[Great Tech Support Opportunity in Tampa, FL!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T12:37:50-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3664858423.html">
-<title><![CDATA[WEB PROFESSIONAL (TAMPA)]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3664858423.html</link>
-<description><![CDATA[A local company looking for a local web ecommerce professional. 
-Someone that knows hot to create back end reporting on ecommerce, post sales, deal with the details of a 
-ecommerce site with our own merchant accounts. We would like someone who is est [...]]]></description>
-<dc:date>2013-03-21T11:07:57-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3664858423.html</dc:source>
-<dc:title><![CDATA[WEB PROFESSIONAL (TAMPA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T11:07:57-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/pnl/cpg/3689750542.html">
-<title><![CDATA[Java Web Application Developer Needed Part-Time (Tampa Bay, Florida)]]></title>
-<link>http://tampa.craigslist.org/pnl/cpg/3689750542.html</link>
-<description><![CDATA[Currently seeking an Java Web Application Developer. The job is part-time and pays. 
-You will be working on a new type of website called Syncalink.com alongside other developers who are working on other parts of the site. 
-You will have the option to [...]]]></description>
-<dc:date>2013-03-21T10:51:15-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/pnl/cpg/3689750542.html</dc:source>
-<dc:title><![CDATA[Java Web Application Developer Needed Part-Time (Tampa Bay, Florida)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T10:51:15-04:00</dcterms:issued>
-</item>
 <item rdf:about="http://tampa.craigslist.org/hil/cpg/3630983048.html">
 <title><![CDATA[E-Commerce Web Designer (TAMPA)]]></title>
 <link>http://tampa.craigslist.org/hil/cpg/3630983048.html</link>
@@ -450,18 +493,6 @@ Candidate will  [...]]]></description>
 <dc:title><![CDATA[Board Level repair Tech  ((Carrollwood))]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T11:44:30-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3690737834.html">
-<title><![CDATA[Great Opp for Short or Long Term Tech Support!]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3690737834.html</link>
-<description><![CDATA[Looking for Tech Support in the Tampa Bay Area! Great opportunity to expand your knowledge within the Tech Support field!]]></description>
-<dc:date>2013-03-19T10:42:04-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3690737834.html</dc:source>
-<dc:title><![CDATA[Great Opp for Short or Long Term Tech Support!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T10:42:04-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://tampa.craigslist.org/pnl/cpg/3690310303.html">
 <title><![CDATA[Paralegal help wanted (clearwater)]]></title>
@@ -656,34 +687,6 @@ Please call 81 Three 283 0267 ]]></description>
 <dc:title><![CDATA[Graphic Designer (Seminole)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-14T13:28:28-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/pnl/cpg/3680348146.html">
-<title><![CDATA[WEB DEVELOPMENT INCUBATOR (TARPON SPRINGS/PALM HARBOR)]]></title>
-<link>http://tampa.craigslist.org/pnl/cpg/3680348146.html</link>
-<description><![CDATA[A NEW WEB DEVELOPMENT INCUBATOR PROGRAM WILL BEGIN APRIL 2. 2013. 
-THE PROGRAM TOPIC IS "CLOSED LOOP FULFILLMENT E-COMMERCE" AND WILL CONTINUE MON-THU, 1-4 DAILY FOR FOR 90-DAYS. 
-PARTICIPANTS WILL DEVELOP METHODS TO SELL PRODUCTS, GET PAID, AND HAVE [...]]]></description>
-<dc:date>2013-03-14T08:51:56-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/pnl/cpg/3680348146.html</dc:source>
-<dc:title><![CDATA[WEB DEVELOPMENT INCUBATOR (TARPON SPRINGS/PALM HARBOR)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T08:51:56-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3680346901.html">
-<title><![CDATA[Web Project Manager (Tampa)]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3680346901.html</link>
-<description><![CDATA[Looking to hire a web project manager for our company 
-You will need to know how to code, create and do multiple projects at once. You must be able to create back end admin and e-commerce. 
-We are looking to hire a free lancer to start that will turn [...]]]></description>
-<dc:date>2013-03-14T08:50:53-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3680346901.html</dc:source>
-<dc:title><![CDATA[Web Project Manager (Tampa)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-14T08:50:53-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://tampa.craigslist.org/hil/cpg/3679917144.html">
 <title><![CDATA[Ministry looking for administrative assistant with computer skills (Odessa )]]></title>
@@ -1442,6 +1445,22 @@ We can meet up, we can transfer the account to me and I can pay cash on the spot
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-22T14:57:14-05:00</dcterms:issued>
 </item>
+<item rdf:about="http://tampa.craigslist.org/hil/cpg/3634814095.html">
+<title><![CDATA[I NEED 2 SONGS BURNED ON A CD (TAMPA)]]></title>
+<link>http://tampa.craigslist.org/hil/cpg/3634814095.html</link>
+<description><![CDATA[Im looking for someone to burn these two song on a cd. 
+Bury Me Alive - The Spell 
+The Neighbourhood - A Little Death 
+They can be found on youtube 
+I can pay a little something if needed.]]></description>
+<dc:date>2013-02-21T21:48:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://tampa.craigslist.org/hil/cpg/3634814095.html</dc:source>
+<dc:title><![CDATA[I NEED 2 SONGS BURNED ON A CD (TAMPA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-02-21T21:48:34-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://tampa.craigslist.org/hil/cpg/3634533285.html">
 <title><![CDATA[Fixture Assembler  (Brandon )]]></title>
 <link>http://tampa.craigslist.org/hil/cpg/3634533285.html</link>
@@ -1453,17 +1472,5 @@ We can meet up, we can transfer the account to me and I can pay cash on the spot
 <dc:title><![CDATA[Fixture Assembler  (Brandon )]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-21T19:17:00-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://tampa.craigslist.org/hil/cpg/3633087476.html">
-<title><![CDATA[looking for tutor pesonal wedsite help at (mc donald's  hillsborough in town&coutry)]]></title>
-<link>http://tampa.craigslist.org/hil/cpg/3633087476.html</link>
-<description><![CDATA[looking for some one to help me finish billding my website will pay for lunch or dinner and time spent for your help or one set price to finish the work email me if you have some free time .ps there is alot I have alreddy done. ]]></description>
-<dc:date>2013-02-21T09:29:19-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://tampa.craigslist.org/hil/cpg/3633087476.html</dc:source>
-<dc:title><![CDATA[looking for tutor pesonal wedsite help at (mc donald's  hillsborough in town&coutry)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-21T09:29:19-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

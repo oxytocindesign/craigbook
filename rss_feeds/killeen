@@ -23,19 +23,31 @@
 <dc:source>http://killeen.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in killeen / temple / ft hood</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:08-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:45:11-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3692192079.html" />
   <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3659164151.html" />
+  <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3692192079.html" />
   <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3655779699.html" />
   <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3663453335.html" />
   <rdf:li rdf:resource="http://killeen.craigslist.org/cpg/3650306197.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://killeen.craigslist.org/cpg/3659164151.html">
+<title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></title>
+<link>http://killeen.craigslist.org/cpg/3659164151.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-25T15:27:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://killeen.craigslist.org/cpg/3659164151.html</dc:source>
+<dc:title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:27:31-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://killeen.craigslist.org/cpg/3692192079.html">
 <title><![CDATA[Point Model for Freetrack (Copperas Cove TX)]]></title>
 <link>http://killeen.craigslist.org/cpg/3692192079.html</link>
@@ -47,18 +59,6 @@
 <dc:title><![CDATA[Point Model for Freetrack (Copperas Cove TX)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T21:12:39-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://killeen.craigslist.org/cpg/3659164151.html">
-<title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></title>
-<link>http://killeen.craigslist.org/cpg/3659164151.html</link>
-<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
-<dc:date>2013-03-15T12:04:53-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://killeen.craigslist.org/cpg/3659164151.html</dc:source>
-<dc:title><![CDATA[Sharepoint Person to instruct (Austin and ONLINE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T12:04:53-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://killeen.craigslist.org/cpg/3655779699.html">
 <title><![CDATA[Seeking energetic internet savy Business Partners (Wink)]]></title>

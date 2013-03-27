@@ -23,7 +23,7 @@
 <dc:source>http://columbia.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in columbia, SC</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:48-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:33:58-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -51,13 +51,13 @@
 -Data Network Cabling Installation 
 -Telephone Wiring & Cabling Installation 
 -Cabling Design & Implemen [...]]]></description>
-<dc:date>2013-03-22T15:09:08-04:00</dc:date>
+<dc:date>2013-03-25T15:56:44-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
 <dc:source>http://columbia.craigslist.org/cpg/3649800877.html</dc:source>
 <dc:title><![CDATA[LOOKING FOR SUBCONTRACTOR TELECOM-IT NETWORKING FIELD TECH]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T15:09:08-04:00</dcterms:issued>
+<dcterms:issued>2013-03-25T15:56:44-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://columbia.craigslist.org/cpg/3687819151.html">
 <title><![CDATA[Program my truck remote.]]></title>

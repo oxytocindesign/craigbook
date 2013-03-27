@@ -23,11 +23,13 @@
 <dc:source>http://salem.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in salem, OR</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:35:08-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:35:27-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3703737486.html" />
+  <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3702543132.html" />
   <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3691558629.html" />
   <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3698996847.html" />
   <rdf:li rdf:resource="http://salem.craigslist.org/cpg/3697097139.html" />
@@ -38,6 +40,30 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://salem.craigslist.org/cpg/3703737486.html">
+<title><![CDATA[Immediate Openings! Staff Now Wanted! (OR)]]></title>
+<link>http://salem.craigslist.org/cpg/3703737486.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-25T16:43:25-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3703737486.html</dc:source>
+<dc:title><![CDATA[Immediate Openings! Staff Now Wanted! (OR)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:43:25-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://salem.craigslist.org/cpg/3702543132.html">
+<title><![CDATA[Make $50,$100,$200/Day ( salem )]]></title>
+<link>http://salem.craigslist.org/cpg/3702543132.html</link>
+<description><![CDATA[]]></description>
+<dc:date>2013-03-25T07:56:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://salem.craigslist.org/cpg/3702543132.html</dc:source>
+<dc:title><![CDATA[Make $50,$100,$200/Day ( salem )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T07:56:56-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://salem.craigslist.org/cpg/3691558629.html">
 <title><![CDATA[Looking for Local Entrepreneur to run Salem Business Directory (Salem)]]></title>
 <link>http://salem.craigslist.org/cpg/3691558629.html</link>

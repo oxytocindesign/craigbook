@@ -23,19 +23,21 @@
 <dc:source>http://sacramento.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in sacramento</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:36:04-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:29:57-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3703897108.html" />
+  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3691048038.html" />
+  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3703036529.html" />
+  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3680880395.html" />
+  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3702540340.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3676329906.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3681005977.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3701871651.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3701809178.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3701542221.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3694204694.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3660823455.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3700188646.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3699738730.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3699237482.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3666857559.html" />
@@ -48,14 +50,12 @@
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3697658860.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3691019640.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3697418422.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3680880395.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3696109208.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3696007439.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3696004378.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3689268540.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3695451346.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3694563216.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3694513816.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3694377986.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3693666404.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3693356983.html" />
@@ -63,7 +63,6 @@
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3692265017.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3691711111.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3691698953.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3691048038.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3690789218.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3639615503.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3690321178.html" />
@@ -126,10 +125,73 @@
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3643297221.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3635986165.html" />
   <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3639583421.html" />
-  <rdf:li rdf:resource="http://sacramento.craigslist.org/cpg/3636983895.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://sacramento.craigslist.org/cpg/3703897108.html">
+<title><![CDATA[Website Developer]]></title>
+<link>http://sacramento.craigslist.org/cpg/3703897108.html</link>
+<description><![CDATA[I need someone who can copy the same design of a website for me (without their content), have it run in Wordpress as a WP theme with a intuitive admin area that will have several features that I can go into detail about and also the site MUST be resp [...]]]></description>
+<dc:date>2013-03-25T18:15:10-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sacramento.craigslist.org/cpg/3703897108.html</dc:source>
+<dc:title><![CDATA[Website Developer]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:15:10-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sacramento.craigslist.org/cpg/3691048038.html">
+<title><![CDATA[Need Android users for a special research project (gift card rewarded)]]></title>
+<link>http://sacramento.craigslist.org/cpg/3691048038.html</link>
+<description><![CDATA[We are looking for Android handset users from any wireless carrier to install our App for 1 week. We will email the App along with easy instructions on how to start and stop the app. The requirement would be to start logging on the app and let it run [...]]]></description>
+<dc:date>2013-03-25T17:20:50-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sacramento.craigslist.org/cpg/3691048038.html</dc:source>
+<dc:title><![CDATA[Need Android users for a special research project (gift card rewarded)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:20:50-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sacramento.craigslist.org/cpg/3703036529.html">
+<title><![CDATA[Seeking: Data Entry Projects]]></title>
+<link>http://sacramento.craigslist.org/cpg/3703036529.html</link>
+<description><![CDATA[I do freelance Data Entry work. I Specialize in entering data to online database or excel type projects and more. I am currently looking for new assignments. $15.00/hour or negotiable per assignment. Please go to http://dataeworks.webs.com or contact [...]]]></description>
+<dc:date>2013-03-25T11:22:21-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sacramento.craigslist.org/cpg/3703036529.html</dc:source>
+<dc:title><![CDATA[Seeking: Data Entry Projects]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:22:21-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sacramento.craigslist.org/cpg/3680880395.html">
+<title><![CDATA[Experienced Drupal Developer Needed  (Roseville)]]></title>
+<link>http://sacramento.craigslist.org/cpg/3680880395.html</link>
+<description><![CDATA[We are a growing web development company in Roseville, who is in need of a part-time or full-time in house Drupal developer. This person must be dependable and be able to work between the hours of 9am-5pm. 
+Qualifications: 
+At least 2+ years of exper [...]]]></description>
+<dc:date>2013-03-25T09:29:56-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sacramento.craigslist.org/cpg/3680880395.html</dc:source>
+<dc:title><![CDATA[Experienced Drupal Developer Needed  (Roseville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:29:56-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://sacramento.craigslist.org/cpg/3702540340.html">
+<title><![CDATA[Basic IT Project  (Roseville)]]></title>
+<link>http://sacramento.craigslist.org/cpg/3702540340.html</link>
+<description><![CDATA[This is a 2-3 Day Entry Level IT/Electronic Project working in retail stores beginning the week of 4/15/2013. Hours are normal business hours 8am-5pm each day. 
+Description: 
+Swap out batteries in electronic signs and kiosks throughout store location [...]]]></description>
+<dc:date>2013-03-25T07:55:37-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://sacramento.craigslist.org/cpg/3702540340.html</dc:source>
+<dc:title><![CDATA[Basic IT Project  (Roseville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T07:55:37-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3676329906.html">
 <title><![CDATA[Need someone to unbrick semi-brick htc G2 (Pocket-Greenhaven)]]></title>
 <link>http://sacramento.craigslist.org/cpg/3676329906.html</link>
@@ -157,30 +219,6 @@ You can work part time or f [...]]]></description>
 <dc:title><![CDATA[Internet Sales/Marketing ]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-24T20:58:32-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3701871651.html">
-<title><![CDATA[Show me how to clone websites (Sacramento)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3701871651.html</link>
-<description><![CDATA[I need someone to show me how to clone websites. They should be able to teach me how to clone websites that contain html, css, javascript, php, etc. Please send me your price!]]></description>
-<dc:date>2013-03-24T19:16:21-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3701871651.html</dc:source>
-<dc:title><![CDATA[Show me how to clone websites (Sacramento)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T19:16:21-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3701809178.html">
-<title><![CDATA[Need my site converted from a zip file into Wordpress (Sacramento)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3701809178.html</link>
-<description><![CDATA[I need my website converted from a zip file into Wordpress. The file contents include HTML, CSS, Javascript and PHP. Please respond with your price and delivery time and the best quote accepted.]]></description>
-<dc:date>2013-03-24T18:31:05-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3701809178.html</dc:source>
-<dc:title><![CDATA[Need my site converted from a zip file into Wordpress (Sacramento)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T18:31:05-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3701542221.html">
 <title><![CDATA[Computer Market Help Wanted]]></title>
@@ -229,18 +267,6 @@ Please send link to your  [...]]]></description>
 <dc:title><![CDATA[BU-Social Media-get paid to play on face book (Modesto)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T22:26:38-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3700188646.html">
-<title><![CDATA[!!! 14 year old making $12.54 A DAY !!!]]></title>
-<link>http://sacramento.craigslist.org/cpg/3700188646.html</link>
-<description><![CDATA[14 year old makes $12.54 dollars in income EVERY DAY!!! If I can do it, anyone can do it ... EVEN YOU!!! So click on the link and get started!!! http://top10waystomakemoneyonline.com/a14/]]></description>
-<dc:date>2013-03-23T20:18:45-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3700188646.html</dc:source>
-<dc:title><![CDATA[!!! 14 year old making $12.54 A DAY !!!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T20:18:45-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3699738730.html">
 <title><![CDATA[Social Media Gigs (All US)]]></title>
@@ -398,20 +424,6 @@ DUTIES AND RESPONSIBILITIES
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T11:21:24-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3680880395.html">
-<title><![CDATA[Experienced Drupal Developer Needed  (Roseville)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3680880395.html</link>
-<description><![CDATA[We are a growing web development company in Roseville, who is in need of a part-time or full-time in house Drupal developer. This person must be dependable and be able to work between the hours of 9am-5pm. 
-Qualifications: 
-At least 2+ years of exper [...]]]></description>
-<dc:date>2013-03-21T17:33:11-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3680880395.html</dc:source>
-<dc:title><![CDATA[Experienced Drupal Developer Needed  (Roseville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T17:33:11-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3696109208.html">
 <title><![CDATA[Court Hearing Reporter (Sacramento, CA)]]></title>
 <link>http://sacramento.craigslist.org/cpg/3696109208.html</link>
@@ -487,18 +499,6 @@ Provide hands on break/fix support of large  [...]]]></description>
 <dc:title><![CDATA[PCI Security assessment & filing (Benicia)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-20T23:41:26-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3694513816.html">
-<title><![CDATA[RE:Experienced Video Editor..!!! NEEDED (Sacramento)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3694513816.html</link>
-<description><![CDATA[LMAO X2 then I LMAO again. Thanks for the good laugh MasterPlanZent. Oh Boy, you guys are BIG TIME, TEN WHOLE DOLLAR, how did you guys managed to come up with $10 within your company? Did everyone skipped McDonalds $1 value menu for a whole week and  [...]]]></description>
-<dc:date>2013-03-20T22:30:28-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3694513816.html</dc:source>
-<dc:title><![CDATA[RE:Experienced Video Editor..!!! NEEDED (Sacramento)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-20T22:30:28-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3694377986.html">
 <title><![CDATA[Experienced Video Editor..!!! NEEDED (Sacramento)]]></title>
@@ -594,18 +594,6 @@ I am looking for someone to assist in developing a web/mobile app. You must have
 <dc:title><![CDATA[Looking for part-time developer help (Auburn Surrounding areas)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T14:37:34-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3691048038.html">
-<title><![CDATA[Need Android users for a special research project (gift card rewarded)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3691048038.html</link>
-<description><![CDATA[We are looking for Android handset users from any wireless carrier to install our App for 1 week. We will email the App along with easy instructions on how to start and stop the app. The requirement would be to start logging on the app and let it run [...]]]></description>
-<dc:date>2013-03-19T09:55:26-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3691048038.html</dc:source>
-<dc:title><![CDATA[Need Android users for a special research project (gift card rewarded)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T09:55:26-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://sacramento.craigslist.org/cpg/3690789218.html">
 <title><![CDATA[Need PHP/MySQL teacher for small project (Davis)]]></title>
@@ -1422,21 +1410,5 @@ Microsoft Solutio [...]]]></description>
 <dc:title><![CDATA[Need help post'n stuf 2 sel n line]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-23T21:37:47-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://sacramento.craigslist.org/cpg/3636983895.html">
-<title><![CDATA[Need someone to download and install an instagram bot for me (sacramento)]]></title>
-<link>http://sacramento.craigslist.org/cpg/3636983895.html</link>
-<description><![CDATA[Hey there, 
-I am not very good with computers, and I need someone to download (or tell me how to ) download a working instagram bot. 
-I need the bot to be able to: 
-Follow by hashtag or user, like by hashtag, and be able to use multiple accounts. 
-I  [...]]]></description>
-<dc:date>2013-02-22T17:04:49-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sacramento.craigslist.org/cpg/3636983895.html</dc:source>
-<dc:title><![CDATA[Need someone to download and install an instagram bot for me (sacramento)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-22T17:04:49-08:00</dcterms:issued>
 </item>
 </rdf:RDF>

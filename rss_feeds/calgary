@@ -23,11 +23,12 @@
 <dc:source>http://calgary.en.craigslist.ca/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in calgary</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:40:12-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:35:39-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3702766084.html" />
   <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3690962170.html" />
   <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3696055599.html" />
   <rdf:li rdf:resource="http://calgary.en.craigslist.ca/cpg/3691381523.html" />
@@ -37,18 +38,30 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://calgary.en.craigslist.ca/cpg/3702766084.html">
+<title><![CDATA[part Help With Computer & Oral (Calgary)]]></title>
+<link>http://calgary.en.craigslist.ca/cpg/3702766084.html</link>
+<description><![CDATA[Looking for a female to help mainting my website, and some data entry, who also is willing to use her good oral skills on me.]]></description>
+<dc:date>2013-03-25T10:32:32-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://calgary.en.craigslist.ca/cpg/3702766084.html</dc:source>
+<dc:title><![CDATA[part Help With Computer & Oral (Calgary)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:32:32-06:00</dcterms:issued>
+</item>
 <item rdf:about="http://calgary.en.craigslist.ca/cpg/3690962170.html">
 <title><![CDATA[Guest Blogger (Anywhere)]]></title>
 <link>http://calgary.en.craigslist.ca/cpg/3690962170.html</link>
 <description><![CDATA[A blog about social media for business and unique social media stories is looking for a few good, Canadian bloggers to add to our roster. In return you can add links to your web site or social spaces and your posts will be broadcast to my audience. 
  [...]]]></description>
-<dc:date>2013-03-22T09:42:48-06:00</dc:date>
+<dc:date>2013-03-25T10:07:24-06:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
 <dc:source>http://calgary.en.craigslist.ca/cpg/3690962170.html</dc:source>
 <dc:title><![CDATA[Guest Blogger (Anywhere)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T09:42:48-06:00</dcterms:issued>
+<dcterms:issued>2013-03-25T10:07:24-06:00</dcterms:issued>
 </item>
 <item rdf:about="http://calgary.en.craigslist.ca/cpg/3696055599.html">
 <title><![CDATA[Seeking a web designer (pro bono)]]></title>

@@ -23,11 +23,12 @@
 <dc:source>http://lincoln.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in lincoln</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:25:00-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:19-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3702236844.html" />
   <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3674617382.html" />
   <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3657402538.html" />
   <rdf:li rdf:resource="http://lincoln.craigslist.org/cpg/3638457793.html" />
@@ -35,6 +36,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://lincoln.craigslist.org/cpg/3702236844.html">
+<title><![CDATA[Rockford p3 needs recone!  (Lincoln)]]></title>
+<link>http://lincoln.craigslist.org/cpg/3702236844.html</link>
+<description><![CDATA[I have a Rockford fosgate p3 that needs a reconnect its 4 ohm. I need advice. Can it be fixed? If so how much? Thanks!]]></description>
+<dc:date>2013-03-25T06:01:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://lincoln.craigslist.org/cpg/3702236844.html</dc:source>
+<dc:title><![CDATA[Rockford p3 needs recone!  (Lincoln)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T06:01:33-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://lincoln.craigslist.org/cpg/3674617382.html">
 <title><![CDATA[Looking to Callaborate with Mobile App Developer (anywhere)]]></title>
 <link>http://lincoln.craigslist.org/cpg/3674617382.html</link>

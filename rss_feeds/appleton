@@ -23,11 +23,12 @@
 <dc:source>http://appleton.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in appleton-oshkosh-FDL</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:40:11-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:37-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3703189413.html" />
   <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3651595033.html" />
   <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3688974549.html" />
   <rdf:li rdf:resource="http://appleton.craigslist.org/cpg/3666977057.html" />
@@ -37,6 +38,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://appleton.craigslist.org/cpg/3703189413.html">
+<title><![CDATA[Mobile Website Designs (Central WI)]]></title>
+<link>http://appleton.craigslist.org/cpg/3703189413.html</link>
+<description><![CDATA[I run a mobile marketing company and am wanting to switch from a 'mobile website builder platform' to hosting these sites on my own. So, I need someone to design fully functioning, complete mobile websites at a very decent rate. The market is being p [...]]]></description>
+<dc:date>2013-03-25T14:25:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://appleton.craigslist.org/cpg/3703189413.html</dc:source>
+<dc:title><![CDATA[Mobile Website Designs (Central WI)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:25:36-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://appleton.craigslist.org/cpg/3651595033.html">
 <title><![CDATA[iPod Touch repair - LCD Screen Connector Replacement (Appleton)]]></title>
 <link>http://appleton.craigslist.org/cpg/3651595033.html</link>

@@ -23,11 +23,14 @@
 <dc:source>http://albany.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in albany</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:35:04-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:39:57-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3703831066.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3703830554.html" />
+  <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3702213415.html" />
   <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3697686345.html" />
   <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3695144035.html" />
   <rdf:li rdf:resource="http://albany.craigslist.org/cpg/3694848568.html" />
@@ -51,6 +54,45 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://albany.craigslist.org/cpg/3703831066.html">
+<title><![CDATA[Looking For Web Designer/Programmer to create, and host, a directory (Capital Region - Albany, etc)]]></title>
+<link>http://albany.craigslist.org/cpg/3703831066.html</link>
+<description><![CDATA[Looking For: 
+Web-Software Designer(s) / Programmer to CREATE, and HOST, a directory template, preferably with DirectoryPress (PremiumPress), using one of my domain names. 
+I will need this template to be built so that I will EASILY be able to re-cre [...]]]></description>
+<dc:date>2013-03-25T20:35:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3703831066.html</dc:source>
+<dc:title><![CDATA[Looking For Web Designer/Programmer to create, and host, a directory (Capital Region - Albany, etc)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:35:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3703830554.html">
+<title><![CDATA[Commercial Embroidery Machine Tech Needed (Altamont, NY)]]></title>
+<link>http://albany.craigslist.org/cpg/3703830554.html</link>
+<description><![CDATA[Looking for someone who services Commercial Embroidery machines in the Albany area. 
+Please email with your contact information ]]></description>
+<dc:date>2013-03-25T20:35:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3703830554.html</dc:source>
+<dc:title><![CDATA[Commercial Embroidery Machine Tech Needed (Altamont, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T20:35:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://albany.craigslist.org/cpg/3702213415.html">
+<title><![CDATA[Make 800$ A Day (Anywhere)]]></title>
+<link>http://albany.craigslist.org/cpg/3702213415.html</link>
+<description><![CDATA[Hello, I've been trying to sell my eBook for the past three months now on my personal secret guide to making money but I usually lose contact with people after they buy it so I'm trying to get people to try it for free to get testimonials. You can em [...]]]></description>
+<dc:date>2013-03-25T06:16:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albany.craigslist.org/cpg/3702213415.html</dc:source>
+<dc:title><![CDATA[Make 800$ A Day (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T06:16:22-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://albany.craigslist.org/cpg/3697686345.html">
 <title><![CDATA[Looking for web designer or partner]]></title>
 <link>http://albany.craigslist.org/cpg/3697686345.html</link>

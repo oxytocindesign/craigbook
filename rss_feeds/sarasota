@@ -23,7 +23,7 @@
 <dc:source>http://sarasota.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in sarasota-bradenton</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:24:56-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:30:25-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -40,8 +40,6 @@
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3672457964.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3671172824.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3666335728.html" />
-  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3636002274.html" />
-  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3595073236.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3654713619.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3636131025.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3635536739.html" />
@@ -50,7 +48,6 @@
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3608588229.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3608404063.html" />
   <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3602343118.html" />
-  <rdf:li rdf:resource="http://sarasota.craigslist.org/cpg/3579270555.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -200,30 +197,6 @@ Thanks ]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-07T20:31:49-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://sarasota.craigslist.org/cpg/3636002274.html">
-<title><![CDATA[Part to full assitant (Ellenton area)]]></title>
-<link>http://sarasota.craigslist.org/cpg/3636002274.html</link>
-<description><![CDATA[Office work pt or full for a person ,with good office skills call and leave message 561-809-9425]]></description>
-<dc:date>2013-03-04T05:47:09-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sarasota.craigslist.org/cpg/3636002274.html</dc:source>
-<dc:title><![CDATA[Part to full assitant (Ellenton area)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-04T05:47:09-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://sarasota.craigslist.org/cpg/3595073236.html">
-<title><![CDATA[Office assitant pt (Ellenton)]]></title>
-<link>http://sarasota.craigslist.org/cpg/3595073236.html</link>
-<description><![CDATA[Construction buisness looking for part time do it all person for successful business, computer skills a must,full time soon.Also cleaning ,painting skills would be nice to gain extra hours call Charlie at 561-809-9425 for interview]]></description>
-<dc:date>2013-03-04T05:46:43-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sarasota.craigslist.org/cpg/3595073236.html</dc:source>
-<dc:title><![CDATA[Office assitant pt (Ellenton)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-04T05:46:43-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://sarasota.craigslist.org/cpg/3654713619.html">
 <title><![CDATA[need final cut pro 7 editor for quick.job]]></title>
 <link>http://sarasota.craigslist.org/cpg/3654713619.html</link>
@@ -331,19 +304,5 @@ Can meet a few hours each day, every other day, nights or? I can be flexible. Do
 <dc:title><![CDATA[ruby on rails developer/designer for prototype (sarasota)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-08T06:35:38-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://sarasota.craigslist.org/cpg/3579270555.html">
-<title><![CDATA[need someone to repair my NSM CD Jukebox 941-323-3466 (south venice)]]></title>
-<link>http://sarasota.craigslist.org/cpg/3579270555.html</link>
-<description><![CDATA[I have a CDM Juke bow that has error sign and wont play 
-If there is anyone with the know how and would be williong to fix I would gladly pay them but dont want to spend a fortune at the same time..:-) 
-Please call mike 941-323-3466]]></description>
-<dc:date>2013-02-06T17:11:30-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://sarasota.craigslist.org/cpg/3579270555.html</dc:source>
-<dc:title><![CDATA[need someone to repair my NSM CD Jukebox 941-323-3466 (south venice)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-06T17:11:30-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,12 +23,21 @@
 <dc:source>http://austin.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in austin</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:31:08-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:33:36-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3701976144.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3703637204.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3703508398.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3659161168.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3675808713.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3646985499.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3702934960.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3702927101.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3702814685.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3702421288.html" />
+  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3702255412.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3693584340.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3679256462.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3701287253.html" />
@@ -38,11 +47,9 @@
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3699003281.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3698999503.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3698996204.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3675808713.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3697966821.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3679088107.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3697765192.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3697645007.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3697593009.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3696660613.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3696200161.html" />
@@ -55,7 +62,6 @@
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3694778557.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3693897442.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3693679266.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3646985499.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3628567557.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3692852504.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3692386210.html" />
@@ -74,7 +80,6 @@
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3684176629.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3684089518.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3683338891.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3659161168.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3681236937.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3681124993.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3680157327.html" />
@@ -93,7 +98,6 @@
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3673332481.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3673159303.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649494259.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3647382355.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3641387005.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3670453495.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3658627112.html" />
@@ -124,28 +128,139 @@
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3643266841.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3651210227.html" />
   <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649974878.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649891023.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649749139.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649678756.html" />
-  <rdf:li rdf:resource="http://austin.craigslist.org/cpg/3649328288.html" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://austin.craigslist.org/cpg/3701976144.html">
-<title><![CDATA[Wanted Customer Relations/Care Specialist FT/PT (Telecommute)]]></title>
-<link>http://austin.craigslist.org/cpg/3701976144.html</link>
-<description><![CDATA[Job Description Looking for Customer Relations Specialists to join our growing team of professionals! Experience preferred but will train the right individuals. 
-What We Offer: 
-Part-time and full-time schedules 
-Opportunities for Advancement 
-Attrac [...]]]></description>
-<dc:date>2013-03-24T22:44:21-05:00</dc:date>
+<item rdf:about="http://austin.craigslist.org/cpg/3703637204.html">
+<title><![CDATA[Website + Creative Design (Technical) Support / Project Based (Austin)]]></title>
+<link>http://austin.craigslist.org/cpg/3703637204.html</link>
+<description><![CDATA[Hello, 
+We are a small start-up non-profit organization with educational mission, looking to re-launch with new exciting programs this fall. We already have a pretty unique website but are looking to add on video streaming, and are in need to update  [...]]]></description>
+<dc:date>2013-03-25T17:50:35-05:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3701976144.html</dc:source>
-<dc:title><![CDATA[Wanted Customer Relations/Care Specialist FT/PT (Telecommute)]]></dc:title>
+<dc:source>http://austin.craigslist.org/cpg/3703637204.html</dc:source>
+<dc:title><![CDATA[Website + Creative Design (Technical) Support / Project Based (Austin)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-24T22:44:21-05:00</dcterms:issued>
+<dcterms:issued>2013-03-25T17:50:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3703508398.html">
+<title><![CDATA[SEO Guru (Austin / Marble Falls)]]></title>
+<link>http://austin.craigslist.org/cpg/3703508398.html</link>
+<description><![CDATA[Looking for someone with organic SEO expertise and excellent written / verbal communication skills who can help advise my company's clients on search-optimization matters. 
+The ideal person is someone who follows developments in the SEO community, kn [...]]]></description>
+<dc:date>2013-03-25T16:47:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3703508398.html</dc:source>
+<dc:title><![CDATA[SEO Guru (Austin / Marble Falls)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:47:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3659161168.html">
+<title><![CDATA[Sharepoint Trainer (Austin and Central Texas)]]></title>
+<link>http://austin.craigslist.org/cpg/3659161168.html</link>
+<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
+<dc:date>2013-03-25T15:27:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3659161168.html</dc:source>
+<dc:title><![CDATA[Sharepoint Trainer (Austin and Central Texas)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:27:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3675808713.html">
+<title><![CDATA[Paid Research Study (UT Austin)]]></title>
+<link>http://austin.craigslist.org/cpg/3675808713.html</link>
+<description><![CDATA[Paid Research Opportunity at the University of Texas at Austin 
+Researchers at the University of Texas at Austin are looking for individuals to participate in a study of cognition and emotion. 
+Participation involves one introductory laboratory sessi [...]]]></description>
+<dc:date>2013-03-25T14:48:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3675808713.html</dc:source>
+<dc:title><![CDATA[Paid Research Study (UT Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:48:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3646985499.html">
+<title><![CDATA[CAD USERS- PAID RESEARCH (Austin)]]></title>
+<link>http://austin.craigslist.org/cpg/3646985499.html</link>
+<description><![CDATA[Participants MUST use either SOLIDWORKS or PRO-E ( CREO) to participate. 
+Research Study is the first week of April. 
+Morning, afternoon, and evening times available. 
+One Hour Study / $150 compensation 
+If you or anyone you know fit these basic requ [...]]]></description>
+<dc:date>2013-03-25T14:29:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3646985499.html</dc:source>
+<dc:title><![CDATA[CAD USERS- PAID RESEARCH (Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:29:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3702934960.html">
+<title><![CDATA[Investigative work]]></title>
+<link>http://austin.craigslist.org/cpg/3702934960.html</link>
+<description><![CDATA[I need someone to find the street address of a particular individual in my town. I can give you more details if you're able to do this.]]></description>
+<dc:date>2013-03-25T12:41:03-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3702934960.html</dc:source>
+<dc:title><![CDATA[Investigative work]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:41:03-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3702927101.html">
+<title><![CDATA[******* MEP Engineer in Austin, help with City Permits****** (Austin)]]></title>
+<link>http://austin.craigslist.org/cpg/3702927101.html</link>
+<description><![CDATA[I am looking for a registered Mechanical Engineer who can seal a set of drawings and help revise some edits from the Austin Permitting department. We already have submitted our building permit but have no gotten feedback on things we need to change.  [...]]]></description>
+<dc:date>2013-03-25T12:37:54-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3702927101.html</dc:source>
+<dc:title><![CDATA[******* MEP Engineer in Austin, help with City Permits****** (Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:37:54-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3702814685.html">
+<title><![CDATA[SURVEYOR  (FREE LANCE) (LAMPASAS)]]></title>
+<link>http://austin.craigslist.org/cpg/3702814685.html</link>
+<description><![CDATA[WE ARE WANTING TO HIRE A FREE LANCE SURVEYOR (OR HELPER) TO HELP US WITH OUR SMALL COUNTRY CEMETERY. 
+WE NEED OUR MAP UPDATED AND RE-DRAWN AND PRINTED. 
+WE NEED PLOTS NUMBERED AND DESIGNATED. 
+WE HAVE ADDITIONAL 2 ACRES THAT WERE DONATED AND WOULD LI [...]]]></description>
+<dc:date>2013-03-25T11:52:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3702814685.html</dc:source>
+<dc:title><![CDATA[SURVEYOR  (FREE LANCE) (LAMPASAS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:52:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3702421288.html">
+<title><![CDATA[Graphic Arts/Branding Project (Austin)]]></title>
+<link>http://austin.craigslist.org/cpg/3702421288.html</link>
+<description><![CDATA[Looking to establish the branding of a company that specializes in selling a home improvement product to the consumer market via the Web. Air filtration, energy efficient, environmental, economical are all key descriptors. Orange is a color theme. Lo [...]]]></description>
+<dc:date>2013-03-25T08:54:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3702421288.html</dc:source>
+<dc:title><![CDATA[Graphic Arts/Branding Project (Austin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T08:54:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://austin.craigslist.org/cpg/3702255412.html">
+<title><![CDATA[Competitive gaming platform - Seeks web developers and artists! (Austin, TX)]]></title>
+<link>http://austin.craigslist.org/cpg/3702255412.html</link>
+<description><![CDATA[Imagine a world where you, as a gamer, could develop your own end game. You can create tournaments and challenges for the greater public, for any game on any platform. You can share the participants actions, or even just 'show-off' your own talents t [...]]]></description>
+<dc:date>2013-03-25T06:31:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://austin.craigslist.org/cpg/3702255412.html</dc:source>
+<dc:title><![CDATA[Competitive gaming platform - Seeks web developers and artists! (Austin, TX)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T06:31:46-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://austin.craigslist.org/cpg/3693584340.html">
 <title><![CDATA[NEED AFFORDABLE VIDEO EDITOR (AUSTIN)]]></title>
@@ -216,7 +331,7 @@ We are looking for bright, motivated individuals to help curate interesting vide
 <item rdf:about="http://austin.craigslist.org/cpg/3695668636.html">
 <title><![CDATA[Web Developer/Programmer Needed With API Integration Skills (Austin, TX)]]></title>
 <link>http://austin.craigslist.org/cpg/3695668636.html</link>
-<description><![CDATA[I need a web developer/programmer to build a platform from scratch. It is mostly functional and requires very little design or UX/UI. I want to build a platform similar to http://www.reviewtrackers.com but with much less functionality. Very similar t [...]]]></description>
+<description><![CDATA[I need a web developer/programmer to build a platform from scratch. It is mostly functional and requires very little design or UX/UI. I want to build a platform similar to review tracking sites seen here ( http://www.lakeshorebranding.com/company/blo [...]]]></description>
 <dc:date>2013-03-23T15:30:50-05:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
@@ -268,20 +383,6 @@ Justin
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T10:50:08-05:00</dcterms:issued>
 </item>
-<item rdf:about="http://austin.craigslist.org/cpg/3675808713.html">
-<title><![CDATA[Paid Research Study (UT Austin)]]></title>
-<link>http://austin.craigslist.org/cpg/3675808713.html</link>
-<description><![CDATA[Paid Research Opportunity at the University of Texas at Austin 
-Researchers at the University of Texas at Austin are looking for individuals to participate in a study of cognition and emotion. 
-Participation involves one introductory laboratory sessi [...]]]></description>
-<dc:date>2013-03-22T19:57:50-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3675808713.html</dc:source>
-<dc:title><![CDATA[Paid Research Study (UT Austin)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T19:57:50-05:00</dcterms:issued>
-</item>
 <item rdf:about="http://austin.craigslist.org/cpg/3697966821.html">
 <title><![CDATA[Designer Needed ASAP (Austin)]]></title>
 <link>http://austin.craigslist.org/cpg/3697966821.html</link>
@@ -320,18 +421,6 @@ I have checked and they assure me they are al [...]]]></description>
 <dc:title><![CDATA[Pixel Cover Art Design Project (DT)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T16:05:47-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3697645007.html">
-<title><![CDATA[PC Rollout Tech - Needed (Austin, TX)]]></title>
-<link>http://austin.craigslist.org/cpg/3697645007.html</link>
-<description><![CDATA[We are seeking PC Technicians to assist with the rollout of new computer related hardware (Desktops and Laptops), packing up of older equipment and making sure everything is connected correctly to the network. The client is located in Austin, TX and  [...]]]></description>
-<dc:date>2013-03-22T15:06:48-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3697645007.html</dc:source>
-<dc:title><![CDATA[PC Rollout Tech - Needed (Austin, TX)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T15:06:48-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://austin.craigslist.org/cpg/3697593009.html">
 <title><![CDATA[l9app.com/tommygraves (United States)]]></title>
@@ -492,22 +581,6 @@ It's a startup and small, so I won't be able to pay more than $10-15, but I'm wi
 <dc:title><![CDATA[Phone/Computer Wiring Job (South Austin)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-20T15:36:54-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3646985499.html">
-<title><![CDATA[CAD USERS- PAID RESEARCH (Austin)]]></title>
-<link>http://austin.craigslist.org/cpg/3646985499.html</link>
-<description><![CDATA[Participants MUST use either SOLIDWORKS or PRO-E ( CREO) to participate. 
-Research Study is the first week of April. 
-Morning, afternoon, and evening times available. 
-One Hour Study / $150 compensation 
-If you or anyone you know fit these basic requ [...]]]></description>
-<dc:date>2013-03-20T15:09:10-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3646985499.html</dc:source>
-<dc:title><![CDATA[CAD USERS- PAID RESEARCH (Austin)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-20T15:09:10-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://austin.craigslist.org/cpg/3628567557.html">
 <title><![CDATA[MOBILE MARKETING SALES PEOPLE WANTED -  (AUSTIN)]]></title>
@@ -747,18 +820,6 @@ Please send bio or resume. m d e b  [...]]]></description>
 <dc:title><![CDATA[Need help setting up rails app in aws elastic beanstalk]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-15T14:41:31-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3659161168.html">
-<title><![CDATA[Sharepoint Trainer (Austin and Central Texas)]]></title>
-<link>http://austin.craigslist.org/cpg/3659161168.html</link>
-<description><![CDATA[Training organization is seeking a qualified candidate for teaching Sharepoint 2010 and 2013. Must be experienced (5+ years) and be able to explain complex concepts to entry-level adult learners. Must be able to follow an outline. All practice files  [...]]]></description>
-<dc:date>2013-03-15T12:04:48-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3659161168.html</dc:source>
-<dc:title><![CDATA[Sharepoint Trainer (Austin and Central Texas)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-15T12:04:48-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://austin.craigslist.org/cpg/3681236937.html">
 <title><![CDATA[Need Help Setting Up A Dell Poweredge 2850 (Loop 360 N.)]]></title>
@@ -1004,20 +1065,6 @@ We are a B2B software services company that targets clients in the US/Canada. We
 <dc:title><![CDATA[Part time Marketing/SEO/Wordpress Individual (Austin)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-10T22:02:55-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3647382355.html">
-<title><![CDATA[Needing promotion/marketing/merchandising partner (Austin)]]></title>
-<link>http://austin.craigslist.org/cpg/3647382355.html</link>
-<description><![CDATA[I own BeerThirty.com and it is time to start making it go BOOM. 
-Looking to bring on an equity only partner to help me accomplish this goal. 
-You should have a proven track record growing web businesses, and a dedicated work ethic. I'm not looking fo [...]]]></description>
-<dc:date>2013-03-10T11:12:04-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3647382355.html</dc:source>
-<dc:title><![CDATA[Needing promotion/marketing/merchandising partner (Austin)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-10T11:12:04-05:00</dcterms:issued>
 </item>
 <item rdf:about="http://austin.craigslist.org/cpg/3641387005.html">
 <title><![CDATA[Social Networking and Marketing Intern Needed for Design firm (Austin)]]></title>
@@ -1416,57 +1463,5 @@ We are seeking a so [...]]]></description>
 <dc:title><![CDATA[Software Support Technician (Austin or Virtual)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-28T14:26:37-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3649891023.html">
-<title><![CDATA[Someone to help start a podcast (Round Rock)]]></title>
-<link>http://austin.craigslist.org/cpg/3649891023.html</link>
-<description><![CDATA[Hey there my neighbors and I have been wanting to start up a podcast for a couple of years. Well now that my girlfriend of two years just left me. I've brought the idea back up, and we're ready to hit the ground running. We just need someone with bac [...]]]></description>
-<dc:date>2013-02-28T13:51:58-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3649891023.html</dc:source>
-<dc:title><![CDATA[Someone to help start a podcast (Round Rock)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-28T13:51:58-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3649749139.html">
-<title><![CDATA[Microsoft Project trainer wanted - Austin]]></title>
-<link>http://austin.craigslist.org/cpg/3649749139.html</link>
-<description><![CDATA[Microsoft Project trainer wanted - Austin 
-We are a company looking for a Microsoft Project trainer to train our client. Please reply with your bio/resume. 
-Thank you. ]]></description>
-<dc:date>2013-02-28T12:55:39-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3649749139.html</dc:source>
-<dc:title><![CDATA[Microsoft Project trainer wanted - Austin]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-28T12:55:39-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3649678756.html">
-<title><![CDATA[Seek Full Stack Developer as Co-Founder for Startup (Downtown Austin)]]></title>
-<link>http://austin.craigslist.org/cpg/3649678756.html</link>
-<description><![CDATA[Are you a programmer? Know Rails, Python or some other similarly useful programming language? 
-Do you want to start your own company, but are afraid you don't know the business side well enough? Do you lack ideas that you think will work? 
-Well, I'm  [...]]]></description>
-<dc:date>2013-02-28T12:28:14-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3649678756.html</dc:source>
-<dc:title><![CDATA[Seek Full Stack Developer as Co-Founder for Startup (Downtown Austin)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-28T12:28:14-06:00</dcterms:issued>
-</item>
-<item rdf:about="http://austin.craigslist.org/cpg/3649328288.html">
-<title><![CDATA[solid works expert (austin)]]></title>
-<link>http://austin.craigslist.org/cpg/3649328288.html</link>
-<description><![CDATA[I am looking for a designer who is proficent in solid works. You must be able to re-create my drawings into the program, be able to tweak minor sizes and scale. I would like to see examples of anything you created in solid works. Please provide your  [...]]]></description>
-<dc:date>2013-02-28T10:08:00-06:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://austin.craigslist.org/cpg/3649328288.html</dc:source>
-<dc:title><![CDATA[solid works expert (austin)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-28T10:08:00-06:00</dcterms:issued>
 </item>
 </rdf:RDF>

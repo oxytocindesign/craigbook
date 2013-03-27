@@ -23,30 +23,40 @@
 <dc:source>http://seattle.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in seattle-tacoma</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:29:32-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:33:03-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3692353545.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691058617.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691687308.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3703566580.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3703426109.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3703425660.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/sno/cpg/3691601196.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/oly/cpg/3703164801.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/sno/cpg/3703157686.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3702997976.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3668444927.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3702199469.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3702162598.html" />
+  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3702110561.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3681544267.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3701372108.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3701006395.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3700956172.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3659773228.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3689070467.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3700159763.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3681744000.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3699662433.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/kit/cpg/3699648144.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3699549317.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/skc/cpg/3699470055.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3699326043.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3698913604.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3692446058.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/skc/cpg/3698593987.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3692353545.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/oly/cpg/3698334608.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/oly/cpg/3698070795.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3697788578.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3649101671.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/tac/cpg/3697509599.html" />
@@ -58,8 +68,6 @@
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3696398775.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3696394674.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3695958578.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3695953115.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3695948395.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3695911093.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3695797544.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/oly/cpg/3695579690.html" />
@@ -68,7 +76,6 @@
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3695309882.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/sno/cpg/3695110793.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3694994135.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3668444927.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3694793612.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3694658202.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3694569116.html" />
@@ -89,9 +96,6 @@
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691859543.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691781319.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691687692.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691687308.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/sno/cpg/3691601196.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3691058617.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3690892191.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3690445145.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3690206129.html" />
@@ -124,13 +128,194 @@
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3680010773.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/see/cpg/3679759440.html" />
   <rdf:li rdf:resource="http://seattle.craigslist.org/sno/cpg/3679581549.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3679209935.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/skc/cpg/3679173554.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3666490479.html" />
-  <rdf:li rdf:resource="http://seattle.craigslist.org/est/cpg/3668465226.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3692353545.html">
+<title><![CDATA[Want to learn to blog for money? (anywhere)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3692353545.html</link>
+<description><![CDATA[Learn how to blog like a pro. Boost your business, build lists & drive traffic. 
+This training not only allows you to skyrocket your leads and build your business but you can also earn significantly from it as well. 
+Click the link now and learn how. [...]]]></description>
+<dc:date>2013-03-25T17:45:27-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3692353545.html</dc:source>
+<dc:title><![CDATA[Want to learn to blog for money? (anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:45:27-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3691058617.html">
+<title><![CDATA[Need Android users for a special research project ]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3691058617.html</link>
+<description><![CDATA[We are looking for Android handset users from any wireless carrier to install our App for 1 week. We will email the App along with easy instructions on how to start and stop the app. The requirement would be to start logging on the app and let it run [...]]]></description>
+<dc:date>2013-03-25T17:20:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3691058617.html</dc:source>
+<dc:title><![CDATA[Need Android users for a special research project ]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:20:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3691687308.html">
+<title><![CDATA[Check Reconciliation, Quickbooks (Capitol Hill)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3691687308.html</link>
+<description><![CDATA[I need someone to reconcile several sets of books using Quickbooks. This is a one-time assignment that will take maybe 10 hours total. Job is on Capital Hill, easy access and parking. Sorry, not really possible to do it remotely. Need to start and co [...]]]></description>
+<dc:date>2013-03-25T15:32:43-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3691687308.html</dc:source>
+<dc:title><![CDATA[Check Reconciliation, Quickbooks (Capitol Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:32:43-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/tac/cpg/3703566580.html">
+<title><![CDATA[Computer Programer Wanted (Boney Lake)]]></title>
+<link>http://seattle.craigslist.org/tac/cpg/3703566580.html</link>
+<description><![CDATA[Looking for a computer programer to work on smart phone and tablet applications. Please send resume and contact information and I will get back with you within 24 hours. ]]></description>
+<dc:date>2013-03-25T15:15:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/tac/cpg/3703566580.html</dc:source>
+<dc:title><![CDATA[Computer Programer Wanted (Boney Lake)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:15:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3703426109.html">
+<title><![CDATA[Excel/Photoshop Tutor  (Seattle)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3703426109.html</link>
+<description><![CDATA[Looking for a short term tutor who can help me improve my skills in Adobe Photoshop and Microsoft Excel. I would like to schedule a few sessions in the next few weeks. 
+I am interested in meeting at a cafe or similar public setting -- a Seattle area  [...]]]></description>
+<dc:date>2013-03-25T14:09:13-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3703426109.html</dc:source>
+<dc:title><![CDATA[Excel/Photoshop Tutor  (Seattle)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:09:13-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3703425660.html">
+<title><![CDATA[co-founder/partner mobile, software development (seattle-tacoma)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3703425660.html</link>
+<description><![CDATA[I'm a student of computer programming. I have a plan for the establishment and development of an offshore company. I am looking for a co-founder for help on the business development side. If you are interested in a serious, contact me for more detail [...]]]></description>
+<dc:date>2013-03-25T14:09:00-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3703425660.html</dc:source>
+<dc:title><![CDATA[co-founder/partner mobile, software development (seattle-tacoma)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T14:09:00-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/sno/cpg/3691601196.html">
+<title><![CDATA[help with business taxes (lynnwood)]]></title>
+<link>http://seattle.craigslist.org/sno/cpg/3691601196.html</link>
+<description><![CDATA[this is my first year doing business as a hosue cleaner 
+i am past due on my taxes and i need help getting them prepared. 
+i am willing to pay or provide services please email]]></description>
+<dc:date>2013-03-25T13:43:53-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/sno/cpg/3691601196.html</dc:source>
+<dc:title><![CDATA[help with business taxes (lynnwood)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T13:43:53-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/oly/cpg/3703164801.html">
+<title><![CDATA[HTML Web Developer For Hire (Olympia)]]></title>
+<link>http://seattle.craigslist.org/oly/cpg/3703164801.html</link>
+<description><![CDATA[We are a growing development company seeking motivated full time programmers. 
+We offer standard and advanced website development for businesses all around the country. 
+Please respond to the Craigslist ad with a subject line: Web Developer 
+Please l [...]]]></description>
+<dc:date>2013-03-25T12:15:15-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/oly/cpg/3703164801.html</dc:source>
+<dc:title><![CDATA[HTML Web Developer For Hire (Olympia)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:15:15-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/sno/cpg/3703157686.html">
+<title><![CDATA[Word Press multisite help wanted (Edmonds)]]></title>
+<link>http://seattle.craigslist.org/sno/cpg/3703157686.html</link>
+<description><![CDATA[Wanted: part-time contractual Word Press multisite developer and designer with expertise in HTML, HTML 5 and content management. Knowledge of SQL databases a plus. Please submit portfolio urls with your response. Okay to work remotely, but occasional [...]]]></description>
+<dc:date>2013-03-25T12:12:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/sno/cpg/3703157686.html</dc:source>
+<dc:title><![CDATA[Word Press multisite help wanted (Edmonds)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T12:12:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3702997976.html">
+<title><![CDATA[earning an exit (seattle)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3702997976.html</link>
+<description><![CDATA[We have built a web site with national relevance called GoBop.com, and it is beginning to trend. Now is time to promote the site leading to exit. Looking for someone experienced in that phase to guide or mentor the effort. Thanks 
+Craig ]]></description>
+<dc:date>2013-03-25T11:06:46-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3702997976.html</dc:source>
+<dc:title><![CDATA[earning an exit (seattle)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T11:06:46-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/est/cpg/3668444927.html">
+<title><![CDATA[Data Modeling / SDE (Redmond, WA)]]></title>
+<link>http://seattle.craigslist.org/est/cpg/3668444927.html</link>
+<description><![CDATA[Please forward a Word resume. 
+We are seeking the following: 
+- C# or C++ a plus (not required) 
+- Research experience 
+- Data Modeling 
+o Analyze large data sets 
+o Solid SQL 
+o Creating reports 
+o Creating cubes ]]></description>
+<dc:date>2013-03-25T09:18:40-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/est/cpg/3668444927.html</dc:source>
+<dc:title><![CDATA[Data Modeling / SDE (Redmond, WA)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T09:18:40-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/see/cpg/3702199469.html">
+<title><![CDATA[Server administrator and programers (seattle)]]></title>
+<link>http://seattle.craigslist.org/see/cpg/3702199469.html</link>
+<description><![CDATA[Seeking volunteer expert advise regarding server maintenance and also seeking for a cake php programers. Must be located in Seattle or County of King. Please write if you are interested.]]></description>
+<dc:date>2013-03-25T02:44:57-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/see/cpg/3702199469.html</dc:source>
+<dc:title><![CDATA[Server administrator and programers (seattle)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T02:44:57-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/est/cpg/3702162598.html">
+<title><![CDATA[Need some help with Business Depreciation in TurboTax (Bellevue)]]></title>
+<link>http://seattle.craigslist.org/est/cpg/3702162598.html</link>
+<description><![CDATA[I need some Tax professional with fairly ggod knowledge with TurboTax section 179 - specifically depreciation, so, I'm not stuck in this. It may take only 5-10 minutes for knowledgable person to fix the errors. You'll be well compensated for your tim [...]]]></description>
+<dc:date>2013-03-25T01:15:20-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/est/cpg/3702162598.html</dc:source>
+<dc:title><![CDATA[Need some help with Business Depreciation in TurboTax (Bellevue)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T01:15:20-07:00</dcterms:issued>
+</item>
+<item rdf:about="http://seattle.craigslist.org/est/cpg/3702110561.html">
+<title><![CDATA[Fuel Cell / Electrical Engineer (Greater Seattle area / nationwide)]]></title>
+<link>http://seattle.craigslist.org/est/cpg/3702110561.html</link>
+<description><![CDATA[I'm starting a business as a distributor of power systems for electric vehicles and other custom applications - I'm looking for an electrical engineer with knowledge/interest/passion for fuel cells (H2, DMFC/DEFC). If you don't know what those letter [...]]]></description>
+<dc:date>2013-03-24T23:28:39-07:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://seattle.craigslist.org/est/cpg/3702110561.html</dc:source>
+<dc:title><![CDATA[Fuel Cell / Electrical Engineer (Greater Seattle area / nationwide)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-24T23:28:39-07:00</dcterms:issued>
+</item>
 <item rdf:about="http://seattle.craigslist.org/see/cpg/3681544267.html">
 <title><![CDATA[Social marketing project (Work from home )]]></title>
 <link>http://seattle.craigslist.org/see/cpg/3681544267.html</link>
@@ -208,18 +393,6 @@ Requirement
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T20:22:56-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3700159763.html">
-<title><![CDATA[iPad Testers Needed]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3700159763.html</link>
-<description><![CDATA[Our organization is currently looking for people able to test the new iPad. Reply back to the ad and I will send you the necessary information for you to fill out. Thank you. ]]></description>
-<dc:date>2013-03-23T19:51:34-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3700159763.html</dc:source>
-<dc:title><![CDATA[iPad Testers Needed]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T19:51:34-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://seattle.craigslist.org/see/cpg/3681744000.html">
 <title><![CDATA[CGI artist needed to create some effects for an indy sf film  (Seattle)]]></title>
 <link>http://seattle.craigslist.org/see/cpg/3681744000.html</link>
@@ -275,21 +448,6 @@ THANKS]]></description>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T13:10:23-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://seattle.craigslist.org/skc/cpg/3699470055.html">
-<title><![CDATA[Microsoft Excel Small Program	 (South Seattle)]]></title>
-<link>http://seattle.craigslist.org/skc/cpg/3699470055.html</link>
-<description><![CDATA[We need help to create a small excel application to help us take orders. 
-Project Outline 
-Create Product Model SKU Numbers and Product descriptions 
-I have an excel document where each worksheet contains a unique product option with a basic descript [...]]]></description>
-<dc:date>2013-03-23T12:31:05-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/skc/cpg/3699470055.html</dc:source>
-<dc:title><![CDATA[Microsoft Excel Small Program	 (South Seattle)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T12:31:05-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://seattle.craigslist.org/tac/cpg/3699326043.html">
 <title><![CDATA[ps3 gammer wanted-batman A.A(will pay) (tacoma)]]></title>
 <link>http://seattle.craigslist.org/tac/cpg/3699326043.html</link>
@@ -338,20 +496,6 @@ I have an excel document where each worksheet contains a unique product option w
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-23T03:04:17-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3692353545.html">
-<title><![CDATA[Want to learn to blog for money? (anywhere)]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3692353545.html</link>
-<description><![CDATA[Learn how to blog like a pro. Boost your business, build lists & drive traffic. 
-This training not only allows you to skyrocket your leads and build your business but you can also earn significantly from it as well. 
-Click the link now and learn how. [...]]]></description>
-<dc:date>2013-03-23T01:04:14-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3692353545.html</dc:source>
-<dc:title><![CDATA[Want to learn to blog for money? (anywhere)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-23T01:04:14-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://seattle.craigslist.org/oly/cpg/3698334608.html">
 <title><![CDATA[Please fix my HTC Rhyme Smartphone??? (Olympia/Tumwater)]]></title>
 <link>http://seattle.craigslist.org/oly/cpg/3698334608.html</link>
@@ -363,18 +507,6 @@ Click the link now and learn how. [...]]]></description>
 <dc:title><![CDATA[Please fix my HTC Rhyme Smartphone??? (Olympia/Tumwater)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-22T20:08:48-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/oly/cpg/3698070795.html">
-<title><![CDATA[Create Website, Create Excel Mailing List (Will come to you)]]></title>
-<link>http://seattle.craigslist.org/oly/cpg/3698070795.html</link>
-<description><![CDATA[I am starting a business that requires a website with the ability for someone to contact us to place an order. I don't need for them to pay for the product at the time of the order. I have a list of contacts that are in the Excell format and I need t [...]]]></description>
-<dc:date>2013-03-22T16:55:30-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/oly/cpg/3698070795.html</dc:source>
-<dc:title><![CDATA[Create Website, Create Excel Mailing List (Will come to you)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-22T16:55:30-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://seattle.craigslist.org/see/cpg/3697788578.html">
 <title><![CDATA[assistant (seattle)]]></title>
@@ -524,32 +656,6 @@ Let me know if you're interested! Email Melyssa at Smarterer dot com.]]></descri
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T15:25:59-07:00</dcterms:issued>
 </item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3695953115.html">
-<title><![CDATA[60 Second Paid Gig for AJAX Experts!]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3695953115.html</link>
-<description><![CDATA[Are you an AJAX expert interested in a paid gig that would take less than 60 seconds? I'm looking for someone interested in taking a short multiple choice test on AJAX. 
-Let me know if you're interested! Email Melyssa at Smarterer dot com.]]></description>
-<dc:date>2013-03-21T15:22:52-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3695953115.html</dc:source>
-<dc:title><![CDATA[60 Second Paid Gig for AJAX Experts!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T15:22:52-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3695948395.html">
-<title><![CDATA[60 Second Paid Gig for XML Experts!]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3695948395.html</link>
-<description><![CDATA[Are you an XML expert interested in a paid gig that would take less than 60 seconds? I'm looking for someone interested in taking a short multiple choice test on XML. 
-Let me know if you're interested! Email Melyssa at Smarterer dot com.]]></description>
-<dc:date>2013-03-21T15:20:16-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3695948395.html</dc:source>
-<dc:title><![CDATA[60 Second Paid Gig for XML Experts!]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T15:20:16-07:00</dcterms:issued>
-</item>
 <item rdf:about="http://seattle.craigslist.org/est/cpg/3695911093.html">
 <title><![CDATA[STUDENT COMPUTER SPECIALIST NEEDED FOR SEO AND WEBSITE DEVELOPMENT (redmond wa)]]></title>
 <link>http://seattle.craigslist.org/est/cpg/3695911093.html</link>
@@ -657,26 +763,6 @@ You can use any web technology. As long as it works it's goo [...]]]></descripti
 <dc:title><![CDATA[Need a website for a summer camp (anywhere)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-21T08:00:07-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/est/cpg/3668444927.html">
-<title><![CDATA[Data Modeling / SDE (Redmond, WA)]]></title>
-<link>http://seattle.craigslist.org/est/cpg/3668444927.html</link>
-<description><![CDATA[Please forward a Word resume. 
-We are seeking the following: 
-- C# or C++ a plus (not required) 
-- Research experience 
-- Data Modeling 
-o Analyze large data sets 
-o Solid SQL 
-o Creating reports 
-o Creating cubes ]]></description>
-<dc:date>2013-03-21T07:33:10-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/est/cpg/3668444927.html</dc:source>
-<dc:title><![CDATA[Data Modeling / SDE (Redmond, WA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-21T07:33:10-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://seattle.craigslist.org/see/cpg/3694793612.html">
 <title><![CDATA[Car Fanatic  (Redmond)]]></title>
@@ -927,44 +1013,6 @@ Thank you]]></description>
 <dc:title><![CDATA[1-2 page music page (seattle)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-19T14:32:07-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3691687308.html">
-<title><![CDATA[Check Reconciliation, Quickbooks (Capitol Hill)]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3691687308.html</link>
-<description><![CDATA[I need someone to reconcile several sets of books using Quickbooks. This is a one-time assignment that will take maybe 10 hours total. Job is on Capital Hill, easy access and parking. Sorry, not really possible to do it remotely. Need to start and co [...]]]></description>
-<dc:date>2013-03-19T14:31:55-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3691687308.html</dc:source>
-<dc:title><![CDATA[Check Reconciliation, Quickbooks (Capitol Hill)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T14:31:55-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/sno/cpg/3691601196.html">
-<title><![CDATA[help with business taxes (lynnwood)]]></title>
-<link>http://seattle.craigslist.org/sno/cpg/3691601196.html</link>
-<description><![CDATA[this is my first year doing business as a hosue cleaner 
-i am past due on my taxes and i need help getting them prepared. 
-i am willing to pay or provide services please email]]></description>
-<dc:date>2013-03-19T13:51:47-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/sno/cpg/3691601196.html</dc:source>
-<dc:title><![CDATA[help with business taxes (lynnwood)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T13:51:47-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/see/cpg/3691058617.html">
-<title><![CDATA[Need Android users for a special research project ]]></title>
-<link>http://seattle.craigslist.org/see/cpg/3691058617.html</link>
-<description><![CDATA[We are looking for Android handset users from any wireless carrier to install our App for 1 week. We will email the App along with easy instructions on how to start and stop the app. The requirement would be to start logging on the app and let it run [...]]]></description>
-<dc:date>2013-03-19T09:59:47-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/see/cpg/3691058617.html</dc:source>
-<dc:title><![CDATA[Need Android users for a special research project ]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-19T09:59:47-07:00</dcterms:issued>
 </item>
 <item rdf:about="http://seattle.craigslist.org/est/cpg/3690892191.html">
 <title><![CDATA[Wordpress or Squarespace Coder (Renton)]]></title>
@@ -1373,55 +1421,5 @@ I am a commer [...]]]></description>
 <dc:title><![CDATA[Projector settings/Configuration Help (Stanwood)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-03-13T16:35:58-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/est/cpg/3679209935.html">
-<title><![CDATA[Dynamics CRM implementation (Bellevue)]]></title>
-<link>http://seattle.craigslist.org/est/cpg/3679209935.html</link>
-<description><![CDATA[Looking for someone to complete the integration of Dynamics CRM to AX. Prior experience with Dynamics CRM 2011 required. Business requirements and high level workflows are complete.]]></description>
-<dc:date>2013-03-13T13:32:58-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/est/cpg/3679209935.html</dc:source>
-<dc:title><![CDATA[Dynamics CRM implementation (Bellevue)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T13:32:58-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/skc/cpg/3679173554.html">
-<title><![CDATA[SQL Tutor wanted]]></title>
-<link>http://seattle.craigslist.org/skc/cpg/3679173554.html</link>
-<description><![CDATA[I need to learn SQL. There are several styles, but I need a good working knowledge of the most common. For general use, not dev. 
-I've taken a class, and read the books, seen the videos, but my best learning style is someone who loves a topic looking [...]]]></description>
-<dc:date>2013-03-13T13:17:37-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/skc/cpg/3679173554.html</dc:source>
-<dc:title><![CDATA[SQL Tutor wanted]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T13:17:37-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/est/cpg/3666490479.html">
-<title><![CDATA[International Project Engineer (Redmond, WA)]]></title>
-<link>http://seattle.craigslist.org/est/cpg/3666490479.html</link>
-<description><![CDATA[Seeking a candidate with experience in content localization and content management systems, sharp coding skills and good communication skills. Please forward a Word doc resume for consideration and info.]]></description>
-<dc:date>2013-03-13T09:44:59-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/est/cpg/3666490479.html</dc:source>
-<dc:title><![CDATA[International Project Engineer (Redmond, WA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T09:44:59-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://seattle.craigslist.org/est/cpg/3668465226.html">
-<title><![CDATA[Program Manager - PowerPoint (Redmond, WA)]]></title>
-<link>http://seattle.craigslist.org/est/cpg/3668465226.html</link>
-<description><![CDATA[Please forward a Word resume. 
-Looking for a semi-technical Program Manager to help create Powerpoint slide decks utilzing information from technical white board sessions. These Powerpoint decks will be seen by the OEM customer base, both internal an [...]]]></description>
-<dc:date>2013-03-13T09:44:52-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://seattle.craigslist.org/est/cpg/3668465226.html</dc:source>
-<dc:title><![CDATA[Program Manager - PowerPoint (Redmond, WA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-03-13T09:44:52-07:00</dcterms:issued>
 </item>
 </rdf:RDF>

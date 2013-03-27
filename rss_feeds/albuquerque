@@ -23,11 +23,13 @@
 <dc:source>http://albuquerque.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in albuquerque</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T23:34:02-06:00</syn:updateBase>
+<syn:updateBase>2013-03-25T20:34:02-06:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3703714953.html" />
+  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3702828029.html" />
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3678278616.html" />
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3691009042.html" />
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3687847363.html" />
@@ -47,10 +49,38 @@
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3640184073.html" />
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3632789879.html" />
   <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3626284515.html" />
-  <rdf:li rdf:resource="http://albuquerque.craigslist.org/cpg/3600883412.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3703714953.html">
+<title><![CDATA[Happy with your bank balance? Don't open this....  (Albuquerque NM)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3703714953.html</link>
+<description><![CDATA["Do These 3 Things.... 
+And Make Money, Every Time!" 
+FREE Video Reveals How YOU Can Start Making Money Online TODAY! 
+Visit www dot bestpaidblogger dot com]]></description>
+<dc:date>2013-03-25T17:31:13-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3703714953.html</dc:source>
+<dc:title><![CDATA[Happy with your bank balance? Don't open this....  (Albuquerque NM)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:31:13-06:00</dcterms:issued>
+</item>
+<item rdf:about="http://albuquerque.craigslist.org/cpg/3702828029.html">
+<title><![CDATA[get $50 to check on my Consigned Antiques TODAY ONLY (Asheville Antique Store)]]></title>
+<link>http://albuquerque.craigslist.org/cpg/3702828029.html</link>
+<description><![CDATA[I got the stupidest people emailing me yesterday. 
+THIS IS WHY I left Asheville and didn't want to pay to haul my antiques as far as I fled. 
+A scanner, a car, a computer, nice clothing and teeth and an education are required for the following task w [...]]]></description>
+<dc:date>2013-03-25T10:58:01-06:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://albuquerque.craigslist.org/cpg/3702828029.html</dc:source>
+<dc:title><![CDATA[get $50 to check on my Consigned Antiques TODAY ONLY (Asheville Antique Store)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T10:58:01-06:00</dcterms:issued>
+</item>
 <item rdf:about="http://albuquerque.craigslist.org/cpg/3678278616.html">
 <title><![CDATA[NEED TALENTED PROGRAMMING PARTNER FOR NEW CLASSIFIED SERVICE  (ABQ- SANTA FE)]]></title>
 <link>http://albuquerque.craigslist.org/cpg/3678278616.html</link>
@@ -307,17 +337,5 @@ Thanks!]]></description>
 <dc:title><![CDATA[Need college student or other to help me with WordPress site (Albuquerque)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-18T12:01:48-07:00</dcterms:issued>
-</item>
-<item rdf:about="http://albuquerque.craigslist.org/cpg/3600883412.html">
-<title><![CDATA[Seeking WordPress Ninja  (Albuquerque Area )]]></title>
-<link>http://albuquerque.craigslist.org/cpg/3600883412.html</link>
-<description><![CDATA[I have a hosted WordPress site for a small business that I need help with.. It is already established at GoDaddy but I don't have time to work on it.. I know what I want, just no time for the learning curve.. this could turn into an ongoing project f [...]]]></description>
-<dc:date>2013-02-07T12:25:46-07:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://albuquerque.craigslist.org/cpg/3600883412.html</dc:source>
-<dc:title><![CDATA[Seeking WordPress Ninja  (Albuquerque Area )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T12:25:46-07:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,19 +23,33 @@
 <dc:source>http://clarksville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in clarksville, TN</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:07-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:40:03-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3703468608.html" />
   <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3692418746.html" />
   <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3682438321.html" />
   <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3646146252.html" />
   <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3611996831.html" />
-  <rdf:li rdf:resource="http://clarksville.craigslist.org/cpg/3581947274.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://clarksville.craigslist.org/cpg/3703468608.html">
+<title><![CDATA[Survey Takers Wanted (Work From Home)]]></title>
+<link>http://clarksville.craigslist.org/cpg/3703468608.html</link>
+<description><![CDATA[This is a great opportunity to make money in your spare time. 
+Taking a wide variety of surveys for varying pay. Payments are sent directly to you. 
+Please review and see for yourself http://tryvindale.com/VPH7cfIC]]></description>
+<dc:date>2013-03-25T17:28:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://clarksville.craigslist.org/cpg/3703468608.html</dc:source>
+<dc:title><![CDATA[Survey Takers Wanted (Work From Home)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:28:30-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://clarksville.craigslist.org/cpg/3692418746.html">
 <title><![CDATA[Internet Sales/Marketing ]]></title>
 <link>http://clarksville.craigslist.org/cpg/3692418746.html</link>
@@ -93,17 +107,5 @@ I am looking to hire someone who has the program photoshop and is interested in 
 <dc:title><![CDATA[Photo Shop  (Bloomfield)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-12T11:00:14-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://clarksville.craigslist.org/cpg/3581947274.html">
-<title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></title>
-<link>http://clarksville.craigslist.org/cpg/3581947274.html</link>
-<description><![CDATA[A job position is available immediately. The work can be done from your home online, so all you need is an internet connection. $40.00 is all it takes to get started. Turn $40.00 into $2,000.00/week. Email me for more details ]]></description>
-<dc:date>2013-02-07T12:52:15-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://clarksville.craigslist.org/cpg/3581947274.html</dc:source>
-<dc:title><![CDATA[MAKE $2,000.00 A WEEK (ANYWHERE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T12:52:15-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

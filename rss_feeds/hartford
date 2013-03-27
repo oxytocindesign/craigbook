@@ -23,11 +23,13 @@
 <dc:source>http://hartford.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in hartford</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:06-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:40:52-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3703644561.html" />
+  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3703245937.html" />
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3697222130.html" />
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3683920666.html" />
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3691640753.html" />
@@ -58,10 +60,35 @@
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3613082151.html" />
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3541828472.html" />
   <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3607518782.html" />
-  <rdf:li rdf:resource="http://hartford.craigslist.org/cpg/3600566438.html" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://hartford.craigslist.org/cpg/3703644561.html">
+<title><![CDATA[I need add posting help (hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3703644561.html</link>
+<description><![CDATA[Need someone that knows how to post multiple postings on this site to jobs over a bunch of cities. Email for details.]]></description>
+<dc:date>2013-03-25T18:54:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3703644561.html</dc:source>
+<dc:title><![CDATA[I need add posting help (hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T18:54:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://hartford.craigslist.org/cpg/3703245937.html">
+<title><![CDATA[Need Someone With a Background in Material Science  (Hartford)]]></title>
+<link>http://hartford.craigslist.org/cpg/3703245937.html</link>
+<description><![CDATA[I need someone to answer a materials science question regarding polymers. 
+Please tell me your background and I'll email you my question. 
+I'll pay you $70 to answer it.]]></description>
+<dc:date>2013-03-25T15:49:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://hartford.craigslist.org/cpg/3703245937.html</dc:source>
+<dc:title><![CDATA[Need Someone With a Background in Material Science  (Hartford)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T15:49:44-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://hartford.craigslist.org/cpg/3697222130.html">
 <title><![CDATA[Need Website for my Startup Biz (Hartford Area)]]></title>
 <link>http://hartford.craigslist.org/cpg/3697222130.html</link>
@@ -455,18 +482,5 @@ We are looking  [...]]]></description>
 <dc:title><![CDATA[Flexible Scheduling - On Call Tech Support Needed (Hartford)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-10T13:16:35-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://hartford.craigslist.org/cpg/3600566438.html">
-<title><![CDATA[Contract PC Tech (Glastonbury)]]></title>
-<link>http://hartford.craigslist.org/cpg/3600566438.html</link>
-<description><![CDATA[Contract PC Tech opening in Glastonbury on Feb. 12 at 9 a.m. Work will include installing a server cage. Will disconnect and reconnect server(s). Must have a drill. 
-Other work may be available, too. Must be able to pass a criminal background check.  [...]]]></description>
-<dc:date>2013-02-07T12:27:45-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://hartford.craigslist.org/cpg/3600566438.html</dc:source>
-<dc:title><![CDATA[Contract PC Tech (Glastonbury)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T12:27:45-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

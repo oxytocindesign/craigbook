@@ -23,7 +23,7 @@
 <dc:source>http://savannah.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in savannah / hinesville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:39:18-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:06-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -34,7 +34,6 @@
   <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3652801397.html" />
   <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3640103041.html" />
   <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3611402059.html" />
-  <rdf:li rdf:resource="http://savannah.craigslist.org/cpg/3602087234.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -110,20 +109,5 @@ I have a small web-based business in California and I would like to have daily r
 <dc:title><![CDATA[* Seeking homebased bookkeeper * (Savannah area)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-12T01:50:47-05:00</dcterms:issued>
-</item>
-<item rdf:about="http://savannah.craigslist.org/cpg/3602087234.html">
-<title><![CDATA[CAN YOU REPAIR COMPUTERS OR TVS.]]></title>
-<link>http://savannah.craigslist.org/cpg/3602087234.html</link>
-<description><![CDATA[YOU MUST BE ABLE TO REPAIR DESKTOPS, LAPTOPS, PERIPHERALS AND 
-INFRASTRUCTURE COMPONENTS. 
-SEND YOUR RESUME TO THE FOLLOWING EMAIL ADDRESS :: 
-CHIPSET21RDC@GMAIL.COM ]]></description>
-<dc:date>2013-02-08T00:16:24-05:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://savannah.craigslist.org/cpg/3602087234.html</dc:source>
-<dc:title><![CDATA[CAN YOU REPAIR COMPUTERS OR TVS.]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-08T00:16:24-05:00</dcterms:issued>
 </item>
 </rdf:RDF>

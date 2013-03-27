@@ -23,11 +23,12 @@
 <dc:source>http://chattanooga.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in chattanooga</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:07-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:45:09-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3703440281.html" />
   <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3681397760.html" />
   <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3661143679.html" />
   <rdf:li rdf:resource="http://chattanooga.craigslist.org/cpg/3659930339.html" />
@@ -36,6 +37,18 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://chattanooga.craigslist.org/cpg/3703440281.html">
+<title><![CDATA[Over 60 and want to help your community? Earn $15 in an hour (Cleveland, TN )]]></title>
+<link>http://chattanooga.craigslist.org/cpg/3703440281.html</link>
+<description><![CDATA[Are you 60 or older and would like to earn cash for an hour of your time that also benefits your community? Email to find out if you are eligible to participate in a research project at Lee University. ]]></description>
+<dc:date>2013-03-25T17:15:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://chattanooga.craigslist.org/cpg/3703440281.html</dc:source>
+<dc:title><![CDATA[Over 60 and want to help your community? Earn $15 in an hour (Cleveland, TN )]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T17:15:35-04:00</dcterms:issued>
+</item>
 <item rdf:about="http://chattanooga.craigslist.org/cpg/3681397760.html">
 <title><![CDATA[Electronics Engineer needed ASAP (Ringgold)]]></title>
 <link>http://chattanooga.craigslist.org/cpg/3681397760.html</link>

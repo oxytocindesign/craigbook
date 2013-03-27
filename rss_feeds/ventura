@@ -23,7 +23,7 @@
 <dc:source>http://ventura.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in ventura county</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-24T22:24:56-07:00</syn:updateBase>
+<syn:updateBase>2013-03-25T19:40:49-07:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -61,8 +61,6 @@
   <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3610080084.html" />
   <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3609968535.html" />
   <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3605728056.html" />
-  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3601752016.html" />
-  <rdf:li rdf:resource="http://ventura.craigslist.org/cpg/3599873274.html" />
  </rdf:Seq>
 </items>
 </channel>
@@ -520,30 +518,5 @@ My budget is very low. I have gotten great help from wonderful young folks in th
 <dc:title><![CDATA[ inexpensive web designer (ventura, ojai, santa Barbara)]]></dc:title>
 <dc:type>text</dc:type>
 <dcterms:issued>2013-02-09T12:21:55-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://ventura.craigslist.org/cpg/3601752016.html">
-<title><![CDATA[I need help with Stats class (Oxnard)]]></title>
-<link>http://ventura.craigslist.org/cpg/3601752016.html</link>
-<description><![CDATA[i would like to hire someone to complete my on-line Probability and statistics class.....Do not reply if you do not have the skills . There is 6 weeks of class left I currently Have a B in the class but have become over whelmed by work. If you are in [...]]]></description>
-<dc:date>2013-02-07T17:36:01-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://ventura.craigslist.org/cpg/3601752016.html</dc:source>
-<dc:title><![CDATA[I need help with Stats class (Oxnard)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T17:36:01-08:00</dcterms:issued>
-</item>
-<item rdf:about="http://ventura.craigslist.org/cpg/3599873274.html">
-<title><![CDATA[Web Design company looking for Sales people (Ventura)]]></title>
-<link>http://ventura.craigslist.org/cpg/3599873274.html</link>
-<description><![CDATA[We are a Oxnard based website design and development company. We are looking for sales people to get us website projects on a commission basis. We will pay 45%% commission for each project, depending on volume. 
-Our closing rate is very high, if we g [...]]]></description>
-<dc:date>2013-02-07T01:20:39-08:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
-<dc:source>http://ventura.craigslist.org/cpg/3599873274.html</dc:source>
-<dc:title><![CDATA[Web Design company looking for Sales people (Ventura)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2013-02-07T01:20:39-08:00</dcterms:issued>
 </item>
 </rdf:RDF>

@@ -23,11 +23,12 @@
 <dc:source>http://springfield.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in springfield, MO</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T00:24:59-05:00</syn:updateBase>
+<syn:updateBase>2013-03-25T21:35:17-05:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3703483784.html" />
   <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3697016108.html" />
   <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3631338624.html" />
   <rdf:li rdf:resource="http://springfield.craigslist.org/cpg/3575057872.html" />
@@ -37,6 +38,20 @@
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://springfield.craigslist.org/cpg/3703483784.html">
+<title><![CDATA[Looking for a honest ethical, advertising job? (ozark,mo)]]></title>
+<link>http://springfield.craigslist.org/cpg/3703483784.html</link>
+<description><![CDATA[For all the information on this amazing oportunity, go to www.funjobs.biz and feel free to call me direct if you need to. 
+Ben Waggoner 
+417-860-3182]]></description>
+<dc:date>2013-03-25T16:35:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
+<dc:source>http://springfield.craigslist.org/cpg/3703483784.html</dc:source>
+<dc:title><![CDATA[Looking for a honest ethical, advertising job? (ozark,mo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2013-03-25T16:35:33-05:00</dcterms:issued>
+</item>
 <item rdf:about="http://springfield.craigslist.org/cpg/3697016108.html">
 <title><![CDATA[box off operator (branson)]]></title>
 <link>http://springfield.craigslist.org/cpg/3697016108.html</link>

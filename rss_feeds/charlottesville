@@ -23,7 +23,7 @@
 <dc:source>http://charlottesville.craigslist.org/cpg/index.rss</dc:source>
 <dc:title>craigslist | computer gigs in charlottesville</dc:title>
 <dc:type>Collection</dc:type>
-<syn:updateBase>2013-03-25T01:40:10-04:00</syn:updateBase>
+<syn:updateBase>2013-03-25T22:35:34-04:00</syn:updateBase>
 <syn:updateFrequency>4</syn:updateFrequency>
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
@@ -42,13 +42,13 @@
 <title><![CDATA[Survey company actually pays cash (Your home office)]]></title>
 <link>http://charlottesville.craigslist.org/cpg/3678536221.html</link>
 <description><![CDATA[Don't be fooled by survey companies that "pay" you with rewards you won't use. HCDSurveys send you a check you can use! Get started TODAY! https://www.hcdsurveys.com/panel/join.cfm?referralid=266774]]></description>
-<dc:date>2013-03-20T15:04:04-04:00</dc:date>
+<dc:date>2013-03-25T10:18:07-04:00</dc:date>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright &#x26;copy; 2013 craigslist, inc.</dc:rights>
 <dc:source>http://charlottesville.craigslist.org/cpg/3678536221.html</dc:source>
 <dc:title><![CDATA[Survey company actually pays cash (Your home office)]]></dc:title>
 <dc:type>text</dc:type>
-<dcterms:issued>2013-03-20T15:04:04-04:00</dcterms:issued>
+<dcterms:issued>2013-03-25T10:18:07-04:00</dcterms:issued>
 </item>
 <item rdf:about="http://charlottesville.craigslist.org/cpg/3691055001.html">
 <title><![CDATA[RE: Computer Setup post (Charlottesville)]]></title>
